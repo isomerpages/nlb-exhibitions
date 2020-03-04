@@ -17,7 +17,7 @@ permalink: /past-exhibitions/from-the-stacks
 <div class="event-tab-list tab-list-outside">
   <a href="#tab1">About Exhibition</a>
   {% if thisevent.gallery-tab == "show" %}<a href="#tab2">Gallery</a>{% else %}{% endif %}
-  {% if thisevent.exhibition-highlight-tab == "show" %}<a href="#tab3">Exhibition Highlights</a>{% else %}{% endif %}
+  {% if thisevent.exhibition-highlight-tab == "show" %}<a href="#tab3">Highlights</a>{% else %}{% endif %}
   {% if thisevent.video-tab == "show" %}<a href="#tab4">Featured Video</a>{% else %}{% endif %}
   {% if thisevent.featured-highlight-tab == "show" %}<a href="#tab5">Featured Highlights</a>{% else %}{% endif %}
   {% if thisevent.resources-tab == "show" %}<a href="#tab6">Resources</a>{% else %}{% endif %}
