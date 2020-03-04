@@ -647,7 +647,7 @@ event-tab-list.tab-list-outside a:hover {
 div#tab1, div#tab2, div#tab3, div#tab4, div#tab5, div#tab6, div#tab7, div#tab8  {
     top: -350px;
     position: relative;
-    z-index: -1;
+    z-index: 0;
     padding-top: 350px;
 }
 
