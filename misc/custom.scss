@@ -642,6 +642,7 @@ event-tab-list.tab-list-outside a:hover {
     justify-content: center;
     align-items: flex-end;
     position: relative;
+    z-index:2;
 }
 
 div#tab1, div#tab2, div#tab3, div#tab4, div#tab5, div#tab6, div#tab7, div#tab8  {
