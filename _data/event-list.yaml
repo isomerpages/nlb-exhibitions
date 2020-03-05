@@ -492,7 +492,7 @@ event:
       date: 23 January – 24 March 2019
       time: nodata
       place: nodata
-      label: nodata
+      label: past
       short-description: "With many tales such as the strong man Badang and the attack of the garfish, Sejarah Melayu continues to enchant writers and readers everywhere. Discover these timeless stories and how one man managed to bring this ancient manuscript to the masses, thereby ensuring that its legacy live on through the ages."
     #photo gallery tab
     gallery-tab: show
@@ -557,7 +557,7 @@ event:
       date: 20 July 2018 – 24 February 2019
       time: 10.00am – 9.00pm
       place: Level 10, Gallery,National Library Building
-      label: nodata
+      label: past
       short-description: "Advertisements are fascinating cultural documents that both shape and reflect people’s desires and ideals. This exhibition features advertising materials from the 1830s to 1960s in the National Library collection, and explores the hopes, dreams, aspirations and insecurities of society over the years."
     #photo gallery tab
     gallery-tab: show
@@ -651,7 +651,7 @@ event:
       date: 18 August 2017 – 25 February 2018
       time: nodata
       place: Level 10, Gallery,National Library Building
-      label: nodata
+      label: past
       short-description: "For centuries, Malay was the language of trade, diplomacy, religious discourse, and literature for maritime Southeast Asia. This exhibition explores traditional Malay literature captured in ink on paper – from handwritten manuscripts to early lithographed books."
     #photo gallery tab
     gallery-tab: show
@@ -723,7 +723,7 @@ event:
       date: 11 March 2017 – 23 April 2017
       time: nodata
       place: Level 10, Gallery,National Library Building
-      label: nodata
+      label: past
       short-description: "Join us at the National Library as we showcase Shakespeare’s First Folio, first printed in 1623, on special loan from The University of Oxford’s Bodleian Libraries for six weeks only. Shakespeare’s plays are among the most significant pieces of literature in the English language and have influenced art and media all over the world for centuries."
     #photo gallery tab
     gallery-tab: show
@@ -788,7 +788,7 @@ event:
       date: 22 November 2016 – 23 April 2017
       time: nodata
       place: Level 10, Gallery,National Library Building
-      label: nodata
+      label: past
       short-description: "1973 was a milestone year in Tan Swie Hian’s life during which he experienced a breakthrough in his spirituality and creative capacity. Now, more than 40 years later, Tan’s works are presented again at the National Library in this exhibition featuring over 100 creations in a wide range of media."
     #photo gallery tab
     gallery-tab: show
@@ -899,7 +899,7 @@ event:
       date: 28 October 2016 – 26 March 2017
       time: nodata
       place: Levels 7 & 8, Promenade National Library Building
-      label: nodata
+      label: past
       short-description: "Script & Stage explores the fascinating roots of local playwriting and theatre production, highlighting significant performances, playwrights and prominent theatre companies that have shaped the foundation of contemporary theatre in Singapore."
     #photo gallery tab
     gallery-tab: show
@@ -970,7 +970,7 @@ event:
       date: 30 January 2016 – 25 September 2016
       time: 10.00am - 9.00pm
       place: Level 10, Gallery,National Library Building
-      label: nodata
+      label: past
       short-description: "Documents, publications and photographs from Singapore’s early days reveal fascinating insights into our history and culture. Discover early Singapore from a fresh perspective through over 100 highlights from the National Library’s collection of rare publications, manuscripts, documents, maps, photographs and more."
     #photo gallery tab
     gallery-tab: show
@@ -1032,13 +1032,13 @@ event:
     url: /past-exhibitions/poetry-on-platforms#tab1
     #detalis
     details:
-      thumbnail-link: /poetry-on-platforms/poetry-on-platforms-thumbnail.jpg
+      thumbnail-link: /poetry-on-platforms/poetry-on-platforms_thumbnail.jpg
       tab-banner-image-link: /poetry-on-platforms/poetry-on-platforms-tab-banner.jpg
       main-image-link: /poetry-on-platforms/poetry-on-platforms-main-image.jpg
       date: 16 July 2015 – 13 August 2015
       time: nodata
       place: City Hall MRT Platforms
-      label: nodata
+      label: past
       short-description: "Immerse yourself in 82 Singapore poems written beautifully by poets on the City Hall MRT platforms. Commuters and passer-by can look forward to humorous, moving and thought-provoking poems on life, people, and places in Singapore that will strike a chord with them."
     #photo gallery tab
     gallery-tab: show
@@ -1107,7 +1107,7 @@ event:
       date: 16 January 2015 – 19 July 2015
       time: nodata
       place: National Library Building
-      label: nodata
+      label: past
       short-description: "Maps are fascinating objects; they not only tell us about the places they depict but also how their makers saw the world around them. For Singapore in particular, maps are a window to our early history – before the arrival of the British in 1819. The National Library is pleased to present Geo|Graphic, an offering of exhibitions and programmes that explore maps and mapping."
     #photo gallery tab
     gallery-tab: show
@@ -1180,7 +1180,7 @@ event:
       date: onsite
       time: 10.00am – 9.00pm
       place: Level 11, Promenade, National Library Building
-      label: onsite
+      label: past
       short-description: "The gallery displays the books, letters, calligraphic works, manuscripts, photographs and portraits of Singapore’s literary pioneers. Some prominent writers have also donated their pens, typewriters and literary awards. In addition, visitors can appreciate audio and video recordings of the writers in two multimedia screens."
     #photo gallery tab
     gallery-tab: show
