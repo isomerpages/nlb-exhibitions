@@ -9,7 +9,7 @@ event:
       tab-banner-image-link: /centenary/SG-centenary-tab-banner.jpg 
       main-image-link: /centenary/SG-centenary-main-image.jpg
       date: 12 November 2019 – 13 March 2020
-      time: nodata
+      time: 10.00am – 9.00pm
       place: Level 11, Lee Kong Chian Reference Library, National Library Building
       label: nodata
       short-description: "Centenary Day took place on 6 February 1919 and marked Singapore’s hundredth year as a colonial port-settlement. It was celebrated as a public holiday filled with official festivities and fanfare. This display features photographs and publications produced for the occasion."
@@ -117,7 +117,7 @@ event:
   - title: "The News Gallery: Beyond Headlines"
     short-name: news
     category: current
-    url: /exhibitions/current-exhibitions/newsgallery
+    url: /exhibitions/current-exhibitions/newsgallery#tab1
     #details
     details:
       thumbnail-link: /newsgallery/TNG_Exh_1000x1150.jpg
