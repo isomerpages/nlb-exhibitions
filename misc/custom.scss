@@ -393,15 +393,40 @@ h1 {
     left: 0;
     width: 100%;
     height: 100%;
-    background: #00000040;
+    background: #00000000;
     transition: 0.3s all ease;
-    display: none;
 }
 .media-card-plain {
     background-size: cover !important;
     background-position: center !important;
     position: relative;
+    padding: 10px !important;
+    display: flex;
+    justify-content: center;
 }
+
+.media-card-plain small {
+    font-size: 10pt;
+    padding-bottom: 5px !important;
+    color: white;
+    opacity: 0.8;
+}
+
+.media-card-plain>div:nth-child(1) {
+    background: #607186ba;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    padding: 30px 15px;
+    border: 1px solid white;
+}
+
+.media-card-plain div h4 {
+    padding-bottom: 0px !important;
+    font-size: 15pt;
+    line-height: 25pt !important;
+}
+
 /*event list css*/
 .print-content p {
     white-space: pre-wrap;
@@ -618,7 +643,7 @@ event-tab-list.tab-list-outside a:hover {
 .event-tab-list.tab-list-outside a {
     color: white;
     text-decoration: none;
-    font-size: 14pt;
+    font-size: 13pt;
     padding-left: 15px;
     padding-right: 15px;
     margin-bottom: 15px;
@@ -642,12 +667,13 @@ event-tab-list.tab-list-outside a:hover {
     justify-content: center;
     align-items: flex-end;
     position: relative;
+    z-index:2;
 }
 
 div#tab1, div#tab2, div#tab3, div#tab4, div#tab5, div#tab6, div#tab7, div#tab8  {
     top: -350px;
     position: relative;
-    z-index: -1;
+    z-index: 0;
     padding-top: 350px;
 }
 
@@ -1156,7 +1182,7 @@ small.image-caption {
     background: #d51918;
 }
 .resources-url-style a {
-    color: #424242;
+    color: #3a3a3a;
     text-decoration: none;
     font-weight: 900;
     transition: all 0.3s ease;
@@ -1165,7 +1191,7 @@ small.image-caption {
 }
 .resources-url-style {
     transition: 0.3s all ease;
-    background: #cacaca;
+    background: #cad3d4;
     text-align: center;
     margin-bottom: 10px;
 }
@@ -1492,7 +1518,7 @@ h1 {
 }
 
 /*RESOURCES IMAGES*/
-/*a[href*="onpaper"] .media-card-plain {
+a[href*="onpaper"] .media-card-plain {
 background: url('/images/event-images/onpaper/on-paper-thumbnail.jpg');
 }
 
@@ -1510,4 +1536,4 @@ background: url('/images/event-images/script-and-stage/script-and-stage-thumbnai
 
 a[href*="selling-dreams"] .media-card-plain {
 background: url('/images/event-images/sellingdreams/selling-dreams-thumbnail.jpg');
-}*/
+}

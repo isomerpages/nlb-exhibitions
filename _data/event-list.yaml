@@ -1,60 +1,4 @@
 event:
-  - title: "The News Gallery: Beyond Headlines"
-    short-name: newsgallery
-    category: current
-    url: /exhibitions/current-exhibitions/newsgallery
-    #details
-    details:
-      thumbnail-link: /newsgallery/ng_thumbnail_temp.jpg
-      tab-banner-image-link: /newsgallery/ng_tab-banner_temp.jpg
-      main-image-link: /newsgallery/ng_tab-about_temp.jpg
-      date: nodata
-      time: 10.00am – 9.00pm
-      place: Level 11, Promenade, National Library Building
-      label: On-Site
-      short-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-    #photo gallery
-    gallery-tab: show
-    gallery-image: 
-      - photo-link: /centenary/1919-Centenary-gallery.jpg
-      - photo-link: /centenary/1919-Centenary-gallery_2.jpg
-    #video gallery tab
-    video-tab: hide
-    video-list: 
-      - video-youtube-embed-code: 
-        video-title: 
-        video-subtitle: 
-        video-description:
-    #featured highlight tab
-    featured-highlight-tab: hide
-    featured-highlight-list: 
-      - featured-highlight-image-link:
-        featured-highlight-title: 
-        featured-highlight-subtitle:
-        featured-highlight-description:   
-    #exhibition highlight tab
-    exhibition-highlight-tab: hide
-    exhibition-highlight-list:
-      - exhibition-highlight-lowres-image-link:
-        exhibition-highlight-hires-image-link:
-        exhibition-highlight-title:
-        exhibition-highlight-subtitle:
-        exhibition-highlight-text:
-    #programmes tab
-    programmes-tab: hide
-    #custom tab 1 tab
-    custom-tab1: hide
-    custom-tab1-title: 
-    #custom tab 2 tab
-    custom-tab2: hide
-    custom-tab2-title: 
-    #custom tab 3 tab
-    custom-tab3: hide
-    custom-tab3-title: 
-##
-##
-
-event:
   - title: "1919: The Singapore Centenary and its Celebration"
     short-name: 1919sg
     category: current
@@ -65,7 +9,7 @@ event:
       tab-banner-image-link: /centenary/SG-centenary-tab-banner.jpg 
       main-image-link: /centenary/SG-centenary-main-image.jpg
       date: 12 November 2019 – 13 March 2020
-      time: nodata
+      time: 10.00am – 9.00pm
       place: Level 11, Lee Kong Chian Reference Library, National Library Building
       label: nodata
       short-description: "Centenary Day took place on 6 February 1919 and marked Singapore’s hundredth year as a colonial port-settlement. It was celebrated as a public holiday filled with official festivities and fanfare. This display features photographs and publications produced for the occasion."
@@ -165,6 +109,60 @@ event:
     #custom tab 2 tab
     custom-tab2: hide
     custom-tab2-title:
+    #custom tab 3 tab
+    custom-tab3: hide
+    custom-tab3-title:
+##
+##
+  - title: "The News Gallery: Beyond Headlines"
+    short-name: news
+    category: current
+    url: /exhibitions/current-exhibitions/newsgallery#tab1
+    #details
+    details:
+      thumbnail-link: /newsgallery/TNG_Exh_1000x1150.jpg
+      tab-banner-image-link: /newsgallery/TNG_1200x355.jpg
+      main-image-link: /newsgallery/TNG_1200x675.jpg
+      date: Exhibition runs from 14 March 2020
+      time: 10.00am – 9.00pm
+      place: Level 11, Promenade, National Library Building
+      label: On-Site
+      short-description: "Discover stories of Singapore newspapers in the National Library’s collection dating from the 1820s and learn about significant episodes from Singapore’s history through the perspectives of different media. Gain insights into fake news, and learn how you can be more discerning about information and media, through our rich resources on newspapers."
+    #photo gallery
+    gallery-tab: hide
+    gallery-image: 
+      - photo-link: /centenary/1919-Centenary-gallery.jpg
+      - photo-link: /centenary/1919-Centenary-gallery_2.jpg
+    #video gallery tab
+    video-tab: hide
+    video-list: 
+      - video-youtube-embed-code: 
+        video-title: 
+        video-subtitle: 
+        video-description:
+    #featured highlight tab
+    featured-highlight-tab: hide
+    featured-highlight-list: 
+      - featured-highlight-image-link:
+        featured-highlight-title: 
+        featured-highlight-subtitle:
+        featured-highlight-description:   
+    #exhibition highlight tab
+    exhibition-highlight-tab: hide
+    exhibition-highlight-list:
+      - exhibition-highlight-lowres-image-link:
+        exhibition-highlight-hires-image-link:
+        exhibition-highlight-title:
+        exhibition-highlight-subtitle:
+        exhibition-highlight-text:
+    #programmes tab
+    programmes-tab: hide
+    #custom tab 1 tab
+    custom-tab1: hide
+    custom-tab1-title: 
+    #custom tab 2 tab
+    custom-tab2: hide
+    custom-tab2-title: 
     #custom tab 3 tab
     custom-tab3: hide
     custom-tab3-title:
@@ -492,9 +490,9 @@ event:
       tab-banner-image-link: /the-first-print/the-first-print-tab-banner.jpg
       main-image-link: /the-first-print/the-first-print-main-image.jpg
       date: 23 January – 24 March 2019
-      time: nodata
-      place: nodata
-      label: nodata
+      time: 10.00am – 9.00pm
+      place: Level 11, Lee Kong Chian Reference Library, National Library Building
+      label: Past
       short-description: "With many tales such as the strong man Badang and the attack of the garfish, Sejarah Melayu continues to enchant writers and readers everywhere. Discover these timeless stories and how one man managed to bring this ancient manuscript to the masses, thereby ensuring that its legacy live on through the ages."
     #photo gallery tab
     gallery-tab: show
@@ -504,7 +502,7 @@ event:
       - photo-link: /the-first-print/the-first-print_gallery_3.jpg
       - photo-link: /the-first-print/the-first-print_gallery_4.jpg
       - photo-link: /the-first-print/the-first-print_gallery_5.jpg
-      - photo-link: /the-first-print/the-first-print_gallery_6jpg
+      - photo-link: /the-first-print/the-first-print_gallery_6.jpg
     #video gallery tab
     video-tab: hide
     video-list: 
@@ -558,8 +556,8 @@ event:
       main-image-link: /sellingdreamsonsite/selling-dreams-main-image.jpg
       date: 20 July 2018 – 24 February 2019
       time: 10.00am – 9.00pm
-      place: Level 10, Gallery,National Library Building
-      label: nodata
+      place: Level 10, Gallery, National Library Building
+      label: Past
       short-description: "Advertisements are fascinating cultural documents that both shape and reflect people’s desires and ideals. This exhibition features advertising materials from the 1830s to 1960s in the National Library collection, and explores the hopes, dreams, aspirations and insecurities of society over the years."
     #photo gallery tab
     gallery-tab: show
@@ -651,9 +649,9 @@ event:
       tab-banner-image-link: /tmw/tales-of-the-malay-world-tab-banner.jpg
       main-image-link: /tmw/tales-of-the-malay-world-main-image.jpg
       date: 18 August 2017 – 25 February 2018
-      time: nodata
-      place: Level 10, Gallery,National Library Building
-      label: nodata
+      time: 10.00am – 9.00pm
+      place: Level 10, Gallery, National Library Building
+      label: Past
       short-description: "For centuries, Malay was the language of trade, diplomacy, religious discourse, and literature for maritime Southeast Asia. This exhibition explores traditional Malay literature captured in ink on paper – from handwritten manuscripts to early lithographed books."
     #photo gallery tab
     gallery-tab: show
@@ -723,9 +721,9 @@ event:
       tab-banner-image-link: /shakespeare/shakespeare-in-print-tab-banner.jpg
       main-image-link: /shakespeare/shakespeare-in-print-main-image.jpg
       date: 11 March 2017 – 23 April 2017
-      time: nodata
-      place: Level 10, Gallery,National Library Building
-      label: nodata
+      time: 10.00am – 9.00pm
+      place: Level 10, Gallery, National Library Building
+      label: Past
       short-description: "Join us at the National Library as we showcase Shakespeare’s First Folio, first printed in 1623, on special loan from The University of Oxford’s Bodleian Libraries for six weeks only. Shakespeare’s plays are among the most significant pieces of literature in the English language and have influenced art and media all over the world for centuries."
     #photo gallery tab
     gallery-tab: show
@@ -788,9 +786,9 @@ event:
       tab-banner-image-link: /aof/anatomy-of-a-free-mind-tab-banner.jpg
       main-image-link: /aof/anatomy-of-a-free-mind-main-image.jpg
       date: 22 November 2016 – 23 April 2017
-      time: nodata
-      place: Level 10, Gallery,National Library Building
-      label: nodata
+      time: 10.00am – 9.00pm
+      place: Level 10, Gallery, National Library Building
+      label: Past
       short-description: "1973 was a milestone year in Tan Swie Hian’s life during which he experienced a breakthrough in his spirituality and creative capacity. Now, more than 40 years later, Tan’s works are presented again at the National Library in this exhibition featuring over 100 creations in a wide range of media."
     #photo gallery tab
     gallery-tab: show
@@ -899,9 +897,9 @@ event:
       tab-banner-image-link: /script-and-stage-onsite/script-and-stage-tab-banner.jpg
       main-image-link: /script-and-stage-onsite/script-and-stage-main-image.jpg
       date: 28 October 2016 – 26 March 2017
-      time: nodata
-      place: Levels 7 & 8, Promenade National Library Building
-      label: nodata
+      time: 10.00am – 9.00pm
+      place: Levels 7 & 8, Promenade, National Library Building
+      label: Past
       short-description: "Script & Stage explores the fascinating roots of local playwriting and theatre production, highlighting significant performances, playwrights and prominent theatre companies that have shaped the foundation of contemporary theatre in Singapore."
     #photo gallery tab
     gallery-tab: show
@@ -971,8 +969,8 @@ event:
       main-image-link: /from-the-stacks-onsite/from-the-stacks-main-image.jpg
       date: 30 January 2016 – 25 September 2016
       time: 10.00am - 9.00pm
-      place: Level 10, Gallery,National Library Building
-      label: nodata
+      place: Level 10, Gallery, National Library Building
+      label: Past
       short-description: "Documents, publications and photographs from Singapore’s early days reveal fascinating insights into our history and culture. Discover early Singapore from a fresh perspective through over 100 highlights from the National Library’s collection of rare publications, manuscripts, documents, maps, photographs and more."
     #photo gallery tab
     gallery-tab: show
@@ -1034,13 +1032,13 @@ event:
     url: /past-exhibitions/poetry-on-platforms#tab1
     #detalis
     details:
-      thumbnail-link: /poetry-on-platforms/poetry-on-platforms-thumbnail.jpg
+      thumbnail-link: /poetry-on-platforms/poetry-on-platforms_thumbnail.jpg
       tab-banner-image-link: /poetry-on-platforms/poetry-on-platforms-tab-banner.jpg
       main-image-link: /poetry-on-platforms/poetry-on-platforms-main-image.jpg
       date: 16 July 2015 – 13 August 2015
       time: nodata
       place: City Hall MRT Platforms
-      label: nodata
+      label: Past
       short-description: "Immerse yourself in 82 Singapore poems written beautifully by poets on the City Hall MRT platforms. Commuters and passer-by can look forward to humorous, moving and thought-provoking poems on life, people, and places in Singapore that will strike a chord with them."
     #photo gallery tab
     gallery-tab: show
@@ -1109,7 +1107,7 @@ event:
       date: 16 January 2015 – 19 July 2015
       time: nodata
       place: National Library Building
-      label: nodata
+      label: Past
       short-description: "Maps are fascinating objects; they not only tell us about the places they depict but also how their makers saw the world around them. For Singapore in particular, maps are a window to our early history – before the arrival of the British in 1819. The National Library is pleased to present Geo|Graphic, an offering of exhibitions and programmes that explore maps and mapping."
     #photo gallery tab
     gallery-tab: show
@@ -1179,10 +1177,10 @@ event:
       thumbnail-link: /lpg/singapore-literary-pioneers-thumbnail.jpg
       tab-banner-image-link: /lpg/singapore-literary-pioneers-tab-banner.jpg
       main-image-link: /lpg/singapore-literary-pioneers-main-image.jpg
-      date: onsite
+      date: Till 24 November 2019
       time: 10.00am – 9.00pm
       place: Level 11, Promenade, National Library Building
-      label: onsite
+      label: Past
       short-description: "The gallery displays the books, letters, calligraphic works, manuscripts, photographs and portraits of Singapore’s literary pioneers. Some prominent writers have also donated their pens, typewriters and literary awards. In addition, visitors can appreciate audio and video recordings of the writers in two multimedia screens."
     #photo gallery tab
     gallery-tab: show
