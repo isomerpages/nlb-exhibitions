@@ -671,7 +671,7 @@ event-tab-list.tab-list-outside a:hover {
 }
 
 div#tab1, div#tab2, div#tab3, div#tab4, div#tab5, div#tab6, div#tab7, div#tab8  {
-    top: -350px;
+    margin-top: -350px;
     position: relative;
     z-index: 0;
     padding-top: 350px;
@@ -1536,4 +1536,8 @@ background: url('/images/event-images/script-and-stage/script-and-stage-thumbnai
 
 a[href*="selling-dreams"] .media-card-plain {
 background: url('/images/event-images/sellingdreams/selling-dreams-thumbnail.jpg');
+}
+
+a[href*="newsgallery"] .media-card-plain {
+background: url('/images/event-images/newsgallery/news-gallery-thumbnail.jpg');
 }
