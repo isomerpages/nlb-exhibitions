@@ -140,7 +140,7 @@ Download a copy of the brochure by clicking the button below.
 <div markdown="1">      
 
 <div style="text-align:center;" markdown="1">
-[![Script and Stage Microsite](/images/event-images/script-and-stage/script-and-stage-thumbnail.jpg)](http://www.nlb.gov.sg/exhibitions/scriptandstage/virtualtour/Script%20and%20Stage.html){: .normal-width-img target="_blank"}
+[![Script and Stage Microsite](/images/event-images/script-and-stage/script-and-stage-thumbnail.jpg)](http://www.nlb.gov.sg/exhibitions/virtual/scriptandstage/virtualtour/Script%20and%20Stage.html){: .normal-width-img target="_blank"}
 </div>
 
 </div>      
