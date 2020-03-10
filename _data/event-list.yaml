@@ -257,7 +257,7 @@ event:
     custom-tab3-title:
 ##
 ##
-  - title: "Donors’ Gallery"
+  - title: "National Library Donors’ Gallery"
     short-name: donors
     category: current
     url: /exhibitions/current-exhibitions/donors-gallery#tab1
@@ -268,7 +268,7 @@ event:
       main-image-link: /donors/donors-gallery-main-image.jpg
       date: nodata
       time: 10.00am – 9.00pm
-      place: Level 10, Donors’ Gallery, National Library Building
+      place: Level 10, National Library Building
       label: On-Site
       short-description: "Donations of library materials to the National Library play a significant role in adding diversity and depth to our collection and are instrumental in assisting the library to obtain notable National Collection items. This Donors’ Gallery was set up to acknowledge our donors and showcase their donations. On display is a small selection of materials which provides a glimpse of the variety of materials that have been gifted to the National Library over the years."
     #photo gallery tab
