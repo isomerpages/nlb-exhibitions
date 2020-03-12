@@ -40,7 +40,7 @@ permalink: /exhibitions/current-exhibitions/newsgallery
    </div>
 <!-- ---------------------------------------------------CONTENT-START-HERE--------------------------------------------------------- -->
 <div class="event-text-area" markdown="1">
-Explore the fascinating yet bewildering world of news media at our permanent exhibition <strong><em>The News Gallery: Beyond Headlines</em></strong>.
+Explore the fascinating yet bewildering world of news media at our permanent exhibition **_The News Gallery: Beyond Headlines_**.
 
 Discover stories of Singapore newspapers in the National Library’s collection dating from the 1820s and learn about significant episodes from Singapore’s history through the perspectives of different media. Gain insights into fake news, and learn how you can be more discerning about information and media, through our rich resources on newspapers.
 </div>
@@ -169,7 +169,7 @@ Put your content here!
   <div id="tab10">
     {% assign programmes = site.data.programmes %}
     {% for prog-listing in programmes.programme %}
-    {% if prog-listing.group-name == "" %}
+    {% if prog-listing.group-name == "news" %}
         <div class="programme-input-wrap">
            <input type="radio" name="event-programme" value="{{prog-listing.date}}">
            <div class="event-programme-brief-wrap">
