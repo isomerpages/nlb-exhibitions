@@ -1,8 +1,8 @@
 ---
-layout: simple-page
-title: Crossword answers
-file_url: /exhibitions/current-exhibitions/newsgallery
-breadcrumb: The News Gallery: Beyond Headlines
+layout: post
+title: The News Gallery: Beyond Headlines - Crossword answers
+date: 2020-01-01
+permalink: /exhibitions/current-exhibitions/newsgallery-crossword
 ---
 
 ![The News Gallery: Beyond Headlines - Crossword answers](/exhibitions/images/event-images/newsgallery/Crossword-answers.jpg)
