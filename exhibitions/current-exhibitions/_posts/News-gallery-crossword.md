@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The News Gallery: Beyond Headlines - Crossword answers
+title: "The News Gallery: Beyond Headlines - Crossword answers"
 date: 2020-01-01
 permalink: /exhibitions/current-exhibitions/newsgallery-crossword
 ---
