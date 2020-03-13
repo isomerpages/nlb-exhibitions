@@ -429,7 +429,7 @@ event:
   - title: "1919: The Singapore Centenary and its Celebration"
     short-name: 1919sg
     category: past
-    url: past-exhibitions/singaporecentenary#tab1
+    url: /past-exhibitions/singaporecentenary#tab1
     #details
     details:
       thumbnail-link: /centenary/SG-centenary-thumbnail.jpg
