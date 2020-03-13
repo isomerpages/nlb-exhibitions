@@ -6,7 +6,7 @@ breadcrumb: Programmes
 ---
 #### A Librarian’s World – Beyond The News Gallery
 
-![A Librarian's World banner, with a photo of the News Gallery as the background](/exhibitions/images/event-images/newsgallery/ALW_exhibition-page.jpg)
+![A Librarian's World banner, with a photo of the News Gallery as the background](/images/event-images/newsgallery/ALW_exhibition-page.jpg)
 
 “Opinions expressed belong solely to the presenters and do not necessarily reflect the views of the National Library Board.” Unfortunately, the news reports we encounter rarely come with disclaimers. How, then, can we discern opinion, fact and fabrication in news reporting?
 
