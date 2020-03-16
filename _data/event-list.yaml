@@ -1002,8 +1002,8 @@ event:
     #exhibition highlight tab
     exhibition-highlight-tab: show
     exhibition-highlight-list:
-      - exhibition-highlight-lowres-image-link: /from-the-stacks-onsite/from-the-stacks-exhibition-highlights-1-low.jpg
-        exhibition-highlight-hires-image-link: /from-the-stacks-onsite/from-the-stacks-exhibition-highlights-1-high.jpg
+      - exhibition-highlight-lowres-image-link: /from-the-stacks-onsite/from-the-stacks-exhibition-highlights-high.jpg
+        exhibition-highlight-hires-image-link: /from-the-stacks-onsite/from-the-stacks-exhibition-highlights-high.jpg
         exhibition-highlight-title: 
         exhibition-highlight-subtitle: 
         exhibition-highlight-text: 
