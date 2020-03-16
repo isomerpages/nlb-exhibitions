@@ -77,9 +77,9 @@ event:
     #photo gallery
     gallery-tab: show
     gallery-image: 
-      - photo-link: /news/news-gallery-image_1.jpg
-      - photo-link: /news/news-gallery-image_2.jpg
-      - photo-link: /news/news-gallery-image_3.jpg
+      - photo-link: /newsgallery/news-gallery-image_1.jpg
+      - photo-link: /newsgallery/news-gallery-image_2.jpg
+      - photo-link: /newsgallery/news-gallery-image_3.jpg
     #video gallery tab
     video-tab: hide
     video-list: 
