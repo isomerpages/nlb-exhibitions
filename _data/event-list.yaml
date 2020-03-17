@@ -75,10 +75,11 @@ event:
       label: On-Site
       short-description: "Discover stories of Singapore newspapers in the National Library’s collection dating from the 1820s and learn about significant episodes from Singapore’s history through the perspectives of different media. Gain insights into fake news, and learn how you can be more discerning about information and media, through our rich resources on newspapers."
     #photo gallery
-    gallery-tab: hide
+    gallery-tab: show
     gallery-image: 
-      - photo-link: /centenary/1919-Centenary-gallery.jpg
-      - photo-link: /centenary/1919-Centenary-gallery_2.jpg
+      - photo-link: /newsgallery/news-gallery-image_1.jpg
+      - photo-link: /newsgallery/news-gallery-image_2.jpg
+      - photo-link: /newsgallery/news-gallery-image_3.jpg
     #video gallery tab
     video-tab: hide
     video-list: 
@@ -1001,8 +1002,8 @@ event:
     #exhibition highlight tab
     exhibition-highlight-tab: show
     exhibition-highlight-list:
-      - exhibition-highlight-lowres-image-link: /from-the-stacks-onsite/from-the-stacks-exhibition-highlights-1-low.jpg
-        exhibition-highlight-hires-image-link: /from-the-stacks-onsite/from-the-stacks-exhibition-highlights-1-high.jpg
+      - exhibition-highlight-lowres-image-link: /from-the-stacks-onsite/from-the-stacks-exhibition-highlights-high.jpg
+        exhibition-highlight-hires-image-link: /from-the-stacks-onsite/from-the-stacks-exhibition-highlights-high.jpg
         exhibition-highlight-title: 
         exhibition-highlight-subtitle: 
         exhibition-highlight-text: 

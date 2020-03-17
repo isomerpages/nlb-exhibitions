@@ -30,5 +30,6 @@ The exhibition _“The News Gallery: Beyond Headlines”_ runs from 14 March 202
 
 Ever wondered what librarians do? In this series of monthly talks, find out what makes our librarians tick as they share highlights of their work from the collections of the National Library.
 
+![A promotional image featuring the text above](/images/event-images/newsgallery/ALW_edm_exhibition-page.jpg)
 
 <small>[Return to The News Gallery page](/exhibitions/current-exhibitions/newsgallery#tab1)</small>
