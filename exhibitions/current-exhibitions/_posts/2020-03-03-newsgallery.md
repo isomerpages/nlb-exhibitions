@@ -43,6 +43,10 @@ permalink: /exhibitions/current-exhibitions/newsgallery
 Explore the fascinating yet bewildering world of news media at our permanent exhibition **_The News Gallery: Beyond Headlines_**.
 
 Discover stories of Singapore newspapers in the National Library’s collection dating from the 1820s and learn about significant episodes from Singapore’s history through the perspectives of different media. Gain insights into fake news, and learn how you can be more discerning about information and media, through our rich resources on newspapers.
+
+Click below to download the exhibition brochure.
+
+[Exhibition brochure](/files/newsgallery/News-Gallery-eBrochure.pdf){: .dl-style-1 target="_blank"}
 </div>
 <!-- ------------------------------------------------------CONTENT-END------------------------------------------------------------- -->
   </div>
