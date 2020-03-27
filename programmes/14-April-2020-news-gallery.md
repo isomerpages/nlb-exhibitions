@@ -17,7 +17,7 @@ Secrets from the National Library’s exhibition _“The News Gallery: Beyond He
 ~~Tuesday, 14 April 2020
 7.00 pm – 8.00 pm
 Level 5, Possibility Room
-National Library Building
+National Library Building~~
 
 
 ~~Free Admission. Register now via [GoLibrary](https://go.gov.sg/nl-programme-14apr).~~ __This programme has been cancelled.__
