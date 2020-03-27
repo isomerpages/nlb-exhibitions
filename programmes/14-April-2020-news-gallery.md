@@ -6,18 +6,21 @@ breadcrumb: Programmes
 ---
 #### A Librarian’s World – Beyond The News Gallery
 
+#### *This programme has been cancelled*
+
 ![A Librarian's World banner, with a photo of the News Gallery as the background](/images/event-images/newsgallery/ALW_exhibition-page.jpg)
 
 “Opinions expressed belong solely to the presenters and do not necessarily reflect the views of the National Library Board.” Unfortunately, the news reports we encounter rarely come with disclaimers. How, then, can we discern opinion, fact and fabrication in news reporting?
 
 Secrets from the National Library’s exhibition _“The News Gallery: Beyond Headlines”_ are revealed as __Librarians Faridah Ibrahim and Mazelan Anuar__ share their observations on the current trends in news media. Gain valuable insights into fake news and learn how to differentiate between what’s real and what’s not.
 
-Tuesday, 14 April 2020
+~~Tuesday, 14 April 2020
 7.00 pm – 8.00 pm
 Level 5, Possibility Room
-National Library Building
+National Library Building~~
 
-Free Admission. Register now via [GoLibrary](https://go.gov.sg/nl-programme-14apr).
+
+~~Free Admission. Register now via [GoLibrary](https://go.gov.sg/nl-programme-14apr).~~ __This programme has been cancelled.__
 
 __Speakers__
 __Faridah Ibrahim__ is the Head of Reader Services at the National Library, where, together with her team, she promotes the use of credible sources for research. Her research interests include information-seeking behaviours and pedagogical approaches.
