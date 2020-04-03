@@ -4,13 +4,45 @@
 #                                #
 ##################################
 
-- title: Current Exhibitions
-  url: /exhibitions/current-exhibitions/
-- title: Online Exhibitions
-  url: /exhibitions/online-exhibitions/
-- title: Past Exhibitions
-  url: /past-exhibitions/
-- title: Programmes
-  url: /programmes/
-- title: Contact Us
-  url: /contact-us/
+- title: ASEAN Countries
+  url: /asean-countries/know/overview/
+  sub-links:
+  - title: Know
+    url: /asean-countries/know/overview-of-asean-countries/
+  - title: Share
+    url: /asean-countries/share/what-young-people-say/
+  - title: Go
+    url: /asean-countries/go/for-students/
+- title: China
+  url: /china/know/overview/
+  sub-links:
+  - title: Know
+    url: /china/know/overview-of-china/
+  - title: Share
+    url: /china/share/what-young-people-say/
+  - title: Go
+    url: /china/go/for-students/
+- title: India
+  url: /india/know/overview
+  sub-links:
+  - title: Know
+    url: /india/know/overview-of-india/
+  - title: Share
+    url: /india/share/what-young-people-say/
+  - title: Go
+    url: /india/go/for-students/
+- title: Other Asian Countries
+  sub-links:
+  - title: United Arab Emirates
+    url: /other-asian-countries/uae/
+- title: About
+  url: /about/about-eye-on-asia/
+  sub-links:
+  - title: About Eye on Asia
+    url: /about/about-eye-on-asia/
+  - title: Visit our Resource Centre
+    url: /about/visit-our-resource-centre/
+- title: Events
+  url: /eoa-events/
+- title: Partners
+  url: /partners/
