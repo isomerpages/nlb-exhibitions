@@ -38,8 +38,11 @@ collections:
     output: true
   current-exhibitions-newsgallery:
     output: true
+  current-exhibitions-rarecollectiongallery:
+    output: true
   online-exhibitions:
     output: true
   past-exhibition:
     output: true
+    
 resources_name: exhibitions
