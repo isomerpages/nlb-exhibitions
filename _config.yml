@@ -36,6 +36,8 @@ custom_print_css_path: "/assets/css/print.css"
 collections:
   current-exhibitions:
     output: true
+  current-exhibitions-newsgallery:
+    output: true
   online-exhibitions:
     output: true
   past-exhibition:
