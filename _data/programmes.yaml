@@ -1,0 +1,15 @@
+programme:
+  - date : 14 Apr
+    group-name: news
+    color : "#d51818"
+    data:
+      event-title: (CANCELLED) Talk | The News Gallery | A Librarian’s World – Beyond The News Gallery
+      event-des: This programme has been cancelled.
+      date-start: Apr 14, 2020
+      time-start: 7.00pm
+      date-end: Apr 14, 2020
+      time-end: 8.00pm
+      url: /programmes/14-april-2020-news-gallery
+      venue: |
+        Level 5, Possibility Room, National Library Building,
+        100 Victoria Street, Singapore 188064

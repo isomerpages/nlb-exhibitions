@@ -4,11 +4,9 @@ title: Terms of Use
 permalink: /terms-of-use/
 breadcrumb: Terms of Use
 ---
-### **General Terms and Conditions on the Use of Curiocity**
-
 #### **Conditions of Use and Copyright & Disclaimer Statement**
 
-Please read these terms and conditions carefully. A reference to this "website" is to [https://eyeonasia.sg](https://eyeonasia.sg) including but not limited to the information, text, images, links, sound, graphics and video sequences displayed herein (the "Materials").
+Please read these terms and conditions carefully. A reference to this "website" is to [https://exhibitions.nlb.gov.sg](https://memoriesoftwocities.nlb.gov.sg) including but not limited to the information, text, images, links, sound, graphics and video sequences displayed herein (the "Materials").
 
 By accessing this website and any pages thereof, you agree to be bound by the terms and conditions below. If you do not agree to the terms and conditions below, do not access this site or any pages thereof.
 
@@ -89,4 +87,3 @@ Any dispute relating in any way to your visit to NLB DIGITAL LIBRARY or to produ
 We reserve the right to make changes to our site, policies, and these Conditions of Use at any time. If any of these conditions shall be deemed invalid, void, or for any reason unenforceable, that condition shall be deemed severable and shall not affect the validity and enforceability of any remaining condition.
 
 Current National Library Board Singapore corporate website members are granted the automatic privilege of membership in NLB DIGITAL LIBRARY. New members can sign in to gain membership. If and when NLB DIGITAL LIBRARY is upgraded, changed, modified, re-designed, revamped, given a new Uniform Resource Locator (URL), etc (new website), these current and new members will enjoy the privilege of automatic membership in the new website, without the need for re-registration at the new website.
-
