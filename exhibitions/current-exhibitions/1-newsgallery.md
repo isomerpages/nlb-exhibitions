@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: "The News Gallery: Beyond Headlines"
 permalink: /exhibitions/current-exhibitions/newsgallery
-breadcrumb: /Current Exhibitions/"The News Gallery: Beyond Headlines"
+breadcrumb: "The News Gallery: Beyond Headlines"
 collection_name: current-exhibitions
 second_nav_title: "Current Exhibitions"
 
