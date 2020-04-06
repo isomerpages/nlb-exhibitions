@@ -19,13 +19,13 @@ hero-banner: /images/event-images/newsgallery/TNG_1400x595.jpg
 key-highlights:
   - title: Current exhibitions
     description:
-    url: /current-exhibitions/
+    url: /exhibitions/current-exhibitions/
   - title: Online exhibitions
     description: 
-    url: /online-exhibitions/
+    url: /exhibitions/online-exhibitions/
   - title: Past exhibitions
     description: 
-    url: /past-exhibitions/
+    url: /exhibitions/past-exhibitions/
 
 # Info Sections
 info-sections:
