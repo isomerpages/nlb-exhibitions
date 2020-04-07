@@ -12,7 +12,7 @@ breadcrumb: Current Exhibitions
             <strong><h4>The News Gallery: Beyond Headlines</h4></strong>
             <p>exhibition details</p>
 		</div>
-		<div class="col is-vcentered">
+		<div class="col is-vcentered is-centered">
 			<a href="/exhibitions/current-exhibitions/newsgallery/"><img src="/images/event-images/newsgallery/news-gallery-thumbnail.jpg" alt="The News Gallery: Beyond Headlines"></a>   
         </div>
     </div>
