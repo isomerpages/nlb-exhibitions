@@ -10,7 +10,7 @@ breadcrumb: Current Exhibitions
 <div class="sgds-container">
     <div class="row is-multiline">
         <div class="col is-12">
-            <a href="/exhibitions/current-exhibitions/newsgallery/"><h3>The News Gallery: Beyond Headlines</h3></a>
+            <h3>The News Gallery: Beyond Headlines</h3>
         </div>
         <div class="col is-two-thirds">
             <ul>
@@ -27,6 +27,7 @@ breadcrumb: Current Exhibitions
         <div class="col is-12">
             <p>Discover stories of Singapore newspapers in the National Library’s collection dating from the 1820s and learn about significant episodes from Singapore’s history through the perspectives of different media. Gain insights into fake news, and learn how you can be more discerning about information and media, through our rich resources on newspapers.
             </p>
+            <a href="/exhibitions/current-exhibitions/newsgallery/"><h4>MORE INFORMATION &#187;</h4></a>
         </div>
     </div>
 </div>
