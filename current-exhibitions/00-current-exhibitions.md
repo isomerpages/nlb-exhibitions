@@ -16,7 +16,7 @@ breadcrumb: Current Exhibitions
     <div class="row" style="margin-bottom: -1em;">
         <div class="col is-two-thirds is-small">
             <div class="row">
-                <img src="/images/calendar.png" alt="Date" style="float:left; width:10%; height:10%;"> Exhibition runs from 14 March 2020
+                <img src="/images/calendar.png" alt="Date" style="display:inline-block; margin-left: 0px; margin-right: 10px; float:left; width:5%; height:5%;"> Exhibition runs from 14 March 2020
             </div>
             <div class="row">
                 <img src="/images/watch.png" alt="Time" style="float:left; width:10%; height:10%;"> 10:00am - 9:00pm
