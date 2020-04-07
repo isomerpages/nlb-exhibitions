@@ -7,4 +7,4 @@ collection_name: newsgallery
 
 ---
 
-# Gallery
+# Gallery - update 2
