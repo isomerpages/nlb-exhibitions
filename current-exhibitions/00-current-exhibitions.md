@@ -8,7 +8,7 @@ breadcrumb: Current Exhibitions
 
 <div class="sgds-container">
 	<div class="row is-multiline">
-		<div class="col is-two-thirds">
+		<div class="col is-two-thirds is-narrow">
             <strong><h4>The News Gallery: Beyond Headlines</h4></strong>
             <ul>
                 <li>Exhibition runs from 14 March 2020</li>
