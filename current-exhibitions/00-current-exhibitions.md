@@ -9,11 +9,11 @@ breadcrumb: Current Exhibitions
 <section class="sgds-section">
 <div class="sgds-container">
 	<div class="row is-multiline">
-		<div class="col is-two-thirds is-vcentered">
+		<div class="col is-two-thirds">
             <strong><h4>The News Gallery: Beyond Headlines</h4></strong>
             <p>exhibition details</p>
 		</div>
-		<div class="col is-vcentered is-centered">
+		<div class="col">
 			<a href="/exhibitions/current-exhibitions/newsgallery/"><img src="/images/event-images/newsgallery/news-gallery-thumbnail.jpg" alt="The News Gallery: Beyond Headlines"></a>   
         </div>
     </div>
@@ -22,12 +22,15 @@ breadcrumb: Current Exhibitions
     </div>
 </div>
 </section>
+<section class="sgds-section">
+<div class="sgds-container">
     <div class="row is-multiline">
         <div class="col is-two-thirds">
             <a href="/exhibitions/current-exhibitions/the-rare-collection-gallery/"><img src="/images/event-images/rarecollection/the-rare-collection-gallery-thumbnail.jpg" alt="The Rare Collection Gallery"></a>
 		</div>
     </div>
 </div>
+</section>
 
 
             
