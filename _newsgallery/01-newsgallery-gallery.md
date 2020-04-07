@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: "Gallery title 1"
+title: "Gallery"
 permalink: /exhibitions/current-exhibitions/newsgallery/gallery/
-breadcrumb: "Gallery title 2"
+breadcrumb: "Gallery"
 collection_name: newsgallery
 
 ---

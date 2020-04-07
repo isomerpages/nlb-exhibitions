@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
-title: "Programmes title 1"
+title: "Programmes"
 permalink: /exhibitions/current-exhibitions/newsgallery/programmes/
-breadcrumb: "Programmes title 2"
+breadcrumb: "Programmes"
 collection_name: newsgallery
 
 ---
 
-# Programmes - update 3
+# Programmes
