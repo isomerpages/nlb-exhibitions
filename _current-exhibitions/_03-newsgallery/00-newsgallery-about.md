@@ -7,6 +7,4 @@ collection_name: newsgallery
 
 ---
 
-# Test
-
-# Test 2
+# About the exhibition
