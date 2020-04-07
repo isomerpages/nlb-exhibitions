@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: "The News Gallery: Beyond Headlines | Programmes"
+title: "Programmes"
 permalink: /exhibitions/current-exhibitions/newsgallery/programmes/
-breadcrumb: "The News Gallery: Beyond Headlines"
+breadcrumb:
 collection_name: newsgallery
 
 ---
