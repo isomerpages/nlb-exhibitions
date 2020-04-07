@@ -6,7 +6,6 @@ breadcrumb: Current Exhibitions
 
 ---
 
-<section class="sgds-section">
 <div class="sgds-container">
 	<div class="row is-multiline">
 		<div class="col is-two-thirds">
@@ -18,11 +17,12 @@ breadcrumb: Current Exhibitions
         </div>
     </div>
     <div class="row">
-        <p>Discover stories of Singapore newspapers in the National Library’s collection dating from the 1820s and learn about significant episodes from Singapore’s history through the perspectives of different media. Gain insights into fake news, and learn how you can be more discerning about information and media, through our rich resources on newspapers.</p>
+        <div class="col is-full">
+            <p>Discover stories of Singapore newspapers in the National Library’s collection dating from the 1820s and learn about significant episodes from Singapore’s history through the perspectives of different media. Gain insights into fake news, and learn how you can be more discerning about information and media, through our rich resources on newspapers.
+            </p>
+        </div>
     </div>
 </div>
-</section>
-<section class="sgds-section">
 <div class="sgds-container">
     <div class="row is-multiline">
         <div class="col is-two-thirds">
@@ -30,7 +30,7 @@ breadcrumb: Current Exhibitions
 		</div>
     </div>
 </div>
-</section>
+
 
 
             
