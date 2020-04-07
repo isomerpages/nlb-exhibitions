@@ -16,7 +16,7 @@ breadcrumb: Current Exhibitions
     <div class="row is-multiline" style="margin-bottom: -1em;">
         <div class="col is-two-thirds is-small">
             <ul>
-                <li style="list-style-image: url(images/calendar.png);">Exhibition runs from 14 March 2020</li>
+                <li style="list-style-image: url(/images/calendar.png);">Exhibition runs from 14 March 2020</li>
                 <li>10:00am - 9:00pm</li>
                 <li>Level 11, Promenade, National Library Building</li>
             </ul>
@@ -29,7 +29,7 @@ breadcrumb: Current Exhibitions
         <div class="col is-12">
             <p>Discover stories of Singapore newspapers in the National Library’s collection dating from the 1820s and learn about significant episodes from Singapore’s history through the perspectives of different media. Gain insights into fake news, and learn how you can be more discerning about information and media, through our rich resources on newspapers.
             </p>
-            <a href="/exhibitions/current-exhibitions/newsgallery/" style="color:#E21216;"><h6>MORE INFORMATION &#187;</h6></a>
+            <a href="/exhibitions/current-exhibitions/newsgallery/" style="color:#E21216;"><h5>MORE INFORMATION &#187;</h5></a>
         </div>
     </div>
 </div>
