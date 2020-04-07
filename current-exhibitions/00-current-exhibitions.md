@@ -10,7 +10,7 @@ breadcrumb: Current Exhibitions
 <div class="sgds-container">
     <div class="row" style="margin-bottom: -1em;">
         <div class="col is-12">
-            <h3>The News Gallery: Beyond Headlines</h3>
+            <h3><strong>The News Gallery: Beyond Headlines</strong></h3>
         </div>
     </div>
     <div class="row" style="margin-bottom: -1em;">
