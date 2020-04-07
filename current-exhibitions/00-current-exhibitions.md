@@ -23,7 +23,7 @@ breadcrumb: Current Exhibitions
             <div class="row">
                 <div class="col">
                     <img src="/images/watch.png" alt="Time" style="display:inline-block; margin-left: 0px; margin-right: 10px; width:10%; height:10%;"> 10:00am - 9:00pm
-                <div>
+                </div>
             </div>
             <div class="row">
                 <div class="col">
