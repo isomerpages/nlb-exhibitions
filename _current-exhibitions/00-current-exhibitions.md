@@ -6,6 +6,8 @@ breadcrumb: Current Exhibitions
 collection_name: current-exhibitions
 ---
 
+# this is an update test
+
 <div>
 	<div class="row is-multiline">
 		<div class="col is-half-desktop is-half-tablet">
