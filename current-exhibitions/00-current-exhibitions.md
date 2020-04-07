@@ -5,7 +5,7 @@ permalink: /exhibitions/current-exhibitions/
 breadcrumb: Current Exhibitions
 
 ---
-
+<section class="sgds-section">
 <div class="sgds-container">
 	<div class="row is-multiline">
 		<div class="col is-two-thirds is-narrow is-vcentered">
@@ -34,7 +34,7 @@ breadcrumb: Current Exhibitions
 		</div>
     </div>
 </div>
-
+</section>
 
 
             
