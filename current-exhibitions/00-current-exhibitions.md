@@ -16,9 +16,9 @@ breadcrumb: Current Exhibitions
     <div class="row is-multiline" style="margin-bottom: -1em;">
         <div class="col is-two-thirds is-small">
             <ul>
-                <li style="list-style-image: url(/images/calendar.png);">Exhibition runs from 14 March 2020</li>
-                <li>10:00am - 9:00pm</li>
-                <li>Level 11, Promenade, National Library Building</li>
+                <li style="list-style-image: url(/images/calendar.png); display: inline-block;">Exhibition runs from 14 March 2020</li>
+                <li style="list-style-image: url(/images/watch.png); display: inline-block;">10:00am - 9:00pm</li>
+                <li style="list-style-image: url(/images/pin.png); display: inline-block;">Level 11, Promenade, National Library Building</li>
             </ul>
         </div>
         <div class="col is-small">
