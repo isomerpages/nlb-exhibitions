@@ -14,14 +14,14 @@ breadcrumb: Current Exhibitions
         </div>
     </div>
     <div class="row" style="margin-bottom: -1em;">
-        <div class="col is-two-thirds is-small">
+        <div class="col is-two-thirds">
             <div class="row">
                 <div class="col">
                     <img src="/images/calendar.png" alt="Date" style="display:inline-block; margin-left: 0px; margin-right: 10px; width: 5%; vertical-align: middle;"> Exhibition runs from 14 March 2020
                 </div>
             </div>
             <div class="row">
-                <div class="col style="padding-bottom: -1em; padding-top: -1em;">
+                <div class="col" style="padding-bottom: -1em; padding-top: -1em;">
                     <img src="/images/watch.png" alt="Time" style="display:inline-block; margin-left: 0px; margin-right: 10px; width: 5%; vertical-align: middle;"> 10:00am - 9:00pm
                 </div>
             </div>
@@ -31,7 +31,7 @@ breadcrumb: Current Exhibitions
                 </div>
             </div>
         </div>
-        <div class="col is-small">
+        <div class="col">
             <a href="/exhibitions/current-exhibitions/newsgallery/"><img src="/images/event-images/newsgallery/news-gallery-thumbnail.jpg" alt="The News Gallery: Beyond Headlines"></a>
         </div>
     </div>
