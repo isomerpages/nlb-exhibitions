@@ -58,7 +58,7 @@ breadcrumb: Current Exhibitions
         </div>
         <div class="col is-two-thirds">
             <div class="row">
-                <div class="col" style="padding-bottom: 8px; padding-top: 8px;">
+                <div class="col" style="padding-bottom: 8px; padding-top: 8px; padding-left: 0px;">
                     <ul style="list-style: none; padding-left: 0px;">
                         <li class="sgds-icon sgds-icon-calendar" style="display:inline-block; margin-left: 0px; margin-right: 8px; vertical-align: middle;">
                         <p>Exhibition runs from 14 March 2020</p>
