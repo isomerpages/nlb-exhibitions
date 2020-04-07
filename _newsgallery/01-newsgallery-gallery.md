@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
-title: "Gallery"
+title: "The News Gallery: Beyond Headlines | Gallery"
 permalink: /exhibitions/current-exhibitions/newsgallery/gallery/
-breadcrumb: "The News Gallery: Beyond Headlines"
+breadcrumb: "The News Gallery: Beyond Headlines | Gallery"
 collection_name: newsgallery
 
 ---
 
-# Gallery - update 2
+# Gallery photos
