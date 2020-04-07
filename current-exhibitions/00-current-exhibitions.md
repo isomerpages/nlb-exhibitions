@@ -10,7 +10,11 @@ breadcrumb: Current Exhibitions
 	<div class="row is-multiline">
 		<div class="col is-two-thirds">
             <strong><h4>The News Gallery: Beyond Headlines</h4></strong>
-            <p>exhibition details</p>
+            <ul>
+                <li>Exhibition runs from 14 March 2020</li>
+                <li>10:00am - 09:00pm</li>
+                <li>Level 11, Promenade, National Library Building</li>
+            </ul>
 		</div>
 		<div class="col">
 			<a href="/exhibitions/current-exhibitions/newsgallery/"><img src="/images/event-images/newsgallery/news-gallery-thumbnail.jpg" alt="The News Gallery: Beyond Headlines"></a>   
