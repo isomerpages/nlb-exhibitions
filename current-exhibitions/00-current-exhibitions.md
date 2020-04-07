@@ -15,11 +15,11 @@ breadcrumb: Current Exhibitions
     </div>
     <div class="row is-multiline" style="margin-bottom: -1em;">
         <div class="col is-two-thirds is-small">
-            <ul>
-                <li style="list-style-image: url(/images/calendar.png);">Exhibition runs from 14 March 2020</li>
-                <li style="list-style-image: url(/images/watch.png);">10:00am - 9:00pm</li>
-                <li style="list-style-image: url(/images/pin.png);">Level 11, Promenade, National Library Building</li>
-            </ul>
+            <div class="row is-multiline">
+                <img src="/images/calendar.png">Exhibition runs from 14 March 2020
+                <img src="/images/watch.png">10:00am - 9:00pm
+                <img src="/images/pin.png">Level 11, Promenade, National Library Building
+            </div>
         </div>
         <div class="col is-small">
             <a href="/exhibitions/current-exhibitions/newsgallery/"><img src="/images/event-images/newsgallery/news-gallery-thumbnail.jpg" alt="The News Gallery: Beyond Headlines"></a>
