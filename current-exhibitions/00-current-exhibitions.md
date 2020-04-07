@@ -17,17 +17,17 @@ breadcrumb: Current Exhibitions
         <div class="col is-two-thirds is-small">
             <div class="row">
                 <div class="col">
-                    <img src="/images/calendar.png" alt="Date" style="display:inline-block; margin-left: 0px; margin-right: 10px; width:10%; height:10%;"> Exhibition runs from 14 March 2020
+                    <img src="/images/calendar.png" alt="Date" style="display:inline-block; margin-left: 0px; margin-right: 10px; width: 5%;"> Exhibition runs from 14 March 2020
                 </div>
             </div>
             <div class="row">
                 <div class="col">
-                    <img src="/images/watch.png" alt="Time" style="display:inline-block; margin-left: 0px; margin-right: 10px; width:10%; height:10%;"> 10:00am - 9:00pm
+                    <img src="/images/watch.png" alt="Time" style="display:inline-block; margin-left: 0px; margin-right: 10px; width: 5%;"> 10:00am - 9:00pm
                 </div>
             </div>
             <div class="row">
                 <div class="col">
-                    <img src="/images/pin.png" alt="Location" style="display:inline-block; margin-left: 0px; margin-right: 10px; width:10%; height:10%;"> Level 11, Promenade, National Library Building
+                    <img src="/images/pin.png" alt="Location" style="display:inline-block; margin-left: 0px; margin-right: 10px; width: 5%;"> Level 11, Promenade, National Library Building
                 </div>
             </div>
         </div>
