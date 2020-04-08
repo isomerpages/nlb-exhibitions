@@ -61,7 +61,13 @@ breadcrumb: Current Exhibitions
                 <div class="col" style="padding-bottom: 8px; padding-top: 8px;">
                     <ul style="list-style: none; margin-left: 0px;">
                         <li class="sgds-icon sgds-icon-calendar" style="display:inline-block; margin-left: 0px; margin-right: 8px; vertical-align: middle;">
-                        <p style="font-size: 90%;">Exhibition runs from 14 March 2020</p>
+                        <p style="font-size: 80%;">Exhibition runs from 14 March 2020</p>
+                        </li>
+                        <li class="sgds-icon sgds-icon-clock" style="display:inline-block; margin-left: 0px; margin-right: 8px; vertical-align: middle;">
+                        <p style="font-size: 80%;">10:00am - 9:00pm</p>
+                        </li>
+                        <li class="sgds-icon .sgds-icon-place" style="display:inline-block; margin-left: 0px; margin-right: 8px; vertical-align: middle;">
+                        <p style="font-size: 80%;">Level 11, Promenade, National Library Building</p>
                         </li>
                     </ul>
                 </div>
