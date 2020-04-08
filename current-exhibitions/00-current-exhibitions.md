@@ -8,12 +8,12 @@ breadcrumb: Current Exhibitions
 
 <section class="sgds-section">
 <div class="sgds-container">
-    <div class="row margin--bottom--.25rem">
+    <div class="row margin--bottom--xs">
         <div class="col is-12">
             <h3><strong>The News Gallery: Beyond Headlines</strong></h3>
         </div>
     </div>
-    <div class="row margin--bottom--.25rem">
+    <div class="row margin--bottom--xs">
         <div class="col">
             <a href="/exhibitions/current-exhibitions/newsgallery/"><img src="/images/event-images/newsgallery/news-gallery-thumbnail.jpg" alt="The News Gallery: Beyond Headlines"></a>
         </div>
