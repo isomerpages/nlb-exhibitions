@@ -67,7 +67,7 @@ breadcrumb: Current Exhibitions
                        <div class="is-size-8">10:00am - 9:00pm</div>
                         </li>
                         <li class="sgds-icon sgds-icon-place" style="display:inline-block; margin-left: 0px; margin-right: 8px; vertical-align: middle;">
-                        <div class="is-size-8">Level 11, Promenade, National Library Building</div>
+                        <small>Level 11, Promenade, National Library Building</small>
                         </li>
                     </ul>
                 </div>
