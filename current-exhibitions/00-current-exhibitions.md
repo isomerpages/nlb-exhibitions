@@ -51,10 +51,4 @@ breadcrumb: Current Exhibitions
         </div>
     </div>
 </div>
-<div class="sgds-container">
-     <div class="row">
-        <div class="col is-12" style="background-color: #f5f5f5">   
-        </div>
-    </div>
-</div>
 </section>
