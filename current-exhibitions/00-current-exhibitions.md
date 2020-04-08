@@ -119,6 +119,37 @@ breadcrumb: Current Exhibitions
 </div>
 </section>
 
+<div class="sgds-card">
+    <div class="sgds-card-header">
+        <p class="sgds-card-header-title">Header title text</p>
+    </div>
+    <div class="sgds-card-content">
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Sequi, nulla.
+        </p>
+    </div>
+    <div class="sgds-card-footer">        
+        <a href="#!" class="sgds-card-footer-item is-primary">View</a>
+        <a href="#!" class="sgds-card-footer-item is-link">Edit</a>
+    </div>
+</div>
 
+
+<div class="sgds-card">
+    <div class="sgds-card-header">
+        <p class="sgds-card-header-title">Header title text</p>
+    </div>
+    <div class="sgds-card-content">
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Sequi, nulla.
+        </p>
+    </div>
+    <div class="sgds-card-footer">
+        <a href="#!" class="sgds-card-footer-item is-success">Save</a>
+        <a href="#!" class="sgds-card-footer-item">Cancel</a>
+    </div>
+</div>
 
 
