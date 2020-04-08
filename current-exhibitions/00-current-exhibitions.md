@@ -38,7 +38,7 @@ breadcrumb: Current Exhibitions
 </div>
 <div class="sgds-container">
      <div class="row margin--xs">
-        <div class="col is-2 padding--xs" style="background-color: #f5f5f5">   
+        <div class="col is-2 padding--xs" style="background-color: #323232">   
         </div>
     </div>
 </div>
@@ -48,6 +48,12 @@ breadcrumb: Current Exhibitions
             <p>Discover stories of Singapore newspapers in the National Library’s collection dating from the 1820s and learn about significant episodes from Singapore’s history through the perspectives of different media. Gain insights into fake news, and learn how you can be more discerning about information and media, through our rich resources on newspapers.
             </p>
             <a href="/exhibitions/current-exhibitions/newsgallery/" style="color:#E21216;"><h5>MORE INFORMATION &#187;</h5></a>
+        </div>
+    </div>
+</div>
+<div class="sgds-container">
+     <div class="row margin--xs">
+        <div class="col is-12 padding--xs" style="background-color: #323232">   
         </div>
     </div>
 </div>
