@@ -9,13 +9,13 @@ breadcrumb: Current Exhibitions
 <section class="sgds-section">
 <div class="sgds-container">
     <div class="row margin--bottom--xs">
-        <div class="col is-12">
+        <div class="col is-12 padding--xs">
             <h3><strong>The News Gallery: Beyond Headlines</strong></h3>
         </div>
     </div>
     <div class="row margin--bottom--xs">
         <div class="col">
-            <a href="/exhibitions/current-exhibitions/newsgallery/"><img src="/images/event-images/newsgallery/news-gallery-thumbnail.jpg" alt="The News Gallery: Beyond Headlines"></a>
+            <img src="/images/event-images/newsgallery/news-gallery-thumbnail.jpg" alt="The News Gallery: Beyond Headlines">
         </div>
         <div class="col is-two-thirds padding--bottom--xs">
             <div class="row margin--bottom--xs">
@@ -38,8 +38,7 @@ breadcrumb: Current Exhibitions
 </div>
 <div class="sgds-container">
      <div class="row margin--xs">
-        <div class="col is-2 padding--xs" style="background-color:green">   
-            &nbsp;
+        <div class="col is-2 padding--xs" style="background-color: #f5f5f5">   
         </div>
     </div>
 </div>
