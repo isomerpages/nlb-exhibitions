@@ -78,11 +78,6 @@ collection_name: current-exhibitions
                 </div>
             </div>
         </div>
-            <div class="row margin--bottom--xs">
-                <div class="col padding--bottom--sm">
-                    <img src="/images/pin.png" alt="Location" style="display:inline-block; margin-left: 0px; margin-right: 8px; width: 5%; vertical-align: middle;"> Level 13, Rare Gallery, National Library Building
-                </div>
-            </div>
     </div>
 </div>
 
