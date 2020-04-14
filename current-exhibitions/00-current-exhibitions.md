@@ -7,7 +7,6 @@ breadcrumb: Current Exhibitions
 ---
 
 <section class="sgds-section">
-<div class="sgds-container" style="box-shadow: 0 2px 2px #efefef;">
 <div class="sgds-container">
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
@@ -46,5 +45,10 @@ breadcrumb: Current Exhibitions
         </div>
     </div>
 </div>
+<div class="sgds-container">
+    <div class="row">
+        <div class="col is-12" style="height: 2px; background-color: #efefef;">
+        </div>
+    </div>
 </div>
 </section>
