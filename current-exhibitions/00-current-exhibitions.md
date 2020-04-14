@@ -47,7 +47,7 @@ breadcrumb: Current Exhibitions
 </div>
 <div class="sgds-container">
     <div class="row">
-        <div class="col is-12" style="height: 2px; background-color: #efefef;">
+        <div class="col is-12 padding--xs" style="background-color: #efefef;">
         </div>
     </div>
 </div>
