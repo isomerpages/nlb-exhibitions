@@ -50,7 +50,7 @@ breadcrumb: Current Exhibitions
 <section class="sgds-section">
 <div class="sgds-container">
     <div class="row">
-        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
+        <div class="col is-12" style="margin-top: 3px; padding-bottom: 2px; background-color: #efefef;">
         </div>
     </div>
 </div>
