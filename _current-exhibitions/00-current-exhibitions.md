@@ -72,7 +72,7 @@ collection_name: current-exhibitions
         <div class="col is-two-thirds padding--bottom--xs">
             <div class="row is-multiline margin--bottom--xs">
                 <div class="col padding--bottom--sm">
-                    <img src="/images/calendar.png" alt="Date" style="display:inline-block; margin-left: 0px; margin-right: 8px; width: 5%; vertical-align: middle;">
+                    <span class="sgds-icon sgds-icon-calendar"></span>
                     <div style="padding-left: 1.5em; text-indent: -1.5em;">This gallery is open to public during scheduled guided tours only. Please refer to <a href="https://www.nlb.gov.sg/golibrary2/c/30307529/">Golibrary</a> for tour dates.</div>
                 </div>
             </div>
