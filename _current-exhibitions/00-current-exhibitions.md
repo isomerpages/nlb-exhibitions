@@ -76,16 +76,16 @@ collection_name: current-exhibitions
                 <div class="col padding--bottom--sm">               
                     This gallery is open to public during scheduled guided tours only. Please refer to <a href="https://www.nlb.gov.sg/golibrary2/">Golibrary</a> for tour dates.
                 </div>
-                </div>
             </div>
+        </div>
             <div class="row margin--bottom--xs">
                 <div class="col padding--bottom--sm">
                     <img src="/images/pin.png" alt="Location" style="display:inline-block; margin-left: 0px; margin-right: 8px; width: 5%; vertical-align: middle;"> Level 13, Rare Gallery, National Library Building
                 </div>
             </div>
-        </div>
     </div>
 </div>
+
 <div class="sgds-container">
     <div class="row is-multiline">
         <div class="col is-12">
