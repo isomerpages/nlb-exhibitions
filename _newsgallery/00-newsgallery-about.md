@@ -36,5 +36,9 @@ collection_name: newsgallery
                     </ul>
                 </div>
             </div>
+    <div class="row">
+        <div class="col is-12" style="padding: 2px 0; background-color: #E21216;">
+        </div>
+    </div>
 </div>
 </section>
