@@ -58,8 +58,8 @@ collection_name: newsgallery
             <h4>Brochures</h4>
             <p style="margin-top: 5px;">Download the brochures below:</p>
                 <a href="/files/newsgallery/The%20News%20Gallery_DL%20Brochure_EN.pdf">
-                    <span class="sgds-icon sgds-icon-download" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
                     <div style="line-height: 150%; padding-left: 2.3rem;">English</div>
+                    <span class="sgds-icon sgds-icon-download" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
                 </a>
         </div>
     </div>
