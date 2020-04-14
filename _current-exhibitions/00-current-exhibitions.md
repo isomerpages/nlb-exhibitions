@@ -68,9 +68,9 @@ collection_name: current-exhibitions
         <div class="col">
             <img src="/images/event-images/rarecollection/the-rare-collection-gallery-thumbnail.jpg" alt="The Rare Collection Gallery">
         </div>
-        <div class="col is-two-thirds padding--bottom--xs">
+        <div class="col is-two-thirds">
             <div class="row margin--bottom--xs">
-                <div class="col is-1 padding--bottom--sm">
+                <div class="col is-1 padding--xs">
                     <img src="/images/calendar.png" alt="Date" style="display:inline-block; margin-left: 0px; margin-right: 8px; width: 5%; vertical-align: middle;">
                 </div>
                 <div class="col padding--bottom--sm">               
