@@ -50,13 +50,47 @@ breadcrumb: Current Exhibitions
 <section class="sgds-section">
 <div class="sgds-container">
     <div class="row">
-        <div class="col is-12" style="margin-top: 3px; padding-bottom: 2px; background-color: #efefef;">
+        <div class="col is-12" style="margin-top: 3px; padding: 2px 0; background-color: #efefef;">
         </div>
     </div>
 </div>
 </section>
 
-
+<section class="sgds-section">
+<div class="sgds-container">
+    <div class="row margin--bottom--xs">
+        <div class="col is-12 padding--xs">
+            <h3><strong>The Rare Collection Gallery</strong></h3>
+        </div>
+    </div>
+    <div class="row margin--bottom--xs">
+        <div class="col">
+            <img src="/images/event-images/rarecollection/the-rare-collection-gallery-thumbnail.jpg" alt="The Rare Collection Gallery">
+        </div>
+        <div class="col is-two-thirds padding--bottom--xs">
+            <div class="row margin--bottom--xs">
+                <div class="col padding--bottom--sm">
+                    <img src="/images/calendar.png" alt="Date" style="display:inline-block; margin-left: 0px; margin-right: 8px; width: 5%; vertical-align: middle;"> This gallery is open to public during scheduled guided tours only. Please refer to [Golibrary](https://www.nlb.gov.sg/golibrary2/) for tour dates.
+                </div>
+            </div>
+            <div class="row margin--bottom--xs">
+                <div class="col padding--bottom--sm">
+                    <img src="/images/pin.png" alt="Location" style="display:inline-block; margin-left: 0px; margin-right: 8px; width: 5%; vertical-align: middle;"> Level 13, Rare Gallery, National Library Building
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="sgds-container">
+    <div class="row is-multiline">
+        <div class="col is-12">
+            <p>The Rare Collection Gallery showcases treasures from the National Library’s Rare Materials Collection of valuable research materials on Singapore and Southeast Asia. Comprising over 15,000 books, journals, manuscripts, maps, photographs and ephemera, many of the items in the collection were inherited from the National Library’s predecessors – the Singapore Library (1844–1874) and the Raffles Museum and Library (1874–1960). The collection is also further enhanced by recent donations from institutions and individuals.
+            </p>
+            <a href="/exhibitions/current-exhibitions/newsgallery/" style="color:#E21216;"><h5>MORE INFORMATION &#187;</h5></a>
+        </div>
+    </div>
+</div>
+</section>
 
 
 
