@@ -1,8 +1,9 @@
 ---
-layout: simple-page
+layout: leftnav-page-content
 title: Current Exhibitions
 permalink: /exhibitions/current-exhibitions/
 breadcrumb: Current Exhibitions
+collection_name: current-exhibitions
 
 ---
 
