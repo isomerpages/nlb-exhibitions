@@ -65,16 +65,20 @@ collection_name: current-exhibitions
         </div>
     </div>
     <div class="row">
+    <div class="row margin--bottom--xs">
         <div class="col">
-            <img src="/images/event-images/rarecollection/the-rare-collection-gallery-thumbnail.jpg" alt="The Rare Collection Gallery">
+            <img src="/images/event-images/newsgallery/news-gallery-thumbnail.jpg" alt="The News Gallery: Beyond Headlines">
         </div>
-        <div class="col is-two-thirds">
-            <div class="row">
-                <div class="col is-1">
-                    <img src="/images/calendar.png" alt="Date" style="width: 10%;">
+        <div class="col is-two-thirds padding--bottom--xs">
+            <div class="row margin--bottom--xs">
+                <div class="col padding--bottom--sm">
+                    <img src="/images/calendar.png" alt="Date" style="display:inline-block; margin-left: 0px; margin-right: 8px; width: 5%; vertical-align: middle;">
+                    <p style="padding-left: 1.5em; text-indent: -1.5em;">This gallery is open to public during scheduled guided tours only. Please refer to <a href="https://www.nlb.gov.sg/golibrary2/c/30307529/">Golibrary</a> for tour dates.</p>
                 </div>
-                <div class="col padding--bottom--sm">               
-                    This gallery is open to public during scheduled guided tours only. Please refer to <a href="https://www.nlb.gov.sg/golibrary2/">Golibrary</a> for tour dates.
+            </div>
+            <div class="row margin--bottom--xs">
+                <div class="col padding--bottom--sm">
+                    <img src="/images/pin.png" alt="Location" style="display:inline-block; margin-left: 0px; margin-right: 8px; width: 5%; vertical-align: middle;"> Level 13, Rare Gallery, National Library Building
                 </div>
             </div>
         </div>
