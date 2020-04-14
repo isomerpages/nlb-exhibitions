@@ -27,7 +27,7 @@ collection_name: current-exhibitions
                         </li> 
                         <li style="margin-bottom: 1rem;">
                             <span class="sgds-icon sgds-icon-clock" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                            <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">10.00am – 9.00pm</div>
+                            <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">10:00am – 9:00pm</div>
                         </li>          
                         <li style="margin-bottom: 1rem;">
                             <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
