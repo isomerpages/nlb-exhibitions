@@ -59,18 +59,18 @@ collection_name: current-exhibitions
 
 <section class="sgds-section-exhibition">
 <div class="sgds-container">
-    <div class="row margin--bottom--xs">
+    <div class="row">
         <div class="col is-12 padding--xs">
             <h3><strong>The Rare Collection Gallery</strong></h3>
         </div>
     </div>
-    <div class="row margin--bottom--xs">
+    <div class="row">
         <div class="col">
             <img src="/images/event-images/rarecollection/the-rare-collection-gallery-thumbnail.jpg" alt="The Rare Collection Gallery">
         </div>
         <div class="col is-two-thirds">
-            <div class="row margin--bottom--xs">
-                <div class="col is-1 padding--xs">
+            <div class="row">
+                <div class="col is-1" style="padding: 8px 4px">
                     <img src="/images/calendar.png" alt="Date" style="display:inline-block; vertical-align: middle;">
                 </div>
                 <div class="col padding--bottom--sm">               
