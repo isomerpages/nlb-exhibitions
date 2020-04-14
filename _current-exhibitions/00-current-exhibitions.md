@@ -7,7 +7,7 @@ collection_name: current-exhibitions
 
 ---
 
-<section class="sgds-section">
+<section class="sgds-section-exhibition">
 <div class="sgds-container">
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
@@ -48,7 +48,7 @@ collection_name: current-exhibitions
 </div>
 </section>
 
-<section class="sgds-section">
+<section class="sgds-section-break">
 <div class="sgds-container padding--lg">
     <div class="row">
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
@@ -57,7 +57,7 @@ collection_name: current-exhibitions
 </div>
 </section>
 
-<section class="sgds-section">
+<section class="sgds-section-exhibition">
 <div class="sgds-container">
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
@@ -71,7 +71,11 @@ collection_name: current-exhibitions
         <div class="col is-two-thirds padding--bottom--xs">
             <div class="row margin--bottom--xs">
                 <div class="col padding--bottom--sm">
-                    <img src="/images/calendar.png" alt="Date" style="display:inline-block; margin-left: 0px; margin-right: 8px; width: 5%; vertical-align: middle;"> This gallery is open to public during scheduled guided tours only. Please refer to <a href="https://www.nlb.gov.sg/golibrary2/">Golibrary</a> for tour dates.
+                    <img src="/images/calendar.png" alt="Date" style="display:inline-block; margin-left: 0px; margin-right: 8px; width: 5%; vertical-align: middle;">
+                </div>
+                <div class="col padding--bottom--sm">               
+                    This gallery is open to public during scheduled guided tours only. Please refer to <a href="https://www.nlb.gov.sg/golibrary2/">Golibrary</a> for tour dates.
+                </div>
                 </div>
             </div>
             <div class="row margin--bottom--xs">
