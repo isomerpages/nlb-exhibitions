@@ -44,7 +44,7 @@ collection_name: newsgallery
     
 <div class="sgds-container">
     <div class="row">
-        <div class="col is-full">
+        <div class="col is-full padding--top--lg">
         <p>Explore the fascinating yet bewildering world of news media at our permanent exhibition <strong><em>The News Gallery: Beyond Headlines.</em></strong></p>
         <p>Discover stories of Singapore newspapers in the National Library’s collection dating from the 1820s and learn about significant episodes from Singapore’s history through the perspectives of different media. Gain insights into fake news, and learn how you can be more discerning about information and media, through our rich resources on newspapers.</p>
         </div>
@@ -55,9 +55,12 @@ collection_name: newsgallery
 <div class="sgds-container">
     <div class="row">
         <div class="col is-full padding--top--lg">
-        <h4>Brochures</h4>
-        <p style="margin-top: 5px;">Download the brochures below:</p>
-        <a href="/files/newsgallery/The%20News%20Gallery_DL%20Brochure_EN.pdf"><button class="sgds-button is-rounded is-primary">English</button></a>
+            <h4>Brochures</h4>
+            <p style="margin-top: 5px;">Download the brochures below:</p>
+                <a href="/files/newsgallery/The%20News%20Gallery_DL%20Brochure_EN.pdf">
+                    <span class="sgds-icon sgds-icon-download" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                    <div style="line-height: 150%; padding-left: 2.3rem;">English</div>
+                </a>
         </div>
     </div>
 </div>
