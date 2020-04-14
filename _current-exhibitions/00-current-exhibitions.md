@@ -22,15 +22,15 @@ collection_name: current-exhibitions
             <div class="row margin--bottom--xs">
                     <ul style="list-style: none; margin-left: 0px;">
                         <li style="margin-bottom: 1rem;">
-                            <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                            <span class="icon"><i class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></i></span>
                             <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">Exhibition runs from 14 March 2020</div>
                         </li> 
                         <li style="margin-bottom: 1rem;">
-                            <span class="sgds-icon sgds-icon-clock" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                            <span class="icon"><i class="sgds-icon sgds-icon-clock" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></i></span>
                             <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">10:00am – 9:00pm</div>
                         </li>          
                         <li style="margin-bottom: 1rem;">
-                            <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                            <span class="icon"><i class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></i></span>
                             <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">Level 11, Promenade, National Library Building</div>
                         </li>
                     </ul>
@@ -73,11 +73,11 @@ collection_name: current-exhibitions
             <div class="row margin--bottom--xs">
                     <ul style="list-style: none; margin-left: 0px;">
                         <li style="margin-bottom: 1rem;">
-                            <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                            <span class="icon"><i class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></i></span>
                             <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">This gallery is open to public during scheduled guided tours only. Please refer to <a href="https://www.nlb.gov.sg/golibrary2/c/30307529/">Golibrary</a> for tour dates.</div>
                         </li>          
                         <li style="margin-bottom: 1rem;">
-                            <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                            <span class="icon"><i class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></i></span>
                             <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">Level 13, Rare Gallery, National Library Building</div>
                         </li>
                     </ul>
