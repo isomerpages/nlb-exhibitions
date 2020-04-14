@@ -50,11 +50,11 @@ collection_name: newsgallery
         </div>
     </div>
 </div>
-</section>
+
 
 <div class="sgds-container">
     <div class="row">
-        <div class="col is-full">
+        <div class="col is-full padding--top--lg">
         <h4>Brochures</h4>
         <p style="margin-top: 5px;">Download the brochures below:</p>
         <a href="/files/newsgallery/The%20News%20Gallery_DL%20Brochure_EN.pdf"><button class="sgds-button is-rounded is-primary">English</button></a>
