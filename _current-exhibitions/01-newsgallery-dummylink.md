@@ -7,4 +7,3 @@ collection_name: current-exhibitions
 
 ---
 
-# This is a left nav link from current exh
