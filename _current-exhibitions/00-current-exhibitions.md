@@ -49,9 +49,9 @@ collection_name: current-exhibitions
 </section>
 
 <section class="sgds-section">
-<div class="sgds-container">
+<div class="sgds-container padding--lg">
     <div class="row">
-        <div class="col is-12" style="margin-top: 3px; padding: 2px 0; background-color: #efefef;">
+        <div class="col is-12" style="background-color: #efefef;">
         </div>
     </div>
 </div>
