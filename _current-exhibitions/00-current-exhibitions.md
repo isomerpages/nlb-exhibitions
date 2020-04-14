@@ -72,14 +72,10 @@ collection_name: current-exhibitions
             <div class="row margin--bottom--xs">
                     <ul style="list-style: none; margin-left: 0px;">
                         <li style="margin-bottom: 1rem;">
-                            <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                            &nbsp;
-                            <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">This gallery is open to public during scheduled guided tours only. Please refer to <a href="https://www.nlb.gov.sg/golibrary2/c/30307529/">Golibrary</a> for tour dates.</div>
+                            <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>&nbsp;<div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">This gallery is open to public during scheduled guided tours only. Please refer to <a href="https://www.nlb.gov.sg/golibrary2/c/30307529/">Golibrary</a> for tour dates.</div>
                         </li>          
                         <li style="margin-bottom: 1rem;">
-                            <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                            &nbsp;
-                            <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">Level 13, Rare Gallery, National Library Building</div>
+                            <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>&nbsp;<div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">Level 13, Rare Gallery, National Library Building</div>
                         </li>
                     </ul>
             </div>
