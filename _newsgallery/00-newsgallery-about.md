@@ -55,12 +55,9 @@ collection_name: newsgallery
 <div class="sgds-container">
     <div class="row">
         <div class="col is-full">
-        <h3>Brochure</h3>
-        <p>Download the brochures below:</p>
-        <button class="sgds-button">
-            <span class="icon"><i class="sgds-icon sgds-icon-download"></i></span>
-            <span><a href="/files/newsgallery/The%20News%20Gallery_DL%20Brochure_EN.pdf">English</a></span>
-        </button>
+        <h4>Brochures</h4>
+        <p style="margin-top: 5px;">Download the brochures below:</p>
+        <a href="/files/newsgallery/The%20News%20Gallery_DL%20Brochure_EN.pdf"><button class="sgds-button is-rounded is-primary">English</button></a>
         </div>
     </div>
 </div>
