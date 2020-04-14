@@ -57,7 +57,9 @@ collection_name: newsgallery
         <div class="col is-full padding--top--lg">
             <h4>Brochures</h4>
             <p style="margin-top: 5px;">Download the brochures below:</p>
-            <p><a href="/files/newsgallery/The%20News%20Gallery_DL%20Brochure_EN.pdf">English (1.7mb)</a></p>
+            <ul>
+            <li><a href="/files/newsgallery/The%20News%20Gallery_DL%20Brochure_EN.pdf">English (1.7mb)</a></li>
+            </ul>
         </div>
     </div>
 </div>
