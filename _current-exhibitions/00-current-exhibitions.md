@@ -71,7 +71,7 @@ collection_name: current-exhibitions
         <div class="col is-two-thirds padding--bottom--xs">
             <div class="row margin--bottom--xs">
                     <ul style="list-style: none; margin-left: 0px;">
-                        <li><span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; padding-right: 5px; vertical-align: middle;"></span> <div style="font-size: small; line-height: 50%; padding-left: 1.5rem; text-indent: -1.5rem;">This gallery is open to public during scheduled guided tours only. Please refer to <a href="https://www.nlb.gov.sg/golibrary2/c/30307529/">Golibrary</a> for tour dates.</div></li>
+                        <li><span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; padding-right: 5px; vertical-align: middle;"></span> <div style="font-size: 80%; line-height: 80%;">This gallery is open to public during scheduled guided tours only. Please refer to <a href="https://www.nlb.gov.sg/golibrary2/c/30307529/">Golibrary</a> for tour dates.</div></li>
                     </ul>
             </div>
         </div>
