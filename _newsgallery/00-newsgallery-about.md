@@ -27,7 +27,7 @@ collection_name: newsgallery
                     </li> 
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-clock" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem;">10.00am – 9.00pm</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">10:00am – 9:00pm</div>
                     </li>          
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
@@ -56,7 +56,7 @@ collection_name: newsgallery
     <div class="row">
         <div class="col is-full padding--top--lg">
             <h4>Brochures</h4>
-            <p style="margin-top: 5px;">Download the brochures below:</p>
+            <p style="margin-top: 5px;">Download the exhibition brochures below:</p>
             <ul>
             <li><a href="/files/newsgallery/The%20News%20Gallery_DL%20Brochure_EN.pdf">English (1.7mb)</a></li>
             </ul>
