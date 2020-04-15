@@ -4,7 +4,7 @@ title: "Programmes"
 permalink: /exhibitions/past-exhibitions/onpaper/programmes/
 breadcrumb: "Programmes"
 collection_name: onpaper
-second_nav_title: "The News Gallery: Beyond Headlines"
+second_nav_title: "On Paper: Singapore Before 1867"
 
 ---
 
