@@ -11,7 +11,7 @@ collection_name: newsgallery
 <div class="sgds-container">
     <div class="row">
         <div class="col is-full">
-            <img src="/images/event-images/newsgallery/TNG_1200x675.jpg" alt="A computer-render of the News Gallery">
+            <img src="/images/event-images/newsgallery/TNG_about.jpg" alt="A photo showing an overview of the News Gallery">
         </div>
     </div>
     <div class="row">
