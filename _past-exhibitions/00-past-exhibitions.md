@@ -20,7 +20,7 @@ collection_name: past-exhibitions
         </div>
         <div class="col is-two-thirds padding--bottom--xs">
             <div class="row margin--bottom--xs">
-                    <ul style="list-style: none; margin-left: 0px;">
+                    <ul style="list-style: none; margin-left: 5px;">
                         <li style="margin-bottom: 1rem;">
                             <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
                             <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">28 September 2019 – 22 March 2020</div>
@@ -49,7 +49,7 @@ collection_name: past-exhibitions
         <div class="col is-12">
             <p>On Paper: Singapore Before 1867 features over 150 paper-based artefacts that tell the story of Singapore’s early history – from a 17th-century Portuguese navigational chart that points to the existence of a Shahbandar (harbour master) on Singapore island to the key document that established the Straits Settlements as a Crown Colony of Britain on 1 April 1867.
             </p>
-            <a href="/exhibitions/current-exhibitions/newsgallery/" style="color:#E21216;"><h5>MORE INFORMATION &#187;</h5></a>
+            <a href="/exhibitions/past-exhibitions/onpaper/" style="color:#E21216;"><h5>MORE INFORMATION &#187;</h5></a>
         </div>
     </div>
 </div>
