@@ -16,7 +16,7 @@ collection_name: past-exhibitions
     </div>
     <div class="row margin--bottom--xs">
         <div class="col">
-            <img src="/images/event-images/onpaper/On-Paper-thumbnail.jpg" alt="On Paper: Singapore Before 1867 thumbnail" style="border-radius: 10%;">
+            <img src="/images/event-images/onpaper/On-Paper-thumbnail.jpg" alt="On Paper: Singapore Before 1867 thumbnail" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
         </div>
         <div class="col is-two-thirds padding--bottom--xs">
             <div class="row margin--bottom--xs">
