@@ -40,7 +40,7 @@ collections:
     output: true
   online-exhibitions:
     output: true
-  past-exhibition:
+  past-exhibitions:
     output: true
   newsgallery:
     output: true
