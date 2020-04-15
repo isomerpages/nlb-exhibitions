@@ -46,4 +46,6 @@ collections:
     output: true
   rarecollectiongallery:
     output: true
+  onpaper:
+    output: true
 
