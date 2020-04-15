@@ -25,8 +25,8 @@ collection_name: online-exhibitions
         <div class="col is-12" style="margin-top: 10px;">
             <p>Modelled after a department store, this exhibition highlights advertisements promoting a myriad of products, services and brands that once saturated Singapore’s busy consumer market.
             </p>
+            <a href="http://www.nlb.gov.sg/exhibitions/sellingdreams/" style="color:#E21216;"><h5>VISIT THE ONLINE EXHIBITION &#187;</h5></a>
         </div>
-        <a href="http://www.nlb.gov.sg/exhibitions/sellingdreams/" target="_blank" style="color:#E21216;"><h5>VISIT THE ONLINE EXHIBITION &#187;</h5></a>
     </div>
 </div>
 </section>
