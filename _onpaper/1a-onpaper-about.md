@@ -208,10 +208,10 @@ second_nav_title: "On Paper: Singapore Before 1867"
     </div>
 </div>
 </section>
-
+<section class="sgds-section">
 <div class="sgds-container">
     <div class="row">
-        <div class="col is-full padding--top--lg">
+        <div class="col is-full">
             <h3>Private Tours</h3>
             <p>Interested schools or organisations can email visitnls@nlb.gov.sg for more details on private tours. Book early to secure a tour slot!</p>
         </div>
