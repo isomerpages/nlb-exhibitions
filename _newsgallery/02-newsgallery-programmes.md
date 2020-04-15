@@ -15,15 +15,9 @@ collection_name: newsgallery
         <td>The event is cancelled.</td>
     </tr>
     <tr>
-        <td>Lorem ipsum dolor.</td>
-        <td>Lorem ipsum dolor.</td>
-        <td>Lorem ipsum dolor.</td>
-        <td>Lorem ipsum dolor.</td>
-    </tr>
-    <tr>
-        <td>Lorem ipsum dolor.</td>
-        <td>Lorem ipsum dolor.</td>
-        <td>Lorem ipsum dolor.</td>
-        <td>Lorem ipsum dolor.</td>
+        <td>18 Apr | 3:00pm</td>
+        <td>Tour</td>
+        <td>Docent-led tour</td>
+        <td><a href="#">Information &#38; Registration</a></td>
     </tr>
 </table>
