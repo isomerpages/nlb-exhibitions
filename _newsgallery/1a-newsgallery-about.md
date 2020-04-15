@@ -59,10 +59,10 @@ second_nav_title: "The News Gallery: Beyond Headlines"
         <div class="col is-full padding--top--lg">
             <h4>Brochures</h4>
             <p style="margin-top: 5px;">Download the exhibition brochure below:</p>
-            <ul>
-            <li style="margin-bottom: 1rem;">
-                <a href="/files/newsgallery/The%20News%20Gallery_DL%20Brochure_EN.pdf" style="color:#E21216;">English brochure (1.7mb)</a>
-            </li> 
+            <ul style="list-style: none; margin-left: 0px;">
+                <li style="margin-bottom: 1rem;">
+                    <a href="/files/newsgallery/The%20News%20Gallery_DL%20Brochure_EN.pdf" style="color:#E21216;">English brochure (1.7mb)</a>
+                </li> 
             </ul>
         </div>
     </div>

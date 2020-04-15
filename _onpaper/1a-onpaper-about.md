@@ -65,7 +65,8 @@ second_nav_title: "On Paper: Singapore Before 1867"
                             <a href="/files/onpaper/NLB-On-Paper-exhibition-guide_EN.pdf" style="color:#E21216;">English exhibition guide (1.39mb)</a>
                         </li>                        
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/onpaper/NLB-On-Paper-exhibition-guide_MA.pdf" style="color:#E21216;">Malay exhibition guide (1.06mb)</a>                        
+                            <a href="/files/onpaper/NLB-On-Paper-exhibition-guide_MA.pdf" style="color:#E21216;">Malay exhibition guide (1.06mb)</a> 
+                        </li>
                         <li style="margin-bottom: 1rem;">
                             <a href="/files/onpaper/NLB-On-Paper-exhibition-guide_ZH.pdf" style="color:#E21216;">Chinese exhibition guide (1.08mb)</a>
                         </li>                         
