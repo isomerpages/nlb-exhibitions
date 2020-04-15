@@ -113,9 +113,9 @@ second_nav_title: "On Paper: Singapore Before 1867"
                         <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
                         <div style="line-height: 150%; padding-left: 2.3rem;">Level 1, Lobby, National Library Building</div>
                     </li>                    
-                    </ul>
-                </div>
+                </ul>
             </div>
+        </div>
 </div>
 
 <div class="sgds-container">
@@ -125,6 +125,6 @@ second_nav_title: "On Paper: Singapore Before 1867"
         </div>
     </div>
 </div>
-
+</section>
 
 
