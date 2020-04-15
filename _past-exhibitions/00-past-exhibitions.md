@@ -1,34 +1,22 @@
 ---
 layout: leftnav-page-content
-title: Current Exhibitions
-permalink: /exhibitions/current-exhibitions/
-breadcrumb: Current Exhibitions
-collection_name: current-exhibitions
+title: Past Exhibitions
+permalink: /exhibitions/past-exhibitions/
+breadcrumb: Past Exhibitions
+collection_name: past-exhibitions
 
 ---
-
-<section class="sgds-section-notice">
-<div class="sgds-container" style="padding: 0 0 32px 0;">
-    <div class="row">
-        <div class="col is-12" style="background-color: #E21216;">
-            <span class="sgds-icon sgds-icon-triangle-warning" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle; color: #ffffff"></span>
-            <div style="line-height: 150%; padding-left: 2.3rem; color: #ffffff">Due to COVID-19 measures, the exhibitions are temporarily closed from 7 Apr - 4 May 2020.</div>
-        </div>
-    </div>
-</div>
-</section>
-
 
 <section class="sgds-section-exhibition">
 <div class="sgds-container">
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
-            <h3><strong>The News Gallery: Beyond Headlines</strong></h3>
+            <h3><strong>On Paper: Singapore Before 1867</strong></h3>
         </div>
     </div>
     <div class="row margin--bottom--xs">
         <div class="col">
-            <img src="/images/event-images/newsgallery/news-gallery-thumbnail.jpg" alt="The News Gallery: Beyond Headlines thumbnail" style="border-radius: 10%">
+            <img src="/images/event-images/newsgallery/news-gallery-thumbnail.jpg" alt="The News Gallery: Beyond Headlines thumbnail">
         </div>
         <div class="col is-two-thirds padding--bottom--xs">
             <div class="row margin--bottom--xs">
