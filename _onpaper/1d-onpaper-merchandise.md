@@ -8,10 +8,27 @@ second_nav_title: "On Paper: Singapore Before 1867"
 
 ---
 
-![Photo of the News Gallery's introduction wall. Tall multimedia touchscreens next to it are featuring 'behind the scenes' information on news articles.](/images/event-images/newsgallery/news-gallery-image_1.jpg)
+<p>In conjunction with the exhibition, On Paper: Singapore before 1867, three limited edition prints are now available for purchase.</p>
 
-![Photo of the News Gallery's 'Behind Every Story' section. It features sliding handles to display different images, along with tall multimedia touchscreens. A showcase featuring physical news articles is in the foreground.](/images/event-images/newsgallery/news-gallery-image_2.jpg)
+<p>All prints measure 40.5cm by 30.5cm, and are printed on archival grade paper.</p>
 
-![Photo of the News Gallery's 'Fake News Busters' section. It is an interactive game with four player stations.](/images/event-images/newsgallery/news-gallery-image_3.jpg)
+<p>Prints can be purchased online for collection at Level 8 of the Lee Kong Chian Reference Library in the National Library Building, 10am – 9pm, daily. There is no mailing service available.</p>
 
-![Photo of the News Gallery's rare item showcase, featuring decades-old newspapers.](/images/event-images/newsgallery/news-gallery-image_4.jpg)
+<section class="sgds-section-break">
+<div class="sgds-container padding--lg">
+    <div class="row">
+        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
+        </div>
+    </div>
+</div>
+</section>
+
+<center>
+<img src="/images/event-images/onpaper/On-Paper-merchandise-view-from-the-mouth-of-the-singapore-river.jpg/" alt="“View from the mouth of the Singapore River”, Sketch by François-Edmond Pâris and engraved by Sigismond Himley (1835)">
+
+<p>“View from the mouth of the Singapore River”, Sketch by François-Edmond Pâris and engraved by Sigismond Himley (1835)</p>
+<p>$19.90 (inclusive of GST)</p>
+
+<a href="https://www.nas.gov.sg/archivesonline/photographs/record-details/3b3dc317-2174-11ea-a1ea-001a4a5ba61b" style="color:#E21216;"><p>Purchase at NAS Archives Online</p></a>
+    
+</center>
