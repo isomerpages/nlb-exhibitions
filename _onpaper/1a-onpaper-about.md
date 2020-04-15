@@ -52,6 +52,8 @@ second_nav_title: "On Paper: Singapore Before 1867"
 
 <div class="sgds-container">
      <div class="row margin--bottom--xs">
+            <h4>Brochures and Exhibition Guides</h4>
+            <p style="margin-top: 5px;">Download the brochures and exhibition guides below:</p>
                     <ul style="list-style: none; margin-left: 5px; color: #E21216">
                         <li style="margin-bottom: 1rem;">
                             <a href="/files/onpaper/On-Paper-eBrochure-Sep-Dec-2019.pdf" style="color:#E21216;">English exhibition brochure (1.35mb)</a>
@@ -122,10 +124,39 @@ second_nav_title: "On Paper: Singapore Before 1867"
 <div class="sgds-container">
     <div class="row">
         <div class="col is-full padding--top--lg">
-        <p><em><strong>Curiocity</strong></em> explores one of Singapore’s most iconic and historical districts – Raffles Place. CurioCity presents photographs, books, building plans, archival footage as well as oral history records exploring the evolution of and memories associated with the city’s commercial centre.</p>
+        <p><em><strong>Curiocity</strong></em> explores one of Singapore’s most iconic and historical districts – Raffles Place. <em>CurioCity</em> presents photographs, books, building plans, archival footage as well as oral history records exploring the evolution of and memories associated with the city’s commercial centre.</p>
         </div>
     </div>
 </div>
 </section>
 
-
+<section class="sgds-section-about">
+<div class="sgds-container">
+    <div class="row">
+        <div class="col is-full" style="padding: 0 0 12px 0;">
+            <img src="/images/event-images/onpaper/An-Island-by-Any-Other-Name_1000x550.jpg" alt="A title card for An Island By Any Other Name">
+        </div>
+    </div>
+    <div class="row margin--bottom--xs">
+        <div class="col is-12 padding--xs">
+            <h3><strong>An island by any other name…</strong></h3>
+        </div>
+    </div>
+        <div class="row">
+            <div class="col" style="border-top: 5px solid #E21216; border-bottom: 5px solid #E21216;">
+                <ul style="list-style: none; margin-left: 0px;">
+                    <li style="margin-bottom: 1rem;">
+                        <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">21 August 2019 – 24 March 2020</div>
+                    </li> 
+                    <li style="margin-bottom: 1rem;">
+                        <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">Central Public Library | 21 August to 29 October 2019</div>
+                    </li>                    
+                    <li style="margin-bottom: 1rem;">
+                        <div style="line-height: 150%; padding-left: 2.3rem;">Tampines Regional Library | 22 August to 30 October 2019</div>
+                    </li>                    
+                </ul>
+            </div>
+        </div>
+</div>
