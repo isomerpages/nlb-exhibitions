@@ -14,6 +14,17 @@ second_nav_title: "On Paper: Singapore Before 1867"
 
 <p>Prints can be purchased online for collection at Level 8 of the Lee Kong Chian Reference Library in the National Library Building, 10am – 9pm, daily. There is no mailing service available.</p>
 
+<section class="sgds-section-notice">
+<div class="sgds-container" style="padding: 0 0 32px 0;">
+    <div class="row">
+        <div class="col is-12" style="background-color: #E21216;">
+            <span class="sgds-icon sgds-icon-triangle-warning" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle; color: #ffffff"></span>
+            <div style="line-height: 150%; padding-left: 2.3rem; color: #ffffff">Due to COVID-19 measures, the National Library Building is temporarily closed from 7 Apr - 4 May 2020.</div>
+        </div>
+    </div>
+</div>
+</section>
+
 <section class="sgds-section-break">
 <div class="sgds-container padding--lg">
     <div class="row">
