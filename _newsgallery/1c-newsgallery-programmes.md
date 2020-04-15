@@ -4,6 +4,7 @@ title: "Programmes"
 permalink: /exhibitions/current-exhibitions/newsgallery/programmes/
 breadcrumb: "Programmes"
 collection_name: newsgallery
+second_nav_title: "The News Gallery: Beyond Headlines"
 
 ---
 

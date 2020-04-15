@@ -4,6 +4,7 @@ title: "Gallery"
 permalink: /exhibitions/current-exhibitions/newsgallery/gallery/
 breadcrumb: "Gallery"
 collection_name: newsgallery
+second_nav_title: "The News Gallery: Beyond Headlines"
 
 ---
 
