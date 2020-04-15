@@ -8,10 +8,9 @@ second_nav_title: "On Paper: Singapore Before 1867"
 
 ---
 
-![Photo of the News Gallery's introduction wall. Tall multimedia touchscreens next to it are featuring 'behind the scenes' information on news articles.](/images/event-images/newsgallery/news-gallery-image_1.jpg)
+<h2>Exhibition Highlights</h2>
 
-![Photo of the News Gallery's 'Behind Every Story' section. It features sliding handles to display different images, along with tall multimedia touchscreens. A showcase featuring physical news articles is in the foreground.](/images/event-images/newsgallery/news-gallery-image_2.jpg)
+<p>Click on the image below for full-view.</p>
 
-![Photo of the News Gallery's 'Fake News Busters' section. It is an interactive game with four player stations.](/images/event-images/newsgallery/news-gallery-image_3.jpg)
+<a href="/images/event-images/onpaper/On-Paper-exhibition-highlights-high.jpg"><img src="/images/event-images/onpaper/On-Paper-exhibition-highlights-low.jpg" alt="An image with selected exhibition artefacts and its brief information."></a>
 
-![Photo of the News Gallery's rare item showcase, featuring decades-old newspapers.](/images/event-images/newsgallery/news-gallery-image_4.jpg)
