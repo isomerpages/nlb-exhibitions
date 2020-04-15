@@ -1,29 +1,17 @@
 ---
 layout: leftnav-page-content
-title: Current Exhibitions
-permalink: /exhibitions/current-exhibitions/
-breadcrumb: Current Exhibitions
-collection_name: current-exhibitions
+title: Online Exhibitions
+permalink: /exhibitions/online-exhibitions/
+breadcrumb: Online Exhibitions
+collection_name: online-exhibitions
 
 ---
-
-<section class="sgds-section-notice">
-<div class="sgds-container" style="padding: 0 0 32px 0;">
-    <div class="row">
-        <div class="col is-12" style="background-color: #E21216;">
-            <span class="sgds-icon sgds-icon-triangle-warning" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle; color: #ffffff"></span>
-            <div style="line-height: 150%; padding-left: 2.3rem; color: #ffffff">Due to COVID-19 measures, the exhibitions are temporarily closed from 7 Apr - 4 May 2020.</div>
-        </div>
-    </div>
-</div>
-</section>
-
 
 <section class="sgds-section-exhibition">
 <div class="sgds-container">
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
-            <h3><strong>The News Gallery: Beyond Headlines</strong></h3>
+            <h3><strong>Selling Dreams: Early Advertising in Singapore</strong></h3>
         </div>
     </div>
     <div class="row margin--bottom--xs">
@@ -47,12 +35,6 @@ collection_name: current-exhibitions
                         </li>
                     </ul>
             </div>
-        </div>
-    </div>
-</div>
-<div class="sgds-container">
-    <div class="row">
-        <div class="col is-3" style="padding: 5px 0; background-color: #efefef;">
         </div>
     </div>
 </div>
