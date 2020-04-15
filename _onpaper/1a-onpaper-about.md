@@ -68,7 +68,8 @@ second_nav_title: "On Paper: Singapore Before 1867"
                 <div class="row margin--bottom--xs">
                     <ul style="list-style: none; margin-left: 5px; color: #E21216">
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/onpaper/On-Paper-eBrochure-Sep-Dec-2019.pdf">English exhibition brochure (with programmes from September - December 2019) (1.35mb)</a>
+                            <a href="/files/onpaper/On-Paper-eBrochure-Sep-Dec-2019.pdf" style="color:#E21216;">English exhibition brochure</a>
+                            <div style="line-height: 150%; padding-left: 2.3rem;">(with programmes from September - December 2019) (1.35mb)</div>
                         </li> 
                     </ul>
             </div>
