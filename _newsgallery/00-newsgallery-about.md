@@ -1,14 +1,19 @@
 ---
 layout: leftnav-page-content
-title: "The News Gallery: Beyond Headlines"
+title: "About"
 permalink: /exhibitions/current-exhibitions/newsgallery/
-breadcrumb: "The News Gallery: Beyond Headlines"
+breadcrumb: "About"
 collection_name: newsgallery
 
 ---
 
 <section class="sgds-section-about">
 <div class="sgds-container">
+    <div class="row">
+        <div class="col is-full">
+            <img src="/images/event-images/newsgallery/TNG_1200x355.jpg" alt="A title card labelled The News Gallery">
+        </div>
+    </div>    
     <div class="row">
         <div class="col is-full">
             <img src="/images/event-images/newsgallery/TNG_about.jpg" alt="A photo showing an overview of the News Gallery">
