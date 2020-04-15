@@ -28,11 +28,11 @@ collection_name: current-exhibitions
     </div>
     <div class="row margin--bottom--xs">
         <div class="col">
-            <img src="/images/event-images/newsgallery/news-gallery-thumbnail.jpg" alt="The News Gallery: Beyond Headlines thumbnail" style="border-radius: 10%;">
+            <img src="/images/event-images/newsgallery/news-gallery-thumbnail.jpg" alt="The News Gallery: Beyond Headlines thumbnail" style="border-radius: 10%; box-shadow: 4px 4px #FF5733;">
         </div>
         <div class="col is-two-thirds padding--bottom--xs">
             <div class="row margin--bottom--xs">
-                    <ul style="list-style: none; margin-left: 0px;">
+                    <ul style="list-style: none; margin-left: 5px;">
                         <li style="margin-bottom: 1rem;">
                             <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
                             <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">Exhibition runs from 14 March 2020</div>
@@ -85,11 +85,11 @@ collection_name: current-exhibitions
     </div>
     <div class="row margin--bottom--xs">
         <div class="col">
-            <img src="/images/event-images/rarecollection/the-rare-collection-gallery-thumbnail.jpg" alt="The Rare Collection Gallery thumbnail" style="border-radius: 10%; outline: 4px solid #E21216; outline-offset: 15px;">
+            <img src="/images/event-images/rarecollection/the-rare-collection-gallery-thumbnail.jpg" alt="The Rare Collection Gallery thumbnail" style="border-radius: 10%; box-shadow: 4px 4px #FF5733;">
         </div>
         <div class="col is-two-thirds padding--bottom--xs">
             <div class="row margin--bottom--xs">
-                    <ul style="list-style: none; margin-left: 0px;">
+                    <ul style="list-style: none; margin-left: 5px;">
                         <li style="margin-bottom: 1rem;">
                             <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
                             <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">This gallery is open to public during scheduled guided tours only. Please refer to <a href="https://www.nlb.gov.sg/golibrary2/c/30307529/">Golibrary</a> for tour dates.</div>
