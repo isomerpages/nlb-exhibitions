@@ -42,10 +42,6 @@ second_nav_title: "The News Gallery: Beyond Headlines"
                     </ul>
                 </div>
             </div>
-    <div class="row">
-        <div class="col is-12" style="padding: 2px 0; background-color: #E21216;">
-        </div>
-    </div>
 </div>
     
 <div class="sgds-container">
