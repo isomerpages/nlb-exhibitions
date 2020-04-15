@@ -28,7 +28,7 @@ collection_name: current-exhibitions
     </div>
     <div class="row margin--bottom--xs">
         <div class="col">
-            <img src="/images/event-images/newsgallery/news-gallery-thumbnail.jpg" alt="The News Gallery: Beyond Headlines thumbnail" style="border-radius: 10%; box-shadow: 4px 4px #FF5733;">
+            <img src="/images/event-images/newsgallery/news-gallery-thumbnail.jpg" alt="The News Gallery: Beyond Headlines thumbnail" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
         </div>
         <div class="col is-two-thirds padding--bottom--xs">
             <div class="row margin--bottom--xs">
@@ -85,7 +85,7 @@ collection_name: current-exhibitions
     </div>
     <div class="row margin--bottom--xs">
         <div class="col">
-            <img src="/images/event-images/rarecollection/the-rare-collection-gallery-thumbnail.jpg" alt="The Rare Collection Gallery thumbnail" style="border-radius: 10%; box-shadow: 4px 4px #FF5733;">
+            <img src="/images/event-images/rarecollection/the-rare-collection-gallery-thumbnail.jpg" alt="The Rare Collection Gallery thumbnail" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
         </div>
         <div class="col is-two-thirds padding--bottom--xs">
             <div class="row margin--bottom--xs">
