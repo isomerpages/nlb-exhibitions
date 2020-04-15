@@ -51,8 +51,8 @@ collection_name: current-exhibitions
     </div>
 </div>
 <div class="sgds-container">
-    <div class="row">
-        <div class="col is-3" style="padding: 5px 0; background-color: #efefef;">
+    <div class="row" style="margin: 5px 0;">
+        <div class="col is-2" style="padding: 5px 0; background-color: #efefef;">
         </div>
     </div>
 </div>
@@ -100,6 +100,12 @@ collection_name: current-exhibitions
                         </li>
                     </ul>
             </div>
+        </div>
+    </div>
+</div>
+<div class="sgds-container">
+    <div class="row" style="margin: 5px 0;">
+        <div class="col is-2" style="padding: 5px 0; background-color: #efefef;">
         </div>
     </div>
 </div>
