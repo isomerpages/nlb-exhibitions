@@ -11,7 +11,7 @@ collection_name: online-exhibitions
 <div class="sgds-container">
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
-            <h3><strong>Selling Dreams : Early Advertising in Singapore</strong></h3>
+            <h3><strong>Selling Dreams: Early Advertising in Singapore</strong></h3>
         </div>
     </div>
     <div class="row">
@@ -19,12 +19,6 @@ collection_name: online-exhibitions
             <img src="/images/event-images/sellingdreams/selling-dreams-main-image.jpg" alt="A title card labelled Selling Dreams">
         </div>
     </div>   
-</div>
-<div class="sgds-container">
-    <div class="row" style="margin: 5px 0;">
-        <div class="col is-2" style="padding: 5px 0; background-color: #efefef;">
-        </div>
-    </div>
 </div>
 <div class="sgds-container">
     <div class="row is-multiline">
