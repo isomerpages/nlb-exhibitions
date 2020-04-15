@@ -11,21 +11,17 @@ second_nav_title: "The News Gallery: Beyond Headlines"
 <section class="sgds-section-about">
 <div class="sgds-container">
     <div class="row">
-        <div class="col is-full">
+        <div class="col is-full" style="border-bottom-width: 15px; border-bottom-color: red; border-bottom-style: solid; padding: 12px 0 0 0;">
             <img src="/images/event-images/newsgallery/TNG_1200x355.jpg" alt="A title card labelled The News Gallery">
         </div>
     </div>    
     <div class="row">
-        <div class="col is-full">
+        <div class="col is-full" style="padding: 0 0 12px 0;">
             <img src="/images/event-images/newsgallery/TNG_about.jpg" alt="A photo showing an overview of the News Gallery">
         </div>
     </div>
-    <div class="row">
-        <div class="col is-12" style="padding: 2px 0; background-color: #E21216;">
-        </div>
-    </div>
         <div class="row">
-            <div class="col">
+            <div class="col" style="bordertop: 2px solid #E21216; border-bottom: 2px solid #E21216;">
                 <ul style="list-style: none; margin-left: 0px;">
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
@@ -38,6 +34,10 @@ second_nav_title: "The News Gallery: Beyond Headlines"
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
                         <div style="line-height: 150%; padding-left: 2.3rem;">Level 11, Promenade, National Library Building</div>
+                    </li>                    
+                    <li style="margin-bottom: 1rem;">
+                        <span class="sgds-icon sgds-icon-triangle-warning" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle; color: #E21216"></span>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">Due to COVID-19 measures, the exhibitions are temporarily closed from 7 Apr - 4 May 2020.</div>
                     </li>
                     </ul>
                 </div>
