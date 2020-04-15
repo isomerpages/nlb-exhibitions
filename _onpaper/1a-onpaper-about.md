@@ -51,7 +51,8 @@ second_nav_title: "On Paper: Singapore Before 1867"
 
 
 <div class="sgds-container">
-     <div class="row margin--bottom--xs">
+    <div class="row">
+        <div class="col is-full padding--top--lg">
             <h4>Brochures and Exhibition Guides</h4>
             <p style="margin-top: 5px;">Download the brochures and exhibition guides below:</p>
                     <ul style="list-style: none; margin-left: 5px; color: #E21216">
@@ -77,6 +78,7 @@ second_nav_title: "On Paper: Singapore Before 1867"
                         </li> 
                     </ul>
             </div>
+    </div>
 </div>
 </section>
 
@@ -130,6 +132,15 @@ second_nav_title: "On Paper: Singapore Before 1867"
 </div>
 </section>
 
+<section class="sgds-section-break">
+<div class="sgds-container padding--lg">
+    <div class="row">
+        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
+        </div>
+    </div>
+</div>
+</section>
+
 <section class="sgds-section-about">
 <div class="sgds-container">
     <div class="row">
@@ -156,7 +167,55 @@ second_nav_title: "On Paper: Singapore Before 1867"
                     <li style="margin-bottom: 1rem;">
                         <div style="line-height: 150%; padding-left: 2.3rem;">Tampines Regional Library | 22 August to 30 October 2019</div>
                     </li>                    
+                    <li style="margin-bottom: 1rem;">
+                        <div style="line-height: 150%; padding-left: 2.3rem;">Ang Mo Kio Public Library | 30 October to 16 December 2019</div>
+                    </li>                       
+                    <li style="margin-bottom: 1rem;">
+                        <div style="line-height: 150%; padding-left: 2.3rem;">Geylang Public Library | 31 October to 17 December 2019</div>
+                    </li>                     
+                    <li style="margin-bottom: 1rem;">
+                        <div style="line-height: 150%; padding-left: 2.3rem;">Woodlands Regional Library | 17 December 2019 to 29 January 2020</div>
+                    </li>                     
+                    <li style="margin-bottom: 1rem;">
+                        <div style="line-height: 150%; padding-left: 2.3rem;">Queenstown Public Library | 18 December 2019 to 30 January 2020</div>
+                    </li>                    
+                    <li style="margin-bottom: 1rem;">
+                        <div style="line-height: 150%; padding-left: 2.3rem;">Bedok Public Library | 30 January 2020 to 23 March 2020</div>
+                    </li>                       
+                    <li style="margin-bottom: 1rem;">
+                        <div style="line-height: 150%; padding-left: 2.3rem;">Jurong Regional Library | 31 January 2020 to 24 March 2020</div>
+                    </li>                    
                 </ul>
             </div>
         </div>
 </div>
+    
+<div class="sgds-container">
+    <div class="row">
+        <div class="col is-full padding--top--lg">
+            <p>The earliest records of Singapore’s existence can be found in maps and charts that help us understand how Singapore was known to the outside world from as early as the 1400s. However, as early map makers were often unfamiliar with the region misspellings and misidentifications abounded, resulting in much confusion as to where Singapore island was and what it was called!</p>
+            <p><strong><em>An island by any other name…</em></strong> explores the various incarnations and names of Singapore on early maps from the collection of the National Library.</p>
+        </div>
+    </div>
+</div>
+</section>
+
+<section class="sgds-section-break">
+<div class="sgds-container padding--lg">
+    <div class="row">
+        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
+        </div>
+    </div>
+</div>
+</section>
+
+<div class="sgds-container">
+    <div class="row">
+        <div class="col is-full padding--top--lg">
+            <h3>Private Tours</h3>
+            <p>Interested schools or organisations can email visitnls@nlb.gov.sg for more details on private tours. Book early to secure a tour slot!</p>
+        </div>
+    </div>
+</div>
+</section>
+
