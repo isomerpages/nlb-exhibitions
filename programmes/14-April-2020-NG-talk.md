@@ -1,8 +1,9 @@
 ---
 layout: simple-page
 title: 14 April 2020
-file_url: /programmes/
-breadcrumb: Programmes
+file_url: /programmes/20200414-talk/
+breadcrumb: A Librarian’s World – Beyond The News Gallery
+
 ---
 #### A Librarian’s World – Beyond The News Gallery
 
