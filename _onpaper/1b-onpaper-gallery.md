@@ -22,4 +22,4 @@ second_nav_title: "On Paper: Singapore Before 1867"
 
 ![Photo close-up of various watercolour sketches featuring Singapore landmarks in 1800s.](/images/event-images/onpaper/On-Paper_gallery_8.jpg)
 
-![Photo close-up of the Bute map.](/images/event-images/onpaper/On-Paper_gallery_10.jpg)
+![Photo close-up of the Bute map.](/images/event-images/onpaper/On-Paper_gallery_9.jpg)
