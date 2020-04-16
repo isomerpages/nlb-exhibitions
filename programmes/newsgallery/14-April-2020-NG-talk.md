@@ -36,4 +36,4 @@ Ever wondered what librarians do? In this series of monthly talks, find out what
 
 ![A promotional image featuring the text above](/images/event-images/newsgallery/ALW_edm_exhibition-page.jpg)
 
-<small>[Return to The News Gallery page](/exhibitions/current-exhibitions/newsgallery#tab1)</small>
+<a href="/exhibitions/current-exhibitions/newsgallery" style="color:#E21216;">Return to The News Gallery exhibition page &#187;</a>

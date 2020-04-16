@@ -8,8 +8,6 @@ breadcrumb: Curator’s Tours
 
 Join our curator-led tours and discover fascinating stories from Singapore’s rich history.
 
-![A promotional image advertising the Special Curator's Tour on 17 October 2019.](/images/event-images/onpaper/A Curator's Perspective_17 Oct_eDM.jpg)
-
 __17 Oct 2019__ | &#91;Special&#93; Behind-the-Scenes: A Curator’s Perspective
 Time: 7.00pm – 8.00pm
 
@@ -21,4 +19,6 @@ Meeting point for all tours: Level 10, Gallery entrance
 Tours will be conducted in English.
 Free admission. Register at [NLB GoLibrary](www.nlb.gov.sg/golibrary)
 
-[Return to the On Paper exhibition page](/exhibitions/past-exhibitions/onpaper/)
+![A promotional image advertising the Special Curator's Tour on 17 October 2019.](/images/event-images/onpaper/A Curator's Perspective_17 Oct_eDM.jpg)
+
+<a href="/exhibitions/past-exhibitions/onpaper/" style="color:#E21216;">Return to the On Paper exhibition page &#187;</a>
