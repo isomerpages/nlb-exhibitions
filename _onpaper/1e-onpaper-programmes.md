@@ -10,9 +10,9 @@ second_nav_title: "On Paper: Singapore Before 1867"
 
 <table class="table table-v">
     <tr>
-        <td>14 Apr 
-            7:00pm</td>
-        <td>Talk | A Librarian's World - Beyond the News Gallery</td>
-        <td><a href="/programmes/20200414-talk/">The event is cancelled.</a></td>
-    </tr>
+        <td>17 Oct<br>
+            7:00pm - 8:00pm</td>
+        <td>Curator's Tour | &#91;Special&#93; Behind-the-Scenes: A Curator’s Perspective</td>
+        <td><a href="/programmes/onpaper/curator-tours/">The event is over.</a></td>
+    </tr>    
 </table>
