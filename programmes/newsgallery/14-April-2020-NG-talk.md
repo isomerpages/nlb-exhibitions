@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: 14 April 2020
-permalink: /programmes/20200414-talk/
+permalink: /programmes/newsgallery/20200414-talk/
 breadcrumb: A Librarian’s World – Beyond The News Gallery
 
 ---

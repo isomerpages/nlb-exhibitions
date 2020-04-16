@@ -13,6 +13,6 @@ second_nav_title: "The News Gallery: Beyond Headlines"
         <td>14 Apr 
             7:00pm</td>
         <td>Talk | A Librarian's World - Beyond the News Gallery</td>
-        <td><a href="/programmes/20200414-talk/">The event is cancelled.</a></td>
+        <td><a href="/programmes/newsgallery/20200414-talk/">The event is cancelled.</a></td>
     </tr>
 </table>
