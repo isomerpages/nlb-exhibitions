@@ -12,7 +12,7 @@ collection_name: current-exhibitions
     <div class="row">
         <div class="col is-12" style="background-color: #E21216;">
             <span class="sgds-icon sgds-icon-triangle-warning" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle; color: #ffffff"></span>
-            <div style="line-height: 150%; padding-left: 2.3rem; color: #ffffff">Due to COVID-19 measures, the exhibitions are temporarily closed from 7 Apr - 4 May 2020.</div>
+            <div style="line-height: 150%; padding-left: 2.3rem; color: #ffffff">Due to COVID-19 measures, the exhibitions are temporarily closed from 7 Apr - 1 Jun 2020.</div>
         </div>
     </div>
 </div>
@@ -35,7 +35,7 @@ collection_name: current-exhibitions
                     <ul style="list-style: none; margin-left: 5px;">
                         <li style="margin-bottom: 1rem;">
                             <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                            <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">Exhibition runs from 14 March 2020</div>
+                            <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">Permanent exhibition</div>
                         </li> 
                         <li style="margin-bottom: 1rem;">
                             <span class="sgds-icon sgds-icon-clock" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>

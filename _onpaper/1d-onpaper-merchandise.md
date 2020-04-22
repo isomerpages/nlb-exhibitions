@@ -19,7 +19,7 @@ second_nav_title: "On Paper: Singapore Before 1867"
     <div class="row">
         <div class="col is-12" style="background-color: #E21216;">
             <span class="sgds-icon sgds-icon-triangle-warning" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle; color: #ffffff"></span>
-            <div style="line-height: 150%; padding-left: 2.3rem; color: #ffffff">Due to COVID-19 measures, the National Library Building is temporarily closed from 7 Apr - 4 May 2020.</div>
+            <div style="line-height: 150%; padding-left: 2.3rem; color: #ffffff">Due to COVID-19 measures, the National Library Building is temporarily closed from 7 Apr - 1 Jun 2020.</div>
         </div>
     </div>
 </div>
