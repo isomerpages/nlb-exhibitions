@@ -5,7 +5,7 @@
 ##################################
 
 # Favicon
-favicon: /images/cropped-nlb-favicon.png
+favicon: /images/cropped-nlb-favicon_192.png
 
 # Agency logo
 agency-logo: /images/NLB-Exhibition-Logo.jpg
@@ -42,6 +42,6 @@ info-sections:
     section-more-button: More Information
     external: false
     section-more-button-url: /exhibitions/current-exhibitions/newsgallery
-    section-image-path: /images/event-images/newsgallery/Homepage_exh-highlight_NG.png
+    section-image-path: /images/event-images/newsgallery/Homepage_exh-highlight_NG.jpg
 
 
