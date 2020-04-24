@@ -128,10 +128,9 @@ collection_name: current-exhibitions
     </div>
 </div>
 
-<div class="sgds-container__exh__card" style="
+<div class="sgds-container__exh__card is-fluid" style="
     border: 2px solid #efefef; 
     box-shadow: 0px 2px 3px #efefef; 
-    padding: 20px 20px 15px 20px;
     border-radius: 5px;
     margin-bottom: 15px;
 ">
