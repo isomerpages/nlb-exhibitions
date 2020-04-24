@@ -131,7 +131,7 @@ collection_name: current-exhibitions
 <div class="sgds-container__exh__card padding" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
         <div class="col padding--bottom--xs">
-            <h3><strong>The News Gallery: Beyond Headlines</strong></h3>
+            <h3 class="margin--bottom--sm"><strong>The News Gallery: Beyond Headlines</strong></h3>
         </div>
     </div>
     <div class="row">
@@ -159,7 +159,7 @@ collection_name: current-exhibitions
     </div>
 </div>
 
-<div class="sgds-container__exh__break padding--bottom--sm">
+<div class="sgds-container__exh__break padding">
     <div class="row">
         <div class="col is-2" style="padding: 5px 0; background-color: #efefef;">
         </div>
