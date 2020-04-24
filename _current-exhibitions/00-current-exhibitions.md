@@ -122,18 +122,13 @@ collection_name: current-exhibitions
 <div class="sgds-container__break">
     <div class="sgds-container padding--lg">
         <div class="row">
-            <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
+            <div class="col is-full" style="padding: 2px 0; background-color: #efefef;">
             </div>
         </div>
     </div>
 </div>
 
-<div class="sgds-container__exh__card is-fluid" style="
-    border: 2px solid #efefef; 
-    box-shadow: 0px 2px 3px #efefef; 
-    border-radius: 5px;
-    margin-bottom: 15px;
-">
+<div class="sgds-container__exh__card" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
         <div class="col">
             <h3><strong>The News Gallery: Beyond Headlines</strong></h3>
@@ -165,7 +160,7 @@ collection_name: current-exhibitions
 </div>
 
 <div class="sgds-container__exh__break">
-    <div class="row" style="margin: 5px 0;">
+    <div class="row">
         <div class="col is-2" style="padding: 5px 0; background-color: #efefef;">
         </div>
     </div>
@@ -173,7 +168,7 @@ collection_name: current-exhibitions
 
 <div class="sgds-container__exh__description">
     <div class="row is-multiline">
-        <div class="col is-full">
+        <div class="col">
             <p>Discover stories of Singapore newspapers in the National Library’s collection dating from the 1820s and learn about significant episodes from Singapore’s history through the perspectives of different media. Gain insights into fake news, and learn how you can be more discerning about information and media, through our rich resources on newspapers.
             </p>
             <a href="/exhibitions/current-exhibitions/newsgallery/" style="color:#E21216;"><h5>MORE INFORMATION &#187;</h5></a>
