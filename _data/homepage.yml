@@ -15,6 +15,11 @@ hero-title: "The News Gallery: Beyond Headlines"
 hero-subtitle:
 hero-banner: /images/event-images/newsgallery/TNG_hero.jpg
 
+# Call to Action Button
+button:
+  - text: Explore the exhibition
+    url: /exhibitions/current-exhibitions/newsgallery
+
 
 # Key highlights
 key-highlights:
