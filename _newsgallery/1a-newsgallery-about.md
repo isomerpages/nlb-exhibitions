@@ -25,7 +25,7 @@ second_nav_title: "The News Gallery: Beyond Headlines"
                 <ul style="list-style: none; margin-left: 0px;">
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem;">Exhibition runs from 14 March 2020</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">Permanent exhibition</div>
                     </li> 
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-clock" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
@@ -37,7 +37,7 @@ second_nav_title: "The News Gallery: Beyond Headlines"
                     </li>                    
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-triangle-warning" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle; color: #E21216"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem; color: #E21216">Due to COVID-19 measures, the exhibitions are temporarily closed from 7 Apr - 4 May 2020.</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem; color: #E21216">Due to COVID-19 measures, the exhibitions are temporarily closed from 7 Apr - 1 Jun 2020.</div>
                     </li>
                     </ul>
                 </div>
