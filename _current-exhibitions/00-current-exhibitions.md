@@ -161,7 +161,7 @@ collection_name: current-exhibitions
 
 <div class="sgds-container__exh__break padding">
     <div class="row">
-        <div class="col is-2" style="padding: 5px 0; background-color: #efefef;">
+        <div class="col is-2-tablet is-1-mobile" style="padding: 5px 0; background-color: #efefef;">
         </div>
     </div>
 </div>
