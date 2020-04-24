@@ -103,7 +103,7 @@ collection_name: current-exhibitions
         <div class="col is-two-thirds">
             <div class="row">
                     <ul style="list-style: none; margin-left: 5px;">
-                        <li style="margin-bottom: 1rem;">
+                        <li style="margin-bottom: 1rem; padding-right: 20px;">
                             <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
                             <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">This gallery is open to public during scheduled guided tours only. Please refer to <a href="https://www.nlb.gov.sg/golibrary2/c/30307529/">Golibrary</a> for tour dates.</div>
                         </li> 
@@ -117,7 +117,7 @@ collection_name: current-exhibitions
     </div>
 </div>
 
-<div class="sgds-container__exh__break padding">
+<div class="sgds-container__exh__break padding padding--bottom--lg">
     <div class="row">
         <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #efefef;">
         </div>
