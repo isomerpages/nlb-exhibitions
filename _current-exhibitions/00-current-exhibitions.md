@@ -7,6 +7,8 @@ collection_name: current-exhibitions
 
 ---
 
+<!-- COVID advisory -->
+
 <section class="sgds-section__notice">
 <div class="sgds-container" style="padding: 0 0 32px 0;">
     <div class="row">
@@ -21,7 +23,7 @@ collection_name: current-exhibitions
 
 <section class="sgds-section__exhibitions">
 
-/** News Gallery **/
+<!-- News Gallery -->
 
 <div class="sgds-container__exh__card padding" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
