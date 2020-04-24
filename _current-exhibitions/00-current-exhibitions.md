@@ -90,7 +90,7 @@ collection_name: current-exhibitions
 
 <!-- Rare Gallery -->
 
-<div class="sgds-container__exh__card padding" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+<div class="sgds-container__exh__card padding padding--bottom--lg" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
         <div class="col padding--bottom--xs">
             <h3 style="margin-bottom: 0px;"><strong>The Rare Collection Gallery</strong></h3>
@@ -117,7 +117,7 @@ collection_name: current-exhibitions
     </div>
 </div>
 
-<div class="sgds-container__exh__break padding padding--bottom--lg">
+<div class="sgds-container__exh__break padding">
     <div class="row">
         <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #efefef;">
         </div>
