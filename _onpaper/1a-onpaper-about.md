@@ -80,7 +80,7 @@ second_nav_title: "On Paper: Singapore Before 1867"
     </div>
 </div>
 
-<hr class="margin">
+<hr class="margin--sm">
 
 <div class="sgds-container__card">
     <div class="row">
@@ -121,7 +121,7 @@ second_nav_title: "On Paper: Singapore Before 1867"
     </div>
 </div>
 
-<hr class="margin">
+<hr class="margin--sm">
 
 <div class="sgds-container__card">
     <div class="row">
