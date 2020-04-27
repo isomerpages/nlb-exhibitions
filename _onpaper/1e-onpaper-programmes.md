@@ -21,9 +21,9 @@ Past: #c1c1c1
     <div class="row">
         <div class="col is-full">
             
-<h2>Past programmes</h2>
+## Past programmes
 
-<p>All events are over.</p>
+All events are over.
 
 <table class="table table-v">
     <tr>
@@ -48,10 +48,17 @@ Past: #c1c1c1
         <td><a href="/programmes/onpaper/public-tours/">The event is over.</a></td>
     </tr>     
     <tr>
+        <td style="background-color: #c1c1c1;">24 Sep<br>
+            &mdash;<br>
+            7:00pm</td>
+        <td>Tour | Southeast Asian Cosmopolitanism on its Own Terms: Banten as a Precolonial Model of a Southeast Asian Port-city</td>
+        <td><a href="/programmes/onpaper/20200924-talk/">The event is over.</a></td>
+    </tr>
+    <tr>
         <td style="background-color: #c1c1c1;">17 Oct<br>
             &mdash;<br>
             7:00pm</td>
-        <td>Tour | &#91;Special&#93; Behind-the-Scenes: A Curator’s Perspective</td>
+        <td>Talk | &#91;Special&#93; Behind-the-Scenes: A Curator’s Perspective</td>
         <td><a href="/programmes/onpaper/curator-tours/">The event is over.</a></td>
     </tr>    
 </table>

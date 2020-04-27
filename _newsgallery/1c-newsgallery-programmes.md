@@ -16,10 +16,11 @@ Past: #c1c1c1
 
 -->
 
-<h2>Upcoming programmes</h2>
-<p>There are currently no ongoing programmes available.</p>
+## Upcoming programmes
 
-<h2>Past programmes</h2>
+There are currently no ongoing programmes available.
+
+## Past programmes
 
 <table class="table table-v">
     <tr>
