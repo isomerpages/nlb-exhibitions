@@ -20,7 +20,7 @@ second_nav_title: "On Paper: Singapore Before 1867"
         </div>
     </div>
 </div>
-<div class="sgds-container__notice" style="padding: 0 0 32px 0;">
+<div class="sgds-container__notice" style="padding: 0 0 32px 0; margin-top: 10px;">
     <div class="row">
         <div class="col is-12" style="background-color: #E21216;">
             <span class="sgds-icon sgds-icon-triangle-warning" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle; color: #ffffff"></span>
