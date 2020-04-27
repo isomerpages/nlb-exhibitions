@@ -80,7 +80,12 @@ second_nav_title: "On Paper: Singapore Before 1867"
     </div>
 </div>
 
-<hr class="margin">
+<div class="sgds-container padding--lg">
+    <div class="row">
+        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
+        </div>
+    </div>
+</div>
 
 <div class="sgds-container__card">
     <div class="row">
@@ -121,7 +126,12 @@ second_nav_title: "On Paper: Singapore Before 1867"
     </div>
 </div>
 
-<hr class="margin">
+<div class="sgds-container padding--lg">
+    <div class="row">
+        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
+        </div>
+    </div>
+</div>
 
 <div class="sgds-container__card">
     <div class="row">
@@ -180,13 +190,18 @@ second_nav_title: "On Paper: Singapore Before 1867"
     </div>
 </div>
 
-<hr class="margin">
+<div class="sgds-container padding--lg">
+    <div class="row">
+        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
+        </div>
+    </div>
+</div>
 
 <div class="sgds-container__description">
     <div class="row">
         <div class="col is-full">
             <h3>Private Tours</h3>
-            <p class="margin">Interested schools or organisations can email visitnls@nlb.gov.sg for more details on private tours. Book early to secure a tour slot!</p>
+            <p style="margin-top: 10px;">Interested schools or organisations can email visitnls@nlb.gov.sg for more details on private tours. Book early to secure a tour slot!</p>
         </div>
     </div>
 </div>
