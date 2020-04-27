@@ -47,11 +47,11 @@ collection_name: online-exhibitions
     </div>
     <div class="row">
         <div class="col">
-            <img src="selling-dreams-thumbnail.jpg" alt="Selling Dreams: Early Advertising in Singapore" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
+            <img src="/images/event-images/sellingdreams/selling-dreams-thumbnail.jpg" alt="Selling Dreams: Early Advertising in Singapore" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
         </div>
         <div class="col is-two-thirds">
             <div class="row">
-                 <p>Modelled after a department store, this exhibition highlights advertisements promoting a myriad of products, services and brands that once saturated Singapore’s busy consumer market.
+                 <p style="padding-right: 20px;">Modelled after a department store, this exhibition highlights advertisements promoting a myriad of products, services and brands that once saturated Singapore’s busy consumer market.
                 </p>
             </div>
         </div>
