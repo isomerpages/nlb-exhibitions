@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
 title: "About"
-permalink: /exhibitions/current-exhibitions/newsgallery/
+permalink: /exhibitions/current-exhibitions/raregallery/
 breadcrumb: "About"
-collection_name: newsgallery
-second_nav_title: "The News Gallery: Beyond Headlines"
+collection_name: raregallery
+second_nav_title: "The Rare Collection Gallery"
 
 ---
 
@@ -72,7 +72,7 @@ second_nav_title: "The News Gallery: Beyond Headlines"
     <div class="row">
         <div class="col is-full padding--top--lg">
         <h4>Education Resources</h4>
-        <p style="margin-top: 5px;">For educational resources featuring The News Gallery exhibition, please <a href="https://sure.nlb.gov.sg/tng/the-news-gallery-learning-journey/" style="color:#E21216;">click here to access NLB's S.U.R.E. website.</a></p>
+        <p>For education resources for The News Gallery, please <a href="https://sure.nlb.gov.sg/tng/the-news-gallery-learning-journey/" style="color:#E21216;">click here.</a></p>
         </div>
     </div>
 </div>

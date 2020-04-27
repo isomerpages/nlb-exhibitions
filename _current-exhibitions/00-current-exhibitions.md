@@ -118,7 +118,7 @@ collection_name: current-exhibitions
         <div class="col">
             <p>The Rare Collection Gallery showcases treasures from the National Library’s Rare Materials Collection of valuable research materials on Singapore and Southeast Asia. Comprising over 15,000 books, journals, manuscripts, maps, photographs and ephemera, many of the items in the collection were inherited from the National Library’s predecessors – the Singapore Library (1844–1874) and the Raffles Museum and Library (1874–1960). The collection is also further enhanced by recent donations from institutions and individuals.
             </p>
-            <a href="/exhibitions/current-exhibitions/newsgallery/" style="color:#E21216;"><h5>MORE INFORMATION &#187;</h5></a>
+            <a href="/exhibitions/current-exhibitions/raregallery/" style="color:#E21216;"><h5>MORE INFORMATION &#187;</h5></a>
         </div>
     </div>
 </div>

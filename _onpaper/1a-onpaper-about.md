@@ -8,8 +8,8 @@ second_nav_title: "On Paper: Singapore Before 1867"
 
 ---
 
-<section class="sgds-section-about">
-<div class="sgds-container">
+<section class="sgds-section__about">
+<div class="sgds-container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
             <img src="/images/event-images/onpaper/On-Paper-tab-banner.jpg" alt="A title card labelled On Paper">
@@ -40,7 +40,7 @@ second_nav_title: "On Paper: Singapore Before 1867"
             </div>
 </div>
     
-<div class="sgds-container">
+<div class="sgds-container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
         <p><em><strong>On Paper: Singapore Before 1867</strong></em> features over 150 paper-based artefacts that tell the story of Singapore’s early history – from a 17th-century Portuguese navigational chart that points to the existence of a Shahbandar (harbour master) on Singapore island to the key document that established the Straits Settlements as a Crown Colony of Britain on 1 April 1867.</p>
@@ -50,7 +50,7 @@ second_nav_title: "On Paper: Singapore Before 1867"
 </div>
 
 
-<div class="sgds-container">
+<div class="sgds-container__downloads">
     <div class="row">
         <div class="col is-full padding--top--lg">
             <h4>Brochures and Exhibition Guides</h4>
@@ -80,19 +80,10 @@ second_nav_title: "On Paper: Singapore Before 1867"
             </div>
     </div>
 </div>
-</section>
 
-<section class="sgds-section-break">
-<div class="sgds-container padding--lg">
-    <div class="row">
-        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
-        </div>
-    </div>
-</div>
-</section>
+<hr class="margin--top">
 
-<section class="sgds-section-about">
-<div class="sgds-container">
+<div class="sgds-container__card">
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
             <img src="/images/event-images/onpaper/Curiocity_1000x700.jpg" alt="A title card for Curiocity">
@@ -123,7 +114,7 @@ second_nav_title: "On Paper: Singapore Before 1867"
         </div>
 </div>
 
-<div class="sgds-container">
+<div class="sgds-container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
         <p><em><strong>Curiocity</strong></em> explores one of Singapore’s most iconic and historical districts – Raffles Place. <em>CurioCity</em> presents photographs, books, building plans, archival footage as well as oral history records exploring the evolution of and memories associated with the city’s commercial centre.</p>
@@ -132,17 +123,9 @@ second_nav_title: "On Paper: Singapore Before 1867"
 </div>
 </section>
 
-<section class="sgds-section-break">
-<div class="sgds-container padding--lg">
-    <div class="row">
-        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
-        </div>
-    </div>
-</div>
-</section>
+<hr class="margin--top">
 
-<section class="sgds-section-about">
-<div class="sgds-container">
+<div class="sgds-container__card">
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
             <img src="/images/event-images/onpaper/An-Island-by-Any-Other-Name_1000x550.jpg" alt="A title card for An Island By Any Other Name">
@@ -190,7 +173,7 @@ second_nav_title: "On Paper: Singapore Before 1867"
         </div>
 </div>
     
-<div class="sgds-container">
+<div class="sgds-container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
             <p>The earliest records of Singapore’s existence can be found in maps and charts that help us understand how Singapore was known to the outside world from as early as the 1400s. However, as early map makers were often unfamiliar with the region misspellings and misidentifications abounded, resulting in much confusion as to where Singapore island was and what it was called!</p>
@@ -200,17 +183,9 @@ second_nav_title: "On Paper: Singapore Before 1867"
 </div>
 </section>
 
-<section class="sgds-section-break">
-<div class="sgds-container padding--lg">
-    <div class="row">
-        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
-        </div>
-    </div>
-</div>
-</section>
+<hr class="margin--top">
 
-<section class="sgds-section">
-<div class="sgds-container">
+<div class="sgds-container__description">
     <div class="row">
         <div class="col is-full">
             <h3>Private Tours</h3>
