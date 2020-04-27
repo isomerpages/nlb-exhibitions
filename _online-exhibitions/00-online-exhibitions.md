@@ -54,11 +54,7 @@ collection_name: online-exhibitions
                  <p style="padding: 0 20px;">Modelled after a department store, this exhibition highlights advertisements promoting a myriad of products, services and brands that once saturated Singapore’s busy consumer market.
                 </p>
             </div>
-        </div>
-    </div>
-</div>
-
-<div class="sgds-container__exh__break padding">
+            <div class="sgds-container__exh__break padding">
     <div class="row">
         <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #efefef;">
         </div>
@@ -72,6 +68,11 @@ collection_name: online-exhibitions
         </div>
     </div>
 </div>
+        </div>
+    </div>
+</div>
+
+
   
     
 </section>
