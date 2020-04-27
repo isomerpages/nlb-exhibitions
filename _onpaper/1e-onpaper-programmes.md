@@ -51,7 +51,7 @@ Past: #c1c1c1
         <td style="background-color: #c1c1c1;">24 Sep<br>
             &mdash;<br>
             7:00pm</td>
-        <td>Tour | Southeast Asian Cosmopolitanism on its Own Terms: Banten as a Precolonial Model of a Southeast Asian Port-city</td>
+        <td>Talk | Southeast Asian Cosmopolitanism on its Own Terms: Banten as a Precolonial Model of a Southeast Asian Port-city</td>
         <td><a href="/programmes/onpaper/20200924-talk/">The event is over.</a></td>
     </tr>
     <tr>

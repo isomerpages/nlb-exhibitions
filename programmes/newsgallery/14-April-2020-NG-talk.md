@@ -7,6 +7,7 @@ breadcrumb: A Librarian’s World – Beyond The News Gallery
 ---
 #### A Librarian’s World – Beyond The News Gallery
 
+
 <blockquote style="color: #E21216; font-size: 150%;">This programme has been cancelled.</blockquote>
 
 ![A Librarian's World banner, with a photo of the News Gallery as the background](/images/event-images/newsgallery/ALW_exhibition-page.jpg)
