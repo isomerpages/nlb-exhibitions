@@ -36,8 +36,8 @@ second_nav_title: "On Paper: Singapore Before 1867"
                         <div style="line-height: 150%; padding-left: 2.3rem;">Level 10, Gallery, National Library Building</div>
                     </li>                    
                     </ul>
-                </div>
             </div>
+        </div>
 </div>
     
 <div class="sgds-container__description">
@@ -77,11 +77,11 @@ second_nav_title: "On Paper: Singapore Before 1867"
                             <a href="/files/onpaper/NLB-On-Paper-exhibition-guide_TA.pdf" style="color:#E21216;">Tamil exhibition guide (834kb)</a>
                         </li> 
                     </ul>
-            </div>
+        </div>
     </div>
 </div>
 
-<hr class="margin--top">
+<hr>
 
 <div class="sgds-container__card">
     <div class="row">
@@ -121,9 +121,8 @@ second_nav_title: "On Paper: Singapore Before 1867"
         </div>
     </div>
 </div>
-</section>
 
-<hr class="margin--top">
+<hr>
 
 <div class="sgds-container__card">
     <div class="row">
@@ -181,9 +180,8 @@ second_nav_title: "On Paper: Singapore Before 1867"
         </div>
     </div>
 </div>
-</section>
 
-<hr class="margin--top">
+<hr>
 
 <div class="sgds-container__description">
     <div class="row">
@@ -193,5 +191,6 @@ second_nav_title: "On Paper: Singapore Before 1867"
         </div>
     </div>
 </div>
+
 </section>
 
