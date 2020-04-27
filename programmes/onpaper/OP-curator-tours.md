@@ -11,17 +11,14 @@ breadcrumb: Curator’s Tours
 Join our curator-led tours and discover fascinating stories from Singapore’s rich history.
 
 __17 Oct 2019__ | &#91;Special&#93; Behind-the-Scenes: A Curator’s Perspective
-<br/>
 Time: 7.00pm – 8.00pm
 
 19 Nov 2019 | 23 Jan, 20 Feb, 19 Mar 2020
-<br/>
 Time: 7.00pm – 8.00pm
 
 Meeting point for all tours: Level 10, Gallery entrance
 
 Tours will be conducted in English.
-<br/>
 Free admission. Register at [NLB GoLibrary](www.nlb.gov.sg/golibrary)
 
 ![A promotional image advertising the Special Curator's Tour on 17 October 2019.](/images/event-images/onpaper/A Curator's Perspective_17 Oct_eDM.jpg)
