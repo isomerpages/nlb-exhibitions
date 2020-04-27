@@ -10,8 +10,8 @@ breadcrumb: Public Tours Tours
 
 Join our public tours and discover fascinating stories from Singapore’s rich history.
 
-__Public Tours (English)__ | 2.00pm – 3.00pm
-__周末导览 （华语讲解）__| 下午3时至4时
+**Public Tours (English)** | 2.00pm – 3.00pm
+**周末导览 （华语讲解）** | 下午3时至4时
 
 <table>
   <tr>
@@ -81,7 +81,7 @@ __周末导览 （华语讲解）__| 下午3时至4时
 Meeting point: Level 10, Gallery entrance
 集合地点：于国家图书馆大厦10楼展厅门口
 
-Led by docents. Free admission, first-come, first-served basis. 
+Led by docents. Free admission, first-come, first-served basis.
 由义务导览员带领。入场免费，人数有限，先到先得。
 
 <a href="/exhibitions/past-exhibitions/onpaper/" style="color:#E21216;">Return to the On Paper exhibition page &#187;</a>
