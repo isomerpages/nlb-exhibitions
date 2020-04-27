@@ -8,7 +8,15 @@ second_nav_title: "The News Gallery: Beyond Headlines"
 
 ---
 
-<h2>Past programmes</h2>
+<!-- 
+
+Colours
+Upcoming: default colour
+Past: #c1c1c1
+
+-->
+
+<h2>Upcoming programmes</h2>
 <p>There are currently no ongoing programmes available.</p>
 
 <h2>Past programmes</h2>
