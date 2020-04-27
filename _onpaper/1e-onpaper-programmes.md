@@ -47,19 +47,40 @@ Past: #c1c1c1
         <td>Tour | 周末导览 （华语讲解）</td>
         <td><a href="/programmes/onpaper/public-tours/">The event is over.</a></td>
     </tr>     
+    <tr>    
+    <tr>
+        <td style="background-color: #c1c1c1;">Various<br>
+            &mdash;<br>
+            2:00pm</td>
+        <td>Workshop | Children’s Workshop</td>
+        <td><a href="/programmes/onpaper/children-workshops/">The event is over.</a></td>
+    </tr>     
     <tr>
         <td style="background-color: #c1c1c1;">24 Sep<br>
             &mdash;<br>
             7:00pm</td>
         <td>Talk | Southeast Asian Cosmopolitanism on its Own Terms: Banten as a Precolonial Model of a Southeast Asian Port-city</td>
         <td><a href="/programmes/onpaper/20200924-talk/">The event is over.</a></td>
+    </tr>    <tr>
+        <td style="background-color: #c1c1c1;">28 Sep<br>
+            &mdash;<br>
+            5:00pm</td>
+        <td>Talk | The Orang Laut in the Realm of the Straits (Negara Selat)</td>
+        <td><a href="/programmes/onpaper/20200928-talk/">The event is over.</a></td>
     </tr>
     <tr>
         <td style="background-color: #c1c1c1;">17 Oct<br>
             &mdash;<br>
             7:00pm</td>
-        <td>Talk | &#91;Special&#93; Behind-the-Scenes: A Curator’s Perspective</td>
+        <td>Tour | &#91;Special&#93; Behind-the-Scenes: A Curator’s Perspective</td>
         <td><a href="/programmes/onpaper/curator-tours/">The event is over.</a></td>
+    </tr>    
+    <tr>
+        <td style="background-color: #c1c1c1;">26 Oct<br>
+            &mdash;<br>
+            11:00am</td>
+        <td>Talk | Early Singapore in the Syair of Dissent: Tuan Simi’s Narration of Local Predicament </td>
+        <td><a href="/programmes/onpaper/20201026-talk/">The event is over.</a></td>
     </tr>    
 </table>
 
