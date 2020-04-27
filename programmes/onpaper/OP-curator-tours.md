@@ -6,7 +6,7 @@ breadcrumb: Curator’s Tours
 
 ---
 
-<blockquote>The event is over.</blockquote>
+<blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 
 Join our curator-led tours and discover fascinating stories from Singapore’s rich history.
 
