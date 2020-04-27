@@ -80,11 +80,11 @@ Join our public tours and discover fascinating stories from Singapore’s rich h
 </table>
 
 Meeting point: Level 10, Gallery entrance
-
+<br>
 集合地点：于国家图书馆大厦10楼展厅门口
 
 Led by docents. Free admission, first-come, first-served basis.
-
+<br>
 由义务导览员带领。入场免费，人数有限，先到先得。
 
 <a href="/exhibitions/past-exhibitions/onpaper/" style="color:#E21216;">Return to the On Paper exhibition page &#187;</a>
