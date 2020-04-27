@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: 24 Sep 2019
-permalink: /programmes/onpaper/curator-tours/
+permalink: /programmes/onpaper/20200924-talk/
 breadcrumb: Southeast Asian Cosmopolitanism on its Own Terms: Banten as a Precolonial Model of a Southeast Asian Port-city
 
 ---

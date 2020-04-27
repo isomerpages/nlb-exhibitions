@@ -21,9 +21,9 @@ Past: #c1c1c1
     <div class="row">
         <div class="col is-full">
             
-## Past programmes
+<h2>Past programmes</h2>
 
-All events are over.
+<p>All events are over.</p>
 
 <table class="table table-v">
     <tr>
