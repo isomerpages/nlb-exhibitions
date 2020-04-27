@@ -6,12 +6,14 @@ breadcrumb: Curator’s Tours
 
 ---
 
+<blockquote>The event is over.</blockquote>
+
 Join our curator-led tours and discover fascinating stories from Singapore’s rich history.
 
 __17 Oct 2019__ | &#91;Special&#93; Behind-the-Scenes: A Curator’s Perspective
 Time: 7.00pm – 8.00pm
 
-__19 Nov 2019__ | 23 Jan, 20 Feb, 19 Mar 2020
+19 Nov 2019 | 23 Jan, 20 Feb, 19 Mar 2020
 Time: 7.00pm – 8.00pm
 
 Meeting point for all tours: Level 10, Gallery entrance

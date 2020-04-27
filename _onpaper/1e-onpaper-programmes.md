@@ -27,10 +27,17 @@ Past: #c1c1c1
 
 <table class="table table-v">
     <tr>
+        <td style="background-color: #c1c1c1;">Various<br>
+            &mdash;<br>
+            7:00pm</td>
+        <td>Tour | Curator's Tour</td>
+        <td><a href="/programmes/onpaper/curator-tours/">The event is over.</a></td>
+    </tr>     
+    <tr>
         <td style="background-color: #c1c1c1;">17 Oct<br>
             &mdash;<br>
             7:00pm</td>
-        <td>Curator's Tour | &#91;Special&#93; Behind-the-Scenes: A Curator’s Perspective</td>
+        <td>Tour | &#91;Special&#93; Behind-the-Scenes: A Curator’s Perspective</td>
         <td><a href="/programmes/onpaper/curator-tours/">The event is over.</a></td>
     </tr>    
 </table>
