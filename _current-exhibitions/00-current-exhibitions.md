@@ -136,4 +136,6 @@ collection_name: current-exhibitions
 
 <!-- End of Rare Gallery -->
 
+<hr>
+
 </section>
