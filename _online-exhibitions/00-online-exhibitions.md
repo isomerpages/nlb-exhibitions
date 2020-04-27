@@ -51,7 +51,7 @@ collection_name: online-exhibitions
         </div>
         <div class="col is-two-thirds">
             <div class="row">
-                 <p style="padding-right: 20px;">Modelled after a department store, this exhibition highlights advertisements promoting a myriad of products, services and brands that once saturated Singapore’s busy consumer market.
+                 <p style="padding: 0 20px;">Modelled after a department store, this exhibition highlights advertisements promoting a myriad of products, services and brands that once saturated Singapore’s busy consumer market.
                 </p>
             </div>
         </div>
