@@ -75,7 +75,18 @@ collection_name: current-exhibitions
 
 <!-- End of News Gallery -->
 
-***
+<!-- Section break -->
+
+<div class="sgds-container__break">
+    <div class="sgds-container padding">
+        <div class="row">
+            <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- End of section break -->
 
 <!-- Rare Gallery -->
 

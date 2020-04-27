@@ -8,7 +8,10 @@ second_nav_title: "The News Gallery: Beyond Headlines"
 
 ---
 
-##Past programmes
+<h2>Past programmes</h2>
+<p>There are currently no ongoing programmes available.</p>
+
+<h2>Past programmes</h2>
 
 <table class="table table-v">
     <tr>

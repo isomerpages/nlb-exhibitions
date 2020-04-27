@@ -42,12 +42,6 @@ collection_name: online-exhibitions
     </div>
 </div>
 
-<div class="sgds-container__exh__break padding">
-    <div class="row">
-        <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #efefef;">
-        </div>
-    </div>
-</div>
-  
+ 
     
 </section>
