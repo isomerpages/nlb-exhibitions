@@ -80,7 +80,7 @@ second_nav_title: "On Paper: Singapore Before 1867"
     </div>
 </div>
 
-<hr class="padding">
+<hr class="margin">
 
 <div class="sgds-container__card">
     <div class="row">
@@ -94,7 +94,7 @@ second_nav_title: "On Paper: Singapore Before 1867"
         </div>
     </div>
         <div class="row">
-            <div class="col" style="border-top: 5px solid #E21216; border-bottom: 5px solid #E21216;">
+            <div class="col" style="border-top: 10px solid #E21216; border-bottom: 5px solid #E21216;">
                 <ul style="list-style: none; margin-left: 0px;">
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
@@ -121,7 +121,7 @@ second_nav_title: "On Paper: Singapore Before 1867"
     </div>
 </div>
 
-<hr class="padding">
+<hr class="margin">
 
 <div class="sgds-container__card">
     <div class="row">
@@ -135,7 +135,7 @@ second_nav_title: "On Paper: Singapore Before 1867"
         </div>
     </div>
         <div class="row">
-            <div class="col" style="border-top: 5px solid #E21216; border-bottom: 5px solid #E21216;">
+            <div class="col" style="border-top: 10px solid #E21216; border-bottom: 5px solid #E21216;">
                 <ul style="list-style: none; margin-left: 0px;">
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
@@ -180,13 +180,13 @@ second_nav_title: "On Paper: Singapore Before 1867"
     </div>
 </div>
 
-<hr class="padding">
+<hr class="margin">
 
 <div class="sgds-container__description">
     <div class="row">
         <div class="col is-full">
             <h3>Private Tours</h3>
-            <p>Interested schools or organisations can email visitnls@nlb.gov.sg for more details on private tours. Book early to secure a tour slot!</p>
+            <p class="margin">Interested schools or organisations can email visitnls@nlb.gov.sg for more details on private tours. Book early to secure a tour slot!</p>
         </div>
     </div>
 </div>
