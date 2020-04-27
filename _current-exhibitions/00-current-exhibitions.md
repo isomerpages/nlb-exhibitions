@@ -75,7 +75,7 @@ collection_name: current-exhibitions
 
 <!-- End of News Gallery -->
 
----
+***
 
 <!-- Rare Gallery -->
 
