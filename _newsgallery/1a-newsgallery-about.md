@@ -8,8 +8,8 @@ second_nav_title: "The News Gallery: Beyond Headlines"
 
 ---
 
-<section class="sgds-section-about">
-<div class="sgds-container">
+<section class="sgds-section__about">
+<div class="sgds-container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
             <img src="/images/event-images/newsgallery/TNG_1200x355.jpg" alt="A title card labelled The News Gallery">
@@ -21,7 +21,7 @@ second_nav_title: "The News Gallery: Beyond Headlines"
         </div>
     </div>
         <div class="row">
-            <div class="col" style="border-top: 5px solid #E21216; border-bottom: 5px solid #E21216;">
+            <div class="col" style="border-top: 10px solid #E21216; border-bottom: 5px solid #E21216;">
                 <ul style="list-style: none; margin-left: 0px;">
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
@@ -44,7 +44,7 @@ second_nav_title: "The News Gallery: Beyond Headlines"
             </div>
 </div>
     
-<div class="sgds-container">
+<div class="sgds-container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
         <p>Explore the fascinating yet bewildering world of news media at our permanent exhibition <strong><em>The News Gallery: Beyond Headlines.</em></strong></p>
@@ -54,7 +54,7 @@ second_nav_title: "The News Gallery: Beyond Headlines"
 </div>
 
 
-<div class="sgds-container">
+<div class="sgds-container__downloads">
     <div class="row">
         <div class="col is-full padding--top--lg">
             <h4>Brochures</h4>
@@ -67,4 +67,14 @@ second_nav_title: "The News Gallery: Beyond Headlines"
         </div>
     </div>
 </div>
+
+<div class="sgds-container__description">
+    <div class="row">
+        <div class="col is-full padding--top--lg">
+        <h4>Education Resources</h4>
+        <p>For education resources for The News Gallery, please <a href="https://sure.nlb.gov.sg/tng/the-news-gallery-learning-journey/" style="color:#E21216;">click here.</a></p>
+        </div>
+    </div>
+</div>
+
 </section>
