@@ -2,7 +2,7 @@
 layout: simple-page
 title: 14 April 2020
 permalink: /programmes/newsgallery/20200414-talk/
-breadcrumb: A Librarian’s World – Beyond The News Gallery
+breadcrumb: "A Librarian’s World – Beyond The News Gallery"
 
 ---
 #### A Librarian’s World – Beyond The News Gallery
