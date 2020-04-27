@@ -1,14 +1,14 @@
 ---
 layout: simple-page
 title: Public Tours
-permalink: /programmes/onpaper/docent-tours/
+permalink: /programmes/onpaper/public-tours/
 breadcrumb: Public Tours Tours
 
 ---
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 
-Join our docent-led tours and discover fascinating stories from Singapore’s rich history.
+Join our public tours and discover fascinating stories from Singapore’s rich history.
 
 __Public Tours (English)__ | 2.00pm – 3.00pm
 __周末导览 （华语讲解）__| 下午3时至4时

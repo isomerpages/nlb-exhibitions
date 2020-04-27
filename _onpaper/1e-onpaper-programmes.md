@@ -32,6 +32,20 @@ Past: #c1c1c1
             7:00pm</td>
         <td>Tour | Curator's Tour</td>
         <td><a href="/programmes/onpaper/curator-tours/">The event is over.</a></td>
+    </tr>    
+    <tr>
+        <td style="background-color: #c1c1c1;">Various<br>
+            &mdash;<br>
+            2:00pm</td>
+        <td>Tour | Public Tours (English)</td>
+        <td><a href="/programmes/onpaper/public-tours/">The event is over.</a></td>
+    </tr>    
+    <tr>
+        <td style="background-color: #c1c1c1;">Various<br>
+            &mdash;<br>
+            3:00pm</td>
+        <td>Tour | 周末导览 （华语讲解）</td>
+        <td><a href="/programmes/onpaper/public-tours/">The event is over.</a></td>
     </tr>     
     <tr>
         <td style="background-color: #c1c1c1;">17 Oct<br>
