@@ -16,11 +16,6 @@ Past: #c1c1c1
 
 -->
 
-<section class="sgds-section__progs">
-<div class="sgds-container__description">
-    <div class="row">
-        <div class="col is-full">
-            
 <h2>Past programmes</h2>
 
 <p>All events are over.</p>
