@@ -12,7 +12,7 @@ second_nav_title: "The Rare Collection Gallery"
 <div class="sgds-container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
-            <img src="/images/event-images/rarecollection/the-rare-collection-gallery-tab-banner_v2.jpg" alt="A narrow photograph of a Rare Collection Gallery showcase, featuring books with sketches.">
+            <img src="/images/event-images/rarecollection/the-rare-collection-gallery-tab-banner_v2.jpg" alt="A title card labelled The Rare Collection Gallery.">
         </div>
     </div>    
     <div class="row">

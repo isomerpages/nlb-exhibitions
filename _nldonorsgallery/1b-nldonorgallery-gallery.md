@@ -8,10 +8,12 @@ second_nav_title: "National Library Donors' Gallery"
 
 ---
 
-![Photo of the News Gallery's introduction wall. Tall multimedia touchscreens next to it are featuring 'behind the scenes' information on news articles.](/images/event-images/newsgallery/news-gallery-image_1.jpg)
+![Photo of the National Library Donors' Gallery title wall.](/images/event-images/donors/donors-gallery_gallery_1.jpg)
 
-![Photo of the News Gallery's 'Behind Every Story' section. It features sliding handles to display different images, along with tall multimedia touchscreens. A showcase featuring physical news articles is in the foreground.](/images/event-images/newsgallery/news-gallery-image_2.jpg)
+![Photo overview of the National Library Donors' Gallery, with showcases in the foreground.](/images/event-images/donors/donors-gallery_gallery_2.jpg)
 
-![Photo of the News Gallery's 'Fake News Busters' section. It is an interactive game with four player stations.](/images/event-images/newsgallery/news-gallery-image_3.jpg)
+![Photo of a wall, featuring old photos of city areas that were taken by Lee Kip Lin.](/images/event-images/donors/donors-gallery_gallery_3.jpg)
 
-![Photo of the News Gallery's rare item showcase, featuring decades-old newspapers.](/images/event-images/newsgallery/news-gallery-image_4.jpg)
+![Photo overview of the Arts Heritage collection, with showcases in the foreground.](/images/event-images/donors/donors-gallery_gallery_4.jpg)
+
+![Photo close-up of the Arts Heritage introduction wall. A TV is showing a video with a concert performance.](/images/event-images/donors/donors-gallery_gallery_5.jpg)
