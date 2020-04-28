@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
 title: "Exhibition Highlights"
-permalink: /exhibitions/past-exhibitions/onpaper/exhibition-highlights/
+permalink: /exhibitions/current-exhibitions/raregallery/exhibition-highlights/
 breadcrumb: "Exhibition Highlights"
-collection_name: onpaper
-second_nav_title: "On Paper: Singapore Before 1867"
+collection_name: raregallery
+second_nav_title: "The Rare Collection Gallery"
 
 ---
 
