@@ -8,7 +8,7 @@ breadcrumb: "Early Singapore Through the Lens of Colonial Artists"
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 
-#### Wilkes Expedition: The Remarkable Story of the last All-Sail Naval Squadron to Circumnavigate the World and its stop in Singapore
+#### Early Singapore Through the Lens of Colonial Artists
 
 18 Jan 2020<br>
 11.00am – 12.30pm<br>

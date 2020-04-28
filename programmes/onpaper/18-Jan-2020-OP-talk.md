@@ -8,7 +8,7 @@ breadcrumb: "Wilkes Expedition"
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 
-#### Early Singapore Through the Lens of Colonial Artists
+#### Wilkes Expedition: The Remarkable Story of the last All-Sail Naval Squadron to Circumnavigate the World and its stop in Singapore
 
 16 Nov 2019<br>
 11.00am – 12.00pm<br>
