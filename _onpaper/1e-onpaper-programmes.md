@@ -46,13 +46,12 @@ Past: #c1c1c1
             3:00pm</td>
         <td>Tour | 周末导览 （华语讲解）</td>
         <td><a href="/programmes/onpaper/public-tours/">The event is over.</a></td>
-    </tr>     
-    <tr>    
+    </tr>         
     <tr>
         <td style="background-color: #c1c1c1;">Various<br>
             &mdash;<br>
             2:00pm</td>
-        <td>Workshop | Children’s Workshop</td>
+        <td>Children’s Workshop | The People of Early Singapore</td>
         <td><a href="/programmes/onpaper/children-workshops/">The event is over.</a></td>
     </tr>     
     <tr>
@@ -61,7 +60,8 @@ Past: #c1c1c1
             7:00pm</td>
         <td>Talk | Southeast Asian Cosmopolitanism on its Own Terms: Banten as a Precolonial Model of a Southeast Asian Port-city</td>
         <td><a href="/programmes/onpaper/20200924-talk/">The event is over.</a></td>
-    </tr>    <tr>
+    </tr>    
+    <tr>
         <td style="background-color: #c1c1c1;">28 Sep<br>
             &mdash;<br>
             5:00pm</td>
@@ -84,7 +84,4 @@ Past: #c1c1c1
     </tr>    
 </table>
 
-        </div>
-    </div>
-</div>
 </section>
