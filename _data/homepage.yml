@@ -15,12 +15,6 @@ hero-title:
 hero-subtitle:
 hero-banner: /images/event-images/newsgallery/TNG_1200x355.jpg
 
-# Call to Action Button
-button:
-  - text: Explore the exhibition
-    url: /exhibitions/current-exhibitions/newsgallery
-
-
 # Key highlights
 key-highlights:
   - title: Current exhibitions
@@ -38,6 +32,14 @@ key-highlights:
 
 # Info Sections
 info-sections:
+  - section-title: 
+    section-subtitle: "National Library Exhibitions"
+    section-description: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dapibus laoreet ex. Donec elementum imperdiet sem, id tincidunt ipsum tincidunt quis. Mauris elementum elit nec sapien dictum, eget iaculis ex faucibus. Quisque nibh ante, accumsan sodales tortor et, aliquet pulvinar velit.
+    section-more-button:
+    external: false
+    section-more-button-url:
+    section-image-path: /images/homepage_NL_highlight.png
   - section-title: 
     section-subtitle: "The News Gallery: Beyond Headlines"
     section-description: |
