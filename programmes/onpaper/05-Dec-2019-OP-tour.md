@@ -18,7 +18,7 @@ Join respected map research consultant Mok Ly Yng as he takes you on a specially
 
 These maps include the Mao Kun Map (commonly known as the Zheng He Navigational Map), which dates back to the 1620s and is the only known map that uses the name ‘Temasek’; an original copy of the first map showing the true shape and size of Singapore produced by Captain James Franklin of the Bengal Cavalry in 1822; and an 1868 map that features the detailed distribution of gambier plantations across the island.
 
-__Speaker__<br>
+##### Speaker<br>
 __Mok Ly Yng__ is a map research consultant with more than 20 years’ experience in the field. He has worked in the Singapore Armed Forces Mapping Unit as well as the National Archives of Singapore. He has provided
 mapping consultancy to several map exhibitions, books and heritage projects and has given numerous talks.
 
