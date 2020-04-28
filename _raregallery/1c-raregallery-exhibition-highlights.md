@@ -12,7 +12,7 @@ second_nav_title: "The Rare Collection Gallery"
 
 #### The history of Java
 
-__Thomas Stamford Raffles (1781 – 1826)__
+__Thomas Stamford Raffles (1781 – 1826)__<br>
 __*London, 1817*__
 
 Stamford Raffles describes the various dances that were performed by both females and males. S’rimpi, bedaya and rong-geng were dances presented by females, while gambuh, niutra and beksa were undertaken by males. Though more popular in the western part of Java, Rong-geng was a dance that could be found in many towns and was performed during festivities and celebrations.
@@ -25,8 +25,8 @@ Rong-geng dancers were also singers and usually belonged to an itinerant group o
 
 #### Views in Burma
 
-__Joseph Moore__
-__Fredrick Marryat (1792-)__
+__Joseph Moore__<br>
+__Fredrick Marryat (1792-)__<br>
 __*London, 1825-1826*__
 
 This work was produced by Fredrick Marryat, an officer in the British Royal Navy as well as an author, and Joseph Moore, a lieutenant in the British Army. This portfolio of 18 views was dedicated to the directors of the British E.I.C.
@@ -37,11 +37,11 @@ The hand-coloured aquatint shows the Shwedagon Pagoda, also known as the Great D
 
 <hr>
 
-![An open book, with a black and white illustration of an orangutan on the left page. It sits on a rock facing the reader, and it looks more human than ape.](the-rare-collection-gallery-a-voyage-to.jpg)
+![An open book, with a black and white illustration of an orangutan on the left page. It sits on a rock facing the reader, and it looks more human than ape.](/images/event-images/rarecollection/the-rare-collection-gallery-a-voyage-to.jpg)
 
 #### A voyage to and from the island of Borneo, in the East Indies …
 
-__Daniel Beeckman__
+__Daniel Beeckman__<br>
 __*London, 1718*__
 
 Daniel Beeckman was the captain of an English merchant ship that traded under the British E.I.C. This book records his observations and experiences during his travels to Southeast Asia, especially Borneo, from 1713-1714. Beeckman described Borneo in detail, giving an account of the indigenous people and their customs, as well as the island’s produce and ports. Beeckman noted the revival of British trade in Borneo after the destruction of the British trading post in 1714 by the Banjarese of southern Borneo.
