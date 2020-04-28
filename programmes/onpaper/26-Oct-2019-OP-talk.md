@@ -18,7 +18,7 @@ Composed by Tuan Simi (a contemporary of Munsyi Abdullah) in the early 19th cent
 
 Join Dr Azhar as he examines these syair and considers their place in Singapore’s literary heritage.
 
-__Speaker__<br>
+##### Speaker
 __Dr Azhar Ibrahim__ is a lecturer at the Department of Malay Studies, National University of
 Singapore. He teaches Malay-Indonesian literature and ideologies of development.
 His research interests include the sociology of religion, sociology of literature and critical literacy, and Malay-Indonesian intellectual development.

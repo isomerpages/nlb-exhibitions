@@ -18,7 +18,7 @@ John Turnbull Thomson (1821 - 1884) served as Government Surveyor of the Straits
 
 In this presentation, Mok Ly Yng will review Thomson's mapping work in Singapore chronologically, highlighting selected items and maps. He will also examine the legacy of Thomson’s surveys and maps.
 
-__Speaker__<br>
+##### Speaker
 __Mok Ly Yng__ is a map research consultant with more than 20 years’ experience in the field. He has worked in the Singapore Armed Forces Mapping Unit as well as the National Archives of Singapore. He has provided
 mapping consultancy to several map exhibitions, books and heritage projects and has given numerous talks.
 

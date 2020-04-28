@@ -18,7 +18,7 @@ The economic success of Banten, a flourishing pre-colonial port-city in the nort
  
 Join Dr Farish Noor as he explores Banten’s cosmopolitan trading society and how documentary evidence gathered from the 17th century provides insight into the complexities of its society and interconnectedness to a wider trading network that extended across Asia.
 
-__Speaker__<br>
+##### Speaker
 __Dr Farish A. Noor__ is an associate professor at the S. Rajaratnam School of International Studies (RSIS), Nanyang Technological University. His research includes topics ranging from Southeast Asian history to contemporary politics, material culture, art and antiquities as well as the media. He has been collecting antiquarian books, maps, prints, photos and memorabilia of Southeast Asia since the 1980s, and is a valued donor to the National Library Board of Singapore.
 
 <a href="/exhibitions/past-exhibitions/onpaper/" style="color:#E21216;">Return to the On Paper exhibition page &#187;</a>
