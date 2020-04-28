@@ -153,28 +153,28 @@ second_nav_title: "On Paper: Singapore Before 1867"
                     </li> 
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Central Public Library</strong> | 21 August to 29 October 2019</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Central Public Library</strong> &#124; 21 August to 29 October 2019</div>
                     </li>                    
                     <li style="margin-bottom: 1rem;">
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Tampines Regional Library</strong> | 22 August to 30 October 2019</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Tampines Regional Library</strong> &#124; 22 August to 30 October 2019</div>
                     </li>                    
                     <li style="margin-bottom: 1rem;">
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Ang Mo Kio Public Library</strong> | 30 October to 16 December 2019</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Ang Mo Kio Public Library</strong> &#124; 30 October to 16 December 2019</div>
                     </li>                       
                     <li style="margin-bottom: 1rem;">
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Geylang Public Library</strong> | 31 October to 17 December 2019</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Geylang Public Library</strong> &#124; 31 October to 17 December 2019</div>
                     </li>                     
                     <li style="margin-bottom: 1rem;">
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Woodlands Regional Library</strong> | 17 December 2019 to 29 January 2020</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Woodlands Regional Library</strong> &#124; 17 December 2019 to 29 January 2020</div>
                     </li>                     
                     <li style="margin-bottom: 1rem;">
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Queenstown Public Library</strong> | 18 December 2019 to 30 January 2020</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Queenstown Public Library</strong> &#124; 18 December 2019 to 30 January 2020</div>
                     </li>                    
                     <li style="margin-bottom: 1rem;">
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Bedok Public Library</strong> | 30 January 2020 to 23 March 2020</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Bedok Public Library</strong> &#124; 30 January 2020 to 23 March 2020</div>
                     </li>                       
                     <li style="margin-bottom: 1rem;">
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Jurong Regional Library</strong> | 31 January 2020 to 24 March 2020</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Jurong Regional Library</strong> &#124; 31 January 2020 to 24 March 2020</div>
                     </li>                    
                 </ul>
             </div>

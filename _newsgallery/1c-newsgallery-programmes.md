@@ -27,7 +27,7 @@ Past: #c1c1c1
         <td style="background-color: #c1c1c1;">14 Apr<br>
             &mdash;<br>
             7:00pm</td>
-        <td>Talk | A Librarian's World - Beyond the News Gallery</td>
+        <td>Talk &#124; A Librarian's World - Beyond the News Gallery</td>
         <td><a href="/programmes/newsgallery/20200414-talk/">The event is cancelled.</a></td>
     </tr>
 </table>

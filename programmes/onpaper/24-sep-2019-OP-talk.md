@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: 24 September 2019
-permalink: /programmes/onpaper/20200924-talk/
+permalink: /programmes/onpaper/20190924-talk/
 breadcrumb: "Southeast Asian Cosmopolitanism on its Own Terms"
 
 ---

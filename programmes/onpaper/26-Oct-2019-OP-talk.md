@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: 26 October 2019
-permalink: /programmes/onpaper/20201026-talk/
+permalink: /programmes/onpaper/20191026-talk/
 breadcrumb: "Early Singapore in the Syair of Dissent"
 
 ---
@@ -22,5 +22,7 @@ __Speaker__<br>
 __Dr Azhar Ibrahim__ is a lecturer at the Department of Malay Studies, National University of
 Singapore. He teaches Malay-Indonesian literature and ideologies of development.
 His research interests include the sociology of religion, sociology of literature and critical literacy, and Malay-Indonesian intellectual development.
+
+![A promotional image advertising the Special Curator's Tour on 17 October 2019.](/images/event-images/onpaper/Dr Azhar_26 Oct_eDM.jpg)
 
 <a href="/exhibitions/past-exhibitions/onpaper/" style="color:#E21216;">Return to the On Paper exhibition page &#187;</a>
