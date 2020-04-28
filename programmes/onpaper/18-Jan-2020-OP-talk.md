@@ -10,13 +10,15 @@ breadcrumb: "Wilkes Expedition"
 
 #### Wilkes Expedition: The Remarkable Story of the last All-Sail Naval Squadron to Circumnavigate the World and its stop in Singapore
 
-16 Nov 2019<br>
-11.00am – 12.00pm<br>
+18 Jan 2020<br>
+11.00am – 12.30pm<br>
 Level 5, Possibility Room<br>
 
-The visual representations (notably in paintings and prints) of early Singapore left behind by Western artists in the 19th century are often overlooked. These artists were sojourners, part of scientific expeditions or members of the colonial establishment. Using the works of J.T. Thomson as a starting point, this talk will examine the function of their body of works, their subject matter and aesthetic merits. 
+Join Dr Vidya Schalk as she takes us on the extraordinary journey of the Wilkes Expedition, the last all-sail powered naval squadron to circumnavigate the globe from 1838 to 1842. Led by Lt. Charles Wilkes, the US Exploring Expedition collected and catalogued thousands of artefacts, plants and animals that eventually became Smithsonian's foundation collection. 
+
+The expedition visited Singapore in 1842 and along the way picked up rare Malay and Bugis manuscripts among other documents, including several letters addressed to William Farquhar. In 1865, the Smithsonian transferred these materials to the Library of Congress, where they reside today.
 
 ##### Speaker
-__Jeffrey Say__ is an art historian and has been instrumental in the development of art history studies at LASALLE College of the Arts. In 2009, he designed the world’s first Master’s programme focusing on Asian modern and contemporary art histories. He is a frequent speaker at museums, universities and galleries, and conducts short courses which are hugely popular. He is the co-editor of Histories, Practices, Interventions: A Reader in Singapore Contemporary Art (2016).
+__Dr. Vidya Schalk__ trained as a research scientist and has a unique background that combines science, art and history. Besides being a docent at various museums in Singapore, including the Asian Civilisations Museum, National Museum of Singapore, STPI and National Gallery, Vidya also teaches at Nanyang Technological University, Singapore. Her interest in scientific explorations has led her to research 19th century naval expeditions.
 
 <a href="/exhibitions/past-exhibitions/onpaper/" style="color:#E21216;">Return to the On Paper exhibition page &#187;</a>
