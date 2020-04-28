@@ -20,13 +20,13 @@ Past: #c1c1c1
 
 <div class="sgds-container__description">
     <div class="row">
-        <div class="col is-10-desktop is-12-mobile">
+        <div class="col is-10-mobile">
 
 <h2>Past programmes</h2>
 
 <p>All events are over.</p>
 
-<table class="table table-v">
+<table class="table table-v is-narrow">
     <tr>
         <td style="background-color: #c1c1c1;">Various dates<br>
             &mdash;<br>
