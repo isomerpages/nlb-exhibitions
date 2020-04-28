@@ -48,4 +48,6 @@ collections:
     output: true
   onpaper:
     output: true
+  nldonorgallery:
+    output: true
 
