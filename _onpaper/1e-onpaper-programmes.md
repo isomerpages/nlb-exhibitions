@@ -26,7 +26,7 @@ Past: #c1c1c1
 
 <p>All events are over.</p>
 
-<table class="table table-v is-narrow">
+<table class="table table-v">
     <tr>
         <td style="background-color: #c1c1c1;">Various dates<br>
             &mdash;<br>
