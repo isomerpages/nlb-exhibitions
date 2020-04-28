@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: "About"
-permalink: /exhibitions/current-exhibitions/nldonorgallery/
+permalink: /exhibitions/current-exhibitions/nldonorsgallery/
 breadcrumb: "About"
-collection_name: nldonorgallery
+collection_name: nldonorsgallery
 second_nav_title: "National Library Donors' Gallery"
 
 ---
