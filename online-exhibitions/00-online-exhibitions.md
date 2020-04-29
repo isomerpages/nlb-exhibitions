@@ -8,7 +8,7 @@ breadcrumb: Online Exhibitions
 
 <section class="sgds-section__online">
     
-<div class="sgds-container__exh__card padding padding--bottom--lg" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+<div class="sgds-container__exh__card padding" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
         <div class="col padding--bottom--xs">
             <h3 style="margin-bottom: 0px;"><strong>Selling Dreams: Early Advertising in Singapore</strong></h3>
@@ -31,7 +31,7 @@ breadcrumb: Online Exhibitions
             </div>
              <div class="sgds-container__exh__description">
                 <div class="row">
-                    <div class="col padding--bottom--lg">
+                    <div class="col">
                         <h5><a href="http://www.nlb.gov.sg/exhibitions/sellingdreams/" target="_blank" style="color:#E21216;">VISIT THE ONLINE EXHIBITION &#187;</a></h5>
                     </div>
                 </div>
