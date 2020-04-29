@@ -7,6 +7,8 @@ collection_name: past-exhibitions
 
 ---
 
+<section class="sgds-section__exhibitions">
+
 <!-- On Paper -->
 
 <div class="sgds-container__exh__card padding padding--bottom--lg" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
@@ -112,3 +114,5 @@ collection_name: past-exhibitions
 </div>
 
 <!-- End of 1919 -->
+
+</section>
