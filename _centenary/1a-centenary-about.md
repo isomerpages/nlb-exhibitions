@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: "About"
-permalink: /exhibitions/past-exhibitions/1919/
+permalink: /exhibitions/past-exhibitions/centenary/
 breadcrumb: "About"
-collection_name: 1919
+collection_name: centenary
 second_nav_title: "1919: The Singapore Centenary and its Celebration"
 
 ---
