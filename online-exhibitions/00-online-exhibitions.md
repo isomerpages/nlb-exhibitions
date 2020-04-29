@@ -29,6 +29,10 @@ breadcrumb: Online Exhibitions
                     </div>
                 </div>
             </div>
+            
+            <a href="http://www.nlb.gov.sg/exhibitions/sellingdreams/" target="_blank" style="color:#E21216;"><p>VISIT THE ONLINE EXHIBITION &#187;</p></a>
+            
+            
         </div>
     </div>
 </div>
