@@ -1,13 +1,12 @@
 ---
-layout: leftnav-page-content
-title: "Selling Dreams: Early Advertising in Singapore"
-permalink: /exhibitions/online-exhibitions/sead/
-breadcrumb: "Selling Dreams: Early Advertising in Singapore"
-collection_name: online-exhibitions
+layout: simple-page
+title: Online Exhibitions
+permalink: /exhibitions/online-exhibitions/
+breadcrumb: Online Exhibitions
 
 ---
 
-<section class="sgds-section-online-about">
+<section class="sgds-section__online">
     
 <div class="sgds-container__exh__card padding padding--bottom--lg" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
@@ -17,7 +16,7 @@ collection_name: online-exhibitions
     </div>
     <div class="row">
         <div class="col">
-            <img src="/images/event-images/sellingdreams/selling-dreams-thumbnail.jpg" alt="Selling Dreams: Early Advertising in Singapore" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
+            <img src="/images/event-images/sellingdreams/selling-dreams-thumbnail_2.jpg" alt="Selling Dreams: Early Advertising in Singapore" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
         </div>
         <div class="col is-two-thirds">
             <div class="row">
@@ -34,12 +33,20 @@ collection_name: online-exhibitions
 <div class="sgds-container__exh__description">
     <div class="row is-multiline">
         <div class="col">
-            <a href="http://www.nlb.gov.sg/exhibitions/sellingdreams/" style="color:#E21216;"><h5>VISIT THE ONLINE EXHIBITION &#187;</h5></a>
+            <a href="http://www.nlb.gov.sg/exhibitions/sellingdreams/" target="_blank" style="color:#E21216;"><h5>VISIT THE ONLINE EXHIBITION &#187;</h5></a>
         </div>
     </div>
 </div>
+        </div>
+    </div>
+    
+<div class="sgds-container__exh__feedback">
+    <div class="row is-multiline">
+        <div class="col is-full" style="background-color: #E21216; color: #fff;">
+            <a href="https://efm.jusfeedback.com/Community/se/705E3ED976142197" target="_blank" style="color:#E21216;"><h4>Please leave feedback for our online exhibition &#187;</h5></a>
         </div>
     </div>
 </div>
 
+    
 </section>
