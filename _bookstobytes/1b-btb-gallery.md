@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: "Gallery"
 permalink: /exhibitions/current-exhibitions/bookstobytes/gallery/
 breadcrumb: "Gallery"
-collection_name: btb
+collection_name: bookstobytes
 second_nav_title: "From Books to Bytes: The Story of the National Library"
 
 ---

@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: "Featured Video"
 permalink: /exhibitions/current-exhibitions/bookstobytes/featured-video/
 breadcrumb: "Featured Video"
-collection_name: btb
+collection_name: bookstobytes
 second_nav_title: "From Books to Bytes: The Story of the National Library"
 
 ---

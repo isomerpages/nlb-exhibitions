@@ -48,5 +48,5 @@ collections:
     output: true
   nldonorsgallery:
     output: true
-  btb:
+  bookstobytes:
     output: true
