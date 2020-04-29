@@ -24,8 +24,11 @@ breadcrumb: Online Exhibitions
                 </p>
             </div>
             <div class="sgds-container__exh__break padding">
-    <div class="row">
-        <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #efefef;">
+                <div class="row">
+                    <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #efefef;">
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </div>
@@ -37,13 +40,11 @@ breadcrumb: Online Exhibitions
         </div>
     </div>
 </div>
-        </div>
-    </div>
     
 <div class="sgds-container__exh__feedback">
     <div class="row">
-        <div class="col is-full" style="background-color: #E21216; color: #fff;">
-            <a href="https://efm.jusfeedback.com/Community/se/705E3ED976142197" target="_blank" style="color:#E21216;"><p>Please leave feedback for our online exhibition &#187;</p></a>
+        <div class="col is-full" style="background-color: #E21216;">
+            <a href="https://efm.jusfeedback.com/Community/se/705E3ED976142197" target="_blank" style="color:#fff;"><p>Please leave feedback for our online exhibition &#187;</p></a>
         </div>
     </div>
 </div>

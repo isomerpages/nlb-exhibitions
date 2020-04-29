@@ -72,7 +72,7 @@ second_nav_title: "The News Gallery: Beyond Headlines"
     <div class="row">
         <div class="col is-full padding--top--lg">
         <h4>Education Resources</h4>
-        <p style="margin-top: 5px;">For educational resources featuring The News Gallery exhibition, please <a href="https://sure.nlb.gov.sg/tng/the-news-gallery-learning-journey/" style="color:#E21216;">click here to access NLB's S.U.R.E. website.</a></p>
+        <p style="margin-top: 5px;">For educational resources featuring The News Gallery exhibition, please <a href="https://sure.nlb.gov.sg/tng/the-news-gallery-learning-journey/" target="_blank" style="color:#E21216;">click here to access NLB's S.U.R.E. website.</a></p>
         </div>
     </div>
 </div>
