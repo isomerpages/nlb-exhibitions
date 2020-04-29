@@ -31,9 +31,9 @@ breadcrumb: Online Exhibitions
 </div>
 
 <div class="sgds-container__exh__description">
-    <div class="row is-multiline">
+    <div class="row">
         <div class="col">
-            <a href="http://www.nlb.gov.sg/exhibitions/sellingdreams/" target="_blank" style="color:#E21216;"><h5>VISIT THE ONLINE EXHIBITION &#187;</h5></a>
+            <a href="http://www.nlb.gov.sg/exhibitions/sellingdreams/" target="_blank" style="color:#E21216;"><p>VISIT THE ONLINE EXHIBITION &#187;</p></a>
         </div>
     </div>
 </div>
@@ -41,9 +41,9 @@ breadcrumb: Online Exhibitions
     </div>
     
 <div class="sgds-container__exh__feedback">
-    <div class="row is-multiline">
+    <div class="row">
         <div class="col is-full" style="background-color: #E21216; color: #fff;">
-            <a href="https://efm.jusfeedback.com/Community/se/705E3ED976142197" target="_blank" style="color:#E21216;"><h4>Please leave feedback for our online exhibition &#187;</h5></a>
+            <a href="https://efm.jusfeedback.com/Community/se/705E3ED976142197" target="_blank" style="color:#E21216;"><p>Please leave feedback for our online exhibition &#187;</p></a>
         </div>
     </div>
 </div>
