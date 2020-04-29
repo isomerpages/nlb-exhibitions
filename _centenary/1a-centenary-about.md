@@ -12,7 +12,7 @@ second_nav_title: "1919: The Singapore Centenary and its Celebration"
 <div class="sgds-container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
-            <img src="/images/event-images/centenary/SG-centenary-tab-banner.jpg" alt="A title card labelled 1919: The Singapore Centenary and its Celebration">
+            <img src="/images/event-images/centenary/SG-centenary-tab-banner_v2.jpg" alt="A title card labelled 1919: The Singapore Centenary and its Celebration">
         </div>
     </div>    
     <div class="row">
