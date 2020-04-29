@@ -52,6 +52,8 @@ second_nav_title: "National Library Donors' Gallery"
             <p>Our donors comprise individuals (including collectors and scholars), families and organisations. The types of materials donated include primary materials such as diaries, personal papers, letters, business and organisational documents, manuscripts of notable Singaporean writers and artists, photographs and early maps of Singapore and the region.</p>
 
             <p>This Donors’ Gallery was set up to acknowledge our donors and showcase their donations. On display is a small selection of materials which provides a glimpse of the variety of materials that have been gifted to the National Library over the years.</p>
+            
+            <p>For more information about the <a href="https://www.nlb.gov.sg/Visit/ExploreNationalLibrary/DonorCollection.aspx" style="color:#E21216;">Donor Collection, please click here.</a></p>
         </div>
     </div>
 </div>
