@@ -29,37 +29,22 @@ breadcrumb: Online Exhibitions
                     </div>
                 </div>
             </div>
-            
-            <a href="http://www.nlb.gov.sg/exhibitions/sellingdreams/" target="_blank" style="color:#E21216;"><p>VISIT THE ONLINE EXHIBITION &#187;</p></a>
-            
-            
+             <div class="sgds-container__exh__description">
+                <div class="row">
+                    <div class="col">
+                        <p><a href="http://www.nlb.gov.sg/exhibitions/sellingdreams/" target="_blank" style="color:#E21216;">VISIT THE ONLINE EXHIBITION &#187;</a></p>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
-</div>
-
-<div class="sgds-container__exh__description">
-    <div class="row">
-        <div class="col">
-            <a href="http://www.nlb.gov.sg/exhibitions/sellingdreams/" target="_blank" style="color:#E21216;"><p>VISIT THE ONLINE EXHIBITION &#187;</p></a>
-        </div>
-    </div>
-</div>
-    
-<div class="sgds-container__exh__feedback">
+    <div class="sgds-container__exh__feedback">
     <div class="row">
         <div class="col is-full" style="background-color: #E21216;">
             <a href="https://efm.jusfeedback.com/Community/se/705E3ED976142197" target="_blank" style="color:#fff;"><p>Please leave feedback for our online exhibition &#187;</p></a>
         </div>
     </div>
 </div>
-
-<div class="sgds-container__description">
-    <div class="row">
-        <div class="col is-full padding--top--lg">
-        <h4>Education Resources</h4>
-        <p style="margin-top: 5px;">For educational resources featuring The News Gallery exhibition, please <a href="https://sure.nlb.gov.sg/tng/the-news-gallery-learning-journey/" target="_blank" style="color:#E21216;">click here to access NLB's S.U.R.E. website.</a></p>
-        </div>
-    </div>
 </div>
 
 </section>
