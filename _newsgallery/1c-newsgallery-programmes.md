@@ -28,9 +28,8 @@ Past: #c1c1c1
             &mdash;<br>
             7:00pm</td>
         <td>
-            Talk &#124; A Librarian's World - Beyond the News Gallery
-            <br>
-            <a href="/programmes/newsgallery/20200414-talk/">The event is cancelled.</a>
+            <p>Talk &#124; A Librarian's World - Beyond the News Gallery</p>
+            <p><a href="/programmes/newsgallery/20200414-talk/">The event is cancelled.</a></p>
         </td>
     </tr>
 </table>
