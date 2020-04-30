@@ -86,7 +86,7 @@ collection_name: past-exhibitions
                             <span class="sgds-icon sgds-icon-clock" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
                             <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">10:00am – 9:00pm</div>
                         </li>          
-                        <li style="margin-bottom: 1rem;">
+                        <li style="margin-bottom: 1rem; padding-right: 20px;">
                             <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
                             <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">Level 11, Lee Kong Chian Reference Library, National Library Building</div>
                         </li>
@@ -140,7 +140,7 @@ collection_name: past-exhibitions
                             <span class="sgds-icon sgds-icon-clock" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
                             <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">10:00am – 9:00pm</div>
                         </li>          
-                        <li style="margin-bottom: 1rem;">
+                        <li style="margin-bottom: 1rem; padding-right: 20px;">
                             <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
                             <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">Level 11, Lee Kong Chian Reference Library, National Library Building</div>
                         </li>
