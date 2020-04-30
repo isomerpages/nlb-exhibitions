@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: "Gallery"
-permalink: /exhibitions/past-exhibitions/thefirstprint/
+permalink: /exhibitions/past-exhibitions/thefirstprint/gallery/
 breadcrumb: "Gallery"
 collection_name: thefirstprint
 second_nav_title: "The First Print: Stories and Legends of Early Singapore"
