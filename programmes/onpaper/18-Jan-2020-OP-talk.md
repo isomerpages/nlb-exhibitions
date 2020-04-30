@@ -21,4 +21,4 @@ The expedition visited Singapore in 1842 and along the way picked up rare Malay 
 ##### Speaker
 __Dr. Vidya Schalk__ trained as a research scientist and has a unique background that combines science, art and history. Besides being a docent at various museums in Singapore, including the Asian Civilisations Museum, National Museum of Singapore, STPI and National Gallery, Vidya also teaches at Nanyang Technological University, Singapore. Her interest in scientific explorations has led her to research 19th century naval expeditions.
 
-<a href="/exhibitions/past-exhibitions/onpaper/" style="color:#E21216;">Return to the On Paper exhibition page &#187;</a>
+<a href="/exhibitions/past-exhibitions/onpaper/programmes/" style="color:#E21216;">Return to the On Paper exhibition programme page &#187;</a>

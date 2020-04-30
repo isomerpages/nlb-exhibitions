@@ -21,4 +21,4 @@ __Pemudahcara:__
 
 * Juffri Supa’at, Pustakawan Kanan, NLB
 
-<a href="/exhibitions/past-exhibitions/thefirstprint/" style="color:#E21216;">Return to The First Print exhibition page &#187;</a>
+<a href="/exhibitions/past-exhibitions/thefirstprint/programmes/" style="color:#E21216;">Return to The First Print exhibition programmes page &#187;</a>

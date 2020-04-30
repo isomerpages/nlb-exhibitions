@@ -23,4 +23,4 @@ __Mok Ly Yng__ is a map research consultant with more than 20 years’ experienc
 mapping consultancy to several map exhibitions, books and heritage projects and has given numerous talks.
 
 
-<a href="/exhibitions/past-exhibitions/onpaper/" style="color:#E21216;">Return to the On Paper exhibition page &#187;</a>
+<a href="/exhibitions/past-exhibitions/onpaper/programmes/" style="color:#E21216;">Return to the On Paper exhibition programmes page &#187;</a>

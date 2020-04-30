@@ -21,4 +21,4 @@ Learn more as Dr Leonard Andaya examines the historical evidence in an effort to
 ##### Speaker
 __Dr Leonard Y. Andaya__ is a professor of Southeast Asian history at the University of Hawai’i in Mānoa, Honolulu. He held a research fellowship at the Australian National University and has taught at the University of Malaya, Auckland University and the National University of Singapore (NUS). His current research focuses on the complex network of relationships in eastern Indonesia that helped to bind disparate cultural communities into a functioning unity in the early modern period.
 
-<a href="/exhibitions/past-exhibitions/onpaper/" style="color:#E21216;">Return to the On Paper exhibition page &#187;</a>
+<a href="/exhibitions/past-exhibitions/onpaper/programmes/" style="color:#E21216;">Return to the On Paper exhibition programmes page &#187;</a>

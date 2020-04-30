@@ -85,4 +85,4 @@ Meeting point: Level 10, Gallery entrance<br>
 Led by docents. Free admission, first-come, first-served basis.<br>
 由义务导览员带领。入场免费，人数有限，先到先得。
 
-<a href="/exhibitions/past-exhibitions/onpaper/" style="color:#E21216;">Return to the On Paper exhibition page &#187;</a>
+<a href="/exhibitions/past-exhibitions/onpaper/programmes/" style="color:#E21216;">Return to the On Paper exhibition programmes page &#187;</a>

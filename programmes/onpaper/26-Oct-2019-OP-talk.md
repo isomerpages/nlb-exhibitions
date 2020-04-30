@@ -25,4 +25,4 @@ His research interests include the sociology of religion, sociology of literatur
 
 ![A promotional image advertising the Special Curator's Tour on 17 October 2019.](/images/event-images/onpaper/Dr Azhar_26 Oct_eDM.jpg)
 
-<a href="/exhibitions/past-exhibitions/onpaper/" style="color:#E21216;">Return to the On Paper exhibition page &#187;</a>
+<a href="/exhibitions/past-exhibitions/onpaper/programmes/" style="color:#E21216;">Return to the On Paper exhibition programmes page &#187;</a>

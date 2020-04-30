@@ -19,4 +19,4 @@ The visual representations (notably in paintings and prints) of early Singapore 
 ##### Speaker
 __Jeffrey Say__ is an art historian and has been instrumental in the development of art history studies at LASALLE College of the Arts. In 2009, he designed the world’s first Master’s programme focusing on Asian modern and contemporary art histories. He is a frequent speaker at museums, universities and galleries, and conducts short courses which are hugely popular. He is the co-editor of Histories, Practices, Interventions: A Reader in Singapore Contemporary Art (2016).
 
-<a href="/exhibitions/past-exhibitions/onpaper/" style="color:#E21216;">Return to the On Paper exhibition page &#187;</a>
+<a href="/exhibitions/past-exhibitions/onpaper/programmes/" style="color:#E21216;">Return to the On Paper exhibition programmes page &#187;</a>
