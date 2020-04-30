@@ -32,7 +32,7 @@ Past: #c1c1c1
             &mdash;<br>
             2:00pm</td>
         <td>
-            <p>&#124; Symposium &#124; TEMASEK AND SINGAPURA: Marvels, Metaphors and Meanings from Sejarah Melayu</p>
+            <p>Symposium &#124; TEMASEK AND SINGAPURA: Marvels, Metaphors and Meanings from Sejarah Melayu</p>
             <p><a href="/programmes/thefirstprint/20190223-symposium/">The event is over.</a></p>
         </td>
     </tr>    
