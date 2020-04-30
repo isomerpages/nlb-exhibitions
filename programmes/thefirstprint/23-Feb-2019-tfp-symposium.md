@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: "TEMASEK AND SINGAPURA: Marvels, Metaphors and Meanings from Sejarah Melayu"
+title: 23 February 2019
 permalink: /programmes/thefirstprint/20190223-symposium/
 breadcrumb: "TEMASEK AND SINGAPURA: Marvels, Metaphors and Meanings from Sejarah Melayu"
 
@@ -11,7 +11,7 @@ breadcrumb: "TEMASEK AND SINGAPURA: Marvels, Metaphors and Meanings from Sejarah
 #### Symposium | TEMASEK AND SINGAPURA: Marvels, Metaphors and Meanings from Sejarah Melayu
 
 __23 February 2019__<br>
-__2.00pm – 5.00pm__<br>
+__2:00pm – 5:00pm__<br>
 __Level 16, The POD, National Library Building__
 
 _Conducted in English._
