@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: "TEMASEK AND SINGAPURA: Mar"vels, Metaphors and Meanings from Sejarah Melayu"
+title: "TEMASEK AND SINGAPURA: Marvels, Metaphors and Meanings from Sejarah Melayu"
 permalink: /programmes/thefirstprint/20190223-symposium/
 breadcrumb: "TEMASEK AND SINGAPURA: Marvels, Metaphors and Meanings from Sejarah Melayu"
 
