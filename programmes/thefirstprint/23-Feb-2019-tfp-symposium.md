@@ -10,9 +10,9 @@ breadcrumb: "TEMASEK AND SINGAPURA: Marvels, Metaphors and Meanings from Sejarah
 
 #### Symposium | TEMASEK AND SINGAPURA: Marvels, Metaphors and Meanings from Sejarah Melayu
 
-__23 February 2019<br>
-2.00pm – 5.00pm<br>
-Level 16, The POD, National Library Building__
+__23 February 2019__<br>
+__2.00pm – 5.00pm__<br>
+__Level 16, The POD, National Library Building__
 
 _Conducted in English._
 
@@ -20,7 +20,7 @@ Sejarah Melayu is considered one of the most important and finest literary works
 
 This symposium aims to highlight Sejarah Melayu and its effects on the cultural and literary history of Singapore and beyond.
 
-##### Programme
+###### Programme
 
 <table class="table table-v">
     <tr>
