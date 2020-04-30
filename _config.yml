@@ -52,3 +52,5 @@ collections:
     output: true
   centenary:
     output: true
+  thefirstprint:
+    output: true
