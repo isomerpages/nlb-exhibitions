@@ -134,7 +134,7 @@ collection_name: past-exhibitions
                     <ul style="list-style: none; margin-left: 5px;">
                         <li style="margin-bottom: 1rem;">
                             <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                            <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">23 January – 24 March 2019 (Closed)</div>
+                            <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">23 January – 1 April 2019 (Closed)</div>
                         </li> 
                         <li style="margin-bottom: 1rem;">
                             <span class="sgds-icon sgds-icon-clock" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
