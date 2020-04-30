@@ -18,4 +18,4 @@ second_nav_title: "The First Print: Stories and Legends of Early Singapore"
 
 ![A photo of another audio booth, with the A Timeless Tale Through The Ages wall in the background. The audio booth has a paper sculpture in a glass case. There is a man by the riverside holding a boulder and several shifts aloft in the air, while a Sultan bows before him.](/images/event-images/the-first-print/the-first-print_gallery_5.jpg)
 
-![A photo close-up of an opened book within a tall showcase. It contains Jawi script. In the showcase background, there is a printed graphic with a write-up about Sejarah Melayu on it.](/images/event-images/the-first-print/the-first-print_gallery_5.jpg)
+![A photo close-up of an opened book within a tall showcase. It contains Jawi script. In the showcase background, there is a printed graphic with a write-up about Sejarah Melayu on it.](/images/event-images/the-first-print/the-first-print_gallery_6.jpg)
