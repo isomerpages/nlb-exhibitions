@@ -50,17 +50,18 @@ second_nav_title: "The First Print: Stories and Legends of Early Singapore"
             <p>With many tales such as the strong man Badang and the attack of the garfish, Sejarah Melayu continues to enchant writers and readers everywhere. Discover these timeless stories and how one man managed to bring this ancient manuscript to the masses, thereby ensuring that its legacy live on through the ages.</p>
         </div>
     </div>
+    <div class="row margin--bottom--xs">
+        <div class="col is-12 padding--xs">
+            <h3><strong>Roving</strong></h3>
+        </div>
+    </div>
     <div class="row">
             <div class="col" style="border-top: 10px solid #E21216; border-bottom: 5px solid #E21216;">
                 <ul style="list-style: none; margin-left: 0px;">
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem;">23 January – 31 October 2019</div>
-                    </li> 
-                    <li style="margin-bottom: 1rem;">
-                        <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Level 11, Lee Kong Chian Reference Library, National Library Building</strong> &#124; 23 January – 1 April 2019</div>
-                    </li>                    
+                        <div style="line-height: 150%; padding-left: 2.3rem;">3 April – 31 October 2019</div>
+                    </li>           
                     <li style="margin-bottom: 1rem;">
                         <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Central Public Library</strong> &#124; 3 April – 30 April 2019</div>
                     </li>                    
