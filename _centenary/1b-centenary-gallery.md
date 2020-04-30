@@ -8,10 +8,7 @@ second_nav_title: "1919: The Singapore Centenary and its Celebration"
 
 ---
 
-![Photo of the News Gallery's introduction wall. Tall multimedia touchscreens next to it are featuring 'behind the scenes' information on news articles.](/images/event-images/newsgallery/news-gallery-image_1.jpg)
+![Photo of the showcases, with books inside. They are opened up, and the book closest to the foreground has an image of Sir Stamford Raffles. The book next to it has a photograph of a crowd.](/images/event-images/centenary/1919-Centenary-gallery_1.jpg)
 
-![Photo of the News Gallery's 'Behind Every Story' section. It features sliding handles to display different images, along with tall multimedia touchscreens. A showcase featuring physical news articles is in the foreground.](/images/event-images/newsgallery/news-gallery-image_2.jpg)
+![One of the old photographs featuring a centenary celebration. There is a huge crowd in front and inside a building. In the building's courtyard, there is a statue of Sir Stamford Raffles.](/images/event-images/centenary/1919-Centenary-gallery_2.jpg)
 
-![Photo of the News Gallery's 'Fake News Busters' section. It is an interactive game with four player stations.](/images/event-images/newsgallery/news-gallery-image_3.jpg)
-
-![Photo of the News Gallery's rare item showcase, featuring decades-old newspapers.](/images/event-images/newsgallery/news-gallery-image_4.jpg)
