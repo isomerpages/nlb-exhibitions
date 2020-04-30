@@ -24,7 +24,7 @@ Past: #c1c1c1
 
 <h2>Past programmes</h2>
 
-<blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
+<blockquote style="color: #E21216; font-size: 150%;">All events are over.</blockquote>
 
 <table class="table table-v">
     <tr>
@@ -32,84 +32,84 @@ Past: #c1c1c1
             &mdash;<br>
             7:00pm</td>
         <td>Tour &#124; Curator's Tour</td>
-        <td><a href="/programmes/onpaper/curator-tours/">The event is&nbsp;over.</a></td>
+        <td><a href="/programmes/onpaper/curator-tours/">The&nbsp;event is&nbsp;over.</a></td>
     </tr>    
     <tr>
         <td style="background-color: #c1c1c1;">Various dates<br>
             &mdash;<br>
             2:00pm</td>
         <td>Tour &#124; Public Tours (English)</td>
-        <td><a href="/programmes/onpaper/public-tours/">The event is&nbsp;over.</a></td>
+        <td><a href="/programmes/onpaper/public-tours/">The&nbsp;event is&nbsp;over.</a></td>
     </tr>    
     <tr>
         <td style="background-color: #c1c1c1;">Various dates<br>
             &mdash;<br>
             3:00pm</td>
         <td>Tour &#124; 周末导览 （华语讲解）</td>
-        <td><a href="/programmes/onpaper/public-tours/">The event is&nbsp;over.</a></td>
+        <td><a href="/programmes/onpaper/public-tours/">The&nbsp;event is&nbsp;over.</a></td>
     </tr>         
     <tr>
         <td style="background-color: #c1c1c1;">Various dates<br>
             &mdash;<br>
             2:00pm</td>
         <td>Children’s Workshop &#124; The People of Early Singapore</td>
-        <td><a href="/programmes/onpaper/children-workshops/">The event is&nbsp;over.</a></td>
+        <td><a href="/programmes/onpaper/children-workshops/">The&nbsp;event is&nbsp;over.</a></td>
     </tr>     
     <tr>
         <td style="background-color: #c1c1c1;">24 Sep<br>
             &mdash;<br>
             7:00pm</td>
         <td>Talk &#124; Southeast Asian Cosmopolitanism on its Own Terms: Banten as a Precolonial Model of a Southeast Asian Port-city</td>
-        <td><a href="/programmes/onpaper/20190924-talk/">The event is&nbsp;over.</a></td>
+        <td><a href="/programmes/onpaper/20190924-talk/">The&nbsp;event is&nbsp;over.</a></td>
     </tr>    
     <tr>
         <td style="background-color: #c1c1c1;">28 Sep<br>
             &mdash;<br>
             5:00pm</td>
         <td>Talk &#124; The Orang Laut in the Realm of the Straits (Negara Selat)</td>
-        <td><a href="/programmes/onpaper/20190928-talk/">The event is&nbsp;over.</a></td>
+        <td><a href="/programmes/onpaper/20190928-talk/">The&nbsp;event is&nbsp;over.</a></td>
     </tr>
     <tr>
         <td style="background-color: #c1c1c1;">17 Oct<br>
             &mdash;<br>
             7:00pm</td>
         <td>Tour &#124; &#91;Special&#93; Behind-the-Scenes: A Curator’s Perspective</td>
-        <td><a href="/programmes/onpaper/curator-tours/">The event is&nbsp;over.</a></td>
+        <td><a href="/programmes/onpaper/curator-tours/">The&nbsp;event is&nbsp;over.</a></td>
     </tr>    
     <tr>
         <td style="background-color: #c1c1c1;">26 Oct<br>
             &mdash;<br>
             11:00am</td>
         <td>Talk &#124; Early Singapore in the Syair of Dissent: Tuan Simi’s Narration of Local Predicament</td>
-        <td><a href="/programmes/onpaper/20191026-talk/">The event is&nbsp;over.</a></td>
+        <td><a href="/programmes/onpaper/20191026-talk/">The&nbsp;event is&nbsp;over.</a></td>
     </tr>     
     <tr>
         <td style="background-color: #c1c1c1;">16 Nov<br>
             &mdash;<br>
             11:00am</td>
         <td>Talk &#124; Early Singapore Through the Lens of Colonial Artists</td>
-        <td><a href="/programmes/onpaper/20191116-talk/">The event is&nbsp;over.</a></td>
+        <td><a href="/programmes/onpaper/20191116-talk/">The&nbsp;event is&nbsp;over.</a></td>
     </tr>    
     <tr>
         <td style="background-color: #c1c1c1;">05 Dec<br>
             &mdash;<br>
             7:00pm</td>
         <td>Tour &#124; On Paper: A Special Maps Tour</td>
-        <td><a href="/programmes/onpaper/20201205-tour/">The event is&nbsp;over.</a></td>
+        <td><a href="/programmes/onpaper/20201205-tour/">The&nbsp;event is&nbsp;over.</a></td>
     </tr>    
     <tr>
         <td style="background-color: #c1c1c1;">16 Jan<br>
             &mdash;<br>
             7:00pm</td>
         <td>Talk &#124; Thomson's Maps of Singapore</td>
-        <td><a href="/programmes/onpaper/20200116-talk/">The event is&nbsp;over.</a></td>
+        <td><a href="/programmes/onpaper/20200116-talk/">The&nbsp;event is&nbsp;over.</a></td>
     </tr>     
     <tr>
         <td style="background-color: #c1c1c1;">18 Jan<br>
             &mdash;<br>
             11:00am</td>
         <td>Talk &#124; Wilkes Expedition: The Remarkable Story of the last All-Sail Naval Squadron to Circumnavigate the World and its stop in Singapore</td>
-        <td><a href="/programmes/onpaper/20200118-talk/">The event is&nbsp;over.</a></td>
+        <td><a href="/programmes/onpaper/20200118-talk/">The&nbsp;event is&nbsp;over.</a></td>
     </tr>    
 </table>
 
