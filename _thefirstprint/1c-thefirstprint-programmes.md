@@ -45,7 +45,6 @@ Past: #c1c1c1
             <p><a href="/programmes/thefirstprint/20190316-chetakan-pertama/">The event is over.</a></p>
         </td>
     </tr>    
-    
 </table>
         </div>
     </div>
