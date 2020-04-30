@@ -35,6 +35,15 @@ Past: #c1c1c1
             <p>Symposium &#124; TEMASEK AND SINGAPURA: Marvels, Metaphors and Meanings from Sejarah Melayu</p>
             <p><a href="/programmes/thefirstprint/20190223-symposium/">The event is over.</a></p>
         </td>
+    </tr>     
+    <tr>
+        <td style="background-color: #c1c1c1;">16 Mar<br>
+            &mdash;<br>
+            10:30am</td>
+        <td>
+            <p>Chetakan Pertama &#124; Kisah-Kisah Abadi: Nilai, Bahasa dan Wanita dalam Kesusasteraan Melayu Tradisional</p>
+            <p><a href="/programmes/thefirstprint/20190316-chetakan-pertama/">The event is over.</a></p>
+        </td>
     </tr>    
     
 </table>
