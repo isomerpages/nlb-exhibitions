@@ -61,20 +61,20 @@ second_nav_title: "Selling Dreams: Early Advertising in Singapore"
                             <div style="line-height: 150%; padding-left: 2.3rem;">(with programmes from July 2018 - October 2018)</div>
                         </li>                         
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/sellingdreamsonsite/SEAD_Brochure-B_FINAL.pdf" style="color:#E21216;">English exhibition brochure (973kb)</a>
+                            <a href="/files/sellingdreamsonsite/SEAD_Brochure-B_FINAL.pdf" style="color:#E21216;">English exhibition brochure (621kb)</a>
                             <div style="line-height: 150%; padding-left: 2.3rem;">(with programmes from October 2018 - February 2019)</div>
                         </li>                         
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/sellingdreamsonsite/NLB-Exhibition-Guide-101018-single-pages.pdf" style="color:#E21216;">English exhibition guide (1.39mb)</a>
+                            <a href="/files/sellingdreamsonsite/NLB-Exhibition-Guide-101018-single-pages.pdf" style="color:#E21216;">English exhibition guide (1.5mb)</a>
                         </li>                        
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/sellingdreamsonsite/NLB-SEAD-Exhibition-Guide-MY-05122018.pdf" style="color:#E21216;">Malay exhibition guide (1.06mb)</a> 
+                            <a href="/files/sellingdreamsonsite/NLB-SEAD-Exhibition-Guide-MY-05122018.pdf" style="color:#E21216;">Malay exhibition guide (1.47mb)</a> 
                         </li>
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/sellingdreamsonsite/NLB-SEAD-Exhibition-Guide-CH-11122018.pdf" style="color:#E21216;">Chinese exhibition guide (1.08mb)</a>
+                            <a href="/files/sellingdreamsonsite/NLB-SEAD-Exhibition-Guide-CH-11122018.pdf" style="color:#E21216;">Chinese exhibition guide (2mb)</a>
                         </li>                         
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/sellingdreamsonsite/NLB-Exhibition-Guide-TM-20122018.pdf" style="color:#E21216;">Tamil exhibition guide (834kb)</a>
+                            <a href="/files/sellingdreamsonsite/NLB-Exhibition-Guide-TM-20122018.pdf" style="color:#E21216;">Tamil exhibition guide (1.48mb)</a>
                         </li> 
                     </ul>
         </div>
@@ -127,7 +127,7 @@ second_nav_title: "Selling Dreams: Early Advertising in Singapore"
                 <ul style="list-style: none; margin-left: 0px;">
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem;">3 April – 31 October 2019 (CLOSED)</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">9 July 2018 – 24 March 2019 (CLOSED)</div>
                     </li>           
                     <li style="margin-bottom: 1rem;">
                         <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Ang Mo Kio Public Library</strong> &#124; 9 Jul – 26 Aug 2018</div>
