@@ -169,4 +169,58 @@ collection_name: past-exhibitions
 
 <!-- End of TFP -->
 
+<hr class="margin--top">
+
+<!-- Selling Dreams -->
+
+<div class="sgds-container__exh__card padding padding--bottom--lg" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+    <div class="row">
+        <div class="col padding--bottom--xs">
+            <h3 style="margin-bottom: 0px;"><strong>Selling Dreams: Early Advertising in Singapore</strong></h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <img src="/images/event-images/sellingdreamsonsite/selling-dreams-thumbnail.jpg" alt="Selling Dreams: Early Advertising in Singapore" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
+        </div>
+        <div class="col is-two-thirds">
+            <div class="row">
+                    <ul style="list-style: none; margin-left: 5px;">
+                        <li style="margin-bottom: 1rem;">
+                            <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                            <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">20 July 2018 – 24 February 2019 (Closed)</div>
+                        </li> 
+                        <li style="margin-bottom: 1rem;">
+                            <span class="sgds-icon sgds-icon-clock" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                            <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">10:00am – 9:00pm</div>
+                        </li>          
+                        <li style="margin-bottom: 1rem; padding-right: 20px;">
+                            <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                            <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">Level 10, Gallery, National Library Building</div>
+                        </li>
+                    </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="sgds-container__exh__break padding">
+    <div class="row">
+        <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #efefef;">
+        </div>
+    </div>
+</div>
+
+<div class="sgds-container__exh__description">
+    <div class="row is-multiline">
+        <div class="col">
+            <p>Advertisements are fascinating cultural documents that both shape and reflect people’s desires and ideals. This exhibition features advertising materials from the 1830s to 1960s in the National Library collection, and explores the hopes, dreams, aspirations and insecurities of society over the years.
+            </p>
+            <a href="/exhibitions/past-exhibitions/sellingdreams/" style="color:#E21216;"><h5>MORE INFORMATION &#187;</h5></a>
+        </div>
+    </div>
+</div>
+
+<!-- End of Selling Dreams -->
+
 </section>

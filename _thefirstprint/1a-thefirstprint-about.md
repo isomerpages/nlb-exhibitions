@@ -60,7 +60,7 @@ second_nav_title: "The First Print: Stories and Legends of Early Singapore"
                 <ul style="list-style: none; margin-left: 0px;">
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem;">3 April – 31 October 2019</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">3 April – 31 October 2019 (CLOSED)</div>
                     </li>           
                     <li style="margin-bottom: 1rem;">
                         <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Central Public Library</strong> &#124; 3 April – 30 April 2019</div>
