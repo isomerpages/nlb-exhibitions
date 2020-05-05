@@ -149,8 +149,17 @@ Past: #c1c1c1
             &mdash;<br>
             2:00pm</td>
         <td>
-            <p>Talk &#124; Selling Utopia: The Good Life as a Commodity in Singapore’s Early</p>
+            <p>Talk &#124; Selling Utopia: The Good Life as a Commodity in Singapore’s Early Advertisements</p>
             <p><a href="/programmes/sellingdreams/20190202-talk/">The event is over.</a></p>
+        </td>
+    </tr>     
+    <tr>
+        <td style="background-color: #c1c1c1;">19 Feb<br>
+            &mdash;<br>
+            7:00pm</td>
+        <td>
+            <p>Talk &#124; Japanese Brand Presence in Singapore Since the 19th Century</p>
+            <p><a href="/programmes/sellingdreams/20190219-talk/">The event is over.</a></p>
         </td>
     </tr>    
 

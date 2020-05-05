@@ -2,13 +2,13 @@
 layout: simple-page
 title: 2 February 2018
 permalink: /programmes/sellingdreams/20190202-talk/
-breadcrumb: "elling Utopia: The Good Life as a Commodity in Singapore’s Early Advertisements"
+breadcrumb: "Selling Utopia: The Good Life as a Commodity in Singapore’s Early Advertisements"
 
 ---
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 
-<h4>elling Utopia: The Good Life as a Commodity in Singapore’s Early Advertisements</h4>
+<h4>Selling Utopia: The Good Life as a Commodity in Singapore’s Early Advertisements</h4>
 
 __Date: 2 Feb 2019__<br>
 __Time: 2:00pm – 3:15pm__<br>
