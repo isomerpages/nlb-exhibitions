@@ -116,6 +116,15 @@ Past: #c1c1c1
             <p>Talk &#124; Behind the Dreams: The Curators’ Perspective</p>
             <p><a href="/programmes/sellingdreams/20181011-talk/">The event is over.</a></p>
         </td>
+    </tr>     
+    <tr>
+        <td style="background-color: #c1c1c1;">19 Oct<br>
+            &mdash;<br>
+            7:00pm</td>
+        <td>
+            <p>讲座 &#124; 幸福青春梦：1880年代至1960年代新加坡华文报纸广告中的爱与性</p>
+            <p><a href="/programmes/sellingdreams/20181019-talk/">The event is over.</a></p>
+        </td>
     </tr>    
 
 </table>
