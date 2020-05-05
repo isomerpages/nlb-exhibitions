@@ -55,86 +55,15 @@ Past: #c1c1c1
         </td>
     </tr>         
     <tr>
-        <td style="background-color: #c1c1c1;">Various dates<br>
-            &mdash;<br>
-            2:00pm</td>
-        <td>
-            <p>Children’s Workshop &#124; The People of Early Singapore</p>
-            <p><a href="/programmes/onpaper/children-workshops/">The event is over.</a></p>
-        </td>
-    </tr>     
-    <tr>
         <td style="background-color: #c1c1c1;">24 Sep<br>
             &mdash;<br>
             7:00pm</td>
         <td>
-            <p>Talk &#124; Southeast Asian Cosmopolitanism on its Own Terms: Banten as a Precolonial Model of a Southeast Asian Port-city</p>
-            <p><a href="/programmes/onpaper/20190924-talk/">The event is over.</a></p>
+            <p>Talk &#124; Early Advertising in Singapore (Fashion, Hospitality and Entertainment)</p>
+            <p><a href="/programmes/sellingdreams/20180726-talk/">The event is over.</a></p>
         </td>
     </tr>    
-    <tr>
-        <td style="background-color: #c1c1c1;">28 Sep<br>
-            &mdash;<br>
-            5:00pm</td>
-        <td>
-            <p>Talk &#124; The Orang Laut in the Realm of the Straits (Negara Selat)</p>
-            <p><a href="/programmes/onpaper/20190928-talk/">The event is over.</a></p>
-        </td>
-    </tr>
-    <tr>
-        <td style="background-color: #c1c1c1;">17 Oct<br>
-            &mdash;<br>
-            7:00pm</td>
-        <td>
-            <p>Tour &#124; &#91;Special&#93; Behind-the-Scenes: A Curator’s Perspective</p>
-            <p><a href="/programmes/onpaper/curator-tours/">The event is over.</a></p>
-        </td>
-    </tr>    
-    <tr>
-        <td style="background-color: #c1c1c1;">26 Oct<br>
-            &mdash;<br>
-            11:00am</td>
-        <td>
-            <p>Talk &#124; Early Singapore in the Syair of Dissent: Tuan Simi’s Narration of Local Predicament</p>
-            <p><a href="/programmes/onpaper/20191026-talk/">The event is over.</a></p>
-        </td>
-    </tr>     
-    <tr>
-        <td style="background-color: #c1c1c1;">16 Nov<br>
-            &mdash;<br>
-            11:00am</td>
-        <td>
-            <p>Talk &#124; Early Singapore Through the Lens of Colonial Artists</p>
-            <p><a href="/programmes/onpaper/20191116-talk/">The event is over.</a></p>
-        </td>
-    </tr>    
-    <tr>
-        <td style="background-color: #c1c1c1;">05 Dec<br>
-            &mdash;<br>
-            7:00pm</td>
-        <td>
-            <p>Tour &#124; On Paper: A Special Maps Tour</p>
-            <p><a href="/programmes/onpaper/20201205-tour/">The event is over.</a></p>
-        </td>
-    </tr>    
-    <tr>
-        <td style="background-color: #c1c1c1;">16 Jan<br>
-            &mdash;<br>
-            7:00pm</td>
-        <td>
-            <p>Talk &#124; Thomson's Maps of Singapore</p>
-            <p><a href="/programmes/onpaper/20200116-talk/">The event is over.</a></p>
-        </td>
-    </tr>     
-    <tr>
-        <td style="background-color: #c1c1c1;">18 Jan<br>
-            &mdash;<br>
-            11:00am</td>
-        <td>
-            <p>Talk &#124; Wilkes Expedition: The Remarkable Story of the last All-Sail Naval Squadron to Circumnavigate the World and its stop in Singapore</p>
-            <p><a href="/programmes/onpaper/20200118-talk/">The event is over.</a></p>
-        </td>
-    </tr>    
+
 </table>
         </div>
     </div>
