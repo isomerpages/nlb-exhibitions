@@ -57,7 +57,7 @@ Past: #c1c1c1
     <tr>
         <td style="background-color: #c1c1c1;">Various dates<br>
             &mdash;<br>
-            2:00pm</td>
+            2:00pm/4:00pm</td>
         <td>
             <p>Children’s Workshop &#124; The People of Early Singapore</p>
             <p><a href="/programmes/onpaper/children-workshops/">The event is over.</a></p>
