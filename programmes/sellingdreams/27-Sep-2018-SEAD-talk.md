@@ -11,8 +11,8 @@ breadcrumb: "Survey of Tamil and Malay Ads in 20th century Singapore"
 #### Survey of Tamil and Malay Ads in 20th century Singapore
 
 __Date: 27 Sep 2018__<br>
-Time: 7.00pm – 8.00pm__<br>
-Venue: Level 5, Possibility Room, National Library Building__<br>
+__Time: 7.00pm – 8.00pm__<br>
+__Venue: Level 5, Possibility Room, National Library Building__<br>
 _Free admission_
 
 Join librarians Sundari and Nadirah as they share the trends and variety of Tamil and Malay advertisements from the National Library’s collections. From beauty, food and fashion, discover how advertisements offer glimpses into the lifestyles and world views of local communities.

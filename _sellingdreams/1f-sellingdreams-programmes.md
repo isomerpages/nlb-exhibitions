@@ -107,6 +107,15 @@ Past: #c1c1c1
             <p>Talk &#124; Survey of Tamil and Malay Ads in 20th century Singapore</p>
             <p><a href="/programmes/sellingdreams/20180927-talk/">The event is over.</a></p>
         </td>
+    </tr>     
+    <tr>
+        <td style="background-color: #c1c1c1;">11 Oct<br>
+            &mdash;<br>
+            7:00pm</td>
+        <td>
+            <p>Talk &#124; Behind the Dreams: The Curators’ Perspective</p>
+            <p><a href="/programmes/sellingdreams/20181011-talk/">The event is over.</a></p>
+        </td>
     </tr>    
 
 </table>
