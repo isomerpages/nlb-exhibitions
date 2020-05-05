@@ -16,7 +16,7 @@ Join our docent-led tours and discover the rich treasures and fascinating storie
 
 <table>
   <tr>
-    <td rowspan="6">2019</td>
+    <td rowspan="6">2018</td>
     <td>English</td>
     <td>Sep</td>
     <td>1, 2, 15, 16, 29 &amp; 30</td>
@@ -47,7 +47,7 @@ Join our docent-led tours and discover the rich treasures and fascinating storie
     <td>10/11/24/25日</td>
   </tr>
   <tr>
-    <td rowspan="6">2020</td>
+    <td rowspan="6">2019</td>
     <td>English</td>
     <td>Dec</td>
     <td>1, 2 &amp; 15 </td>
