@@ -8,7 +8,7 @@ breadcrumb: "Behind the Dreams: The Curators’ Perspective"
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 
-#### "Behind the Dreams: The Curators’ Perspective"
+<h4>Behind the Dreams: The Curators’ Perspective</h4>
 
 __Date: 11 Oct 2018__<br>
 __Time: 7.00pm – 8.00pm__<br>
