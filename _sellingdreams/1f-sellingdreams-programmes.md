@@ -135,6 +135,15 @@ Past: #c1c1c1
             <p><a href="/programmes/sellingdreams/20181124-talk/">The event is over.</a></p>
         </td>
     </tr>    
+    <tr>
+        <td style="background-color: #c1c1c1;">19 Jan<br>
+            &mdash;<br>
+            2:00pm</td>
+        <td>
+            <p>Talk &#124; The Journey of a Mad Man</p>
+            <p><a href="/programmes/sellingdreams/20190119-talk/">The event is over.</a></p>
+        </td>
+    </tr>    
 
 </table>
         </div>
