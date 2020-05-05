@@ -14,7 +14,7 @@ __Every third Thursday of the month__
 
 __2018: 16 Aug, 20 Sept, 18 Oct, 15 Nov, 20 Dec__<br>
 __2019: 17 Jan, 21 Feb__<br>
-__Time: 7.00pm – 8.00pm__
+__Time: 7:00pm – 8:00pm__
 
 __Meeting point: Level 10, Gallery entrance__
 

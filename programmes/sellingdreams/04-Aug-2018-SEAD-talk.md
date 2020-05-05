@@ -11,7 +11,7 @@ breadcrumb: "The Sticky Tricky History of Advertising in Singapore"
 #### The Sticky Tricky History of Advertising in Singapore
 
 __Date: 4 Aug 2018__<br>
-__Time: 2.00pm – 3.00pm__<br>
+__Time: 2:00pm – 3:00pm__<br>
 __Venue: Level 5, Possibility Room, National Library Building__<br>
 _Free admission_
 

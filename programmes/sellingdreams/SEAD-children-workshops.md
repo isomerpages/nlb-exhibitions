@@ -33,8 +33,8 @@ __Dates:__<br>
   
 </table>
 
-__Session 1: 2.30pm – 3.30pm__<br>
-__Session 2: 3.30pm – 4.30pm__<br>
+__Session 1: 2:30pm – 3:30pm__<br>
+__Session 2: 3:30pm – 4:30pm__<br>
 __(2 sessions per day)__<br>
 __Venue: Level 10, Learning Space, national Library Building__<br>
 _Free admission_

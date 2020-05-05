@@ -11,7 +11,7 @@ breadcrumb: "Decoding Advertisements: The Semiotics of Print Advertisements"
 <h4>Decoding Advertisements: The Semiotics of Print Advertisements</h4>
 
 __Date: 23 Feb 2019__<br>
-__Time: 2.00pm – 3.00pm__<br>
+__Time: 2:00pm – 3:00pm__<br>
 __Venue: Level 5, Possibility Room, National Library Building__<br>
 _Free admission_
 

@@ -11,7 +11,7 @@ breadcrumb: "Behind the Dreams: The Curators’ Perspective"
 <h4>Behind the Dreams: The Curators’ Perspective</h4>
 
 __Date: 11 Oct 2018__<br>
-__Time: 7.00pm – 8.00pm__<br>
+__Time: 7:00pm – 8:00pm__<br>
 __Venue: Level 5, Possibility Room, National Library Building__<br>
 _Free admission_
 
