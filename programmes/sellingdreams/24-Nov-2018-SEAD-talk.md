@@ -20,6 +20,6 @@ As with much of the world, the future of advertising lies in A. I., but not the 
 The key to staying ahead of the curve is to think like a Renaissance polymath. After all, knowledge is power. Come join us and find out how you can be the future of the industry.
 
 ##### Speaker
-A multi-awarded creative and strategic communications leader, _James Keng Lim_’s career has spanned 20 years. He has experience in network and independent advertising, as well as digital and PR agencies – including running his own integrated communications agency – across cities such as Singapore, Kuala Lumpur, Shanghai, Dubai and Amsterdam.
+A multi-awarded creative and strategic communications leader, __James Keng Lim__’s career has spanned 20 years. He has experience in network and independent advertising, as well as digital and PR agencies – including running his own integrated communications agency – across cities such as Singapore, Kuala Lumpur, Shanghai, Dubai and Amsterdam.
 
 <a href="/exhibitions/past-exhibitions/sellingdreams/programmes/" style="color:#E21216;">Return to the Selling Dreams exhibition programmes page &#187;</a>
