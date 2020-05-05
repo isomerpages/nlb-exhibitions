@@ -73,6 +73,24 @@ Past: #c1c1c1
         </td>
     </tr>     
     <tr>
+        <td style="background-color: #c1c1c1;">17, 18, 25, 26 Aug<br>
+            &mdash;<br>
+            9:00pm</td>
+        <td>
+            <p>Selling Dreams @ Singapore Night Festival</p>
+            <p><a href="/programmes/sellingdreams/nightfest/">The event is over.</a></p>
+        </td>
+    </tr>     
+    <tr>
+        <td style="background-color: #c1c1c1;">18, 25 Aug<br>
+            &mdash;<br>
+            9:00pm</td>
+        <td>
+            <p>Tour &#124; Selling Dreams @ Singapore Night Festival Curator's Tour</p>
+            <p><a href="/programmes/sellingdreams/nightfest/">The event is over.</a></p>
+        </td>
+    </tr>     
+    <tr>
         <td style="background-color: #c1c1c1;">1 Sep<br>
             &mdash;<br>
             2:00pm</td>
