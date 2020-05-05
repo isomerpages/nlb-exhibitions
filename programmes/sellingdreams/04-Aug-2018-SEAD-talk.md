@@ -11,8 +11,8 @@ breadcrumb: "The Sticky Tricky History of Advertising in Singapore"
 #### The Sticky Tricky History of Advertising in Singapore
 
 __Date: 4 Aug 2018__<br>
-Time: 2.00pm – 3.00pm__<br>
-Venue: Level 5, Possibility Room, National Library Building__<br>
+__Time: 2.00pm – 3.00pm__<br>
+__Venue: Level 5, Possibility Room, National Library Building__<br>
 _Free admission_
 
 Before advertising agencies started to use computers in the mid-1990s, advertising production was very much craft-based, with artists sticking down type and photographs for press advertisements and editing film footage with cutters and adhesive tape.

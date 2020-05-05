@@ -8,7 +8,7 @@ breadcrumb: "Early Advertising in Singapore (Fashion, Hospitality and Entertainm
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 
-#### Early Advertising in Singapore "(Fashion, Hospitality and Entertainment)"
+#### Early Advertising in Singapore (Fashion, Hospitality and Entertainment)
 
 __A Librarian’s World__<br>
 __Date: 26 July 2018__<br>
