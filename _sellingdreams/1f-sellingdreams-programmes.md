@@ -55,12 +55,30 @@ Past: #c1c1c1
         </td>
     </tr>         
     <tr>
-        <td style="background-color: #c1c1c1;">24 Sep<br>
+        <td style="background-color: #c1c1c1;">26 Jul<br>
             &mdash;<br>
             7:00pm</td>
         <td>
             <p>Talk &#124; Early Advertising in Singapore (Fashion, Hospitality and Entertainment)</p>
             <p><a href="/programmes/sellingdreams/20180726-talk/">The event is over.</a></p>
+        </td>
+    </tr>     
+    <tr>
+        <td style="background-color: #c1c1c1;">4 Aug<br>
+            &mdash;<br>
+            2:00pm</td>
+        <td>
+            <p>Talk &#124; The Sticky Tricky History of Advertising in Singapore</p>
+            <p><a href="/programmes/sellingdreams/20180804-talk/">The event is over.</a></p>
+        </td>
+    </tr>     
+    <tr>
+        <td style="background-color: #c1c1c1;">1 Sep<br>
+            &mdash;<br>
+            2:00pm</td>
+        <td>
+            <p>Talk &#124; Early Advertising in Singapore (Fashion, Hospitality and Entertainment)</p>
+            <p><a href="/programmes/sellingdreams/20180901-talk/">The event is over.</a></p>
         </td>
     </tr>    
 
