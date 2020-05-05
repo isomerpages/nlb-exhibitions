@@ -161,6 +161,15 @@ Past: #c1c1c1
             <p>Talk &#124; Japanese Brand Presence in Singapore Since the 19th Century</p>
             <p><a href="/programmes/sellingdreams/20190219-talk/">The event is over.</a></p>
         </td>
+    </tr>      
+    <tr>
+        <td style="background-color: #c1c1c1;">23 Feb<br>
+            &mdash;<br>
+            7:00pm</td>
+        <td>
+            <p>Talk &#124; Decoding Advertisements: The Semiotics of Print Advertisements</p>
+            <p><a href="/programmes/sellingdreams/20190224-talk/">The event is over.</a></p>
+        </td>
     </tr>    
 
 </table>
