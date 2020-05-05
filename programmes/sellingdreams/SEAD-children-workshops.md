@@ -9,7 +9,7 @@ breadcrumb: "Chasing Dreams: Shopping in Old Singapore"
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 
 __Dates:__<br>
-<table>
+<table class="table table-v">
   <tr>
     <td>Jul 2018</td>
     <td>21 &amp; 28</td>

@@ -12,7 +12,7 @@ breadcrumb: "Selling Utopia: The Good Life as a Commodity in Singapore’s Early
 
 __Date: 2 Feb 2019__<br>
 __Time: 2:00pm – 3:15pm__<br>
-__Venue: Level 5, Possibility Room, National Library Buildin__<br>
+__Venue: Level 5, Possibility Room, National Library Building__<br>
 _Free admission_
 
 From the pre-modern to contemporary periods, Singapore has had a vibrant history of being imagined as a utopia. Most of these were top-down political narratives, but it was with the onset of print media that utopia began to be packaged as a commodity. Focusing on print advertisements from the late 19th and early centuries, this talk will examine specific imaginings of the Singapore Dream. In doing so, it aims to unveil the underlying prevailing worldviews that dominated these periods, while also making the case that the study of popular culture is serious business.
