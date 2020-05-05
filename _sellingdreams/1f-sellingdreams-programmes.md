@@ -125,6 +125,15 @@ Past: #c1c1c1
             <p>讲座 &#124; 幸福青春梦：1880年代至1960年代新加坡华文报纸广告中的爱与性</p>
             <p><a href="/programmes/sellingdreams/20181019-talk/">The event is over.</a></p>
         </td>
+    </tr>     
+    <tr>
+        <td style="background-color: #c1c1c1;">24 Nov<br>
+            &mdash;<br>
+            2:00pm</td>
+        <td>
+            <p>Talk &#124; A.I. – The Future of Advertising (But it’s not what you think)</p>
+            <p><a href="/programmes/sellingdreams/20181124-talk/">The event is over.</a></p>
+        </td>
     </tr>    
 
 </table>

@@ -19,7 +19,7 @@ Before advertising agencies started to use computers in the mid-1990s, advertisi
 
 Join Allein Moore as he shares his memories of his career, taking us back to the early years of advertising in Singapore.
 
-##### Speakers
+##### Speaker
 __Allein Moore__ is one of the pioneers of Singapore advertising and is a well-known figure in the industry. He is the founder and curator of Advertising Archive Asia, which aims to preserve advertising and design work.
 
 <a href="/exhibitions/past-exhibitions/sellingdreams/programmes/" style="color:#E21216;">Return to the Selling Dreams exhibition programmes page &#187;</a>
