@@ -16,13 +16,14 @@ __Exhibition__<br>
 __17 & 18 Aug 2018, 24 & 25 Aug 2018__<br>
 __Time: 10:00am – 11:30pm__<br>
 __Venue: Level 10, Gallery, National Library Building__
+_Free admission_
 
 ##### Curator’s Tours
 
 __18 & 25 Aug 2018__<br>
 __Time: 9:00pm – 10:00pm__<br>
 __Meeting point: Level 10, Gallery entrance, National Library Building__<br>
-__Free admission. (Programme has ended, registration is closed.)__
+_Free admission_
 
 ![A banner with various insitution logos.](/images/event-images/sellingdreamsonsite/SNF_Credit_Line_Black_940x323.jpg)
 
