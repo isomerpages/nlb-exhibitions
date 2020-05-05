@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Public Tours
-permalink: /programmes/onpaper/public-tours/
+permalink: /programmes/sellingdreams/public-tours/
 breadcrumb: Public Tours Tours
 
 ---
