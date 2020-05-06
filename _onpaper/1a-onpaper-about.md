@@ -80,7 +80,7 @@ second_nav_title: "On Paper: Singapore Before 1867"
     </div>
 </div>
 
-<div class="sgds-container padding--lg">
+<div class="sgds-container__line padding--lg">
     <div class="row">
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
         </div>
@@ -126,7 +126,7 @@ second_nav_title: "On Paper: Singapore Before 1867"
     </div>
 </div>
 
-<div class="sgds-container padding--lg">
+<div class="sgds-container__line padding--lg">
     <div class="row">
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
         </div>
@@ -190,7 +190,7 @@ second_nav_title: "On Paper: Singapore Before 1867"
     </div>
 </div>
 
-<div class="sgds-container padding--lg">
+<div class="sgds-container__line padding--lg">
     <div class="row">
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
         </div>

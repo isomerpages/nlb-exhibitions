@@ -81,7 +81,7 @@ second_nav_title: "Selling Dreams: Early Advertising in Singapore"
     </div>
 </div>
 
-<div class="sgds-container padding--lg">
+<div class="sgds-container__line padding--lg">
     <div class="row">
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
         </div>
@@ -154,7 +154,7 @@ second_nav_title: "Selling Dreams: Early Advertising in Singapore"
     </div>
 </div>
 
-<div class="sgds-container padding--lg">
+<div class="sgds-container__line padding--lg">
     <div class="row">
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
         </div>

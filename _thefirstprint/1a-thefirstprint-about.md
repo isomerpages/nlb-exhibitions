@@ -50,6 +50,14 @@ second_nav_title: "The First Print: Stories and Legends of Early Singapore"
             <p>With many tales such as the strong man Badang and the attack of the garfish, Sejarah Melayu continues to enchant writers and readers everywhere. Discover these timeless stories and how one man managed to bring this ancient manuscript to the masses, thereby ensuring that its legacy live on through the ages.</p>
         </div>
     </div>
+    
+<div class="sgds-container__line padding--lg">
+    <div class="row">
+        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
+        </div>
+    </div>
+</div>
+    
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
             <h3><strong>Roving</strong></h3>

@@ -1,6 +1,6 @@
 title: National Library Exhibitions
 title-abbreviated: National Library Exhibitions
-description: "Exhibitions organised National Library Singapore"
+description: "Exhibitions organised by National Library Singapore"
 url: "https://exhibitions.nlb.gov.sg/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
@@ -55,4 +55,6 @@ collections:
   thefirstprint:
     output: true
   sellingdreams:
+    output: true
+  talesofthemalayworld:
     output: true
