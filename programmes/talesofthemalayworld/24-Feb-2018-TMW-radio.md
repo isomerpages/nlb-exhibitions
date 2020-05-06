@@ -14,11 +14,11 @@ Jangan lepaskan peluang keemasan untuk melihat manuskrip-manuskrip yang indah da
 
 Ikuti Puan Mariam Mas’od seorang DJ veteran dari stesen radio Warna 94.2FM dalam sebuah lawatan berpandu eksklusif untuk pameran __Ceritera di Alam Melayu: Manuskrip dan Naskhah Awal__.
 
-Sabtu, 24 Februari 2018
-11pg – 12ptg
+Sabtu, 24 Februari 2018<br>
+11pg – 12ptg<br>
 Tempat Perhimpunan: Tingkat 10, Pintu Masuk Utama Galeri, Bangunan Perpustakaan Negara
 
-Dikendalikan dalam Bahasa Melayu.
+Dikendalikan dalam Bahasa Melayu.<br>
 Kemasukan Percuma.
 
 <a href="/exhibitions/past-exhibitions/talesofthemalayworld/programmes/" style="color:#E21216;">Return to Tales of the Malay World exhibition programmes page &#187;</a>
