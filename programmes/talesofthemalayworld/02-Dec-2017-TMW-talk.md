@@ -13,7 +13,7 @@ breadcrumb: "Malay Magic and Divination Manuscripts"
 __Saturday, 2 December 2017__<br>
 __2:00pm – 3:30pm__<br>
 __Level 5, Possibility Room__<br>
-__Speaker: Dr Farouk Yahya __<br>
+__Speaker: Dr Farouk Yahya__<br>
 _This talk will be conducted in English_
 
 Malay manuscripts on magic and divination contain fascinating and diverse images. These include illustrations of spirits, human beings and animals, as well as diagrams and talismanic designs for protection, healing and sorcery.

@@ -20,7 +20,7 @@ __Tun Fatimah__ (98 mins, 1962)<br>
 Director: Salleh Ghani<br>
 Cast: Maria Menado, Noordin Ahmad, Yusoff Latiff, Rose Yatimah, Mat Sentol
 
-Synopsis:
+##### Synopsis:
 
 _Tun Fatimah_ is a tale about Fatimah, the daughter of the bendahara (chief minister) of Melaka in the 16th century. Besotted by her beauty and wishing to take her as his consort, the sultan plots the murder of Fatimah’s husband, the bendahara and his sons. Despite her contempt for the sultan, Fatimah mobilises a resistance and defends the kingdom against the invading Portuguese.
 
@@ -31,7 +31,7 @@ __Hang Jebat__ (117 mins, 1961)
 Director: Hussain Haniff
 Cast: Noordin Ahmad, M. Amin, Siput Sarawak, Latiffah Omar
 
-Synopsis:
+##### Synopsis:
 
 _Hang Jebat_ tells the legendary tale of the close relationship between two warriors – Hang Jebat and Hang Tuah. Hang Tuah is unquestionably loyal to the sultan. Under the influence of court officials, however, the sultan instructs for Hang Tuah to be executed. The bendahara (chief minister) defies the order and keeps Hang Tuah alive. Hang Jebat, bent on seeking revenge for his best friend, is unstoppable in wreaking chaos. To defeat him, Hang Tuah is called upon to stop the rebellion.
 

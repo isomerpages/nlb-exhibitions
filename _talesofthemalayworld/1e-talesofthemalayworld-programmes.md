@@ -120,7 +120,7 @@ Past: #c1c1c1
     <tr>
         <td style="background-color: #c1c1c1;">24 Feb<br>
             &mdash;<br>
-            9:30am</td>
+            11:00am</td>
         <td>
             <p>Talk &#124; Lithography and the Malay Manuscript Tradition</p>
             <p><a href="/programmes/talesofthemalayworld/20180224-talk/">The event is over.</a></p>
@@ -129,7 +129,7 @@ Past: #c1c1c1
     <tr>
         <td style="background-color: #c1c1c1;">24 Feb<br>
             &mdash;<br>
-            11:30am</td>
+            11:00am</td>
         <td>
             <p>Langkah ke Alam Ceritera Melayu bersama DJ 94.2FM Puan Mariam Mas’od</p>
             <p><a href="/programmes/talesofthemalayworld/20180224-radio/">The event is over.</a></p>
