@@ -10,7 +10,7 @@ second_nav_title: "Tales of the Malay World: Manuscripts and Early Books"
 
 #### Digitised Malay Manuscripts
 
-Digitised collections of Malay Manuscripts are available at BookSG. To explore these collections, please click on the buttons below.
+Digitised collections of Malay Manuscripts are available at BookSG. To explore these collections, please click on the links below.
 
 <ul>
     <li style="margin-bottom: 1rem;">
