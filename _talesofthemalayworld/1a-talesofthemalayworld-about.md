@@ -17,7 +17,7 @@ second_nav_title: "Tales of the Malay World: Manuscripts and Early Books"
     </div>    
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img src="/images/event-images/tmw/tales-of-the-malay-world-tab-banner.jpg" alt="A photo showing the introduction wall of Tales of the Malay World">
+            <img src="/images/event-images/tmw/tales-of-the-malay-world_gallery_2.jpg" alt="A photo showing the introduction wall of Tales of the Malay World">
         </div>
     </div>
         <div class="row">
