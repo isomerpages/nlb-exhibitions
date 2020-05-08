@@ -53,6 +53,24 @@ Past: #c1c1c1
             <p>Tour &#124; 周末员导览</p>
             <p><a href="/programmes/anatomyofafreemind/public-tours/">The event is over.</a></p>
         </td>
+    </tr>      
+    <tr>
+        <td style="background-color: #c1c1c1;">18 Feb<br>
+            &mdash;<br>
+            11:00am</td>
+        <td>
+            <p>Workshop &#124; 周末员导览</p>
+            <p><a href="/programmes/anatomyofafreemind/20170218-workshop/">The event is over.</a></p>
+        </td>
+    </tr>      
+    <tr>
+        <td style="background-color: #c1c1c1;">24 Feb<br>
+            &mdash;<br>
+            7:00pm</td>
+        <td>
+            <p>Talk &#124; Prominent Speaker Series: A Thousand-Year Debate on the Imagery of a Plantain Tree in Snow</p>
+            <p><a href="/programmes/anatomyofafreemind/20170224-talk/">The event is over.</a></p>
+        </td>
     </tr>    
 
 </table>
