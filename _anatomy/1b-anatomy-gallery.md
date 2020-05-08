@@ -8,23 +8,18 @@ second_nav_title: "Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creat
 
 ---
 
-![A graphic styled like an illustrated manuscript. The title in the middle is 'Tales of the Malay World: Manuscripts and Early Books'.](/images/event-images/tmw/tales-of-the-malay-world_gallery_1.jpg)
+![A photo of the exhibition entrance. In the foreground, there is a narrow archway shaped like a bell. In the background, there is the informational wall.](/images/event-images/aof/anatomy-of-a-free-mind_gallery_11.jpg)
 
-![A photo showing the introduction wall of Tales of the Malay World. Showcases surround it in the background with ample space inbetween.](/images/event-images/tmw/tales-of-the-malay-world_gallery_2.jpg)
+![A photo of an exhibition wall. Ten ink portraits on newspapers are framed up and hung on the wall.](/images/event-images/aof/anatomy-of-a-free-mind_gallery_2.jpg)
 
-![Showcases line the wall on the left. Inside the showcases are opened books displaying beautifully illustrated pages.](/images/event-images/tmw/tales-of-the-malay-world_gallery_3.jpg)
+![A photo overview of the exhibition. There are sculptures and paintings.](/images/event-images/aof/anatomy-of-a-free-mind_gallery_3.jpg)
 
-![A woman takes a photo of the showcase caption with her phone. Visitors in the background are looking at the showcase displays as well.](/images/event-images/tmw/tales-of-the-malay-world_gallery_4.jpg)
+![A large landscape painting of Lee Kuan Yew and Kwa Geok Choo.](/images/event-images/aof/anatomy-of-a-free-mind_gallery_4.jpg)
 
-![A photo overview of a section in the exhibition. There are two table showcases in the middle, and wall showcases around them.](/images/event-images/tmw/tales-of-the-malay-world_gallery_5.jpg)
+![A large work sits on a metal table. It is a dome made up of smaller pieces of sculptures, strung together with wire.](/images/event-images/aof/anatomy-of-a-free-mind_gallery_6.jpg)
 
-![A photo of a showcase. There are books inside, opened up to beautifully illustrated pages.](/images/event-images/tmw/tales-of-the-malay-world_gallery_6.jpg)
+![A photo overview of the exhibition. There are sculptures and paintings. A small TV screen is in a wall.](/images/event-images/aof/anatomy-of-a-free-mind_gallery_7.jpg)
 
-![A corridor leads into a room. On the corridor's wall, a lightbox information panel displays the title Market for Manuscripts, along with its introduction text. In the room, a showcase is in the center, surrounded by other showcases against the walls.](/images/event-images/tmw/tales-of-the-malay-world_gallery_7.jpg)
+![A photo of a large sculpture. It is cast in bronze, and looks like a straw dog.](/images/event-images/aof/anatomy-of-a-free-mind_gallery_7.jpg)
 
-![A man touches an interactive screen on the wall. The screen displays a city map with several map markers, along with the information box titled Early Malay Muslim Printers.](/images/event-images/tmw/tales-of-the-malay-world_gallery_8.jpg)
-
-![A photo of the Lobby exhibition. A film still of a woman is on the side panel wall. Inside are TV screens showing old movies and there are showcases underneath.](/images/event-images/tmw/tales-of-the-malay-world_gallery_9.jpg)
-
-
-
+![A photo of the exhibition opening event. Tan Swie Hian is on stage, receiving a gift box from Professor Tommy Koh.](/images/event-images/aof/anatomy-of-a-free-mind_gallery_1.jpg)
