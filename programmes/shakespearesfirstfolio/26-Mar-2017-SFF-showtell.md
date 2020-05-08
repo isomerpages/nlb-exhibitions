@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: 26 March 2017
-permalink: /programmes/shakespearesfirstfolio/20170326-talk/
+permalink: /programmes/shakespearesfirstfolio/20170326-showtell/
 breadcrumb: "Comedies, Histories and Tragedies: Show and Tell"
 
 ---

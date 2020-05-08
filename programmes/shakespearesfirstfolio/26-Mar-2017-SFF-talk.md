@@ -12,7 +12,7 @@ breadcrumb: "Comedies, Histories and Tragedies: Public Talk"
 
 __Sunday, 26 March 2017__<br>
 __11:00am – 12:00pm__<br>
-__Level 16, The Pod __<br>
+__Level 16, The Pod__<br>
 __National Library Building__<br>
 _Admission is free._
 

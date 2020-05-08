@@ -32,7 +32,7 @@ Past: #c1c1c1
             &mdash;<br>
             11:00am</td>
         <td>
-            <p>Talk &#124; Comedies, Histories and Tragedies: Public Talk</p>
+            <p>Talk &#124; Comedies, Histories and Tragedies</p>
             <p><a href="/programmes/shakespearesfirstfolio/20170326-talk/">The event is over.</a></p>
         </td>
     </tr>      
@@ -41,8 +41,8 @@ Past: #c1c1c1
             &mdash;<br>
             1:00pm</td>
         <td>
-            <p>Show and Tell &#124; Comedies, Histories and Tragedies: Public Talk</p>
-            <p><a href="/programmes/shakespearesfirstfolio/20170326-talk/">The event is over.</a></p>
+            <p>Show and Tell &#124; Comedies, Histories and Tragedies</p>
+            <p><a href="/programmes/shakespearesfirstfolio/20170326-showtell/">The event is over.</a></p>
         </td>
     </tr>     
 
