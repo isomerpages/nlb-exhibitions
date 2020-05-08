@@ -60,6 +60,13 @@ second_nav_title: "Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creat
     </div>
 </div>
 
+<div class="sgds-container__line padding--lg">
+    <div class="row">
+        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
+        </div>
+    </div>
+</div> 
+    
 <div class="sgds-container__downloads">
     <div class="row">
         <div class="col is-full padding--top--lg">
