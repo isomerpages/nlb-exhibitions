@@ -60,3 +60,5 @@ collections:
     output: true
   shakespearesfirstfolio:
     output: true
+  anatomy:
+    output: true
