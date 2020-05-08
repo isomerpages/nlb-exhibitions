@@ -62,3 +62,5 @@ collections:
     output: true
   anatomy:
     output: true
+  scriptandstage:
+    output: true

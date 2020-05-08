@@ -70,7 +70,7 @@ second_nav_title: "Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creat
 <div class="sgds-container__downloads">
     <div class="row">
         <div class="col is-full padding--top--lg">
-            <h4>Brochures and Exhibition Guides</h4>
+            <h4>Brochure</h4>
             <p style="margin-top: 5px;">Download the brochure below:</p>
                     <ul style="list-style: none; margin-left: 5px; color: #E21216">
                         <li style="margin-bottom: 1rem;">
