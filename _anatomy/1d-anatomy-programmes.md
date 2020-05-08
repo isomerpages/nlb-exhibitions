@@ -46,95 +46,15 @@ Past: #c1c1c1
         </td>
     </tr>    
     <tr>
-        <td style="background-color: #c1c1c1;">18 Aug<br>
-            &mdash;<br>
-            7:00pm</td>
-        <td>
-            <p>Talk &#124; Art and Artists in Malay Manuscript Books</p>
-            <p><a href="/programmes/talesofthemalayworld/20170818-talk/">The event is over.</a></p>
-        </td>
-    </tr>     
-    <tr>
-        <td style="background-color: #c1c1c1;">30 Sep<br>
-            &mdash;<br>
-            3:00pm</td>
-        <td>
-            <p>Talk &#124; The Script State (Negeri Naskhah) – Malay Manuscripts in Documenting Memories</p>
-            <p><a href="/programmes/talesofthemalayworld/20170930-talk/">The event is over.</a></p>
-        </td>
-    </tr>     
-    <tr>
-        <td style="background-color: #c1c1c1;">7 Oct<br>
-            &mdash;<br>
-            9:30am/12:00pm</td>
-        <td>
-            <p>Workshop &#124; Basic Jawi in Minutes!</p>
-            <p><a href="/programmes/talesofthemalayworld/20171007-workshop/">The event is over.</a></p>
-        </td>
-    </tr>      
-    <tr>
-        <td style="background-color: #c1c1c1;">21 Oct<br>
+        <td style="background-color: #c1c1c1;">Various dates<br>
             &mdash;<br>
             2:00pm</td>
         <td>
-            <p>Talk &#124; Hang Tuah in a Time of Independence: Malay Texts in the 1950s and 1960s</p>
-            <p><a href="/programmes/talesofthemalayworld/20171021-talk/">The event is over.</a></p>
+            <p>Tour &#124; 周末员导览</p>
+            <p><a href="/programmes/anatomyofafreemind/public-tours/">The event is over.</a></p>
         </td>
-    </tr>     
-    <tr>
-        <td style="background-color: #c1c1c1;">25 Nov<br>
-            &mdash;<br>
-            2:00pm</td>
-        <td>
-            <p>Talk &#124; Malay Manuscript Collection and Early Malay Printing in America and Europe</p>
-            <p><a href="/programmes/talesofthemalayworld/20171125-talk/">The event is over.</a></p>
-        </td>
-    </tr>     
-    <tr>
-        <td style="background-color: #c1c1c1;">2 Dec<br>
-            &mdash;<br>
-            2:00pm</td>
-        <td>
-            <p>Talk &#124; Malay Magic and Divination Manuscripts</p>
-            <p><a href="/programmes/talesofthemalayworld/20171202-talk/">The event is over.</a></p>
-        </td>
-    </tr>     
-    <tr>
-        <td style="background-color: #c1c1c1;">2 Dec<br>
-            &mdash;<br>
-            6:00pm/8:10pm</td>
-        <td>
-            <p>Talk &#124; Layar Klasik: An Evening of Malay Classic Films</p>
-            <p><a href="/programmes/talesofthemalayworld/20171202-screening/">The event is over.</a></p>
-        </td>
-    </tr>      
-    <tr>
-        <td style="background-color: #c1c1c1;">3 Feb<br>
-            &mdash;<br>
-            9:30am</td>
-        <td>
-            <p>Workshop &#124; I Can Compose and Recite Syair!</p>
-            <p><a href="/programmes/talesofthemalayworld/20180203-workshop/">The event is over.</a></p>
-        </td>
-    </tr>     
-    <tr>
-        <td style="background-color: #c1c1c1;">24 Feb<br>
-            &mdash;<br>
-            11:00am</td>
-        <td>
-            <p>Talk &#124; Lithography and the Malay Manuscript Tradition</p>
-            <p><a href="/programmes/talesofthemalayworld/20180224-talk/">The event is over.</a></p>
-        </td>
-    </tr>     
-    <tr>
-        <td style="background-color: #c1c1c1;">24 Feb<br>
-            &mdash;<br>
-            11:00am</td>
-        <td>
-            <p>Langkah ke Alam Ceritera Melayu bersama DJ 94.2FM Puan Mariam Mas’od</p>
-            <p><a href="/programmes/talesofthemalayworld/20180224-radio/">The event is over.</a></p>
-        </td>
-    </tr>     
+    </tr>    
+
 </table>
         </div>
     </div>
