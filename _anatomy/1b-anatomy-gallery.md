@@ -20,6 +20,6 @@ second_nav_title: "Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creat
 
 ![A photo overview of the exhibition. There are sculptures and paintings. A small TV screen is in a wall.](/images/event-images/aof/anatomy-of-a-free-mind_gallery_7.jpg)
 
-![A photo of a large sculpture. It is cast in bronze, and looks like a straw dog.](/images/event-images/aof/anatomy-of-a-free-mind_gallery_7.jpg)
+![A photo of a large sculpture. It is cast in bronze, and looks like a straw dog.](/images/event-images/aof/anatomy-of-a-free-mind_gallery_12.jpg)
 
 ![A photo of the exhibition opening event. Tan Swie Hian is on stage, receiving a gift box from Professor Tommy Koh.](/images/event-images/aof/anatomy-of-a-free-mind_gallery_1.jpg)
