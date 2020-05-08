@@ -49,7 +49,7 @@ second_nav_title: "Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creat
 
             <p>Discover the extraordinary world of a free mind through Tan Swie Hian’s creations and notebooks!</p>
 
-            <p>《解析自由心 – 陈瑞献稿本与创作》</p>
+            <h4>《解析自由心 – 陈瑞献稿本与创作》</h4>
 
             <p>1973年可说是陈瑞献人生里一个重大的里程碑，他突破了自己在灵性上和艺术创作方面的极限。自此以后，他的创作无论是在媒材、主题、类型或表现手法各方面，都以自由为本。陈瑞献把他新发现的自由心比喻成一只蜂鸟，可以任意翱翔，体验不同境界的现实。</p>
 
@@ -70,13 +70,6 @@ second_nav_title: "Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creat
                             <a href="/files/aof/AOFM-A5-brochure-2-17012017.pdf" style="color:#E21216;">English and Chinese exhibition brochure (1.32mb)</a>
                         </li>                         
                     </ul>
-        </div>
-    </div>
-</div>
-
-<div class="sgds-container__line padding--lg">
-    <div class="row">
-        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
         </div>
     </div>
 </div>
@@ -115,7 +108,7 @@ second_nav_title: "Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creat
     
 <div class="sgds-container__description">
     <div class="row">
-        <div class="col is-full padding--top--lg">
+        <div class="col is-full padding--top--lg padding--bottom--lg">
             <p>Singapore Cultural Medallion recipient Tan Swie Hian is the top grossing living artist in Southeast Asia who has received numerous accolades both locally and abroad. Although he exhibited impressive artistic talents at a tender age, he was first recognised for his literary creations when he ventured into the arts scene.</p>
 
             <p>Tan wrote and published prolifically in the 1960s under the pseudonym of “Mu Lingnu”. Before long, he had established a reputation for advocating Modernist literature in the local Chinese literary circle. He once said that his literary works “mostly reflected the dark side of reality; and the sorrows of human destiny”, thus compassion for lives has been a key theme in his writings. To date, the multilingual artist/writer has published close to 40 literary titles.</p>
@@ -167,6 +160,13 @@ second_nav_title: "Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creat
         </div>
     </div>
 </div>
+
+<div class="sgds-container__line padding--lg">
+    <div class="row">
+        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
+        </div>
+    </div>
+</div> 
     
 <div class="sgds-container__description">
     <div class="row">
