@@ -19,12 +19,14 @@ _Meeting point: Level 7, Promenade, National Library Building_
 
 Discover the roots of local playwriting and theatre production. Learn about significant performances, playwrights as well as prominent theatre companies that have shaped the foundation of contemporary theatre in Singapore.
 
-The curator will share behind-the-scenes stories on some of the productions featured in the exhibition. Conducted by: __Georgina Wong__, Assistant Curator, National Library.
+The curator will share behind-the-scenes stories on some of the productions featured in the exhibition. 
+
+Conducted by: __Georgina Wong__, Assistant Curator, National Library.
 
 ![A photo of a tour at the exhibition, with the curator talking about showcase.](/images/event-images/script-and-stage-onsite/SS08.jpg)
 
 ![A photo of a tour at the exhibition. Visitors look into a wall showcase.](/images/event-images/script-and-stage-onsite/SS09.jpg)
 
-![A photo of a tour at the exhibition. The curator is giving the tour.](/images/event-images/script-and-stage-onsite/SS012.jpg)
+![A photo of a tour at the exhibition. The curator is giving the tour.](/images/event-images/script-and-stage-onsite/SS12.jpg)
 
-<a href="/exhibitions/past-exhibitions/sellingdreams/programmes/" style="color:#E21216;">Return to the Selling Dreams exhibition programmes page &#187;</a>
+<a href="/exhibitions/past-exhibitions/scriptandstage/programmes/" style="color:#E21216;">Return to Script &amp; Stage exhibition programmes page &#187;</a>

@@ -45,7 +45,7 @@ second_nav_title: "Script &amp; Stage: Theatre in Singapore from the 50s to 80s"
         <div class="col is-full padding--top--lg">
             <p>Script &amp; Stage explores the fascinating roots of local playwriting and theatre production, highlighting significant performances, playwrights and prominent theatre companies that have shaped the foundation of contemporary theatre in Singapore.</p>
 
-            <p>As we trace the development of Singapore’s vernacular theatre communities from the 1950s to the 1980s, treat yourself to publications such as Keris Sempena Riau, the first sandiwara (Malay historical theatre) published and staged locally, as well as the manuscripts and drafts of acclaimed local playwrights like Kuo Pao Kun and Robert Yeo.</p>
+            <p>As we trace the development of Singapore’s vernacular theatre communities from the 1950s to the 1980s, treat yourself to publications such as <em>Keris Sempena Riau</em>, the first <em>sandiwara</em> (Malay historical theatre) published and staged locally, as well as the manuscripts and drafts of acclaimed local playwrights like Kuo Pao Kun and Robert Yeo.</p>
 
             <p>Not to be missed are showcases of notable local musicals, such as Beauty World (TheatreWorks) and Chang and Eng (Action! Theatre), at the lobby of the National Library Building.</p>
         </div>
@@ -105,7 +105,7 @@ second_nav_title: "Script &amp; Stage: Theatre in Singapore from the 50s to 80s"
 <div class="sgds-container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
-            <p>Delve into stories from traditional theatre found in Southeast Asia! Get up-close and personal with characters from the epic tales of the <em>Ramayana</em>, <em>Mahabharataand</em> Chinese legends. Learn about the theatre traditions of <em>wayang kulit</em> (shadow puppetry), Chinese street opera and <em>therukoothu</em> (Tamil street theatre) through interactive displays at selected libraries around Singapore.</p>
+            <p>Delve into stories from traditional theatre found in Southeast Asia! Get up-close and personal with characters from the epic tales of the <em>Ramayana</em>, <em>Mahabharataand</em> and Chinese legends. Learn about the theatre traditions of <em>wayang kulit</em> (shadow puppetry), Chinese street opera and <em>therukoothu</em> (Tamil street theatre) through interactive displays at selected libraries around Singapore.</p>
             
             <p>This exhibition is a roving component of <em>Script &amp; Stage: Theatre in Singapore from the 50s to 80s</em>.</p>
         </div>
