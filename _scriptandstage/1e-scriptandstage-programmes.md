@@ -4,7 +4,7 @@ title: "Programmes"
 permalink: /exhibitions/past-exhibitions/scriptandstage/programmes/
 breadcrumb: "Programmes"
 collection_name: scriptandstage
-second_nav_title: "Selling Dreams: Early Advertising in Singapore"
+second_nav_title: "Script &amp; Stage: Theatre in Singapore from the 50s to 80s"
 
 ---
 

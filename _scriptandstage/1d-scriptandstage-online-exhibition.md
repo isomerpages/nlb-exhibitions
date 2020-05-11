@@ -4,7 +4,7 @@ title: "Online Exhibition"
 permalink: /exhibitions/past-exhibitions/scriptandstage/online-exhibition/
 breadcrumb: "Online Exhibition"
 collection_name: scriptandstage
-second_nav_title: "Script & Stage: Theatre in Singapore from the 50s to 80s"
+second_nav_title: "Script &amp; Stage: Theatre in Singapore from the 50s to 80s"
 
 ---
 

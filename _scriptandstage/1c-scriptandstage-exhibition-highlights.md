@@ -4,7 +4,7 @@ title: "Exhibition Highlights"
 permalink: /exhibitions/past-exhibitions/scriptandstage/exhibition-highlights/
 breadcrumb: "Exhibition Highlights"
 collection_name: scriptandstage
-second_nav_title: "Script & Stage: Theatre in Singapore from the 50s to 80s"
+second_nav_title: "Script &amp; Stage: Theatre in Singapore from the 50s to 80s"
 
 ---
 
