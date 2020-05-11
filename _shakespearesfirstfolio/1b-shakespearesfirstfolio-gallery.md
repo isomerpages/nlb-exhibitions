@@ -14,7 +14,7 @@ second_nav_title: "Shakespeare in Print: The First Folio"
 
 ![A photo overview of the exhibition. The First Folio lies in the showcase in the middle, surrounded by informational walls.](/images/event-images/shakespeare/shakespeare-in-print_gallery_3.jpg)
 
-![A photo overview of the exhibition. The First Folio lies in the showcase in the middle, surrounded by informational walls.](/images/event-images/shakespeare/shakespeare-in-print_gallery_4.jpg)
+![A photo overview of the exhibition. The First Folio lies in the showcase in the middle, surrounded by informational walls. Some walls are also decorated in silhouette art.](/images/event-images/shakespeare/shakespeare-in-print_gallery_4.jpg)
 
 
 
