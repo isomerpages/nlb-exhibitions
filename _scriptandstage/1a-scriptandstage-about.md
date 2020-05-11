@@ -133,7 +133,7 @@ second_nav_title: "Script &amp; Stage: Theatre in Singapore from the 50s to 80s"
             
             <img src="/images/event-images/script-and-stage-onsite/SS10.jpg" alt="A photo of a tour. A librarian is giving talking about the contents of a table showcase, while students crowd around.">
             
-            <img src="/images/event-images/script-and-stage-onsite/SS10.jpg" alt="A photo of a tour. Students look down into a table showcase.">
+            <img src="/images/event-images/script-and-stage-onsite/SS11.jpg" alt="A photo of a tour. Students look down into a table showcase.">
         </div>
     </div>
 </div>     
