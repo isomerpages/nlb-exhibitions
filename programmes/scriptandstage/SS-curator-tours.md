@@ -27,6 +27,6 @@ Conducted by: __Georgina Wong__, Assistant Curator, National Library.
 
 ![A photo of a tour at the exhibition. Visitors look into a wall showcase.](/images/event-images/script-and-stage-onsite/SS09.jpg)
 
-![A photo of a tour at the exhibition. The curator is giving the tour.](/images/event-images/script-and-stage-onsite/SS12.jpg)
+![A photo of a tour at the exhibition. The curator is giving the tour.](/images/event-images/script-and-stage-onsite/SS07.jpg)
 
 <a href="/exhibitions/past-exhibitions/scriptandstage/programmes/" style="color:#E21216;">Return to Script &amp; Stage exhibition programmes page &#187;</a>
