@@ -41,7 +41,7 @@ Past: #c1c1c1
             &mdash;<br>
             2:00pm</td>
         <td>
-            <p>Tour &#124; 周末员导览</p>
+            <p>导览 &#124; 周末员导览</p>
             <p><a href="/programmes/anatomyofafreemind/public-tours/">The event is over.</a></p>
         </td>
     </tr>
