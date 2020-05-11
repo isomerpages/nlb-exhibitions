@@ -28,15 +28,6 @@ Past: #c1c1c1
 
 <table class="table table-v">
     <tr>
-        <td style="background-color: #c1c1c1;">25 Nov<br>
-            &mdash;<br>
-            7:00pm</td>
-        <td>
-            <p>Tour &#124; Artist's Tour</p>
-            <p><a href="/programmes/anatomyofafreemind/artist-tour/">The event is over.</a></p>
-        </td>
-    </tr>    
-    <tr>
         <td style="background-color: #c1c1c1;">Various dates<br>
             &mdash;<br>
             2:00pm/7:00pm</td>
@@ -53,7 +44,16 @@ Past: #c1c1c1
             <p>Tour &#124; 周末员导览</p>
             <p><a href="/programmes/anatomyofafreemind/public-tours/">The event is over.</a></p>
         </td>
-    </tr>      
+    </tr>
+        <tr>
+        <td style="background-color: #c1c1c1;">25 Nov<br>
+            &mdash;<br>
+            7:00pm</td>
+        <td>
+            <p>Tour &#124; Artist's Tour</p>
+            <p><a href="/programmes/anatomyofafreemind/artist-tour/">The event is over.</a></p>
+        </td>
+    </tr> 
     <tr>
         <td style="background-color: #c1c1c1;">18 Feb<br>
             &mdash;<br>

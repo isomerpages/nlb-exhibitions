@@ -4,7 +4,7 @@ title: "About"
 permalink: /exhibitions/past-exhibitions/scriptandstage/
 breadcrumb: "About"
 collection_name: scriptandstage
-second_nav_title: "Script & Stage: Theatre in Singapore from the 50s to 80s"
+second_nav_title: "Script &amp; Stage: Theatre in Singapore from the 50s to 80s"
 
 ---
 
@@ -33,7 +33,7 @@ second_nav_title: "Script & Stage: Theatre in Singapore from the 50s to 80s"
                     </li>          
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem;">Levels 7 & 8, Promenade, National Library Building</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">Levels 7 &amp; 8, Promenade, National Library Building</div>
                     </li>                    
                     </ul>
             </div>
@@ -66,5 +66,77 @@ second_nav_title: "Script & Stage: Theatre in Singapore from the 50s to 80s"
     </div>
 </div>
 
+
+<div class="sgds-container__line padding--lg">
+    <div class="row">
+        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
+        </div>
+    </div>
+</div>  
+
+<div class="sgds-container__card">
+    <div class="row margin--bottom--xs">
+        <div class="col is-12 padding--xs">
+            <h3><strong>Theatre Tales!</strong></h3>
+        </div>
+    </div>
+        <div class="row">
+            <div class="col" style="border-top: 10px solid #E21216; border-bottom: 5px solid #E21216;">
+                <ul style="list-style: none; margin-left: 0px;">
+                    <li style="margin-bottom: 1rem;">
+                        <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">31 October 2016 – 27 March 2017 (CLOSED)</div>
+                    </li> 
+                    <li style="margin-bottom: 1rem;">
+                        <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Central Public Library</strong> &#124; 31 October 2016 – 19 December 2016</div>
+                    </li>                    
+                    <li style="margin-bottom: 1rem;">
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Woodlands Regional Library</strong> &#124; 20 December 2016 – 31 January 2017</div>
+                    </li>                    
+                    <li style="margin-bottom: 1rem;">
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Jurong Regional Library</strong> &#124; 1 February 2017 – 27 March 2017</div>
+                    </li>                       
+                </ul>
+            </div>
+        </div>
+</div>
+    
+<div class="sgds-container__description">
+    <div class="row">
+        <div class="col is-full padding--top--lg">
+            <p>Delve into stories from traditional theatre found in Southeast Asia! Get up-close and personal with characters from the epic tales of the <em>Ramayana</em>, <em>Mahabharataand</em> Chinese legends. Learn about the theatre traditions of <em>wayang kulit</em> (shadow puppetry), Chinese street opera and <em>therukoothu</em> (Tamil street theatre) through interactive displays at selected libraries around Singapore.</p>
+            
+            <p>This exhibition is a roving component of <em>Script &amp; Stage: Theatre in Singapore from the 50s to 80s</em>.</p>
+        </div>
+    </div>
+</div>     
+    
+<div class="sgds-container__line padding--lg">
+    <div class="row">
+        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
+        </div>
+    </div>
+</div>  
+
+<div class="sgds-container__description">
+    <div class="row">
+        <div class="col is-full padding--top--lg">
+            <h3>School Tours</h3>
+            <p>Through guided tours specifically tailored for schools, students will discover facets of local theatre through the manuscripts, photos, posters and oral history records of local theatre and playwrights.</p>
+
+            <p>Worksheets will be provided for students during the tour. The activities in the worksheet are designed to enable students to learn the skills of critical analysis and show a greater appreciation for the art of theatre and playwriting.</p>
+
+            <p>Interested schools can send an email to visitnls@nlb.gov.sg for more details. Book early to secure a tour slot!</p>
+            
+            <blockquote style="color: #E21216; font-size: 150%;">Programme has ended, registration is closed.</blockquote>
+            
+            <img src="/images/event-images/script-and-stage-onsite/SS10.jpg" alt="A photo of a tour. A librarian is giving talking about the contents of a table showcase, while students crowd around.">
+            
+            <img src="/images/event-images/script-and-stage-onsite/SS10.jpg" alt="A photo of a tour. Students look down into a table showcase.">
+        </div>
+    </div>
+</div>     
+  
 </section>
 
