@@ -8,7 +8,7 @@ second_nav_title: "From The Stacks: Highlights of the National Library"
 
 ---
 
-Click on the link below to browse a selection of digitized books at NLB’s e-Resources.
+Click on the link below to browse a selection of digitized books at NLB’s e-Resources:
 
 <ul>
     <li style="margin-bottom: 1rem;">
@@ -16,7 +16,7 @@ Click on the link below to browse a selection of digitized books at NLB’s e-Re
     </li>    
 </ul>
 
-Click on the button below to to read BiblioAsia: Highlights of the National Library.
+Click on the link below to to read BiblioAsia: Highlights of the National Library:
 
 <ul>
     <li style="margin-bottom: 1rem;">

@@ -59,7 +59,7 @@ Past: #c1c1c1
             &mdash;<br>
             1:00pm</td>
         <td>
-            <p>Tour &#124; 周末导览 （华语讲解）</p>
+            <p>导览 &#124; 周末导览 （华语讲解）</p>
             <p><a href="/programmes/fromthestacks/public-tours/">The event is over.</a></p>
         </td>
     </tr>      
