@@ -4,7 +4,7 @@ title: "Exhibition Highlights"
 permalink: /exhibitions/past-exhibitions/fromthestacks/exhibition-highlights/
 breadcrumb: "Exhibition Highlights"
 collection_name: fromthestacks
-second_nav_title: "From The Stacks: Highlights of the National Librarye"
+second_nav_title: "From The Stacks: Highlights of the National Library"
 
 ---
 

@@ -17,7 +17,7 @@ second_nav_title: "From The Stacks: Highlights of the National Library"
     </div>    
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img src="/images/event-images/sellingdreamsonsite/selling-dreams_gallery_7.jpg" alt="A photo showing a row of open books in a showcase. They feature beautifully illustrated birds.">
+            <img src="/images/event-images/from-the-stacks-onsite/from-the-stacks_gallery_7.jpg" alt="A photo showing a row of open books in a showcase. They feature beautifully illustrated birds.">
         </div>
     </div>
         <div class="row">
@@ -165,7 +165,7 @@ second_nav_title: "From The Stacks: Highlights of the National Library"
             <h3>Featurette &#124; Vice &amp; Virtue: 1800s Singapore</h3>
             <p>From colonial power struggles to government sanctioned drug cartels and prostitution rings, 19th century Singapore was full of fantastic stories of vice and virtue. Join academic and history lover, Dr Farish A. Noor, as he takes us on a journey to uncover these forgotten stories buried in a treasure trove of rare collections.</p>
 
-            <p>Vice &amp; Virtue: 1800s Singapore was broadcasted on Channel News Asia. <a href="https://www.channelnewsasia.com/news/video-on-demand/vice-and-virtue" target="_blank">Click here to watch it on CNA.</a></p>
+            <p>Vice &amp; Virtue: 1800s Singapore was broadcasted on Channel News Asia. <a href="https://www.channelnewsasia.com/news/video-on-demand/vice-and-virtue" target="_blank" style="color:#E21216;">Click here to watch it on CNA.</a></p>
 
             <p>Selected artefacts in the exhibition are showcased in this documentary.</p>
             
