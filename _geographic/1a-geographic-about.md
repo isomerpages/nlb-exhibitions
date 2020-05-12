@@ -48,13 +48,6 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
     </div>
 </div>
 
-<div class="sgds-container__line padding--lg">
-    <div class="row">
-        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
-        </div>
-    </div>
-</div> 
-    
 <div class="sgds-container__downloads">
     <div class="row">
         <div class="col is-full padding--top--lg">
@@ -78,14 +71,20 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
 
 <!-- List of exhibitions -->
     
-<h3>Geo|Graphic exhibitions</h3>
+<div class="sgds-container__description">
+    <div class="row">
+        <div class="col is-full padding--top--lg">
+        <h2>Geo&#124;Graphic exhibitions</h2>
+        </div>
+    </div>
+</div>
 
 <div class="sgds-container__card">
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
             <img src="/images/event-images/geographic/geographic-main-image-2.jpg" alt="A map of several islands.">
-            <p>Sheet 14 showing islands like Pulau Bukom and Semakau off the west coast of mainland Singapore 1924<br>
-                Source: Singapore Land Authority, Courtesy of National Archives of Singapore</p>
+            <center><h6>Sheet 14 showing islands like Pulau Bukom and Semakau off the west coast of mainland Singapore 1924<br>
+            Source: Singapore Land Authority, Courtesy of National Archives of Singapore</h6></center>
         </div>
     </div>
     <div class="row margin--bottom--xs">
@@ -122,7 +121,7 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
 
 <div class="sgds-container__description">
     <div class="row">
-        <div class="col is-full padding--top--lg">
+        <div class="col is-full padding--bottom--lg">
         <h3>Mind the Gap: Mapping the Other</h3>
             <p><strong>Mind the Gap</strong> presents the works of three Singapore-based contemporary artists who harness the strategies of data collection and mapping to investigate what lies beneath the surface of contemporary life.</p>
         </div>
@@ -133,8 +132,8 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
             <img src="/images/event-images/geographic/geographic-main-image-3.jpg" alt="A mind-map structure with many branching paths. In the center, the title is 'not here, not there'.">
-            <p>Michael Lee<br>
-                Work in progress for not here, not there (after Russell Lee) from the Bibliotopia series (2015)</p>
+            <center><h6>Michael Lee<br>
+                Work in progress for not here, not there (after Russell Lee) from the Bibliotopia series (2015)</h6></center>
         </div>
     </div>
     <div class="row margin--bottom--xs">
@@ -168,8 +167,8 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
             <img src="/images/event-images/geographic/geographic-main-image-4.jpg" alt="A large foam block sits on the floor. A drill machine hovers over it.">
-            <p>Jeremy Sharma<br>
-                Work in Progress for the Outliers, 2014-2015</p>
+            <center><h6>Jeremy Sharma<br>
+                Work in Progress for the Outliers, 2014-2015</h6></center>
         </div>
     </div>
     <div class="row margin--bottom--xs">
@@ -203,8 +202,8 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
             <img src="/images/event-images/geographic/geographic-main-image-5.jpg" alt="Video stills from Fables of Nusantara">
-            <p>Sherman Ong<br>
-                Video stills from Fables of Nusantara (2015)</p>
+            <center><h6>Sherman Ong<br>
+                Video stills from Fables of Nusantara (2015)</h6></center>
         </div>
     </div>
     <div class="row margin--bottom--xs">
