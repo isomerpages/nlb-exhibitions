@@ -16,7 +16,7 @@ Books are the repositories of ideas and world views of those who have come befor
 
 Join Dr Farish A. Noor as he shares his 30-year journey of collecting antiquarian books and maps related to Southeast Asia.
 
-###### Speaker
+##### Speaker
 __Dr Farish A. Noor__ is an associate professor at the S. Rajaratnam School of International Studies (RSIS), Nanyang Technological University. His research covers topics ranging from Southeast Asian history to contemporary politics, material culture, art and antiquities as well as the media. He is a collector of antiquarian books, maps, prints, photos and memorabilia of Southeast Asia since the 1980s, and is a valued donor to the National Library Board of Singapore.
 
 <a href="/exhibitions/past-exhibitions/fromthestacks/programmes/" style="color:#E21216;">Return to the From The Stacks exhibition programmes page &#187;</a>

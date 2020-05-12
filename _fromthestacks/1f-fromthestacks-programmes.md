@@ -41,7 +41,7 @@ Past: #c1c1c1
             &mdash;<br>
             7:00pm</td>
         <td>
-            <p>导览 &#124; 策展员导览r</p>
+            <p>导览 &#124; 策展员导览</p>
             <p><a href="/programmes/fromthestacks/curator-tours/">The event is over.</a></p>
         </td>
     </tr>    
