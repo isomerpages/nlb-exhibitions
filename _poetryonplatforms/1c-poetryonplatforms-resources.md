@@ -12,7 +12,7 @@ second_nav_title: "Poetry on Platforms: Poems on Singapore"
 
 <a href="http://eresources.nlb.gov.sg/eReads/MobileReads/details?uuid=8d6e0230-6960-4df6-8cf2-93ebc2d538d9" style="color:#E21216;">SingaPoetry: An Anthology of Singapore Poems</a>.
 
-<! --
+<!--
 <p>An audio recording of the 82 poems that showcased on the City Hall MRT Station from 16 July to 13 August 2015.</p>
 <a href="http://www.nlb.gov.sg/readsingapore/multimedia/" style="color:#E21216;">Audio version of SingaPoetry: An Anthology of Singapore Poems</a>.
 -->

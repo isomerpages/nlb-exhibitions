@@ -58,7 +58,7 @@ second_nav_title: "Poetry on Platforms: Poems on Singapore"
         <div class="col is-full padding--top--lg">
             <h3>Be a Poetry on Platforms Star Poet Contest</h3>
             <strong>16 July – 13 August 2015</strong>
-            <img src="/images/event-images/POP02.jpg" alt="An illustration of a typewriter.">
+            <img src="/images/event-images/poetry-on-platforms/POP02.jpg" alt="An illustration of a typewriter.">
             <p>Anyone can be a poet. Pen an original poem and submit to POP@nlb.gov.sg to receive a commemorative EZ- Link card.</p>
 
             <p>*Limited to the first 150 original poems received during the stated period. Limited to one EZ-Link per individual</p>
