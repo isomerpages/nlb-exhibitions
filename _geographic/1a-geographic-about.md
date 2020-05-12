@@ -74,84 +74,41 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
         </div>
     </div>
-</div>  
+</div>
+
+<!-- List of exhibitions -->
+    
+<h3>Geo|Graphic exhibitions</h3>
 
 <div class="sgds-container__card">
-    <div class="row margin--bottom--xs">
-        <div class="col is-12 padding--xs">
-            <h3><strong>Compassion: Tan Swie Hian’s Literary Creations – Roving Exhibition</strong></h3>
-        </div>
-    </div>
-        <div class="row">
-            <div class="col" style="border-top: 10px solid #E21216; border-bottom: 5px solid #E21216;">
-                <ul style="list-style: none; margin-left: 0px;">
-                    <li style="margin-bottom: 1rem;">
-                        <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem;">1 November 2016 – 28 February 2017 (CLOSED)</div>
-                    </li> 
-                    <li style="margin-bottom: 1rem;">
-                        <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Jurong Regional Library</strong> &#124; 1 November 2016 – 29 December 2016</div>
-                    </li>                    
-                    <li style="margin-bottom: 1rem;">
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Central Public Library</strong> &#124; 30 December 2016 – 28 February 2017</div>
-                    </li>                    
-                </ul>
-            </div>
-        </div>
-</div>
-    
-<div class="sgds-container__description">
     <div class="row">
-        <div class="col is-full padding--top--lg padding--bottom--lg">
-            <p>Singapore Cultural Medallion recipient Tan Swie Hian is the top grossing living artist in Southeast Asia who has received numerous accolades both locally and abroad. Although he exhibited impressive artistic talents at a tender age, he was first recognised for his literary creations when he ventured into the arts scene.</p>
-
-            <p>Tan wrote and published prolifically in the 1960s under the pseudonym of “Mu Lingnu”. Before long, he had established a reputation for advocating Modernist literature in the local Chinese literary circle. He once said that his literary works “mostly reflected the dark side of reality; and the sorrows of human destiny”, thus compassion for lives has been a key theme in his writings. To date, the multilingual artist/writer has published close to 40 literary titles.</p>
-
-            <p>As a complement to the Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations exhibition at National Library Building (22 November 2016 – 23 April 2017), this roving exhibition will feature Tan’s literary accomplishments in various genres – poetry, prose, novels, fables, translated works as well as publications edited by him. Visit the above libraries during the specified periods to learn more about Tan Swie Hian’s written works that took the literary world by storm.</p>
+        <div class="col is-full" style="padding: 0 0 12px 0;">
+            <img src="/images/event-images/geographic/geographic-main-image-2.jpg" alt="A map of several islands.">
+            <p>Sheet 14 showing islands like Pulau Bukom and Semakau off the west coast of mainland Singapore 1924<br>
+                Source: Singapore Land Authority, Courtesy of National Archives of Singapore</p>
         </div>
     </div>
-</div>    
-
-<div class="sgds-container__card">
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
-            <h3><strong>《悲悯人生：陈瑞献的文艺创作》巡回展</strong></h3>
+            <h3><strong>Singapore’s First Topographical and City Map</strong></h3>
         </div>
     </div>
         <div class="row">
             <div class="col" style="border-top: 10px solid #E21216; border-bottom: 5px solid #E21216;">
                 <ul style="list-style: none; margin-left: 0px;">
                     <li style="margin-bottom: 1rem;">
-                        <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem;">2016年11月1日 – 2016年12月29日 (CLOSED)</div>
-                    </li> 
-                    <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>裕廊区域图书馆</strong> &#124; 2016年11月1日–2016年12月29日</div>
-                    </li>                    
-                    <li style="margin-bottom: 1rem;">
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>中央公共图书馆</strong> &#124; 2016年12月30日–2017年2月28日</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">Level 1, Lobby, National Library Building</div>
                     </li>                    
                 </ul>
             </div>
         </div>
 </div>
-    
+
 <div class="sgds-container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
-            <p>新加坡文化奖得主陈瑞献是东南亚作品拍卖价最高的在世艺术家，他荣获多项本地及国际的奖项与殊荣，享有极高名声。他在年少时便展露非凡的艺术天分，但他刚开始涉足艺术领域时，却是先以文艺创作引起注意的。</p>
-
-            <p>1960年代，陈瑞献以笔名 “牧羚奴”发表大量作品，不久后便成了在本地华文文坛提倡现代主义文学的代表人物。他曾经说自己的文学作品 “多反映现实的阴暗面，以及人类悲苦的命运” ，因此对芸芸众生怀抱悲悯是他写作的一个主调。至今，他已出版了将近40部文艺著作。</p>
-
-            <p>为了配合在国家图书馆大厦举办的“解析自由心：陈瑞献稿本与创作”特展（2016年11月22日至2017年4月23日），本巡回展将着重介绍陈瑞献的多种文艺作品，如诗作、散文、小说、寓言、译作以及他所编辑的刊物。欲一览陈瑞献当年在文坛备受瞩目的作品，请于举办期间到上述图书馆参观展览。</p>
-            
-            <img src="/images/event-images/aof/AOFM06.jpg" alt="A photo of the roving exhibition. An information wall in the middle is surrounded by showcases and a wall with books.">
-            
-            <img src="/images/event-images/aof/AOFM07.jpg" alt="A photo of the roving exhibition. An information wall in the middle is surrounded by showcases and a wall with books.">
-            
-            <img src="/images/event-images/aof/AOFM08.jpg" alt="A photo of the roving exhibition. An information wall in the middle is surrounded by showcases and a wall with books.">
+        <p>Topographic maps give a three-dimensional sense of the area being mapped, depicting the contours and relief of the terrain. On display are Singapore’s first complete set of topographical maps that were produced in 1924, and the six-sheet 1954 map of the city centre.</p>
         </div>
     </div>
 </div>
@@ -161,25 +118,289 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
         </div>
     </div>
-</div> 
+</div>
+
+<div class="sgds-container__description">
+    <div class="row">
+        <div class="col is-full padding--top--lg">
+        <h3>Mind the Gap: Mapping the Other</h3>
+            <p><strong>Mind the Gap</strong> presents the works of three Singapore-based contemporary artists who harness the strategies of data collection and mapping to investigate what lies beneath the surface of contemporary life.</p>
+        </div>
+    </div>
+</div>
+
+<div class="sgds-container__card">
+    <div class="row">
+        <div class="col is-full" style="padding: 0 0 12px 0;">
+            <img src="/images/event-images/geographic/geographic-main-image-3.jpg" alt="A mind-map structure with many branching paths. In the center, the title is 'not here, not there'.">
+            <p>Michael Lee<br>
+                Work in progress for not here, not there (after Russell Lee) from the Bibliotopia series (2015)</p>
+        </div>
+    </div>
+    <div class="row margin--bottom--xs">
+        <div class="col is-12 padding--xs">
+            <h3><strong>Bibliotopia</strong> &#124; by Michael Lee</h3>
+        </div>
+    </div>
+        <div class="row">
+            <div class="col" style="border-top: 10px solid #E21216; border-bottom: 5px solid #E21216;">
+                <ul style="list-style: none; margin-left: 0px;">
+                    <li style="margin-bottom: 1rem;">
+                        <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">Level 7, Promenade, National Library Building</div>
+                    </li>                    
+                </ul>
+            </div>
+        </div>
+</div>
+
+<div class="sgds-container__description">
+    <div class="row">
+        <div class="col is-full padding--top--lg">
+        <p>In this work titled Bibliotopia, Michael Lee uses the device of the mind map to uncover the “secret bookscape” of Singapore’s book culture. Focusing on the genres of short fiction, horror and the teen novel through the literary output of Catherine Lim, Russell Lee and Adrian Tan – the artist draws out secrets that are hidden within, or exposed by, narratives on identity, adolescence, and the ghostly in Singapore.</p>
+
+        <p>Michael Lee is an artist, curator and publisher, whose works focus on urban memory and fiction, with an emphasis on their contexts and issues of loss.</p>
+        </div>
+    </div>
+</div>
+
+<div class="sgds-container__card">
+    <div class="row">
+        <div class="col is-full" style="padding: 0 0 12px 0;">
+            <img src="/images/event-images/geographic/geographic-main-image-4.jpg" alt="A large foam block sits on the floor. A drill machine hovers over it.">
+            <p>Jeremy Sharma<br>
+                Work in Progress for the Outliers, 2014-2015</p>
+        </div>
+    </div>
+    <div class="row margin--bottom--xs">
+        <div class="col is-12 padding--xs">
+            <h3><strong>Outliers</strong> &#124; by Jeremy Sharma</h3>
+        </div>
+    </div>
+        <div class="row">
+            <div class="col" style="border-top: 10px solid #E21216; border-bottom: 5px solid #E21216;">
+                <ul style="list-style: none; margin-left: 0px;">
+                    <li style="margin-bottom: 1rem;">
+                        <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">Level 8, Promenade, National Library Building</div>
+                    </li>                    
+                </ul>
+            </div>
+        </div>
+</div>
+
+<div class="sgds-container__description">
+    <div class="row">
+        <div class="col is-full padding--top--lg">
+        <p>In the installation Outliers by Jeremy Sharma, are four white polystyrene blocks with undulating surfaces that capture the signals of dying stars (pulsars) in material form. Sharma, with the help of a pulsar scientist, has been collecting and categorising the radiographic data of selected pulsars. His work contemplates the profound space-time distance the signals of dying stars travel to communicate their death throes.</p>
+
+        <p>Jeremy Sharma instigates investigative processes to inform the formal expressions of his painterly and sculptural practice.</p>
+        </div>
+    </div>
+</div>
+
+<div class="sgds-container__card">
+    <div class="row">
+        <div class="col is-full" style="padding: 0 0 12px 0;">
+            <img src="/images/event-images/geographic/geographic-main-image-5.jpg" alt="Video stills from Fables of Nusantara">
+            <p>Sherman Ong<br>
+                Video stills from Fables of Nusantara (2015)</p>
+        </div>
+    </div>
+    <div class="row margin--bottom--xs">
+        <div class="col is-12 padding--xs">
+            <h3><strong>Islands in Between… The seas will sing and the wind will carry us… (Fables of Nusantara)</strong> &#124; by Sherman Ong</h3>
+        </div>
+    </div>
+        <div class="row">
+            <div class="col" style="border-top: 10px solid #E21216; border-bottom: 5px solid #E21216;">
+                <ul style="list-style: none; margin-left: 0px;">
+                    <li style="margin-bottom: 1rem;">
+                        <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">Level 9, Promenade, National Library Building</div>
+                    </li>                    
+                </ul>
+            </div>
+        </div>
+</div>
+
+<div class="sgds-container__description">
+    <div class="row">
+        <div class="col is-full padding--top--lg">
+        <p>In this video installation, Sherman Ong uses the documentary/ethnographic film genre to tell stories of migration, trans-border identities, myths and memories in the islands of Southeast Asia. The histories and contemporary stories of the region are explored through the nine individuals featured in the video vignettes.</p>
+
+        <p>Sherman Ong is a filmmaker, photographer and visual artist whose practice centres on the relationship between place and the human condition.</p>
+        </div>
+    </div>
+</div>
+    
+<div class="sgds-container__line padding--lg">
+    <div class="row">
+        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
+        </div>
+    </div>
+</div>
+    
+<div class="sgds-container__card">
+    <div class="row">
+        <div class="col is-full" style="padding: 0 0 12px 0;">
+            <img src="/images/event-images/geographic/geographic-main-image-6.jpg" alt="An illustrated map with the title Land of Gold and Spices">
+        </div>
+    </div>
+    <div class="row margin--bottom--xs">
+        <div class="col is-12 padding--xs">
+            <h3>Land of Gold and Spices: Early Maps of Southeast Asia and Singapore</h3>
+        </div>
+    </div>
+        <div class="row">
+            <div class="col" style="border-top: 10px solid #E21216; border-bottom: 5px solid #E21216;">
+                <ul style="list-style: none; margin-left: 0px;">
+                    <li style="margin-bottom: 1rem;">
+                        <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">Level 10, Gallery, National Library Building</div>
+                    </li>                    
+                </ul>
+            </div>
+        </div>
+</div>
+
+<div class="sgds-container__description">
+    <div class="row">
+        <div class="col is-full padding--top--lg">
+        <p>Asia, particularly Southeast Asia, had a strong hold over the imaginations of early Europeans as a source of gold, spices and all things exotic. Land of Gold and Spices presents a fascinating look at how Southeast Asia was perceived, conceived of and mapped by the Europeans from the 15th to the early 19th centuries.</p>
+
+        <p>The maps featured in this exhibition are from the National Library, Singapore’s rare maps collection and tell stories of the European presence in the region. The exhibition features printed and hand-drawn maps as well as sailing instructions that point to Singapore’s early history before the arrival of the British in 1819. On special loan from European libraries are rare maps, such as indigenous Southeast Asian maps, on display for the very first time in Singapore.</p>
+        </div>
+    </div>
+</div>
+
+<div class="sgds-container__line padding--lg">
+    <div class="row">
+        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
+        </div>
+    </div>
+</div>
+    
+<div class="sgds-container__card">
+    <div class="row">
+        <div class="col is-full" style="padding: 0 0 12px 0;">
+            <img src="/images/event-images/geographic/geographic-main-image-7.jpg" alt="An illustrated map of Singapore with the title Island of Stories">
+        </div>
+    </div>
+    <div class="row margin--bottom--xs">
+        <div class="col is-12 padding--xs">
+            <h3>Island of Stories: Singapore Maps</h3>
+        </div>
+    </div>
+        <div class="row">
+            <div class="col" style="border-top: 10px solid #E21216; border-bottom: 5px solid #E21216;">
+                <ul style="list-style: none; margin-left: 0px;">
+                    <li style="margin-bottom: 1rem;">
+                        <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">Level 11, Lee Kong Chian Reference Library, National Library Building</div>
+                    </li>                    
+                </ul>
+            </div>
+        </div>
+</div>
+
+<div class="sgds-container__description">
+    <div class="row">
+        <div class="col is-full padding--top--lg">
+        <p><strong>Island of Stories</strong>, showcasing the collection of the National Archives of Singapore, draws on an eclectic mix of Singapore maps that captures intriguing moments from our country’s history. Featuring maps of forgotten mileage points to the island’s farmland and soil composition, as well as stories of the former detached mole at Marina Bay, the Orchard Road “circus” and the election fever of 1955 – these maps weave a quirky, multifaceted story of Singapore’s past.</p>
+
+        <p>Among other various audiovisual elements, visitors can overlay 19th-century maps over a contemporary map of the island in an interactive display developed with the Urban Redevelopment Authority, to see how the island has changed over the years.</p>
+
+        <p>Jointly organised by the National Archives of Singapore and the National Library, Singapore.</p>
+        </div>
+    </div>
+</div>
+    
+<div class="sgds-container__line padding--lg">
+    <div class="row">
+        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
+        </div>
+    </div>
+</div>
+    
+<div class="sgds-container__card">
+    <div class="row">
+        <div class="col is-full" style="padding: 0 0 12px 0;">
+            <img src="/images/event-images/geographic/geographic-main-image-8.jpg" alt="An illustrated map of Singapore">
+            <p>Charles Lim<br>Sea Safe (2014)</p>
+        </div>
+    </div>
+    <div class="row margin--bottom--xs">
+        <div class="col is-12 padding--xs">
+            <h3><strong>SEA STATE 8 SEABOOK</strong> &#124; An Art Project by Charles Lim</h3>
+        </div>
+    </div>
+        <div class="row">
+            <div class="col" style="border-top: 10px solid #E21216; border-bottom: 5px solid #E21216;">
+                <ul style="list-style: none; margin-left: 0px;">
+                    <li style="margin-bottom: 1rem;">
+                        <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">Level 11, Lee Kong Chian Reference Library, National Library Building</div>
+                    </li>                    
+                </ul>
+            </div>
+        </div>
+</div>
+
+<div class="sgds-container__description">
+    <div class="row">
+        <div class="col is-full padding--top--lg">
+        <p>Part of the SEA STATE series, <strong>SEABOOK</strong> follows Charles Lim’s solo-exhibition, “In Search of Raffles’ Light” (2013) held at the NUS Museum. SEABOOK is conceived by the artist, as a site for the accumulation of archival materials, anecdotes and memories that unravels Singapore’s relationship with the sea. Developed with the librarians from the National Library, the project attempts to highlight the range of primary resources available on the sea from the colonial and post-colonial periods. In effect, SEABOOK aspires to be the most extensive cultural study of Singapore’s troubled relationship with the sea.</p>
+
+        <p>Charles Lim will represent Singapore in the 2015 Venice Biennale. He has a close relationship with the sea, being a former national sailor and having represented Singapore in the 1996 Olympics.</p>
+
+        <p>Jointly organised by the National Library, Singapore and NUS Museum.</p>
+        </div>
+    </div>
+</div>
+
+<div class="sgds-container__line padding--lg">
+    <div class="row">
+        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
+        </div>
+    </div>
+</div>
+
+<div class="sgds-container__card">
+    <div class="row margin--bottom--xs">
+        <div class="col is-12 padding--xs">
+            <h3><strong>MAPS! At the Public Libraries</strong></h3>
+        </div>
+    </div>
+        <div class="row">
+            <div class="col" style="border-top: 10px solid #E21216; border-bottom: 5px solid #E21216;">
+                <ul style="list-style: none; margin-left: 0px;">
+                    <li style="margin-bottom: 1rem;">
+                        <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">21 January 2015 – 29 July 2015 (CLOSED)</div>
+                    </li> 
+                    <li style="margin-bottom: 1rem;">
+                        <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Jurong Regional Library, Level 1</strong> &#124; 21 January 2015 – 26 February 2015</div>
+                    </li>                    
+                    <li style="margin-bottom: 1rem;">
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Bishan Public Library, Level 1, Foyer</strong> &#124; 28 February 2015 – 5 April 2015</div>
+                    </li>                    
+                    <li style="margin-bottom: 1rem;">
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Central Public Library, Basement 1</strong> &#124; 7 April 2015 – 14 June 2015</div>
+                    </li>                       
+                    <li style="margin-bottom: 1rem;">
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Woodlands Regional Library, Level 3</strong> &#124; 15 June 2015 – 29 July 2015</div>
+                    </li>                     
+                </ul>
+            </div>
+        </div>
+</div>
     
 <div class="sgds-container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
-            <h3><strong>About Tan Swie Hian 陈瑞献简介</strong></h3>
-            
-            <p>Tan Swie Hian was born in Indonesia in 1943. He was educated in Singapore and graduated from the Department of Modern Languages and Literature of Nanyang University in 1968.</p>
-
-            <p>Tan was first known for his literary works before he ventured into fine art. He published his first anthology of Modernist poetry The Giant (1968), which earned him recognition as a poet. In 1973, Tan held his first solo art exhibition at the National Library. Since then, he has been a prolific multidisciplinary artist whose works extend across multiple mediums, genres, languages and subject matters. In 2003, TIME magazine described him as “Singapore’s Renaissance Man”.</p>
-
-            <p>To date, the acclaimed artist has published 58 works of literary and artistic creations; held 23 solo shows worldwide and won 29 accolades nationally and internationally.</p>
-            
-            <p>陈瑞献于1943年在印度尼西亚出生。他在新加坡受教育，1968年毕业于南洋大学现代语言文学系。</p>
-
-            <p>在涉足艺坛以前，陈瑞献是以文艺创作崭露头角的，他发表的第一部现代诗集《巨人》 (1968年) 使他成为备受瞩目的诗人。1973年, 陈瑞献在国家图书馆举行第一次个人画展。此后，他成了一位多媒体艺术家，作品极其丰硕。 他的创作跨越多元媒材、类型、语文及题材，2003年美国《时代周刊》称他为“新加坡的文艺复兴人”。</p>
-
-            <p>迄今，这位蜚声国际的艺术家已出版了58部文学与艺术作品集；在世界各地举办过23次个展；并荣获29项国家级与国际级的奖勋。</p>
-
+            <p>Check out our interactive exhibition <strong>MAPS!</strong> which explores maps and navigation through history at the following libraries near you!</p>
         </div>
     </div>
 </div>

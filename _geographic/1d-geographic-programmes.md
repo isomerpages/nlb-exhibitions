@@ -4,7 +4,7 @@ title: "Programmes"
 permalink: /exhibitions/past-exhibitions/geographic/programmes/
 breadcrumb: "Programmes"
 collection_name: geographic
-second_nav_title: "Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations"
+second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
 
 ---
 
