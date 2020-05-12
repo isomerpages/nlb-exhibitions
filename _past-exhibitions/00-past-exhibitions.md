@@ -437,7 +437,7 @@ collection_name: past-exhibitions
     </div>
 </div>
 
-<!-- SS -->
+<!-- End of SS -->
 
 <hr class="margin--top">
 
@@ -490,6 +490,55 @@ collection_name: past-exhibitions
     </div>
 </div>
 
-<!-- FTS -->
+<!-- End of FTS -->
+
+<hr class="margin--top">
+
+<!-- POP -->
+
+<div class="sgds-container__exh__card padding padding--bottom--lg" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+    <div class="row">
+        <div class="col padding--bottom--xs">
+            <h3 style="margin-bottom: 0px;"><strong>Poetry on Platforms: Poems on Singapore</strong></h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <img src="/images/event-images/poetry-on-platforms/poetry-on-platforms_thumbnail.jpg" alt="Poetry on Platforms: Poems on Singapore" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
+        </div>
+        <div class="col is-two-thirds">
+            <div class="row">
+                    <ul style="list-style: none; margin-left: 5px;">
+                        <li style="margin-bottom: 1rem;">
+                            <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                            <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">16 July 2015 – 13 August 2015 (Closed)</div>
+                        </li> 
+                        <li style="margin-bottom: 1rem; padding-right: 20px;">
+                            <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                            <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">City Hall MRT Platforms</div>
+                        </li>
+                    </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="sgds-container__exh__break padding">
+    <div class="row">
+        <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #efefef;">
+        </div>
+    </div>
+</div>
+
+<div class="sgds-container__exh__description">
+    <div class="row is-multiline">
+        <div class="col">
+            <p>Immerse yourself in 82 Singapore poems written beautifully by poets on the City Hall MRT platforms. Commuters and passer-by can look forward to humorous, moving and thought-provoking poems on life, people, and places in Singapore that will strike a chord with them.</p>
+            <a href="/exhibitions/past-exhibitions/poetryonplatforms/" style="color:#E21216;"><h5>MORE INFORMATION &#187;</h5></a>
+        </div>
+    </div>
+</div>
+
+<!-- End of POP -->
 
 </section>
