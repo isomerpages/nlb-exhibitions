@@ -12,7 +12,19 @@ second_nav_title: "Poetry on Platforms: Poems on Singapore"
 
 <a href="http://eresources.nlb.gov.sg/eReads/MobileReads/details?uuid=8d6e0230-6960-4df6-8cf2-93ebc2d538d9" style="color:#E21216;">Click here</a> to access the book SingaPoetry: An Anthology of Singapore Poems.
 
-<!--
-<p>An audio recording of the 82 poems that showcased on the City Hall MRT Station from 16 July to 13 August 2015.</p>
-<a href="http://www.nlb.gov.sg/readsingapore/multimedia/" style="color:#E21216;">Audio version of SingaPoetry: An Anthology of Singapore Poems</a>.
--->
+Click below to access the zip files of the audio version of SingaPoetry: An Anthology of Singapore Poems, sorted by language.
+
+<ul style="list-style: none; margin-left: 5px; color: #E21216">
+    <li style="margin-bottom: 1rem;">
+        <a href="/files/poetryonplatforms/Read!%20Singapore%202015%20Audio%20Book_English.zip" style="color:#E21216;">English audio poems (66.7mb)</a>
+    </li>      
+    <li style="margin-bottom: 1rem;">
+        <a href="/files/poetryonplatforms/Read!%20Singapore%202015%20Audio%20Book_Chinese.zip" style="color:#E21216;">Chinese audio poems (47.7mb)</a>
+    </li>      
+    <li style="margin-bottom: 1rem;">
+        <a href="/files/poetryonplatforms/Read!%20Singapore%202015%20Audio%20Book_Malay.zip" style="color:#E21216;">Malay audio poems (74.3mb)</a>
+    </li>      
+    <li style="margin-bottom: 1rem;">
+        <a href="/files/poetryonplatforms/Read!%20Singapore%202015%20Audio%20Book_Tamil.zip" style="color:#E21216;">Tamil audio poems (32.4mb)</a>
+    </li>                         
+</ul>
