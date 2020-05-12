@@ -12,7 +12,7 @@ second_nav_title: "Poetry on Platforms: Poems on Singapore"
 
 <a href="http://eresources.nlb.gov.sg/eReads/MobileReads/details?uuid=8d6e0230-6960-4df6-8cf2-93ebc2d538d9" style="color:#E21216;">Click here</a> to access the book SingaPoetry: An Anthology of Singapore Poems.
 
-Click below to access the zip files of the audio version of SingaPoetry: An Anthology of Singapore Poems, sorted by language.
+<p>Click below to access the zip files of the audio version of SingaPoetry: An Anthology of Singapore Poems, sorted by language.</p>
 
 <ul style="list-style: none; margin-left: 5px; color: #E21216">
     <li style="margin-bottom: 1rem;">
