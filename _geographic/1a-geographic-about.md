@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
 title: "About"
-permalink: /exhibitions/past-exhibitions/anatomyofafreemind/
+permalink: /exhibitions/past-exhibitions/geographic/
 breadcrumb: "About"
-collection_name: anatomy
-second_nav_title: "Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations"
+collection_name: geographic
+second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
 
 ---
 

@@ -68,3 +68,5 @@ collections:
     output: true
   poetryonplatforms:
     output: true
+  geographic:
+    output: true
