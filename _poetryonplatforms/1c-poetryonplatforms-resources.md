@@ -14,7 +14,7 @@ second_nav_title: "Poetry on Platforms: Poems on Singapore"
 
 <p>Click below to access the zip files of the audio version of SingaPoetry: An Anthology of Singapore Poems, sorted by language.</p>
 
-<ul style="list-style: none; margin-left: 5px; color: #E21216">
+<ul style="margin-left: 5px; color: #E21216">
     <li style="margin-bottom: 1rem;">
         <a href="/files/poetryonplatforms/Read!%20Singapore%202015%20Audio%20Book_English.zip" style="color:#E21216;">English audio poems (66.7mb)</a>
     </li>      
