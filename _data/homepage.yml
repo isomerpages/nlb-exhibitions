@@ -36,7 +36,8 @@ info-sections:
     section-subtitle: "National Library Exhibitions"
     section-description: |
       The National Library presents permanent, changing exhibitions as well as online exhibitions featuring our rich collection on Singapore and the region. The physical exhibitions are located in the gallery on level 10 and other floors of the National Library Building. Admission to the exhibitions is free. 
-      |
+
+
       Explore this website to find out all about current and upcoming exhibitions and complimentary programmes. Visit the online exhibitions page to enjoy virtual tours of past shows and access specially curated digital content.
     section-more-button:
     external: false
@@ -46,7 +47,8 @@ info-sections:
     section-subtitle: "The News Gallery: Beyond Headlines"
     section-description: |
       Explore the fascinating yet bewildering world of news media at our permanent exhibition The News Gallery: Beyond Headlines.
-      
+
+
       Discover stories of Singapore newspapers in the National Library’s collection dating from the 1820s and learn about significant episodes from Singapore’s history through the perspectives of different media. Gain insights into fake news, and learn how you can be more discerning about information and media, through our rich resources on newspapers.
     section-more-button: More Information
     external: false
