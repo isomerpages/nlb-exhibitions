@@ -89,6 +89,11 @@ second_nav_title: "From The Stacks: Highlights of the National Library"
 </div>  
 
 <div class="sgds-container__card">
+    <div class="row">
+        <div class="col is-full" style="padding: 0 0 12px 0;">
+            <img src="/images/event-images/from-the-stacks-onsite/FTS06.jpg" alt="Three images of featured items from the exhibition.">
+        </div>
+    </div>
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
             <h3><strong>Library Finds!</strong></h3>
@@ -120,8 +125,6 @@ second_nav_title: "From The Stacks: Highlights of the National Library"
     <div class="row">
         <div class="col is-full padding--top--lg">
             <p>What is the last thing you would expect to find at the National Library? Satisfy your curiosity as you explore cabinets and drawers full of ephemera from the library’s closed shelves. An eclectic assortment of bits and bobs, explore a different side of history through the odds and ends of our collection.</p>
-            
-             <img src="/images/event-images/from-the-stacks-onsite/FTS06.jpg" alt="Three images of featured items from the exhibition.">
         </div>
     </div>
 </div>    

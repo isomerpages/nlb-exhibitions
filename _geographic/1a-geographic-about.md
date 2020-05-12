@@ -12,12 +12,12 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
 <div class="sgds-container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
-            <img src="/images/event-images/aof/anatomy-of-a-free-mind-main-image.jpg" alt="A title card labelled Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations">
+            <img src="/images/event-images/geographic/geographic-main-image.jpg" alt="A title card labelled Geo&#124;Graphic: Celebrating maps and their stories. Open bags of spices are in the background.">
         </div>
     </div>    
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img src="/images/event-images/aof/anatomy-of-a-free-mind_gallery_3.jpg" alt="A photo showing an overview of the Anatomy of a Free Mind exhibition">
+            <img src="/images/event-images/geographic/geographic_gallery_2.jpg" alt="A photo showing an overview of the Geo&#124;Graphic exhibition">
         </div>
     </div>
         <div class="row">
@@ -25,7 +25,7 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
                 <ul style="list-style: none; margin-left: 0px;">
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem;">22 November 2016 – 23 April 2017 (CLOSED)</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">16 January 2015 – 19 July 2015 (CLOSED)</div>
                     </li> 
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-clock" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
@@ -33,7 +33,7 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
                     </li>          
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem;">Level 10, Gallery, National Library Building</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">National Library Building</div>
                     </li>                    
                     </ul>
             </div>
@@ -43,19 +43,7 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
 <div class="sgds-container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
-            <p>1973 was a milestone year in Tan Swie Hian’s life during which he experienced a breakthrough in his spirituality and creative capacity. Henceforth, his artistic creations have been characterised by freedom – in medium, subject matter, genre and expression. The artist likens his newfound free mind to a hummingbird that can fly in all directions and experience different realms of reality.</p>
-
-            <p>Now, more than 40 years later, Tan’s works are presented again at the National Library in this exhibition featuring over 100 creations in a wide range of media. This is the first time the multidisciplinary artist’s creative process, as documented in his notebooks through writings and sketches, has been featured with his artworks.</p>
-
-            <p>Discover the extraordinary world of a free mind through Tan Swie Hian’s creations and notebooks!</p>
-
-            <h4>《解析自由心 – 陈瑞献稿本与创作》</h4>
-
-            <p>1973年可说是陈瑞献人生里一个重大的里程碑，他突破了自己在灵性上和艺术创作方面的极限。自此以后，他的创作无论是在媒材、主题、类型或表现手法各方面，都以自由为本。陈瑞献把他新发现的自由心比喻成一只蜂鸟，可以任意翱翔，体验不同境界的现实。</p>
-
-            <p>睽违40多年，陈瑞献的作品再次于国家图书馆登场。本展览展出了100多件各种媒材的作品；这位多媒体艺术家的创作过程，也透过他稿本中的草图与手稿，首次与他的作品一并呈现在展览中。</p>
-
-            <p>本展邀请您透过陈瑞献的艺术创作与稿本，一探这颗自由心非凡的境界!</p>
+            <p>Maps are fascinating objects; they not only tell us about the places they depict but also how their makers saw the world around them. For Singapore in particular, maps are a window to our early history – before the arrival of the British in 1819. The National Library is pleased to present Geo|Graphic, an offering of exhibitions and programmes that explore maps and mapping.</p>
         </div>
     </div>
 </div>
@@ -74,7 +62,7 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
             <p style="margin-top: 5px;">Download the brochure below:</p>
                     <ul style="list-style: none; margin-left: 5px; color: #E21216">
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/aof/AOFM-A5-brochure-2-17012017.pdf" style="color:#E21216;">English and Chinese exhibition brochure (1.32mb)</a>
+                            <a href="/files/geographic/Geographic_Festival-brochure.pdf" style="color:#E21216;">English exhibition brochure (1.99mb)</a>
                         </li>                         
                     </ul>
         </div>
