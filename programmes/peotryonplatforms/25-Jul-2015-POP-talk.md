@@ -18,4 +18,4 @@ Find out more about the poetry featured in “Poetry on Platforms”, as poet Er
 
 The first 20 participants will be given a commemorative EZ-Link card.
 
-<a href="/exhibitions/past-exhibitions/fromthestacks/programmes/" style="color:#E21216;">Return to the Poetry on Platforms exhibition programmes page &#187;</a>
+<a href="/exhibitions/past-exhibitions/poetryonplatforms/programmes/" style="color:#E21216;">Return to the Poetry on Platforms exhibition programmes page &#187;</a>
