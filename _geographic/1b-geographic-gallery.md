@@ -8,18 +8,15 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
 
 ---
 
-![A photo of the exhibition entrance. In the foreground, there is a narrow archway shaped like a bell. In the background, there is the informational wall.](/images/event-images/aof/anatomy-of-a-free-mind_gallery_11.jpg)
+![Several table showcases are in the room, with a giant map backdrop on the back wall.](/images/event-images/geographic/geographic_gallery_1.jpg)
 
-![A photo of an exhibition wall. Ten ink portraits on newspapers are framed up and hung on the wall.](/images/event-images/aof/anatomy-of-a-free-mind_gallery_2.jpg)
+![Several purple wall showcases surround the room, with a grey table showcase in the middle.](/images/event-images/geographic/geographic_gallery_2.jpg)
 
-![A photo overview of the exhibition. There are sculptures and paintings.](/images/event-images/aof/anatomy-of-a-free-mind_gallery_3.jpg)
+![A curator talks about map displayed in the table showcase to the tour group.](/images/event-images/geographic/geographic_gallery_3.jpg)
 
-![A large landscape painting of Lee Kuan Yew and Kwa Geok Choo.](/images/event-images/aof/anatomy-of-a-free-mind_gallery_4.jpg)
+![A photo of an exhibition section. The red introduction wall in the middle has a golden globe halfway embedded within it, and its title is Early Maps of Singapore. In the background, several maps are on display. In front of each wall are two chairs and a table showcase.](/images/event-images/geographic/geographic_gallery_4.jpg)
 
-![A large work sits on a metal table. It is a dome made up of smaller pieces of sculptures, strung together with wire.](/images/event-images/aof/anatomy-of-a-free-mind_gallery_6.jpg)
+![An art display, featuring a sand sculpture forming the island of Singapore.](/images/event-images/geographic/geographic_gallery_4.jpg)
 
-![A photo overview of the exhibition. There are sculptures and paintings. A small TV screen is in a wall.](/images/event-images/aof/anatomy-of-a-free-mind_gallery_7.jpg)
+![A photo of the entrance to the Island of Stories exhibition.](/images/event-images/geographic/geographic_gallery_5.jpg)
 
-![A photo of a large sculpture. It is cast in bronze, and looks like a straw dog.](/images/event-images/aof/anatomy-of-a-free-mind_gallery_12.jpg)
-
-![A photo of the exhibition opening event. Tan Swie Hian is on stage, receiving a gift box from Professor Tommy Koh.](/images/event-images/aof/anatomy-of-a-free-mind_gallery_1.jpg)
