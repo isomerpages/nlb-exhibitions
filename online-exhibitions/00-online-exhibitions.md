@@ -49,7 +49,7 @@ breadcrumb: Online Exhibitions
     </div>
 </div>
 
-<hr class="margin--top">
+<hr class="margin--top margin--bottom--lg">
 
 <!-- S&S -->
 
@@ -92,7 +92,7 @@ breadcrumb: Online Exhibitions
     </div>
 </div>
 
-<hr class="margin--top">
+<hr class="margin--top margin--bottom--lg">
 
 <!-- FTS -->
 
@@ -135,7 +135,7 @@ breadcrumb: Online Exhibitions
     </div>
 </div>
 
-<hr class="margin--top">
+<hr class="margin--top margin--bottom--lg">
 
 <!-- FFF -->
 
@@ -178,7 +178,7 @@ breadcrumb: Online Exhibitions
     </div>
 </div>
 
-<hr class="margin--top">
+<hr class="margin--top margin--bottom--lg">
 
 <!-- LOTL -->
 

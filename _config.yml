@@ -70,3 +70,5 @@ collections:
     output: true
   geographic:
     output: true
+  slpioneers:
+    output: true
