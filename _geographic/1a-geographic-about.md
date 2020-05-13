@@ -170,6 +170,13 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
     </div>
 </div>
 
+<div class="sgds-container__line padding--lg">
+    <div class="row">
+        <div class="col is-6 is-offset-3" style="padding: 2px 0; background-color: #efefef;">
+        </div>
+    </div>
+</div>
+
 <div class="sgds-container__card">
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
@@ -201,6 +208,13 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
         <p>In the installation Outliers by Jeremy Sharma, are four white polystyrene blocks with undulating surfaces that capture the signals of dying stars (pulsars) in material form. Sharma, with the help of a pulsar scientist, has been collecting and categorising the radiographic data of selected pulsars. His work contemplates the profound space-time distance the signals of dying stars travel to communicate their death throes.</p>
 
         <p>Jeremy Sharma instigates investigative processes to inform the formal expressions of his painterly and sculptural practice.</p>
+        </div>
+    </div>
+</div>
+
+<div class="sgds-container__line padding--lg">
+    <div class="row">
+        <div class="col is-6 is-offset-3" style="padding: 2px 0; background-color: #efefef;">
         </div>
     </div>
 </div>
@@ -333,7 +347,7 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
             <img src="/images/event-images/geographic/geographic-main-image-8.jpg" alt="An illustrated map of Singapore">
-            <center style="margin-top: 10px;"><h6 style="margin-top: 10px;">Charles Lim<br>Sea Safe (2014)</h6></center>center>
+            <center style="margin-top: 10px;"><h6 style="margin-top: 10px;">Charles Lim<br>Sea Safe (2014)</h6></center>
         </div>
     </div>
     <div class="row margin--bottom--xs">
