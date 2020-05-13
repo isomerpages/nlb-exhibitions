@@ -221,4 +221,6 @@ breadcrumb: Online Exhibitions
     </div>
 </div>
 
+<hr class="margin--top margin--bottom--lg">
+
 </section>
