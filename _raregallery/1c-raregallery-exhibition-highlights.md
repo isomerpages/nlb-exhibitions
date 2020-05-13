@@ -20,7 +20,7 @@ Stamford Raffles describes the various dances that were performed by both female
 Rong-geng dancers were also singers and usually belonged to an itinerant group of dancers and musicians. As rong-geng was a public dance, the dancers were often perceived as sexually permissive. However, some dancers went on to have accomplished careers, amassing considerable wealth, while others married local petty chiefs. Often, these marriages did not last and the women would return to dancing.
 
 <div class="sgds-container__miniline">
-    <div class="row">
+    <div class="row" style="margin: 20px 0;">
         <div class="col is-6 is-offset-3" style="padding: 2px 0; background-color: #efefef;">
         </div>
     </div>
@@ -32,7 +32,7 @@ Rong-geng dancers were also singers and usually belonged to an itinerant group o
 
 <p style="margin-top: 10px; margin-bottom: 10px;"><strong>Joseph Moore</strong><br>
 <strong>Fredrick Marryat (1792-)</strong><br>
-<strong><em>London,>London, 1825-1826</em></strong></p>
+<strong><em>London, 1825-1826</em></strong></p>
 
 This work was produced by Fredrick Marryat, an officer in the British Royal Navy as well as an author, and Joseph Moore, a lieutenant in the British Army. This portfolio of 18 views was dedicated to the directors of the British E.I.C.
 
@@ -40,8 +40,8 @@ Scenes from this work include some of the earliest views of Rangoon, depictions 
 
 The hand-coloured aquatint shows the Shwedagon Pagoda, also known as the Great Dagon Pagoda or the Golden Pagoda, located in Rangoon (Yangon). It was used by the British in 1824 during the war.
 
-<div class="sgds-container__miniline padding--lg">
-    <div class="row">
+<div class="sgds-container__miniline">
+    <div class="row" style="margin: 20px 0;">
         <div class="col is-6 is-offset-3" style="padding: 2px 0; background-color: #efefef;">
         </div>
     </div>
