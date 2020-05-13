@@ -424,6 +424,103 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
         </div>
     </div>
 </div>
+
+<div class="sgds-container__line padding--lg">
+    <div class="row">
+        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
+        </div>
+    </div>
+</div>  
+
+<div class="sgds-container__description">
+    <div class="row">
+        <div class="col is-full padding--top--lg">
+            <h3>School Self-guided Tour</h3>
+            <p><strong>Gallery, Level 10 and 11</strong></p>
+
+            <p>Schools are able to organise a self-guided tour facilitated by their teachers. A handy educator’s guide/teaching aid for teachers as well as activity sheets for students are available. Interested schools can email visitnls@nlb.gov.sg for more details.</p>
+            
+            <blockquote style="color: #E21216; font-size: 150%;">Programme has ended, registration is closed.</blockquote>
+        </div>
+    </div>
+</div> 
     
+<div class="sgds-container__line padding--lg">
+    <div class="row">
+        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
+        </div>
+    </div>
+</div>  
+
+<div class="sgds-container__description">
+    <div class="row">
+        <div class="col is-full padding--top--lg">
+            <h3>Book Display</h3>
+            <p><strong>Maps that Shaped Singapore<br>
+                12 Dec 2014 – 28 Feb 2015 &#124; Lee Kong Chian Reference Library, Level 8</strong></p>
+
+            <p>Singapore’s urban landscape has been shaped by its various Concept Plans – the country’s strategic land use and transportation plans. By showcasing these Concept Plans and publications related to land use in Singapore, this book display examines the background and impact of Concept Plans in shaping the country’s urban environment.</p>
+            
+            <blockquote style="color: #E21216; font-size: 150%;">Programme has ended, registration is closed.</blockquote>
+        </div>
+    </div>
+</div> 
+
+<div class="sgds-container__line padding--lg">
+    <div class="row">
+        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
+        </div>
+    </div>
+</div>  
+
+<div class="sgds-container__card">
+    <div class="row margin--bottom--xs">
+        <div class="col is-12 padding--xs">
+            <h3><strong>The Past is a Foreign Country: A special presentation by the Singapore Memory Project</strong></h3>
+        </div>
+    </div>
+        <div class="row">
+            <div class="col" style="border-top: 10px solid #E21216; border-bottom: 5px solid #E21216;">
+                <ul style="list-style: none; margin-left: 0px;">
+                    <li style="margin-bottom: 1rem;">
+                        <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">April to August 2015 (CLOSED)</div>
+                    </li> 
+                    <li style="margin-bottom: 1rem;">
+                        <span class="sgds-icon sgds-icon-clock" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">10:00am – 9:00pm</div>
+                    </li>          
+                    <li style="margin-bottom: 1rem;">
+                        <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">Promenade, Level 10, National Library Building</div>
+                    </li>                    
+                    </ul>
+            </div>
+        </div>
+</div>
+    
+<div class="sgds-container__description">
+    <div class="row">
+        <div class="col is-full padding--top--lg">
+            <p>The Past is a Foreign Country is a selection of projects funded by the irememberSG fund that explore issues of territoriality, space and environment through the trope of memory in Singapore. For more information of the specific exhibitions and programmes, please visit <a href="iremember.sg" style="color:#E21216;">iremember.sg</a></p>
+
+            <p>Projects showcase include:</p>
+                <ul>
+                    <li>Points of Departureby Juria Toramae &amp; Jerome Lim</li>
+                    <li>Island Nation by Captured (Edwin Koo, Zakaria Zainal &amp; Juliana Tan)</li>
+                    <li>Memories of Pulau Brani by Muhammad Nadjad Abdul Rahim</li>
+                    <li>The Memories of Trees by Robert Zhao Renhui</li>
+                    <li>Singapore’s Orchid History by Hedrick Kwan</li>
+                    <li>BuiltInSG by Meka Studios</li>
+                    <li>Architecture &amp; Architects by DO NOT DESIGN</li>
+                    <li>irememberParks by Singapore Furniture Industries Council</li>
+                    <li>Building Memories by Achates 360 &amp; Koh Hong Teng</li>
+                </ul>
+
+            <p>Supported by the Singapore Memory Project.</p>
+        </div>
+    </div>
+</div>
+
 </section>
 
