@@ -461,7 +461,7 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
 
             <p>Singapore’s urban landscape has been shaped by its various Concept Plans – the country’s strategic land use and transportation plans. By showcasing these Concept Plans and publications related to land use in Singapore, this book display examines the background and impact of Concept Plans in shaping the country’s urban environment.</p>
             
-            <blockquote style="color: #E21216; font-size: 150%;">Programme has ended, registration is closed.</blockquote>
+            <blockquote style="color: #E21216; font-size: 150%;">Event has ended.</blockquote>
         </div>
     </div>
 </div> 
@@ -502,7 +502,7 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
 <div class="sgds-container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
-            <p>The Past is a Foreign Country is a selection of projects funded by the irememberSG fund that explore issues of territoriality, space and environment through the trope of memory in Singapore. For more information of the specific exhibitions and programmes, please visit <a href="iremember.sg" style="color:#E21216;">iremember.sg</a></p>
+            <p>The Past is a Foreign Country is a selection of projects funded by the irememberSG fund that explore issues of territoriality, space and environment through the trope of memory in Singapore. For more information of the specific exhibitions and programmes, please visit <a href="https://eresources.nlb.gov.sg/webarchives/details/www.iremember.sg.html" style="color:#E21216;">iremember.sg</a></p>
 
             <p>Projects showcase include:</p>
                 <ul>
@@ -518,6 +518,8 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
                 </ul>
 
             <p>Supported by the Singapore Memory Project.</p>
+            
+            <blockquote style="color: #E21216; font-size: 150%;">Event has ended.</blockquote>
         </div>
     </div>
 </div>
