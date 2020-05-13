@@ -606,7 +606,7 @@ collection_name: past-exhibitions
     </div>
     <div class="row">
         <div class="col">
-            <img src="/images/event-images/geographic/geographic-thumbnail.jpg" alt="Singapore Literary Pioneers" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
+            <img src="/images/event-images/lpg/singapore-literary-pioneers-thumbnail.jpg" alt="Singapore Literary Pioneers" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
         </div>
         <div class="col is-two-thirds">
             <div class="row">
