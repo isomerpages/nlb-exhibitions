@@ -73,7 +73,7 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
     
 <div class="sgds-container__description">
     <div class="row">
-        <div class="col is-full padding--top--lg">
+        <div class="col is-full padding--bottom--lg">
         <h2>Geo&#124;Graphic exhibitions</h2>
         </div>
     </div>
@@ -83,7 +83,7 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
             <img src="/images/event-images/geographic/geographic-main-image-2.jpg" alt="A map of several islands.">
-            <center><h6>Sheet 14 showing islands like Pulau Bukom and Semakau off the west coast of mainland Singapore 1924<br>
+            <center style="margin-top: 10px;"><h6 style="margin-top: 10px;">Sheet 14 showing islands like Pulau Bukom and Semakau off the west coast of mainland Singapore 1924<br>
             Source: Singapore Land Authority, Courtesy of National Archives of Singapore</h6></center>
         </div>
     </div>
@@ -131,8 +131,8 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
 <div class="sgds-container__card">
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img src="/images/event-images/geographic/geographic-main-image-3.jpg" alt="A mind-map structure with many branching paths. In the center, the title is 'not here, not there'.">
-            <center><h6>Michael Lee<br>
+            <img src="/images/event-images/geographic/geographic-main-image-3.png" alt="A mind-map structure with many branching paths. In the center, the title is 'not here, not there'.">
+            <center style="margin-top: 10px;"><h6 style="margin-top: 10px;">Michael Lee<br>
                 Work in progress for not here, not there (after Russell Lee) from the Bibliotopia series (2015)</h6></center>
         </div>
     </div>
@@ -167,7 +167,7 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
             <img src="/images/event-images/geographic/geographic-main-image-4.jpg" alt="A large foam block sits on the floor. A drill machine hovers over it.">
-            <center><h6>Jeremy Sharma<br>
+            <center style="margin-top: 10px;"><h6 style="margin-top: 10px;">Jeremy Sharma<br>
                 Work in Progress for the Outliers, 2014-2015</h6></center>
         </div>
     </div>
@@ -202,7 +202,7 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
             <img src="/images/event-images/geographic/geographic-main-image-5.jpg" alt="Video stills from Fables of Nusantara">
-            <center><h6>Sherman Ong<br>
+            <center style="margin-top: 10px;"><h6 style="margin-top: 10px;">Sherman Ong<br>
                 Video stills from Fables of Nusantara (2015)</h6></center>
         </div>
     </div>
