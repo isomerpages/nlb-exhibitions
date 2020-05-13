@@ -128,7 +128,7 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
     </div>
 </div>
 
-<div class="sgds-container__line padding--lg">
+<div class="sgds-container__miniline padding--lg">
     <div class="row">
         <div class="col is-6 is-offset-3" style="padding: 2px 0; background-color: #efefef;">
         </div>
@@ -170,7 +170,7 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
     </div>
 </div>
 
-<div class="sgds-container__line padding--lg">
+<div class="sgds-container__miniline padding--lg">
     <div class="row">
         <div class="col is-6 is-offset-3" style="padding: 2px 0; background-color: #efefef;">
         </div>
@@ -212,7 +212,7 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
     </div>
 </div>
 
-<div class="sgds-container__line padding--lg">
+<div class="sgds-container__miniline padding--lg">
     <div class="row">
         <div class="col is-6 is-offset-3" style="padding: 2px 0; background-color: #efefef;">
         </div>
