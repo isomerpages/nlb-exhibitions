@@ -455,7 +455,7 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
 <div class="sgds-container__card">
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
-            <h3>Book Display: Maps that Shaped Singapore</h3>
+            <h3><strong>Book Display: Maps that Shaped Singapore</strong></h3>
         </div>
     </div>
         <div class="row">
