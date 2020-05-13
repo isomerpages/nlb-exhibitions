@@ -452,20 +452,40 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
     </div>
 </div>  
 
+<div class="sgds-container__card">
+    <div class="row margin--bottom--xs">
+        <div class="col is-12 padding--xs">
+            <h3>Book Display: Maps that Shaped Singapore</h3>
+        </div>
+    </div>
+        <div class="row">
+            <div class="col" style="border-top: 10px solid #E21216; border-bottom: 5px solid #E21216;">
+                <ul style="list-style: none; margin-left: 0px;">
+                    <li style="margin-bottom: 1rem;">
+                        <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">12 Dec 2014 – 28 Feb 2015 (CLOSED)</div>
+                    </li> 
+                    <li style="margin-bottom: 1rem;">
+                        <span class="sgds-icon sgds-icon-clock" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">10:00am – 9:00pm</div>
+                    </li>          
+                    <li style="margin-bottom: 1rem;">
+                        <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">Lee Kong Chian Reference Library, Level 8</div>
+                    </li>                    
+                    </ul>
+            </div>
+        </div>
+</div>
+    
 <div class="sgds-container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
-            <h3>Book Display</h3>
-            <p><strong>Maps that Shaped Singapore<br>
-                12 Dec 2014 – 28 Feb 2015 &#124; Lee Kong Chian Reference Library, Level 8</strong></p>
-
             <p>Singapore’s urban landscape has been shaped by its various Concept Plans – the country’s strategic land use and transportation plans. By showcasing these Concept Plans and publications related to land use in Singapore, this book display examines the background and impact of Concept Plans in shaping the country’s urban environment.</p>
-            
-            <blockquote style="color: #E21216; font-size: 150%;">Event has ended.</blockquote>
         </div>
     </div>
-</div> 
-
+</div>
+    
 <div class="sgds-container__line padding--lg">
     <div class="row">
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
@@ -518,8 +538,6 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
                 </ul>
 
             <p>Supported by the Singapore Memory Project.</p>
-            
-            <blockquote style="color: #E21216; font-size: 150%;">Event has ended.</blockquote>
         </div>
     </div>
 </div>
