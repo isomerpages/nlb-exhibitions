@@ -22,9 +22,10 @@ Level 5, Possibility Room
 National Library Building~~
 
 
-~~Free Admission. Register now via [GoLibrary](https://go.gov.sg/nl-programme-14apr).~~ __This programme has been cancelled.__
+~~Free Admission. Register now via [GoLibrary](https://go.gov.sg/nl-programme-14apr).~~<br>
+__This programme has been cancelled.__
 
-##### Speaker
+##### Speakers
 __Faridah Ibrahim__ is the Head of Reader Services at the National Library, where, together with her team, she promotes the use of credible sources for research. Her research interests include information-seeking behaviours and pedagogical approaches.
 
 __Mazelan bin Anuar__ is a Senior Librarian at the National Library. His research interests are in early Malay Singapore publications and digital librarianship. He is part of the team that manages the Malay language collection as well as _NewspaperSG_.
