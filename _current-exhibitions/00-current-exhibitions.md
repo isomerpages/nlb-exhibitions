@@ -75,7 +75,7 @@ collection_name: current-exhibitions
 
 <!-- End of News Gallery -->
 
-<hr class="margin">
+<hr class="margin--top margin--bottom">
 
 <!-- Rare Gallery -->
 
@@ -125,7 +125,7 @@ collection_name: current-exhibitions
 
 <!-- End of Rare Gallery -->
 
-<hr class="margin">
+<hr class="margin--top margin--bottom">
 
 <!-- NL Donor Gallery -->
 
@@ -179,7 +179,7 @@ collection_name: current-exhibitions
 
 <!-- End of NL Donor Gallery -->
 
-<hr class="margin">
+<hr class="margin--top margin--bottom">
 
 <!-- BtB -->
 
@@ -233,6 +233,6 @@ collection_name: current-exhibitions
 
 <!-- End of BtB -->
 
-<hr class="margin">
+<hr class="margin--top margin--bottom">
     
 </section>
