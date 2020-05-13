@@ -10,7 +10,7 @@ second_nav_title: "The Rare Collection Gallery"
 
 ![An open book, showcasing a coloured illustration of a dancing woman in traditional garb.](/images/event-images/rarecollection/the-rare-collection-gallery-the-history-of-java.jpg)
 
-#### The history of Java
+### The history of Java
 
 __Thomas Stamford Raffles (1781 – 1826)__<br>
 __*London, 1817*__
@@ -19,11 +19,16 @@ Stamford Raffles describes the various dances that were performed by both female
 
 Rong-geng dancers were also singers and usually belonged to an itinerant group of dancers and musicians. As rong-geng was a public dance, the dancers were often perceived as sexually permissive. However, some dancers went on to have accomplished careers, amassing considerable wealth, while others married local petty chiefs. Often, these marriages did not last and the women would return to dancing.
 
-<hr>
+<div class="sgds-container__miniline padding--lg">
+    <div class="row">
+        <div class="col is-6 is-offset-3" style="padding: 2px 0; background-color: #efefef;">
+        </div>
+    </div>
+</div>
 
 ![An open book, showcasing a coloured illustration of a street. British soldiers are marching through. In the distant background, there is the Golden Pagoda.](/images/event-images/rarecollection/the-rare-collection-gallery-views-in-burma.jpg)
 
-#### Views in Burma
+### Views in Burma
 
 __Joseph Moore__<br>
 __Fredrick Marryat (1792-)__<br>
@@ -35,11 +40,16 @@ Scenes from this work include some of the earliest views of Rangoon, depictions 
 
 The hand-coloured aquatint shows the Shwedagon Pagoda, also known as the Great Dagon Pagoda or the Golden Pagoda, located in Rangoon (Yangon). It was used by the British in 1824 during the war.
 
-<hr>
+<div class="sgds-container__miniline padding--lg">
+    <div class="row">
+        <div class="col is-6 is-offset-3" style="padding: 2px 0; background-color: #efefef;">
+        </div>
+    </div>
+</div>
 
 ![An open book, with a black and white illustration of an orangutan on the left page. It sits on a rock facing the reader, and it looks more human than ape.](/images/event-images/rarecollection/the-rare-collection-gallery-a-voyage-to.jpg)
 
-#### A voyage to and from the island of Borneo, in the East Indies …
+### A voyage to and from the island of Borneo, in the East Indies …
 
 __Daniel Beeckman__<br>
 __*London, 1718*__
