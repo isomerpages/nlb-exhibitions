@@ -57,3 +57,10 @@ The hand-coloured aquatint shows the Shwedagon Pagoda, also known as the Great D
 Daniel Beeckman was the captain of an English merchant ship that traded under the British E.I.C. This book records his observations and experiences during his travels to Southeast Asia, especially Borneo, from 1713-1714. Beeckman described Borneo in detail, giving an account of the indigenous people and their customs, as well as the island’s produce and ports. Beeckman noted the revival of British trade in Borneo after the destruction of the British trading post in 1714 by the Banjarese of southern Borneo.
 
 He also documented the animals he saw in Borneo; his record of the orangutan (meaning “Man of the Woods” in Malay) is thought to be one of the earliest. He opined that the orangutan was more handsome than some of the natives he had seen. Beeckman had bought an orangutan as a pet for six Spanish dollars but it died after seven months.
+
+<div class="sgds-container__miniline">
+    <div class="row" style="margin-top: 20px; margin-bottom: 20px;">
+        <div class="col is-6 is-offset-3" style="padding: 2px 0; background-color: #efefef;">
+        </div>
+    </div>
+</div>
