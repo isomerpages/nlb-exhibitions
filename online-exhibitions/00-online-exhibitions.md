@@ -10,7 +10,7 @@ breadcrumb: Online Exhibitions
     
 <!-- SEAD -->
     
-<div class="sgds-container__exh__card padding" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+<div class="sgds-container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
         <div class="col padding--bottom--xs">
             <h3 style="margin-bottom: 0px;"><strong>Selling Dreams: Early Advertising in Singapore</strong></h3>
@@ -53,7 +53,7 @@ breadcrumb: Online Exhibitions
 
 <!-- S&S -->
 
-<div class="sgds-container__exh__card padding" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+<div class="sgds-container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
         <div class="col padding--bottom--xs">
             <h3 style="margin-bottom: 0px;"><strong>Script 	&#38; Stage: Theatre in Singapore from the 50s to 80s</strong></h3>
@@ -96,7 +96,7 @@ breadcrumb: Online Exhibitions
 
 <!-- FTS -->
 
-<div class="sgds-container__exh__card padding" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+<div class="sgds-container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
         <div class="col padding--bottom--xs">
             <h3 style="margin-bottom: 0px;"><strong>From the Stacks: Highlights of the National Library</strong></h3>
@@ -139,7 +139,7 @@ breadcrumb: Online Exhibitions
 
 <!-- FFF -->
 
-<div class="sgds-container__exh__card padding" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+<div class="sgds-container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
         <div class="col padding--bottom--xs">
             <h3 style="margin-bottom: 0px;"><strong>Former Ford Factory</strong></h3>
@@ -182,7 +182,7 @@ breadcrumb: Online Exhibitions
 
 <!-- LOTL -->
 
-<div class="sgds-container__exh__card padding" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+<div class="sgds-container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
         <div class="col padding--bottom--xs">
             <h3 style="margin-bottom: 0px;"><strong>Law of the Land: Highlights of Singapore’s Constitutional Documents</strong></h3>

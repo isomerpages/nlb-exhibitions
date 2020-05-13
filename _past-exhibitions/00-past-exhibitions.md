@@ -11,7 +11,7 @@ collection_name: past-exhibitions
 
 <!-- On Paper -->
 
-<div class="sgds-container__exh__card padding padding--bottom--lg" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+<div class="sgds-container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
         <div class="col padding--bottom--xs">
             <h3 style="margin-bottom: 0px;"><strong>On Paper: Singapore Before 1867</strong></h3>
@@ -65,7 +65,7 @@ collection_name: past-exhibitions
 
 <!-- 1919 -->
 
-<div class="sgds-container__exh__card padding padding--bottom--lg" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+<div class="sgds-container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
         <div class="col padding--bottom--xs">
             <h3 style="margin-bottom: 0px;"><strong>1919: The Singapore Centenary and its Celebration</strong></h3>
@@ -119,7 +119,7 @@ collection_name: past-exhibitions
 
 <!-- TFP -->
 
-<div class="sgds-container__exh__card padding padding--bottom--lg" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+<div class="sgds-container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
         <div class="col padding--bottom--xs">
             <h3 style="margin-bottom: 0px;"><strong>The First Print: Stories and Legends of Early Singapore</strong></h3>
@@ -173,7 +173,7 @@ collection_name: past-exhibitions
 
 <!-- Selling Dreams -->
 
-<div class="sgds-container__exh__card padding padding--bottom--lg" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+<div class="sgds-container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
         <div class="col padding--bottom--xs">
             <h3 style="margin-bottom: 0px;"><strong>Selling Dreams: Early Advertising in Singapore</strong></h3>
@@ -227,7 +227,7 @@ collection_name: past-exhibitions
 
 <!-- TMW -->
 
-<div class="sgds-container__exh__card padding padding--bottom--lg" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+<div class="sgds-container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
         <div class="col padding--bottom--xs">
             <h3 style="margin-bottom: 0px;"><strong>Tales of the Malay World: Manuscripts and Early Books</strong></h3>
@@ -281,7 +281,7 @@ collection_name: past-exhibitions
 
 <!-- SFF -->
 
-<div class="sgds-container__exh__card padding padding--bottom--lg" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+<div class="sgds-container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
         <div class="col padding--bottom--xs">
             <h3 style="margin-bottom: 0px;"><strong>Shakespeare in Print: The First Folio</strong></h3>
@@ -335,7 +335,7 @@ collection_name: past-exhibitions
 
 <!-- AOFM -->
 
-<div class="sgds-container__exh__card padding padding--bottom--lg" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+<div class="sgds-container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
         <div class="col padding--bottom--xs">
             <h3 style="margin-bottom: 0px;"><strong>Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations</strong></h3>
@@ -389,7 +389,7 @@ collection_name: past-exhibitions
 
 <!-- SS -->
 
-<div class="sgds-container__exh__card padding padding--bottom--lg" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+<div class="sgds-container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
         <div class="col padding--bottom--xs">
             <h3 style="margin-bottom: 0px;"><strong>Script &amp; Stage: Theatre in Singapore from the 50s to 80s</strong></h3>
@@ -443,7 +443,7 @@ collection_name: past-exhibitions
 
 <!-- FTS -->
 
-<div class="sgds-container__exh__card padding padding--bottom--lg" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+<div class="sgds-container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
         <div class="col padding--bottom--xs">
             <h3 style="margin-bottom: 0px;"><strong>From The Stacks: Highlights of the National Library</strong></h3>
@@ -496,7 +496,7 @@ collection_name: past-exhibitions
 
 <!-- POP -->
 
-<div class="sgds-container__exh__card padding padding--bottom--lg" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+<div class="sgds-container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
         <div class="col padding--bottom--xs">
             <h3 style="margin-bottom: 0px;"><strong>Poetry on Platforms: Poems on Singapore</strong></h3>
@@ -545,7 +545,7 @@ collection_name: past-exhibitions
 
 <!-- Geo -->
 
-<div class="sgds-container__exh__card padding padding--bottom--lg" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+<div class="sgds-container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
         <div class="col padding--bottom--xs">
             <h3 style="margin-bottom: 0px;"><strong>Geo&#124;Graphic: Celebrating maps and their stories</strong></h3>
