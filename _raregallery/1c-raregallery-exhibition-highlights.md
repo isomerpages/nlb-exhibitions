@@ -19,7 +19,7 @@ Stamford Raffles describes the various dances that were performed by both female
 
 Rong-geng dancers were also singers and usually belonged to an itinerant group of dancers and musicians. As rong-geng was a public dance, the dancers were often perceived as sexually permissive. However, some dancers went on to have accomplished careers, amassing considerable wealth, while others married local petty chiefs. Often, these marriages did not last and the women would return to dancing.
 
-<div class="sgds-container__miniline>
+<div class="sgds-container__miniline">
     <div class="row">
         <div class="col is-6 is-offset-3" style="padding: 2px 0; background-color: #efefef;">
         </div>
