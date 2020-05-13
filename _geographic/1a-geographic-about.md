@@ -243,7 +243,7 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
 <div class="sgds-container__card">
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img src="/images/event-images/geographic/geographic-main-image-6.jpg" alt="An illustrated map with the title Land of Gold and Spices">
+            <img src="/images/event-images/geographic/geographic-main-image-6.png" alt="An illustrated map with the title Land of Gold and Spices">
         </div>
     </div>
     <div class="row margin--bottom--xs">
@@ -326,7 +326,7 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
             <img src="/images/event-images/geographic/geographic-main-image-8.jpg" alt="An illustrated map of Singapore">
-            <p>Charles Lim<br>Sea Safe (2014)</p>
+            <center style="margin-top: 10px;"><h6 style="margin-top: 10px;">Charles Lim<br>Sea Safe (2014)</h6></center>center>
         </div>
     </div>
     <div class="row margin--bottom--xs">
