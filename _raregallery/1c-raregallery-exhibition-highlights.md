@@ -10,16 +10,16 @@ second_nav_title: "The Rare Collection Gallery"
 
 ![An open book, showcasing a coloured illustration of a dancing woman in traditional garb.](/images/event-images/rarecollection/the-rare-collection-gallery-the-history-of-java.jpg)
 
-### The history of Java
+<h3 style="margin-top: 10px;">The history of Java</h3>
 
-__Thomas Stamford Raffles (1781 – 1826)__<br>
-__*London, 1817*__
+<p style="margin-top: 10px; margin-bottom: 10px;"><strong>Thomas Stamford Raffles (1781 – 1826)</strong><br>
+<strong>London, 1817</strong></p>
 
 Stamford Raffles describes the various dances that were performed by both females and males. S’rimpi, bedaya and rong-geng were dances presented by females, while gambuh, niutra and beksa were undertaken by males. Though more popular in the western part of Java, Rong-geng was a dance that could be found in many towns and was performed during festivities and celebrations.
 
 Rong-geng dancers were also singers and usually belonged to an itinerant group of dancers and musicians. As rong-geng was a public dance, the dancers were often perceived as sexually permissive. However, some dancers went on to have accomplished careers, amassing considerable wealth, while others married local petty chiefs. Often, these marriages did not last and the women would return to dancing.
 
-<div class="sgds-container__miniline padding--lg">
+<div class="sgds-container__miniline>
     <div class="row">
         <div class="col is-6 is-offset-3" style="padding: 2px 0; background-color: #efefef;">
         </div>
