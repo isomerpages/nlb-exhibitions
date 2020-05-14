@@ -93,7 +93,7 @@ Past: #c1c1c1
     <tr>
         <td style="background-color: #c1c1c1;">19 Mar<br>
             &mdash;<br>
-            8:30am</td>
+            3:00pm</td>
         <td>
             <p>Talk &#124; Art and Cartoons about the Japanese Occupation in Singapore and Malaysia</p>
             <p><a href="/programmes/sellingdreams/20160319-talk/">The event is over.</a></p>
