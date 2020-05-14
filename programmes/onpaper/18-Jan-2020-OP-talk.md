@@ -10,9 +10,9 @@ breadcrumb: "Wilkes Expedition"
 
 #### Wilkes Expedition: The Remarkable Story of the last All-Sail Naval Squadron to Circumnavigate the World and its stop in Singapore
 
-18 Jan 2020<br>
-11.00am – 12.30pm<br>
-Level 5, Possibility Room<br>
+__18 Jan 2020__<br>
+__11:00am – 12:30pm__<br>
+__Level 5, Possibility Room__<br>
 
 Join Dr Vidya Schalk as she takes us on the extraordinary journey of the Wilkes Expedition, the last all-sail powered naval squadron to circumnavigate the globe from 1838 to 1842. Led by Lt. Charles Wilkes, the US Exploring Expedition collected and catalogued thousands of artefacts, plants and animals that eventually became Smithsonian's foundation collection. 
 
