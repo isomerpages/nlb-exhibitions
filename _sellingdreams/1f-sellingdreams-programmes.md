@@ -174,7 +174,7 @@ Past: #c1c1c1
     <tr>
         <td style="background-color: #c1c1c1;">23 Feb<br>
             &mdash;<br>
-            7:00pm</td>
+            2:00pm</td>
         <td>
             <p>Talk &#124; Decoding Advertisements: The Semiotics of Print Advertisements</p>
             <p><a href="/programmes/sellingdreams/20190224-talk/">The event is over.</a></p>
