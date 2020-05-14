@@ -15,9 +15,9 @@ second_nav_title: "The Rare Collection Gallery"
 <p style="margin-top: 10px; margin-bottom: 10px;"><strong>Thomas Stamford Raffles (1781 – 1826)</strong><br>
 <strong><em>London, 1817</em></strong></p>
 
-Stamford Raffles describes the various dances that were performed by both females and males. <em>S’rimpi</em>, <em>bedaya</em> and <em>rong-geng</em> were dances presented by females, while <em>gambuh</em>, <em>niutra</em> and <em>beksa</em> were undertaken by males. Though more popular in the western part of Java, <em>Rong-geng</em> was a dance that could be found in many towns and was performed during festivities and celebrations.
+<p>Stamford Raffles describes the various dances that were performed by both females and males. <em>S’rimpi</em>, <em>bedaya</em> and <em>rong-geng</em> were dances presented by females, while <em>gambuh</em>, <em>niutra</em> and <em>beksa</em> were undertaken by males. Though more popular in the western part of Java, <em>Rong-geng</em> was a dance that could be found in many towns and was performed during festivities and celebrations.</p>
 
-<em>Rong-geng</em> dancers were also singers and usually belonged to an itinerant group of dancers and musicians. As <em>rong-geng</em> was a public dance, the dancers were often perceived as sexually permissive. However, some dancers went on to have accomplished careers, amassing considerable wealth, while others married local petty chiefs. Often, these marriages did not last and the women would return to dancing.
+<p><em>Rong-geng</em> dancers were also singers and usually belonged to an itinerant group of dancers and musicians. As <em>rong-geng</em> was a public dance, the dancers were often perceived as sexually permissive. However, some dancers went on to have accomplished careers, amassing considerable wealth, while others married local petty chiefs. Often, these marriages did not last and the women would return to dancing.</p>
 
 <div class="sgds-container__miniline">
     <div class="row" style="margin-top: 20px; margin-bottom: 20px;">
