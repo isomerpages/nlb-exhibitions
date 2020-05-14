@@ -10,6 +10,10 @@ breadcrumb: "Kisah-Kisah Abadi: Nilai, Bahasa dan Wanita dalam Kesusasteraan Mel
 
 #### Kisah-Kisah Abadi: Nilai, Bahasa dan Wanita dalam Kesusasteraan Melayu Tradisional
 
+__16 March 2019__<br>
+__10:30am – 12:30pm__<br>
+__Level 5, Possibility Room__
+
 Dalam sesi ini, Dr Kartini Anwar dan Annaliza Bakri akan mengetengahkan beberapa tema, nilai dan idealogi dalam kesusasteraan Melayu awal yang kekal dari generasi ke generasi. Ketahui bagaimana kisah-kisah tersebut telah meninggalkan kesan yang mendalam terhadap masyarakat dan juga dunia kesusasteraan Melayu hingga ke hari ini.
 
 __Ahli Panel:__
