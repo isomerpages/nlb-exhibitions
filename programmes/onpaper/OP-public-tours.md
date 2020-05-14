@@ -10,7 +10,7 @@ breadcrumb: Public Tours Tours
 
 Join our public tours and discover fascinating stories from Singapore’s rich history.
 
-**Public Tours (English)** &#124; 2.00pm – 3.00pm
+**Public Tours (English)** &#124; 2:00pm – 3:00pm
 
 **周末导览 （华语讲解）** &#124; 下午3时至4时
 
