@@ -48,7 +48,7 @@ Past: #c1c1c1
     <tr>
         <td style="background-color: #c1c1c1;">Various dates<br>
             &mdash;<br>
-            2:00pm/4:30pm</td>
+            2:00pm</td>
         <td>
             <p>导览 &#124; 周末导览 （华语讲解）</p>
             <p><a href="/programmes/geographic/public-tours/">The event is over.</a></p>
