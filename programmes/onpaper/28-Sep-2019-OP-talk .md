@@ -12,7 +12,7 @@ breadcrumb: "The Orang Laut in the Realm of the Straits (Negara Selat)"
 
 __28 Sep 2019__<br>
 __5:00pm – 6:00pm__<br>
-__Level 5, Possibility Room__<br>
+__Level 5, Possibility Room__
 
 With their intimate knowledge of the seas, proficiency in navigating the waters and expertise in the collection of sea products, the Orang Laut (Sea People) have been indispensable to the success of any Malay kingdom. Yet why has their role been largely forgotten? 
 

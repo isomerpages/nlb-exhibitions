@@ -12,7 +12,7 @@ breadcrumb: "Early Singapore Through the Lens of Colonial Artists"
 
 __16 Nov 2019__<br>
 __11:00am – 12:00pm__<br>
-__Level 5, Possibility Room__<br>
+__Level 5, Possibility Room__
 
 The visual representations (notably in paintings and prints) of early Singapore left behind by Western artists in the 19th century are often overlooked. These artists were sojourners, part of scientific expeditions or members of the colonial establishment. Using the works of J.T. Thomson as a starting point, this talk will examine the function of their body of works, their subject matter and aesthetic merits. 
 

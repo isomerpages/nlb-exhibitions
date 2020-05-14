@@ -12,7 +12,7 @@ breadcrumb: "Southeast Asian Cosmopolitanism on its Own Terms"
 
 __24 Sep 2019__<br>
 __7:00pm – 8:00pm__<br>
-__Level 16, The Pod__<br>
+__Level 16, The Pod__
 
 The economic success of Banten, a flourishing pre-colonial port-city in the north coast of Java, can be considered to be a result of its local understanding of pluralism and multiculturalism that was both pragmatic and realistic. 
  

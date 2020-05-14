@@ -12,7 +12,7 @@ breadcrumb: "Thomson's Maps of Singapore"
 
 __16 Jan 2020__<br>
 __7.00pm – 8.00pm__<br>
-__Level 5, Possibility Room__<br>
+__Level 5, Possibility Room__
 
 John Turnbull Thomson (1821 - 1884) served as Government Surveyor of the Straits Settlements from 1841 to 1853. He made numerous contributions to Singapore during his 12 years on the island, such as producing maps of early Singapore and the design and construction of buildings and public infrastructure.
 

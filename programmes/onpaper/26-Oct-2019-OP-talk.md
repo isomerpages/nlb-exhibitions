@@ -12,7 +12,7 @@ breadcrumb: "Early Singapore in the Syair of Dissent"
 
 __26 Oct 2019__<br>
 __11:00am – 12:00pm__<br>
-__Level 5, Imagination Room__<br>
+__Level 5, Imagination Room__
 
 Composed by Tuan Simi (a contemporary of Munsyi Abdullah) in the early 19th century, Syair Dagang Jual Beli (On Trading and Selling) and Syair Potong Gaji (On Wage Cut) are distinct not only for their themes, but also their places in Malay literary tradition. These syair, or Malay rhymed poems, depart from traditional themes, and instead relate the economic success and predicaments of indigenous traders and coolies under the grip of colonial capitalism, simultaneously providing insight into life in early Singapore.
 

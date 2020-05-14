@@ -11,8 +11,8 @@ breadcrumb: "On Paper: A Special Maps Tour"
 #### On Paper: A Special Maps Tour
 
 __5 Dec 2019__<br>
-__7.00pm – 8.00pm__<br>
-__Level 10, Gallery entrance (Meeting point)__<br>
+__7:00pm – 8:00pm__<br>
+__Level 10, Gallery entrance (Meeting point)__
 
 Join respected map research consultant Mok Ly Yng as he takes you on a specially curated tour of the exhibition On Paper: Singapore Before 1867, highlighting a selection of historical maps of Singapore.
 
