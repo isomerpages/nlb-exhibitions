@@ -12,7 +12,7 @@ Join our docent-led weekend tours and discover the rich treasures and fascinatin
 
 Your journey begins here.
 
-__Conducted in English &#124; 1.00pm – 2.00pm__<br>
+__Conducted in English &#124; 1:00pm – 2:00pm__<br>
 __All Saturdays and Sundays from 20 February to 28 August 2016*__
 
 *There will be no tours on public holidays.
