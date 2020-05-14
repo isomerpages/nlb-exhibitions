@@ -85,9 +85,9 @@ second_nav_title: "On Paper: Singapore Before 1867"
     </div>
 </div>
     
-<div class="sgds-container__miniline">
-    <div class="row" style="margin-top: 20px; margin-bottom: 20px;">
-        <div class="col is-6 is-offset-3" style="padding: 2px 0; background-color: #efefef;">
+<div class="sgds-container__line padding--lg">
+    <div class="row">
+        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
         </div>
     </div>
 </div>
