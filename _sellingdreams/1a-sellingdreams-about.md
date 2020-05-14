@@ -168,6 +168,8 @@ second_nav_title: "Selling Dreams: Early Advertising in Singapore"
             <p style="margin-top: 10px;">Set in a shopping scene in the early 20th century, students and teachers will experience a taste of life in Singapore from the colonial era to the 1960s. Singapore’s social history and businesses, in particular, will be featured through a selection of advertisements from newspapers and other publications. Worksheets for students will also be provided.</p>
 
             <p>Interested schools can email visitnls@nlb.gov.sg for more details. Book early to secure a tour slot!</p>
+            
+            <blockquote style="color: #E21216; font-size: 150%;">The event is over, registration is closed.</blockquote>
         </div>
     </div>
 </div>

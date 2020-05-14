@@ -202,6 +202,7 @@ second_nav_title: "On Paper: Singapore Before 1867"
         <div class="col is-full">
             <h3>Private Tours</h3>
             <p style="margin-top: 10px;">Interested schools or organisations can email visitnls@nlb.gov.sg for more details on private tours. Book early to secure a tour slot!</p>
+            <blockquote style="color: #E21216; font-size: 150%;">The event is over, registration is closed.</blockquote>
         </div>
     </div>
 </div>
