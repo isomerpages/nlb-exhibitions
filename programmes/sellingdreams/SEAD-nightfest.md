@@ -15,7 +15,7 @@ Wander about the library’s ‘department store’ and discover the rich treasu
 ##### Exhibition
 __17 & 18 Aug 2018, 24 & 25 Aug 2018__<br>
 __Time: 10:00am – 11:30pm__<br>
-__Venue: Level 10, Gallery, National Library Building__
+__Venue: Level 10, Gallery, National Library Building__<br>
 _Free admission_
 
 ##### Curator’s Tours
