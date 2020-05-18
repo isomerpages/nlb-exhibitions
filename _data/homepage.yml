@@ -5,31 +5,52 @@
 ##################################
 
 # Favicon
-favicon: /images/cropped-nlb-favicon.png
+favicon: /images/cropped-nlb-favicon_192.png
 
 # Agency logo
 agency-logo: /images/NLB-Exhibition-Logo.jpg
 
 # Hero Banner
 hero-title:
-hero-subtitle: 
-hero-banner: /images/event-images/onpaper/On-Paper-tab-banner-enlarge.jpg
+hero-subtitle:
+hero-banner: /images/event-images/newsgallery/TNG_1200x355.jpg
+
+# Key highlights
+key-highlights:
+  - title: Current exhibitions
+    description:
+    url: /exhibitions/current-exhibitions/
+  - title: Online exhibitions
+    description: 
+    url: /exhibitions/online-exhibitions/
+  - title: Past exhibitions
+    description: 
+    url: /exhibitions/past-exhibitions/
+  - title: Programmes
+    description: 
+    url: /exhibitions/programmes/
 
 # Info Sections
 info-sections:
   - section-title: 
-    section-subtitle: "On Paper : Singapore Before 1867"
+    section-subtitle: "National Library Exhibitions"
     section-description: |
-      On Paper : Singapore Before 1867 features over 150 paper-based artefacts that tell the story of Singapore’s early history – from a 17th-century Portuguese navigational chart that points to the existence of a Shahbandar (harbour master) on Singapore island to the key document that established the Straits Settlements as a Crown Colony of Britain on 1 April 1867.
-      
-      Through carefully preserved records from the collections of the National Library, National Archives of Singapore and overseas institutions, On Paper presents a rare treat to all who are interested in our nation’s past.
+      The National Library hosts permanent, special and online exhibitions that feature our rich collections and bring to life the history and heritage of Singapore and the region. Held at various locations in the National Library building, admission to our exhibitions are free.
+      <p>&nbsp;</p>
+      <p>Explore this site to find out more about our current and upcoming exhibitions and programmes. Visit our Online Exhibitions to enjoy virtual tours of past shows and access specially curated digital content.</p>
+    section-more-button:
+    external: false
+    section-more-button-url:
+    section-image-path: /images/homepage_NL_highlight_2.jpg
+  - section-title: 
+    section-subtitle: "The News Gallery: Beyond Headlines"
+    section-description: |
+      Explore the fascinating yet bewildering world of news media at our permanent exhibition The News Gallery: Beyond Headlines.
+      <p>&nbsp;</p>
+      <p>Discover stories of Singapore newspapers in the National Library’s collection dating from the 1820s and learn about significant episodes from Singapore’s history through the perspectives of different media. Gain insights into fake news, and learn how you can be more discerning about information and media, through our rich resources on newspapers.</p>
     section-more-button: More Information
     external: false
-    section-more-button-url: /exhibitions/current-exhibitions/onpaper#tab1
-    section-image-path: /images/event-images/onpaper/OnPaper-homepage-side-info.png
+    section-more-button-url: /exhibitions/current-exhibitions/newsgallery
+    section-image-path: /images/event-images/newsgallery/Homepage_exh-highlight_NG.jpg
 
-# Resources Section
-resources-title: Exhibitions
-resources-subtitle: Current Exhibitions
-resources-more-button: Exhibitions List
-resources-more-button-url: /exhibitions/
+
