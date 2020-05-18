@@ -40,6 +40,7 @@ breadcrumb: Online Exhibitions
             </div>
         </div>
     </div>
+    <!-- 
         <div class="sgds-container__exh__feedback">
         <div class="row">
             <div class="col is-full" style="background-color: #E21216;">
@@ -47,6 +48,7 @@ breadcrumb: Online Exhibitions
             </div>
         </div>
     </div>
+    -->
 </div>
 
 <hr class="margin--top margin--bottom--lg">
@@ -83,6 +85,7 @@ breadcrumb: Online Exhibitions
             </div>
         </div>
     </div>
+    <!-- 
         <div class="sgds-container__exh__feedback">
         <div class="row">
             <div class="col is-full" style="background-color: #E21216;">
@@ -90,6 +93,7 @@ breadcrumb: Online Exhibitions
             </div>
         </div>
     </div>
+    -->
 </div>
 
 <hr class="margin--top margin--bottom--lg">
@@ -126,6 +130,7 @@ breadcrumb: Online Exhibitions
             </div>
         </div>
     </div>
+    <!-- 
         <div class="sgds-container__exh__feedback">
         <div class="row">
             <div class="col is-full" style="background-color: #E21216;">
@@ -133,6 +138,7 @@ breadcrumb: Online Exhibitions
             </div>
         </div>
     </div>
+    -->
 </div>
 
 <hr class="margin--top margin--bottom--lg">
@@ -169,6 +175,7 @@ breadcrumb: Online Exhibitions
             </div>
         </div>
     </div>
+    <!-- 
         <div class="sgds-container__exh__feedback">
         <div class="row">
             <div class="col is-full" style="background-color: #E21216;">
@@ -176,6 +183,7 @@ breadcrumb: Online Exhibitions
             </div>
         </div>
     </div>
+    -->
 </div>
 
 <hr class="margin--top margin--bottom--lg">
@@ -212,6 +220,7 @@ breadcrumb: Online Exhibitions
             </div>
         </div>
     </div>
+    <!-- 
         <div class="sgds-container__exh__feedback">
         <div class="row">
             <div class="col is-full" style="background-color: #E21216;">
@@ -219,6 +228,7 @@ breadcrumb: Online Exhibitions
             </div>
         </div>
     </div>
+    -->
 </div>
 
 <hr class="margin--top margin--bottom--lg">
