@@ -14,7 +14,7 @@ collection_name: current-exhibitions
     <div class="row">
         <div class="col is-full" style="background-color: #E21216;">
             <span class="sgds-icon sgds-icon-triangle-warning" style="font-size: 150%; display: inline-block; float: left; color: #ffffff"></span>
-            <div style="line-height: 150%; padding-left: 2.3rem; color: #ffffff">Due to COVID-19 measures, the exhibitions are temporarily closed from 7 Apr - 1 Jun 2020.</div>
+            <div style="line-height: 150%; padding-left: 2.3rem; color: #ffffff">Due to COVID-19 measures, the exhibitions are temporarily closed from 7 Apr until further notice.</div>
         </div>
     </div>
 </div>
