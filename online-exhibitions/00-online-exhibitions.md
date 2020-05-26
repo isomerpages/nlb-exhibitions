@@ -40,10 +40,10 @@ breadcrumb: Online Exhibitions
             </div>
         </div>
     </div>
-    <div class="sgds-container__exh__feedback">
+        <div class="sgds-container__exh__feedback">
         <div class="row">
             <div class="col is-full" style="background-color: #E21216;">
-                <p><a href="https://efm.jusfeedback.com/Community/se/705E3ED967035D29" target="_blank" style="color:#fff;">Click here to leave exhibition feedback &#187;</a></p>
+                <p><a href="#" target="_blank" style="color:#fff;">Click here to leave exhibition feedback &#187;</a></p>
             </div>
         </div>
     </div>
@@ -86,7 +86,7 @@ breadcrumb: Online Exhibitions
         <div class="sgds-container__exh__feedback">
         <div class="row">
             <div class="col is-full" style="background-color: #E21216;">
-                <p><a href="https://efm.jusfeedback.com/Community/se/705E3ED970FCBA9C" target="_blank" style="color:#fff;">Click here to leave exhibition feedback &#187;</a></p>
+                <p><a href="#" target="_blank" style="color:#fff;">Click here to leave exhibition feedback &#187;</a></p>
             </div>
         </div>
     </div>
@@ -129,7 +129,7 @@ breadcrumb: Online Exhibitions
         <div class="sgds-container__exh__feedback">
         <div class="row">
             <div class="col is-full" style="background-color: #E21216;">
-                <p><a href="https://efm.jusfeedback.com/Community/se/705E3ED93A52064F" target="_blank" style="color:#fff;">Click here to leave exhibition feedback &#187;</a></p>
+                <p><a href="#" target="_blank" style="color:#fff;">Click here to leave exhibition feedback &#187;</a></p>
             </div>
         </div>
     </div>
@@ -172,7 +172,7 @@ breadcrumb: Online Exhibitions
         <div class="sgds-container__exh__feedback">
         <div class="row">
             <div class="col is-full" style="background-color: #E21216;">
-                <p><a href="https://efm.jusfeedback.com/Community/se/705E3ED93DBD886A" target="_blank" style="color:#fff;">Click here to leave exhibition feedback &#187;</a></p>
+                <p><a href="#" target="_blank" style="color:#fff;">Click here to leave exhibition feedback &#187;</a></p>
             </div>
         </div>
     </div>
@@ -216,6 +216,7 @@ breadcrumb: Online Exhibitions
         <div class="row">
             <div class="col is-full" style="background-color: #E21216;">
                 <p><a href="https://efm.jusfeedback.com/Community/se/705E3ED962CCF4F1" target="_blank" style="color:#fff;">Click here to leave exhibition feedback &#187;</a>. This is a test.</p>
+                <p><a href="#" target="_blank" style="color:#fff;">Click here to leave exhibition feedback &#187;</a></p>
             </div>
         </div>
     </div>
