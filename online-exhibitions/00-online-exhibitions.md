@@ -40,7 +40,7 @@ breadcrumb: Online Exhibitions
             </div>
         </div>
     </div>
-        <div class="sgds-container__exh__feedback">
+    <div class="sgds-container__exh__feedback">
         <div class="row">
             <div class="col is-full" style="background-color: #E21216;">
                 <p><a href="https://efm.jusfeedback.com/Community/se/705E3ED967035D29" target="_blank" style="color:#fff;">Click here to leave exhibition feedback &#187;</a></p>
