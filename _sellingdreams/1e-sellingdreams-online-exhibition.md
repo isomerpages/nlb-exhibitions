@@ -9,8 +9,6 @@ second_nav_title: "Selling Dreams: Early Advertising in Singapore"
 ---
 
 <div class="sgds-container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
-    <div class="row">
-        <div class="col is-two-thirds">
              <div class="sgds-container__exh__description">
                 <div class="row">
                     <div class="col">
@@ -19,9 +17,7 @@ second_nav_title: "Selling Dreams: Early Advertising in Singapore"
                     </div>
                 </div>
             </div>
-        </div>
-    </div>
-        <div class="sgds-container__exh__feedback">
+    <div class="sgds-container__exh__feedback">
         <div class="row">
             <div class="col is-full" style="background-color: #E21216;">
                 <p><a href="https://efm.jusfeedback.com/Community/se/705E3ED967035D29" target="_blank" style="color:#fff;">Click here to leave exhibition feedback &#187;</a></p>
