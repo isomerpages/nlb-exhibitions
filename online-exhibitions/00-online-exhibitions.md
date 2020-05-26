@@ -40,6 +40,13 @@ breadcrumb: Online Exhibitions
             </div>
         </div>
     </div>
+        <div class="sgds-container__exh__feedback">
+        <div class="row">
+            <div class="col is-full" style="background-color: #E21216;">
+                <p><a href="https://efm.jusfeedback.com/Community/se/705E3ED967035D29" target="_blank" style="color:#fff;">Click here to leave exhibition feedback &#187;</a></p>
+            </div>
+        </div>
+    </div>
 </div>
 
 <hr class="margin--top margin--bottom--lg">
@@ -73,6 +80,13 @@ breadcrumb: Online Exhibitions
                         <h5><a href="http://www.nlb.gov.sg/exhibitions/virtual/scriptandstage/virtualtour/Script%20and%20Stage.html" target="_blank" style="color:#E21216;">VISIT THE ONLINE EXHIBITION &#187;</a></h5>
                     </div>
                 </div>
+            </div>
+        </div>
+    </div>
+        <div class="sgds-container__exh__feedback">
+        <div class="row">
+            <div class="col is-full" style="background-color: #E21216;">
+                <p><a href="https://efm.jusfeedback.com/Community/se/705E3ED970FCBA9C" target="_blank" style="color:#fff;">Click here to leave exhibition feedback &#187;</a></p>
             </div>
         </div>
     </div>
@@ -112,6 +126,13 @@ breadcrumb: Online Exhibitions
             </div>
         </div>
     </div>
+        <div class="sgds-container__exh__feedback">
+        <div class="row">
+            <div class="col is-full" style="background-color: #E21216;">
+                <p><a href="https://efm.jusfeedback.com/Community/se/705E3ED93A52064F" target="_blank" style="color:#fff;">Click here to leave exhibition feedback &#187;</a></p>
+            </div>
+        </div>
+    </div>
 </div>
 
 <hr class="margin--top margin--bottom--lg">
@@ -148,6 +169,13 @@ breadcrumb: Online Exhibitions
             </div>
         </div>
     </div>
+        <div class="sgds-container__exh__feedback">
+        <div class="row">
+            <div class="col is-full" style="background-color: #E21216;">
+                <p><a href="https://efm.jusfeedback.com/Community/se/705E3ED93DBD886A" target="_blank" style="color:#fff;">Click here to leave exhibition feedback &#187;</a></p>
+            </div>
+        </div>
+    </div>
 </div>
 
 <hr class="margin--top margin--bottom--lg">
@@ -181,6 +209,13 @@ breadcrumb: Online Exhibitions
                         <h5><a href="http://www.nlb.gov.sg/exhibitions/virtual/lotl360/LOTL360.html" target="_blank" style="color:#E21216;">VISIT THE ONLINE EXHIBITION &#187;</a></h5>
                     </div>
                 </div>
+            </div>
+        </div>
+    </div>
+        <div class="sgds-container__exh__feedback">
+        <div class="row">
+            <div class="col is-full" style="background-color: #E21216;">
+                <p><a href="https://efm.jusfeedback.com/Community/se/705E3ED962CCF4F1" target="_blank" style="color:#fff;">Click here to leave exhibition feedback &#187;</a></p>
             </div>
         </div>
     </div>
