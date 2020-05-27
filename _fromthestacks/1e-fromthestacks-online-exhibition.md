@@ -20,7 +20,7 @@ second_nav_title: "From The Stacks: Highlights of the National Library"
     <div class="sgds-container__exh__feedback">
         <div class="row" style="margin: 20px 0 0 0;">
             <div class="col is-full" style="background-color: #E21216;">
-                <p><a href="https://efm.jusfeedback.com/Community/se/705E3ED93A52064F" target="_blank" style="color:#fff;">Click here to leave exhibition feedback &#187;</a></p>
+                <p><a href="https://efm.jusfeedback.com/Community/se/705E3ED93A52064F" target="_blank" style="color:#fff;">Leave us your feedback here &#187;</a></p>
             </div>
         </div>
     </div>
