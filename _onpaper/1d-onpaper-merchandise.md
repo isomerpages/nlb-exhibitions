@@ -16,16 +16,7 @@ second_nav_title: "On Paper: Singapore Before 1867"
         <div class="col is-full">
         <p>In conjunction with the exhibition, On Paper: Singapore before 1867, three limited edition prints are now available for purchase.</p>
         <p>All prints measure 40.5cm by 30.5cm, and are printed on archival grade paper.</p>
-        <p>Prints can be purchased online for collection at Level 8 of the Lee Kong Chian Reference Library in the National Library Building, 10am – 9pm, daily. There is no mailing service available.</p>
-        </div>
-    </div>
-</div>
-
-<div class="sgds-container__notice" style="padding: 0 0 32px 0; margin-top: 10px;">
-    <div class="row">
-        <div class="col is-12" style="background-color: #E21216;">
-            <span class="sgds-icon sgds-icon-triangle-warning" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle; color: #ffffff"></span>
-            <div style="line-height: 150%; padding-left: 2.3rem; color: #ffffff">Due to COVID-19 measures, the National Library Building is temporarily closed from 7 Apr until further notice.</div>
+        <p>Prints can be purchased online for collection at Level 8 of the Lee Kong Chian Reference Library in the National Library Building, 11:00am – 7:00pm, daily. There is no mailing service available.</p>
         </div>
     </div>
 </div>

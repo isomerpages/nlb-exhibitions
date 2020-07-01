@@ -29,16 +29,16 @@ second_nav_title: "The News Gallery: Beyond Headlines"
                     </li> 
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-clock" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem;">10:00am – 9:00pm</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">11:00am – 7:00pm</div>
                     </li>          
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
                         <div style="line-height: 150%; padding-left: 2.3rem;">Level 11, Promenade, National Library Building</div>
-                    </li>                    
+                    </li>
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-triangle-warning" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle; color: #E21216"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem; color: #E21216">Due to COVID-19 measures, the exhibitions are temporarily closed from 7 Apr until further notice.</div>
-                    </li>
+                        <div style="line-height: 150%; padding-left: 2.3rem; color: #E21216">The exhibitions at the National Library building have re-opened. We have implemented enhanced measures for the safety of our visitors. Thank you for your understanding and cooperation. <a href="https://www.nlb.gov.sg/" target="_blank">MORE INFORMATION</a>.</div>
+                    </li>                    
                     </ul>
                 </div>
             </div>
