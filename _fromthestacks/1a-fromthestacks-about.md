@@ -104,11 +104,14 @@ second_nav_title: "From The Stacks: Highlights of the National Library"
                 <ul style="list-style: none; margin-left: 0px;">
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem;">18 January 2016 – 31 August 2017 (CLOSED)</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">18 January 2016 – 31 August 2016 (CLOSED)</div>
                     </li> 
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
                         <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Tampines Regional Library</strong> &#124; 18 Janurary 2016 – 28 February 2016</div>
+                    </li>                     
+                    <li style="margin-bottom: 1rem;">
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Toa Payoh Public Library</strong> &#124; 29 February 2016 - 24 April 2016</div>
                     </li>                    
                     <li style="margin-bottom: 1rem;">
                         <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Jurong Regional Library</strong> &#124; 25 April 2016 – 19 June 2016</div>
