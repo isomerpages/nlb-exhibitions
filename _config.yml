@@ -45,6 +45,8 @@ collections:
     output: true
   newsgallery-virtual-gallery:
     output: true
+newsgallery-virtual-gallery-ee:
+    output: true
   raregallery:
     output: true
   onpaper:
