@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: "Virtual Gallery"
-permalink: /exhibitions/current-exhibitions/newsgallery/virtual-gallery/
-breadcrumb: "Virtual Gallery"
+title: "The News Gallery: Beyond Headlines - Virtual Gallery"
+permalink: /exhibitions/current-exhibitions/newsgallery/virtual-gallery/main/
+breadcrumb: "The News Gallery: Beyond Headlines - Virtual Gallery"
 collection_name: newsgallery-virtual
 
 ---
