@@ -8,3 +8,4 @@ third_nav_title: "Virtual Gallery"
 
 ---
 
+This is a test for Early Editions main page.
