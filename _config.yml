@@ -43,7 +43,7 @@ collections:
     output: true
   newsgallery:
     output: true
-  newsgallery-ee:
+  newsgallery-virtual-gallery:
     output: true
   raregallery:
     output: true
