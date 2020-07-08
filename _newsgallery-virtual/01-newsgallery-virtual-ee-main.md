@@ -1,8 +1,10 @@
 ---
 layout: leftnav-page-content
-title: "Early Editions"
+title: "About"
 permalink: /exhibitions/current-exhibitions/newsgallery/virtual-gallery/early-editions/
-breadcrumb: "Early Editions"
+breadcrumb: "About"
+collection_name: newsgallery-virtual-gallery
+second_nav_title: "Early Editions"
 
 ---
 
