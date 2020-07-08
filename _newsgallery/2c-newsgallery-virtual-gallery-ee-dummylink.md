@@ -4,8 +4,7 @@ title: "Early Editions"
 permalink: /exhibitions/current-exhibitions/newsgallery/virtual-gallery/early-editions/
 breadcrumb: "Early Editions"
 collection_name: newsgallery
-second_nav_title: "Virtual Gallery"
+third_nav_title: "Virtual Gallery"
 
 ---
 
-This is a test for Early Editions main page.
