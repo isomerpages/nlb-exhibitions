@@ -12,16 +12,17 @@ second_nav_title: "The News Gallery: Beyond Headlines"
 
 <p>This is the main page for EE, BES, and F/F. Placeholder text goes here.</p>
 
-<div class="sgds-container__exh__card padding padding--bottom--lg">
+<div class="sgds-container">
     <div class="row">
-        <div class="col padding--bottom--xs">
-            <h3><strong>Early Editions</strong></h3>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col is-full">
-            <img src="/images/event-images/newsgallery/TNG_placeholder.jpg" alt="Early Editions">
+        <div class="col is-four">
+            <div class="row">
+                <img src="/images/event-images/newsgallery/TNG_placeholder.jpg" alt="Early Editions">
+            </div>
+            <div class="row">
+                <h3>"Early Editions"</h3>
+            </div>            
         </div>
     </div>
 </div>
+
 
