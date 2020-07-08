@@ -19,7 +19,23 @@ second_nav_title: "The News Gallery: Beyond Headlines"
                 <img src="/images/event-images/newsgallery/TNG_placeholder.jpg" alt="Early Editions">
             </div>
             <div class="row">
-                <h3>"Early Editions"</h3>
+                <h3>Early Editions</h3>
+            </div>            
+        </div>
+        <div class="col is-four">
+            <div class="row">
+                <img src="/images/event-images/newsgallery/TNG_placeholder.jpg" alt="Early Editions">
+            </div>
+            <div class="row">
+                <h3>Behind Every Story</h3>
+            </div>            
+        </div>
+        <div class="col is-four">
+            <div class="row">
+                <img src="/images/event-images/newsgallery/TNG_placeholder.jpg" alt="Early Editions">
+            </div>
+            <div class="row">
+                <h3>Fact or Fake?</h3>
             </div>            
         </div>
     </div>
