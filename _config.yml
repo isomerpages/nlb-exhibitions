@@ -43,6 +43,8 @@ collections:
     output: true
   newsgallery:
     output: true
+  newsgallery-ee:
+    output: true
   raregallery:
     output: true
   onpaper:
