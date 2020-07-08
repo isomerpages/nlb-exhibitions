@@ -20,7 +20,7 @@ second_nav_title: "The News Gallery: Beyond Headlines"
     </div>
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
-            <img src="/images/event-images/newsgallery/TNG_placeholder.jpg" alt="Early Editions" style="border-bottom-left-radius: 10%; border-bottom-right-radius: 10%; box-shadow: 7px 0 #FF5733;">
+            <img src="/images/event-images/newsgallery/TNG_placeholder.jpg" alt="Early Editions">
         </div>
     </div>
 </div>
