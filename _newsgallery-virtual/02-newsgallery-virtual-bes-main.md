@@ -19,7 +19,7 @@ second_nav_title: "Behind Every Story"
                 <img src="/images/event-images/newsgallery/TNG_placeholder.jpg" alt="Singapore Free Press" style="border-bottom: 10px solid #E21216;">
             </div>
             <div class="row" style="display: inline-block; margin: auto;">
-                <h4><a href="/exhibitions/current-exhibitions/newsgallery/virtual-gallery/early-editions/fos/" style="color:#E21216;">Fall of Singapore</a></h4>
+                <h4><a href="/exhibitions/current-exhibitions/newsgallery/virtual-gallery/behind-every-story/fos/" style="color:#E21216;">Fall of Singapore</a></h4>
             </div>            
         </div>
         <div class="col is-half" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 10%; margin-bottom: 15px; margin-right: 15px;">
