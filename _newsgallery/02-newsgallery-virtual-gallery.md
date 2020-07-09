@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: "The News Gallery: Beyond Headlines - Virtual Gallery"
+title: "Virtual Gallery"
 permalink: /exhibitions/current-exhibitions/newsgallery/virtual-gallery/
-breadcrumb: "The News Gallery: Beyond Headlines - Virtual Gallery"
+breadcrumb: "Virtual Gallery"
 collection_name: newsgallery
 second_nav_title: "The News Gallery: Beyond Headlines"
 
@@ -35,7 +35,7 @@ second_nav_title: "The News Gallery: Beyond Headlines"
                 <img src="/images/event-images/newsgallery/TNG_placeholder.jpg" alt="Fact or Fake?" style="border-bottom: 10px solid #E21216;">
             </div>
             <div class="row" style="display: inline-block; margin: auto;">
-                <h4><a href="#" style="color:#E21216;">Fact or Fake?</a></h4>
+                <h4><a href="/exhibitions/current-exhibitions/newsgallery/virtual-gallery/fact-or-fake/" style="color:#E21216;">Fact or Fake?</a></h4>
             </div>            
         </div>
     </div>

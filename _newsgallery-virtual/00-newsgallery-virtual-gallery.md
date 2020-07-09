@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: "The News Gallery: Beyond Headlines - Virtual Gallery"
 permalink: /exhibitions/current-exhibitions/newsgallery/virtual-gallery/
 breadcrumb: "The News Gallery: Beyond Headlines - Virtual Gallery"
-collection_name: newsgallery
+collection_name: newsgallery-virtual
 
 ---
 
