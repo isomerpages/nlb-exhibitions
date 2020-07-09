@@ -12,8 +12,9 @@ second_nav_title: "Early Editions"
 
 <p>This is the introduction text for Early Editions main page.</p>
 
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SPb79aI6quk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+</center>
 
 <div class="sgds-container" style="text-align: center; margin-top: 30px;">
     <div class="row">
