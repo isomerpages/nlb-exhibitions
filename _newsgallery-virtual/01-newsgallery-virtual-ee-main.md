@@ -15,7 +15,7 @@ second_nav_title: "Early Editions"
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SPb79aI6quk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<div class="sgds-container" style="text-align: center;">
+<div class="sgds-container" style="text-align: center; margin-top: 30px;">
     <div class="row">
         <div class="col is-half" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 10%; margin-bottom: 15px; margin-right: 15px;">
             <div class="row">
