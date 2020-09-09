@@ -29,7 +29,7 @@ second_nav_title: "The News Gallery: Beyond Headlines"
                     </li> 
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-clock" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem;">11:00am – 7:00pm</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">10:00am – 9:00pm</div>
                     </li>          
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
