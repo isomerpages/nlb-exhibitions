@@ -8,9 +8,7 @@ second_nav_title: "The News Gallery: Beyond Headlines"
 
 ---
 
-<h2>WELCOME TO THE VIRTUAL GALLERY</h2>
-
-<p style="padding-bottom: 10px;">This is the main page for EE, BES, and F/F. Placeholder text goes here.</p>
+<p style="padding-bottom: 10px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sem dolor, fermentum at lacinia eget, bibendum id velit. Aliquam est lacus, posuere quis nisl et, posuere consequat felis. Nulla efficitur condimentum nisl, id ultrices ex lobortis ut.</p>
 
 <div class="sgds-container" style="text-align: center;">
     <div class="row">
