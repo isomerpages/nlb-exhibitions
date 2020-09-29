@@ -12,7 +12,7 @@ second_nav_title: "The News Gallery: Beyond Headlines"
 
 <div class="sgds-container">
     <div class="row" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 25px; margin-right: 15px;">
-        <div class="col is-3-desktop is-4-tablet is-7-mobile">
+        <div class="col is-3-desktop is-4-tablet is-7-mobile" style="margin-left: auto; margin-right: auto;">
                 <a href="/exhibitions/current-exhibitions/newsgallery/virtual-gallery/early-editions/"><img src="/images/event-images/newsgallery/news-gallery-thumbnail.jpg" alt="Early Editions thumbnail" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;"></a>
         </div>
         <div class="col">
@@ -22,7 +22,7 @@ second_nav_title: "The News Gallery: Beyond Headlines"
         </div>
     </div>    
     <div class="row" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 25px; margin-right: 15px;">
-        <div class="col is-3-desktop is-4-tablet is-7-mobile">
+        <div class="col is-3-desktop is-4-tablet is-7-mobile" style="margin-left: auto; margin-right: auto;">
                 <a href="/exhibitions/current-exhibitions/newsgallery/virtual-gallery/behind-every-story/"><img src="/images/event-images/newsgallery/news-gallery-thumbnail.jpg" alt="Behind Every Story thumbnail" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;"></a>
         </div>
         <div class="col">
@@ -32,7 +32,7 @@ second_nav_title: "The News Gallery: Beyond Headlines"
         </div>
     </div>    
     <div class="row" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 25px; margin-right: 15px;">
-        <div class="col is-3-desktop is-4-tablet is-7-mobile">
+        <div class="col is-3-desktop is-4-tablet is-7-mobile" style="margin-left: auto; margin-right: auto;">
                 <a href="/exhibitions/current-exhibitions/newsgallery/virtual-gallery/fact-or-fake/"><img src="/images/event-images/newsgallery/news-gallery-thumbnail.jpg" alt="Fact or Fake? thumbnail" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;"></a>
         </div>
         <div class="col">
