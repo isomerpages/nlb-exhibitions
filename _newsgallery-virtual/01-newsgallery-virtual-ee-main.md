@@ -16,7 +16,7 @@ collection_name: newsgallery-virtual
 <div class="sgds-container">
     <div class="row" style="border: 2px solid #efefef; border-top: 5px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 25px; margin-right: 15px;">
         <div class="col">
-            <div class="row">
+            <div class="row" style="margin-bottom: 5px;">
                 <a href="/images/event-images/newsgallery/TNG_Exh_1000x1150.jpg"><img src="/images/event-images/newsgallery/TNG_placeholder_1280x300.jpg" alt="The front page of a Singapore Free Press newspaper"></a>
             </div>
             <div class="row is-multiline" style="margin: 0px;">
