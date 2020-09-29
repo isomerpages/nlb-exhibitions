@@ -19,10 +19,10 @@ collection_name: newsgallery-virtual
             <div class="row">
                 <a href="/images/event-images/newsgallery/TNG_Exh_1000x1150.jpg"><img src="/images/event-images/newsgallery/TNG_placeholder_1280x300.jpg" alt="The front page of a Singapore Free Press newspaper"></a>
             </div>
-            <div class="row is-multiline">
+            <div class="row is-multiline" style="margin: 0px;">
                 <h4>Singapore Free Press</h4>
                 <p style="margin-top: 10px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sem dolor, fermentum at lacinia eget, bibendum id velit. Aliquam est lacus, posuere quis nisl et, posuere consequat felis. Nulla efficitur condimentum nisl, id ultrices ex lobortis ut. Aenean dictum, neque at porta fermentum, diam nunc feugiat odio, vel ultricies odio metus sit amet magna. Vestibulum commodo felis nisl, id scelerisque lacus sollicitudin vitae. Vestibulum vel eleifend felis. Integer eleifend eros eget imperdiet tempus.</p>
-                <p style="margin-top: 15px;"><a href="/exhibitions/current-exhibitions/newsgallery/virtual-gallery/early-editions/" style="color:#E21216;">Click for a full view of the newspaper.</a></p>
+                <p style="margin-top: 0px;"><a href="/exhibitions/current-exhibitions/newsgallery/virtual-gallery/early-editions/" style="color:#E21216;">Click for a full view of the newspaper.</a></p>
             </div>
         </div>
     </div>    
