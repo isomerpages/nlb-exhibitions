@@ -13,16 +13,16 @@ second_nav_title: "The News Gallery: Beyond Headlines"
 <div class="sgds-container">
     <div class="row is-desktop" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px; margin-right: 15px;">
         <div class="col is-half">
-            <div class="row">
-                <a href="/exhibitions/current-exhibitions/newsgallery/virtual-gallery/early-editions/"><img src="/images/event-images/newsgallery/TNG_placeholder.jpg" alt="Early Editions" style="border-right: 10px double #E21216;"></a>
-            </div>
+
+                <a href="/exhibitions/current-exhibitions/newsgallery/virtual-gallery/early-editions/"><img src="/images/event-images/newsgallery/TNG_Exh_1000x1150.jpg" alt="Early Editions" style="border-right: 10px double #E21216;"></a>
+
         </div>
-        <div class="col is-half">
-            <div class="row" style="display: inline-block; margin: auto;">
+        <div class="col">
+
                 <h4>Early Editions</h4>
                 <p style="margin-top: 10px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sem dolor, fermentum at lacinia eget, bibendum id velit.</p>
                 <p><a href="/exhibitions/current-exhibitions/newsgallery/virtual-gallery/early-editions/" style="color:#E21216;">Click to visit Early Editions</a></p>
-            </div> 
+
         </div>
     </div>
 </div>
