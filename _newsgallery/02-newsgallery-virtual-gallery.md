@@ -12,9 +12,9 @@ second_nav_title: "The News Gallery: Beyond Headlines"
 
 <div class="sgds-container">
     <div class="row is-desktop" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px; margin-right: 15px;">
-        <div class="col is-half">
+        <div class="col is-one-thirds">
 
-                <a href="/exhibitions/current-exhibitions/newsgallery/virtual-gallery/early-editions/"><img src="/images/event-images/newsgallery/TNG_Exh_1000x1150.jpg" alt="Early Editions" style="border-right: 10px double #E21216;"></a>
+                <a href="/exhibitions/current-exhibitions/newsgallery/virtual-gallery/early-editions/"><img src="/images/event-images/newsgallery/TNG_placeholder_1280x960.jpg" alt="Early Editions" style="border-right: 10px double #E21216;"></a>
 
         </div>
         <div class="col">
