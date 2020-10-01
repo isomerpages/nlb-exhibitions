@@ -30,10 +30,8 @@ collection_name: newsgallery-virtual
         <div class="col" style="padding: 0 0 20px 0;">
             <div class="row" style="height: 50px; background-color: rgba(255, 255, 255, 0);">
             </div>            
-            <div class="row ee-tm" style="flex-direction: column; align-items: flex-end; background-color: #E21216; text-align: right; padding-right: 20px; margin-left: 70px; box-shadow: 15px 13px 0px #A20D10;">
-                <h2 style="color: #fff;">Tamil
-                <br>
-                Murasu</h2>
+            <div class="row ee-tm" style="flex-direction: column; align-items: flex-end; background-color: #E21216; text-align: right; padding-right: 20px; box-shadow: 15px 13px 0px #A20D10;">
+                <h2 style="color: #fff; line-height: 1.1; padding: 10px 0 10px 0">Tamil<br>Murasu</h2>
             </div>            
               <div class="row" style="background-color: rgba(255, 255, 255, 0);">
             </div>        
