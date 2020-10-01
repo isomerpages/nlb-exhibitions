@@ -27,11 +27,21 @@ collection_name: newsgallery-virtual
         </div>
     </div>    
     <div class="row">
-        <div class="col is-half">
-            <h4>Tamil Murasu</h4>
+        <div class="col" style="background-color: #E21216; text-align: right">
+            <div class="row">
+            </div>            
+            <div class="row">
+                <h3 style="color: #fff;">Tamil Murasu</h3>
+            </div>            
+            <div class="row">
+            </div>            
+            <div class="row">
+            </div>            
+            <div class="row">
+            </div>
         </div>
-        <div class="col">
-            <a href="/images/event-images/newsgallery/TNG_Exh_1000x1150.jpg"><img src="/images/event-images/newsgallery/TNG_Exh_1000x1150.jpg" alt="The front page of a Tamil Murasu newspaper"></a>
+        <div class="col is-half">
+            <a href="/images/event-images/newsgallery-virtual/ee_tamil-murasu.jpg"><img src="/images/event-images/newsgallery-virtual/ee_tamil-murasu.jpg" alt="The front page of a Tamil Murasu newspaper"></a>
         </div>
     </div>
     <div class="row">
