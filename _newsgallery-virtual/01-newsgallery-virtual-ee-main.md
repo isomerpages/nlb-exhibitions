@@ -27,22 +27,19 @@ collection_name: newsgallery-virtual
         </div>
     </div>    
     <div class="row">
-        <div class="col">
+        <div class="col" style="flex-direction: column; align-items: flex-end; padding: 0px;">
             <div class="row" style="height: 50px; background-color: rgba(255, 255, 255, 0);">
             </div>            
-            <div class="row" style="background-color: #E21216; text-align: right;">
-                <h3 style="color: #fff;">Tamil</h3>
+            <div class="row" style="background-color: #E21216; text-align: right; padding-right: 20px;">
+                <h2 style="color: #fff;">Tamil
+                <br>
+                Murasu</h2>
             </div>            
-            <div class="row" style="background-color: #E21216; text-align: right;">
-                <h3 style="color: #fff;">Murasu</h3>
-            </div>            
-            <div class="row" style="height: 50px; background-color: rgba(255, 255, 255, 0);">
-            </div>            
-            <div class="row" style="height: 50px; background-color: rgba(255, 255, 255, 0);">
-            </div>            
+              <div class="row" style="background-color: rgba(255, 255, 255, 0);">
+            </div>        
         </div>
         <div class="col is-half">
-            <a href="/images/event-images/newsgallery-virtual/ee_tamil-murasu_full.jpg"><img src="/images/event-images/newsgallery-virtual/ee_tamil-murasu_preview.jpg" alt="The front page of a Tamil Murasu newspaper"></a>
+            <a href="/images/event-images/newsgallery-virtual/ee_tamil-murasu_full.jpg"><img src="/images/event-images/newsgallery-virtual/ee_tamil-murasu_preview.jpg" alt="The front page of a Tamil Murasu newspaper" style="border: 2px solid #000;"></a>
         </div>
     </div>
     <div class="row">
