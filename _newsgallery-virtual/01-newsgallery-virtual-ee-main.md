@@ -27,21 +27,22 @@ collection_name: newsgallery-virtual
         </div>
     </div>    
     <div class="row">
-        <div class="col" style="background-color: #E21216; text-align: right">
-            <div class="row">
+        <div class="col">
+            <div class="row" style="height: 50px; background-color: rgba(255, 255, 255, 0);">
             </div>            
-            <div class="row">
-                <h3 style="color: #fff;">Tamil Murasu</h3>
+            <div class="row" style="background-color: #E21216; text-align: right;">
+                <h3 style="color: #fff;">Tamil</h3>
             </div>            
-            <div class="row">
+            <div class="row" style="background-color: #E21216; text-align: right;">
+                <h3 style="color: #fff;">Murasu</h3>
             </div>            
-            <div class="row">
+            <div class="row" style="height: 50px; background-color: rgba(255, 255, 255, 0);">
             </div>            
-            <div class="row">
-            </div>
+            <div class="row" style="height: 50px; background-color: rgba(255, 255, 255, 0);">
+            </div>            
         </div>
         <div class="col is-half">
-            <a href="/images/event-images/newsgallery-virtual/ee_tamil-murasu.jpg"><img src="/images/event-images/newsgallery-virtual/ee_tamil-murasu.jpg" alt="The front page of a Tamil Murasu newspaper"></a>
+            <a href="/images/event-images/newsgallery-virtual/ee_tamil-murasu_full.jpg"><img src="/images/event-images/newsgallery-virtual/ee_tamil-murasu_preview.jpg" alt="The front page of a Tamil Murasu newspaper"></a>
         </div>
     </div>
     <div class="row">
