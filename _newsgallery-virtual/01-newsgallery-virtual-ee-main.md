@@ -19,7 +19,7 @@ collection_name: newsgallery-virtual
         <div class="col">
     <div class="row">
         <div class="col" style="padding-right: 0px;">
-            <div class="row" style="height: 90px; background-color: rgba(255, 255, 255, 0);">
+            <div class="row" style="height: 20%; background-color: rgba(255, 255, 255, 0);">
             </div>            
             <div class="row ee-tm" style="flex-direction: column; align-items: flex-end; background-color: #E21216; text-align: right; padding-right: 20px; box-shadow: 15px 13px 0px #A20D10;">
                 <h2 style="color: #fff; line-height: 1.1; padding: 10px 0 10px 0">Singapore<br>Free<br>Press</h2>
@@ -44,7 +44,7 @@ collection_name: newsgallery-virtual
         <div class="col">
     <div class="row">
         <div class="col" style="padding-right: 0px;">
-            <div class="row" style="height: 90px; background-color: rgba(255, 255, 255, 0);">
+            <div class="row" style="height: 20%; background-color: rgba(255, 255, 255, 0);">
             </div>            
             <div class="row ee-tm" style="flex-direction: column; align-items: flex-end; background-color: #E21216; text-align: right; padding-right: 20px; box-shadow: 15px 13px 0px #A20D10;">
                 <h2 style="color: #fff; line-height: 1.1; padding: 10px 0 10px 0">Tamil<br>Murasu</h2>
@@ -69,7 +69,7 @@ collection_name: newsgallery-virtual
         <div class="col">
     <div class="row">
         <div class="col" style="padding-right: 0px;">
-            <div class="row" style="height: 90px; background-color: rgba(255, 255, 255, 0);">
+            <div class="row" style="height: 20%; background-color: rgba(255, 255, 255, 0);">
             </div>            
             <div class="row ee-tm" style="flex-direction: column; align-items: flex-end; background-color: #E21216; text-align: right; padding-right: 20px; box-shadow: 15px 13px 0px #A20D10;">
                 <h2 style="color: #fff; line-height: 1.1; padding: 10px 0 10px 0">Utusan<br>Melayu</h2>
@@ -94,7 +94,7 @@ collection_name: newsgallery-virtual
         <div class="col">
     <div class="row">
         <div class="col" style="padding-right: 0px;">
-            <div class="row" style="height: 90px; background-color: rgba(255, 255, 255, 0);">
+            <div class="row" style="height: 20%; background-color: rgba(255, 255, 255, 0);">
             </div>            
             <div class="row ee-tm" style="flex-direction: column; align-items: flex-end; background-color: #E21216; text-align: right; padding-right: 20px; box-shadow: 15px 13px 0px #A20D10;">
                 <h2 style="color: #fff; line-height: 1.1; padding: 10px 0 10px 0">Nanyang<br>Siang<br>Pau</h2>
