@@ -1,10 +1,9 @@
 ---
 layout: leftnav-page-content
-title: "About"
+title: "Behind Every Story"
 permalink: /exhibitions/current-exhibitions/newsgallery/virtual-gallery/behind-every-story/
-breadcrumb: "About"
+breadcrumb: "Behind Every Story"
 collection_name: newsgallery-virtual
-second_nav_title: "Behind Every Story"
 
 ---
 
