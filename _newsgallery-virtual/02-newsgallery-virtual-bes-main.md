@@ -10,43 +10,39 @@ second_nav_title: "Behind Every Story"
 
 <h2>BEHIND EVERY STORY</h2>
 
-<p>This is the introduction text for Behind Every Story main page.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin maximus placerat bibendum. Sed pretium consectetur tortor at consequat. Ut in dignissim sapien. Proin in massa in tortor aliquet molestie eget nec lectus. Duis fermentum ex eu lacus sagittis, eu dapibus tortor auctor.</p>
 
-<div class="sgds-container" style="text-align: center;">
+<div class="sgds-container">
     <div class="row">
-        <div class="col is-half" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 10%; margin-bottom: 15px; margin-right: 15px;">
-            <div class="row">
-                <img src="/images/event-images/newsgallery/TNG_placeholder.jpg" alt="Singapore Free Press" style="border-bottom: 10px solid #E21216;">
-            </div>
-            <div class="row" style="display: inline-block; margin: auto;">
-                <h4><a href="/exhibitions/current-exhibitions/newsgallery/virtual-gallery/behind-every-story/fos/" style="color:#E21216;">Fall of Singapore</a></h4>
-            </div>            
+        <div class="col">
+        <h3>Fall of Singapore</h3>
+        <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/QILiHiTD3uc" frameborder="0" allowfullscreen></iframe></div>
+        <br>
+        <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/QILiHiTD3uc" frameborder="0" allowfullscreen></iframe></div>
         </div>
-        <div class="col is-half" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 10%; margin-bottom: 15px; margin-right: 15px;">
-            <div class="row">
-                <img src="/images/event-images/newsgallery/TNG_placeholder.jpg" alt="Tamil Murasu" style="border-bottom: 10px solid #E21216;">
-            </div>
-            <div class="row" style="display: inline-block; margin: auto;">
-                <h4><a href="#" style="color:#E21216;">Maria Hertogh Riots</a></h4>
-            </div>            
-        </div>
-    </div>
+    </div>    
     <div class="row">
-        <div class="col is-half" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 10%; margin-bottom: 15px; margin-right: 15px;">
-            <div class="row">
-                <img src="/images/event-images/newsgallery/TNG_placeholder.jpg" alt="Utusan Melayu" style="border-bottom: 10px solid #E21216;">
-            </div>
-            <div class="row" style="display: inline-block; margin: auto;">
-                <h4><a href="#" style="color:#E21216;">Singapore separates from Malaysia</a></h4>
-            </div>            
+        <div class="col">
+        <h3>Maria Hertogh Riots</h3>
+        <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/QILiHiTD3uc" frameborder="0" allowfullscreen></iframe></div>
+        <br>
+        <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/QILiHiTD3uc" frameborder="0" allowfullscreen></iframe></div>
         </div>
-        <div class="col is-half" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 10%; margin-bottom: 15px; margin-right: 15px;">
-            <div class="row">
-                <img src="/images/event-images/newsgallery/TNG_placeholder.jpg" alt="Nanyang Siang Pau" style="border-bottom: 10px solid #E21216;">
-            </div>
-            <div class="row" style="display: inline-block; margin: auto;">
-                <h4><a href="#" style="color:#E21216;">Caning of Michael Fay</a></h4>
-            </div>            
+    </div>    
+    <div class="row">
+        <div class="col">
+        <h3>Singapore separates from Malaysia</h3>
+        <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/QILiHiTD3uc" frameborder="0" allowfullscreen></iframe></div>
+        <br>
+        <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/QILiHiTD3uc" frameborder="0" allowfullscreen></iframe></div>
+        </div>
+    </div>    
+    <div class="row">
+        <div class="col">
+        <h3>Caning of Michael Fay</h3>
+        <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/QILiHiTD3uc" frameborder="0" allowfullscreen></iframe></div>
+        <br>
+        <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/QILiHiTD3uc" frameborder="0" allowfullscreen></iframe></div>
         </div>
     </div>
 </div>
