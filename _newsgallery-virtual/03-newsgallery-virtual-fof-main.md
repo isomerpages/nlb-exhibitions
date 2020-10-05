@@ -7,11 +7,12 @@ collection_name: newsgallery-virtual
 
 ---
 
-<h2>FACT OR FAKE?</h2>
-
+<div class="sgds-container" style="margin-bottom: 40px;">
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin maximus placerat bibendum. Sed pretium consectetur tortor at consequat. Ut in dignissim sapien. Proin in massa in tortor aliquet molestie eget nec lectus. Duis fermentum ex eu lacus sagittis, eu dapibus tortor auctor.</p>
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/QILiHiTD3uc" frameborder="0" allowfullscreen></iframe></div>
+    
+</div>
 
 <div class="sgds-container">
 

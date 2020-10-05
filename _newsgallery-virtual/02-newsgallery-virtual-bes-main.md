@@ -7,8 +7,6 @@ collection_name: newsgallery-virtual
 
 ---
 
-<h2>BEHIND EVERY STORY</h2>
-
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin maximus placerat bibendum. Sed pretium consectetur tortor at consequat. Ut in dignissim sapien. Proin in massa in tortor aliquet molestie eget nec lectus. Duis fermentum ex eu lacus sagittis, eu dapibus tortor auctor.</p>
 
 <div class="sgds-container">
