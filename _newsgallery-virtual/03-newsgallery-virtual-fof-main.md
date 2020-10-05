@@ -12,7 +12,6 @@ collection_name: newsgallery-virtual
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin maximus placerat bibendum. Sed pretium consectetur tortor at consequat. Ut in dignissim sapien. Proin in massa in tortor aliquet molestie eget nec lectus. Duis fermentum ex eu lacus sagittis, eu dapibus tortor auctor.</p>
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/QILiHiTD3uc" frameborder="0" allowfullscreen></iframe></div>
-</div>
 
 <div class="sgds-container">
 
@@ -35,7 +34,6 @@ collection_name: newsgallery-virtual
     <div class="row">
         <div class="col" style="padding: 0 20px 20px 20px;">
         <p style="margin-top: 10px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sem dolor, fermentum at lacinia eget, bibendum id velit. Aliquam est lacus, posuere quis nisl et, posuere consequat felis. Nulla efficitur condimentum nisl, id ultrices ex lobortis ut. Aenean dictum, neque at porta fermentum, diam nunc feugiat odio, vel ultricies odio metus sit amet magna. Vestibulum commodo felis nisl, id scelerisque lacus sollicitudin vitae. Vestibulum vel eleifend felis. Integer eleifend eros eget imperdiet tempus.</p>
-        <p style="margin-top: 0px;"><a href="#" style="color:#E21216;">Click here for a full view of the newspaper.</a></p>
         </div>
     </div>
     </div>
@@ -60,7 +58,6 @@ collection_name: newsgallery-virtual
     <div class="row">
         <div class="col" style="padding: 0 20px 20px 20px;">
         <p style="margin-top: 10px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sem dolor, fermentum at lacinia eget, bibendum id velit. Aliquam est lacus, posuere quis nisl et, posuere consequat felis. Nulla efficitur condimentum nisl, id ultrices ex lobortis ut. Aenean dictum, neque at porta fermentum, diam nunc feugiat odio, vel ultricies odio metus sit amet magna. Vestibulum commodo felis nisl, id scelerisque lacus sollicitudin vitae. Vestibulum vel eleifend felis. Integer eleifend eros eget imperdiet tempus.</p>
-        <p style="margin-top: 0px;"><a href="#" style="color:#E21216;">Click here for a full view of the newspaper.</a></p>
         </div>
     </div>
     </div>
@@ -85,7 +82,6 @@ collection_name: newsgallery-virtual
     <div class="row">
         <div class="col" style="padding: 0 20px 20px 20px;">
         <p style="margin-top: 10px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sem dolor, fermentum at lacinia eget, bibendum id velit. Aliquam est lacus, posuere quis nisl et, posuere consequat felis. Nulla efficitur condimentum nisl, id ultrices ex lobortis ut. Aenean dictum, neque at porta fermentum, diam nunc feugiat odio, vel ultricies odio metus sit amet magna. Vestibulum commodo felis nisl, id scelerisque lacus sollicitudin vitae. Vestibulum vel eleifend felis. Integer eleifend eros eget imperdiet tempus.</p>
-        <p style="margin-top: 0px;"><a href="#" style="color:#E21216;">Click here for a full view of the newspaper.</a></p>
         </div>
     </div>
     </div>
@@ -110,7 +106,6 @@ collection_name: newsgallery-virtual
     <div class="row">
         <div class="col" style="padding: 0 20px 20px 20px;">
         <p style="margin-top: 10px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sem dolor, fermentum at lacinia eget, bibendum id velit. Aliquam est lacus, posuere quis nisl et, posuere consequat felis. Nulla efficitur condimentum nisl, id ultrices ex lobortis ut. Aenean dictum, neque at porta fermentum, diam nunc feugiat odio, vel ultricies odio metus sit amet magna. Vestibulum commodo felis nisl, id scelerisque lacus sollicitudin vitae. Vestibulum vel eleifend felis. Integer eleifend eros eget imperdiet tempus.</p>
-        <p style="margin-top: 0px;"><a href="#" style="color:#E21216;">Click here for a full view of the newspaper.</a></p>
         </div>
     </div>
     </div>
