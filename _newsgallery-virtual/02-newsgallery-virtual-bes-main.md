@@ -12,7 +12,7 @@ collection_name: newsgallery-virtual
 <p>Watch the videos below to learn how four Singapore historical events were reported and discover the different perspectives offered by the media.</p>
 
 <div class="sgds-container">
-    <div class="row" style="margin-bottom: 30px;">
+    <div class="row" style="margin-bottom: 30px; margin-top: 30px;">
         <div class="col">
             <div class="row">
                 <div class="col" style="padding-right: 15px;">  
