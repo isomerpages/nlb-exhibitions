@@ -19,7 +19,7 @@ collection_name: newsgallery-virtual
         <div class="col">
             <div class="row">
                 <div class="col" style="padding-right: 15px;">  
-                    <div class="row ee-tm" style="background-color: #E21216; box-shadow: 5px 5px 0px #A20D10;">
+                    <div class="row" style="background-color: #E21216; box-shadow: 5px 5px 0px #A20D10;">
                         <h2 style="color: #fff; padding: 5px 0 0 20px;">Singapore Free Press</h2>
                     </div>            
                       <div class="row" style="background-color: rgba(255, 255, 255, 0);">
@@ -38,7 +38,7 @@ collection_name: newsgallery-virtual
         <div class="col">
             <div class="row">
                 <div class="col" style="padding-right: 15px;">  
-                    <div class="row ee-tm" style="background-color: #E21216; box-shadow: 5px 5px 0px #A20D10;">
+                    <div class="row" style="background-color: #E21216; box-shadow: 5px 5px 0px #A20D10;">
                         <h2 style="color: #fff; padding: 5px 0 0 20px;">Tamil Murasu</h2>
                     </div>            
                       <div class="row" style="background-color: rgba(255, 255, 255, 0);">
@@ -57,7 +57,7 @@ collection_name: newsgallery-virtual
         <div class="col">
             <div class="row">
                 <div class="col" style="padding-right: 15px;">  
-                    <div class="row ee-tm" style="background-color: #E21216; box-shadow: 5px 5px 0px #A20D10;">
+                    <div class="row" style="background-color: #E21216; box-shadow: 5px 5px 0px #A20D10;">
                         <h2 style="color: #fff; padding: 5px 0 0 20px;">Utusan Melayu</h2>
                     </div>            
                       <div class="row" style="background-color: rgba(255, 255, 255, 0);">
@@ -76,7 +76,7 @@ collection_name: newsgallery-virtual
         <div class="col">
             <div class="row">
                 <div class="col" style="padding-right: 15px;">  
-                    <div class="row ee-tm" style="background-color: #E21216; box-shadow: 5px 5px 0px #A20D10;">
+                    <div class="row" style="background-color: #E21216; box-shadow: 5px 5px 0px #A20D10;">
                         <h2 style="color: #fff; padding: 5px 0 0 20px;">Nanyang Siang Pau</h2>
                     </div>            
                       <div class="row" style="background-color: rgba(255, 255, 255, 0);">
