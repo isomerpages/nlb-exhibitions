@@ -78,7 +78,7 @@ collection_name: newsgallery-virtual
             <div class="row">
                 <div class="col" style="padding-right: 15px;">  
                     <div class="row" style="background-color: #E21216; box-shadow: 5px 5px 0px #A20D10;">
-                        <h2 style="color: #fff; padding: 5px 0 0 20px;">Nanyang Siang Pau 南洋商报)</h2>
+                        <h2 style="color: #fff; padding: 5px 0 0 20px;">Nanyang Siang Pau 南洋商报</h2>
                     </div>            
                       <div class="row" style="background-color: rgba(255, 255, 255, 0);">
                     </div>        
