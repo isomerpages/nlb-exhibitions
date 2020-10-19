@@ -17,7 +17,7 @@ collection_name: newsgallery-virtual
             <div class="row">
                 <div class="col" style="padding-right: 15px;">  
                     <div class="row" style="background-color: #E21216; box-shadow: 5px 5px 0px #A20D10;">
-                        <h2 style="color: #fff; padding: 5px 0 0 20px; margin-top: 10px;">Fall of Singapore</h2>
+                        <h2 style="color: #fff; padding: 5px 0 0 20px;">Fall of Singapore</h2>
                     </div>            
                 </div>
             </div>
@@ -31,7 +31,7 @@ collection_name: newsgallery-virtual
             <div class="row">
                 <div class="col" style="padding-right: 15px;">  
                     <div class="row" style="background-color: #E21216; box-shadow: 5px 5px 0px #A20D10;">
-                        <h2 style="color: #fff; padding: 5px 0 0 20px; margin-top: 10px;">Maria Hertogh Riots</h2>
+                        <h2 style="color: #fff; padding: 5px 0 0 20px;">Maria Hertogh Riots</h2>
                     </div>            
                 </div>
             </div>
@@ -45,7 +45,7 @@ collection_name: newsgallery-virtual
             <div class="row">
                 <div class="col" style="padding-right: 15px;">  
                     <div class="row" style="background-color: #E21216; box-shadow: 5px 5px 0px #A20D10;">
-                        <h2 style="color: #fff; padding: 5px 0 0 20px; margin-top: 10px;">Singapore separates from Malaysia</h2>
+                        <h2 style="color: #fff; padding: 5px 0 0 20px;">Singapore separates from Malaysia</h2>
                     </div>            
                 </div>
             </div> 
@@ -59,7 +59,7 @@ collection_name: newsgallery-virtual
             <div class="row">
                 <div class="col" style="padding-right: 15px;">  
                     <div class="row" style="background-color: #E21216; box-shadow: 5px 5px 0px #A20D10;">
-                        <h2 style="color: #fff; padding: 5px 0 0 20px; margin-top: 10px;">Caning of Michael Fay</h2>
+                        <h2 style="color: #fff; padding: 5px 0 0 20px;">Caning of Michael Fay</h2>
                     </div>            
                 </div>
             </div> 
