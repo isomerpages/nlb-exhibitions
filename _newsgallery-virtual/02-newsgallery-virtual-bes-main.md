@@ -7,7 +7,9 @@ collection_name: newsgallery-virtual
 
 ---
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin maximus placerat bibendum. Sed pretium consectetur tortor at consequat. Ut in dignissim sapien. Proin in massa in tortor aliquet molestie eget nec lectus. Duis fermentum ex eu lacus sagittis, eu dapibus tortor auctor.</p>
+<p>A news story might seem like a mere account of an incident or development in the world, it is subject to numerous influences and written with multiple perspectives in mind. Reports on a particular event by different newspapers and media sources can vary significantly.</p>
+
+<p>Watch the videos below to learn how four Singapore historical events were reported and discover the different perspectives offered by the media.</p>
 
 <div class="sgds-container">
     <div class="row">

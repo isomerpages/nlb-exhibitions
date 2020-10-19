@@ -8,7 +8,7 @@ second_nav_title: "The News Gallery: Beyond Headlines"
 
 ---
 
-<p style="padding-bottom: 10px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sem dolor, fermentum at lacinia eget, bibendum id velit. Aliquam est lacus, posuere quis nisl et, posuere consequat felis. Nulla efficitur condimentum nisl, id ultrices ex lobortis ut.</p>
+<p style="padding-bottom: 10px;">Welcome to the Virtual News Gallery, which features highlights from the <a href="/exhibitions/current-exhibitions/newsgallery/" style="color:#E21216;">main exhibition at the National Library</a>.</p>
 
 <div class="sgds-container">
 
@@ -25,7 +25,7 @@ second_nav_title: "The News Gallery: Beyond Headlines"
             </div>
             <div class="row">
                 <div class="col" style="padding: 10px 20px 20px 20px;">
-                <p style="margin-top: 10px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sem dolor, fermentum at lacinia eget, bibendum id velit.</p>
+                <p style="margin-top: 10px;">The stories of Singapore newspapers reflect our country’s rich socio-cultural tapestry. Learn how the early newspapers in Singapore addressed their respective communities’ concerns, interests and championed causes important to them.</p>
                 <p style="margin-top: 15px;"><a href="/exhibitions/current-exhibitions/newsgallery/virtual-gallery/early-editions/" style="color:#E21216;">Click here to visit Early Editions</a></p>
                 </div>
             </div>
@@ -45,7 +45,7 @@ second_nav_title: "The News Gallery: Beyond Headlines"
             </div>
             <div class="row">
                 <div class="col" style="padding: 10px 20px 20px 20px;">
-                <p style="margin-top: 10px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sem dolor, fermentum at lacinia eget, bibendum id velit.</p>
+                <p style="margin-top: 10px;"><em>Behind Every Story</em> presents events from Singapore’s history and how they were reported in newspapers and other media.  By comparing the different ways in which the media interpreted and portrayed these events, one can gain insights into history through the lens of journalism and learn about how the media works.</p>
                 <p style="margin-top: 15px;"><a href="/exhibitions/current-exhibitions/newsgallery/virtual-gallery/behind-every-story/" style="color:#E21216;">Click here to visit Behind Every Story</a></p>
                 </div>
             </div>
@@ -65,7 +65,8 @@ second_nav_title: "The News Gallery: Beyond Headlines"
             </div>
             <div class="row">
                 <div class="col" style="padding: 10px 20px 20px 20px;">
-                <p style="margin-top: 10px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sem dolor, fermentum at lacinia eget, bibendum id velit.</p>
+                <p style="margin-top: 10px;">Are you able to distinguish between real and fake news?</p>
+                <p>Take part in the “Real or Fake?” game show, and learn how  fake news  caused public alarm or even harm to the unfortunate.</p>
                 <p style="margin-top: 15px;"><a href="/exhibitions/current-exhibitions/newsgallery/virtual-gallery/fact-or-fake/" style="color:#E21216;">Click here to visit Fact or Fake?</a></p>
                 </div>
             </div>
