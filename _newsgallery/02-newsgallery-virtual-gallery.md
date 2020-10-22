@@ -85,7 +85,7 @@ second_nav_title: "The News Gallery: Beyond Headlines"
                 </div>
             </div>
             <div class="row">
-                <div class="col is-3-desktop is-4-tablet is-7-mobile" style="margin-left: auto; margin-right: auto;">
+                <div class="col is-8-desktop is-7-tablet" style="margin-left: auto; margin-right: auto; margin-top: 20px; border: 2px solid #000; padding: 5px 5px 5px 5px;">
                     <img src="/images/event-images/newsgallery-virtual/homepage_ee.jpg">
                 </div>
             </div>
