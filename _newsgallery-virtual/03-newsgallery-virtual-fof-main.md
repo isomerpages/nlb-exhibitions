@@ -29,6 +29,11 @@ collection_name: newsgallery-virtual
                 </div>
             </div>
             <div class="row">
+                <div class="col is-8-desktop is-7-tablet" style="margin-left: auto; margin-right: auto; margin-top: 20px; border: 2px solid #A20D10; padding: 5px 5px 5px 5px;">
+                    <img src="/images/event-images/newsgallery-virtual/homepage_fof.jpg" alt="A close-up photo of a phone with Whatsapp open on it.">
+                </div>
+            </div>            
+            <div class="row">
                 <div class="col" style="padding: 10px 20px 20px 20px;">
                     <p style="margin-top: 10px;">India is home to the highest number of WhatsApp users globally, with 200 million accounts and more than 13 billion messages sent daily on the Facebook-owned app.  Some users in rural India shared warnings with their WhatsApp contacts to be wary of strangers in their midst, calling them criminals. Most among these strangers – beggars and labourers – were innocent. Mistakenly identified as child abductors or organ traffickers, many of them ended up being attacked by villagers who believed these false warnings.</p>
  
@@ -55,6 +60,12 @@ collection_name: newsgallery-virtual
                 </div>
             </div>
             <div class="row">
+                <div class="col is-8-desktop is-7-tablet" style="margin-left: auto; margin-right: auto; margin-top: 20px; border: 2px solid #A20D10; padding: 5px 5px 5px 5px;">
+                    <img src="/images/event-images/newsgallery-virtual/fof_deepfake.jpg" alt="A set of faces of different races and ages.">
+                    <h6>AI-generated realistic images</h6>
+                </div>
+            </div>            
+            <div class="row">
                 <div class="col" style="padding: 10px 20px 20px 20px;">
                     <p style="margin-top: 10px;">In April 2018, a YouTube video became the talk of the town – it purportedly showed former American President Barack Obama disparaging his successor Donald Trump and warning the audience not to believe everything on the Internet.  It turned out that American writer, director and comedian Jordan Peele had used deepfake technology to create that supposed video of Obama, mouthing words actually spoken by Peele. The video showed that it was possible to distort reality using image-capturing and voice conversion technology.</p>
  
@@ -80,6 +91,11 @@ collection_name: newsgallery-virtual
                     </div>        
                 </div>
             </div>
+            <div class="row">
+                <div class="col is-8-desktop is-7-tablet" style="margin-left: auto; margin-right: auto; margin-top: 20px; border: 2px solid #A20D10; padding: 5px 5px 5px 5px;">
+                    <img src="/images/event-images/newsgallery-virtual/fof_punggol.jpg" alt="A photo of a Punggol HDB in the distance. The photo angle makes it look like it's collapsed.">
+                </div>
+            </div>             
             <div class="row">
                 <div class="col" style="padding: 10px 20px 20px 20px;">
                     <p style="margin-top: 10px;">Visual cues appeal more strongly to the mind than text, so misrepresented images can be a powerful medium for falsehoods.</p>
@@ -108,6 +124,11 @@ collection_name: newsgallery-virtual
                     </div>        
                 </div>
             </div>
+            <div class="row">
+                <div class="col is-8-desktop is-7-tablet" style="margin-left: auto; margin-right: auto; margin-top: 20px; border: 2px solid #A20D10; padding: 5px 5px 5px 5px;">
+                    <img src="/images/event-images/newsgallery-virtual/fof_water.jpg" alt="A close-up photo of a woman drinking water.">
+                </div>
+            </div>             
             <div class="row">
                 <div class="col" style="padding: 10px 20px 20px 20px;">
                     <p style="margin-top: 10px;">Health-related falsehoods are increasingly rampant, preying on the public’s fears.   In January 2020, people in Singapore began receiving a text message purportedly from the Ministry of Health (MOH), which warned, “the influenza this time is serious” and urged the public to keep their throats moist by frequently sipping water to ward off the virus.</p>

@@ -25,7 +25,7 @@ second_nav_title: "The News Gallery: Beyond Headlines"
             </div>
             <div class="row">
                 <div class="col is-8-desktop is-7-tablet" style="margin-left: auto; margin-right: auto; margin-top: 20px; border: 2px solid #A20D10; padding: 5px 5px 5px 5px;">
-                    <img src="/images/event-images/newsgallery-virtual/homepage_ee.jpg">
+                    <img src="/images/event-images/newsgallery-virtual/homepage_ee.jpg" alt="A newspaper masthead with Chinese text">
                 </div>
             </div>
             <div class="row">
@@ -50,7 +50,7 @@ second_nav_title: "The News Gallery: Beyond Headlines"
             </div>
             <div class="row">
                 <div class="col is-8-desktop is-7-tablet" style="margin-left: auto; margin-right: auto; margin-top: 20px; border: 2px solid #A20D10; padding: 5px 5px 5px 5px;">
-                    <img src="/images/event-images/newsgallery-virtual/homepage_bes.jpg">
+                    <img src="/images/event-images/newsgallery-virtual/homepage_bes.jpg" alt="A newspaper mockup featuring photos of 2 women and a young girl. The headline reads 'Maria Hertogh Custody Battle'.">
                 </div>
             </div>            
             <div class="row">
@@ -75,7 +75,7 @@ second_nav_title: "The News Gallery: Beyond Headlines"
             </div>
             <div class="row">
                 <div class="col is-8-desktop is-7-tablet" style="margin-left: auto; margin-right: auto; margin-top: 20px; border: 2px solid #A20D10; padding: 5px 5px 5px 5px;">
-                    <img src="/images/event-images/newsgallery-virtual/homepage_fof.jpg">
+                    <img src="/images/event-images/newsgallery-virtual/homepage_fof.jpg" alt="A close-up photo of a phone with Whatsapp open on it.">
                 </div>
             </div>            
             <div class="row">
