@@ -18,7 +18,9 @@ second_nav_title: "The News Gallery: Beyond Headlines"
                 <div class="col" style="padding-right: 15px;">  
                     <div class="row" style="background-color: #E21216; box-shadow: 5px 5px 0px #A20D10;">
                         <h2 style="color: #fff; padding: 5px 0 0 20px;">Early Editions</h2>
-                    </div>                   
+                    </div>
+                    <div class="row" style="background-color: rgba(255, 255, 255, 0);">
+                    </div>
                 </div>
             </div>
             <div class="row">
@@ -42,6 +44,8 @@ second_nav_title: "The News Gallery: Beyond Headlines"
                     <div class="row" style="background-color: #E21216; box-shadow: 5px 5px 0px #A20D10;">
                         <h2 style="color: #fff; padding: 5px 0 0 20px;">Behind Every Story</h2>
                     </div>
+                    <div class="row" style="background-color: rgba(255, 255, 255, 0);">
+                    </div>
                 </div>
             </div>
             <div class="row">
@@ -64,7 +68,9 @@ second_nav_title: "The News Gallery: Beyond Headlines"
                 <div class="col" style="padding-right: 15px;">  
                     <div class="row ee-tm" style="background-color: #E21216; box-shadow: 5px 5px 0px #A20D10;">
                         <h2 style="color: #fff; padding: 5px 0 0 20px;">Fact or Fake?</h2>
-                    </div>            
+                    </div>
+                    <div class="row" style="background-color: rgba(255, 255, 255, 0);">
+                    </div>
                 </div>
             </div>
             <div class="row">
