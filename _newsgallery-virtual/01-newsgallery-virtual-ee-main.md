@@ -39,25 +39,6 @@ collection_name: newsgallery-virtual
             <div class="row">
                 <div class="col" style="padding-right: 15px;">  
                     <div class="row" style="background-color: #E21216; box-shadow: 5px 5px 0px #A20D10;">
-                        <h2 style="color: #fff; padding: 5px 0 0 20px;">Tamil Murasu தமிழ் முரசு</h2>
-                    </div>            
-                      <div class="row" style="background-color: rgba(255, 255, 255, 0);">
-                    </div>        
-                </div>
-            </div>
-            <div class="row">
-                <div class="col" style="padding: 10px 20px 20px 20px;">
-                <p style="margin-top: 10px;"><em>Tamil Murasu</em> was first published on 6 July 1935 to propagate socio-economic reforms carried out by the Tamil Reform Association, one of the earliest Tamil associations in Singapore. In 1936, the association gave up the paper due to financial losses and sold it to G. Sarangapany, who became its editor and sole proprietor until his death in 1974.  In 1995, the paper became part of the Singapore Press Holdings (SPH) group, and continues as a daily today.</p>
-                </div>
-            </div>
-        </div>
-    </div>    
-    
-    <div class="row" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 25px; margin-right: 15px;">
-        <div class="col">
-            <div class="row">
-                <div class="col" style="padding-right: 15px;">  
-                    <div class="row" style="background-color: #E21216; box-shadow: 5px 5px 0px #A20D10;">
                         <h2 style="color: #fff; padding: 5px 0 0 20px;">Utusan Melayu</h2>
                     </div>            
                       <div class="row" style="background-color: rgba(255, 255, 255, 0);">
@@ -93,6 +74,27 @@ collection_name: newsgallery-virtual
         </div>
     </div>
 
+    <div class="row" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 25px; margin-right: 15px;">
+        <div class="col">
+            <div class="row">
+                <div class="col" style="padding-right: 15px;">  
+                    <div class="row" style="background-color: #E21216; box-shadow: 5px 5px 0px #A20D10;">
+                        <h2 style="color: #fff; padding: 5px 0 0 20px;">Tamil Murasu தமிழ் முரசு</h2>
+                    </div>            
+                      <div class="row" style="background-color: rgba(255, 255, 255, 0);">
+                    </div>        
+                </div>
+            </div>
+            <div class="row">
+                <div class="col" style="padding: 10px 20px 20px 20px;">
+                <p style="margin-top: 10px;"><em>Tamil Murasu</em> was first published on 6 July 1935 to propagate socio-economic reforms carried out by the Tamil Reform Association, one of the earliest Tamil associations in Singapore. In 1936, the association gave up the paper due to financial losses and sold it to G. Sarangapany, who became its editor and sole proprietor until his death in 1974.  In 1995, the paper became part of the Singapore Press Holdings (SPH) group, and continues as a daily today.</p>
+                </div>
+            </div>
+        </div>
+    </div>     
+    
+    
+    
 </div>
 
 
