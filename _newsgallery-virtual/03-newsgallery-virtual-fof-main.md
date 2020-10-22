@@ -29,8 +29,8 @@ collection_name: newsgallery-virtual
                 </div>
             </div>
             <div class="row">
-                <div class="col is-8-desktop is-7-tablet" style="margin-left: auto; margin-right: auto; margin-top: 20px; border: 2px solid #A20D10; padding: 5px 5px 5px 5px;">
-                    <img src="/images/event-images/newsgallery-virtual/homepage_fof.jpg" alt="A close-up photo of a phone with Whatsapp open on it.">
+                <div class="col is-10-desktop is-10-tablet" style="margin-left: auto; margin-right: auto; margin-top: 20px; border: 2px solid #A20D10; padding: 5px 5px 5px 5px;">
+                    <img src="/images/event-images/newsgallery-virtual/fof_wha.jpg" alt="A close-up photo of a phone with Whatsapp open on it.">
                 </div>
             </div>            
             <div class="row">
@@ -60,13 +60,13 @@ collection_name: newsgallery-virtual
                 </div>
             </div>
             <div class="row">
-                <div class="col is-8-desktop is-7-tablet" style="margin-left: auto; margin-right: auto; margin-top: 20px; border: 2px solid #A20D10; padding: 5px 5px 5px 5px;">
+                <div class="col is-10-desktop is-10-tablet" style="margin-left: auto; margin-right: auto; margin-top: 20px; border: 2px solid #A20D10; padding: 5px 5px 5px 5px;">
                     <img src="/images/event-images/newsgallery-virtual/fof_deepfake.jpg" alt="A set of faces of different races and ages.">
                 </div>
             </div>
             <div class="row">
-                <div class="col is-8-desktop is-7-tablet" style="margin-left: auto; margin-right: auto; text-align: center; padding-top: 0px; padding-bottom: 0px;">
-                    <h6 style="margin-top: 10px;">AI-generated realistic images</h6>
+                <div class="col is-10-desktop is-10-tablet" style="margin-left: auto; margin-right: auto; text-align: center; padding-top: 0px; padding-bottom: 0px;">
+                    <h6 style="margin-top: 10px;">Highly realistic AI-generated human faces</h6>
                 </div>
             </div>            
             <div class="row">
@@ -96,7 +96,7 @@ collection_name: newsgallery-virtual
                 </div>
             </div>
             <div class="row">
-                <div class="col is-8-desktop is-7-tablet" style="margin-left: auto; margin-right: auto; margin-top: 20px; border: 2px solid #A20D10; padding: 5px 5px 5px 5px;">
+                <div class="col is-10-desktop is-10-tablet" style="margin-left: auto; margin-right: auto; margin-top: 20px; border: 2px solid #A20D10; padding: 5px 5px 5px 5px;">
                     <img src="/images/event-images/newsgallery-virtual/fof_punggol.jpg" alt="A photo of a Punggol HDB in the distance. The photo angle makes it look like it's collapsed.">
                 </div>
             </div>             
@@ -129,7 +129,7 @@ collection_name: newsgallery-virtual
                 </div>
             </div>
             <div class="row">
-                <div class="col is-8-desktop is-7-tablet" style="margin-left: auto; margin-right: auto; margin-top: 20px; border: 2px solid #A20D10; padding: 5px 5px 5px 5px;">
+                <div class="col is-10-desktop is-10-tablet" style="margin-left: auto; margin-right: auto; margin-top: 20px; border: 2px solid #A20D10; padding: 5px 5px 5px 5px;">
                     <img src="/images/event-images/newsgallery-virtual/fof_water.jpg" alt="A close-up photo of a woman drinking water.">
                 </div>
             </div>             
