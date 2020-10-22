@@ -63,6 +63,7 @@ collection_name: newsgallery-virtual
                 <div class="col is-8-desktop is-7-tablet" style="margin-left: auto; margin-right: auto; margin-top: 20px; border: 2px solid #A20D10; padding: 5px 5px 5px 5px;">
                     <img src="/images/event-images/newsgallery-virtual/fof_deepfake.jpg" alt="A set of faces of different races and ages.">
                 </div>
+            </div>
             <div class="row">
                 <div class="col is-8-desktop is-7-tablet" style="margin-left: auto; margin-right: auto;">
                     <h6>AI-generated realistic images</h6>
