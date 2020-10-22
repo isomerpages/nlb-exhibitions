@@ -27,7 +27,7 @@ collection_name: newsgallery-virtual
                 </div>
             </div>
             <div class="row">
-                <div class="col is-8-desktop is-7-tablet" style="margin-left: auto; margin-right: auto; margin-top: 20px; border: 2px solid #A20D10; padding: 5px 5px 5px 5px;">
+                <div class="col is-10-desktop is-10-tablet" style="margin-left: auto; margin-right: auto; margin-top: 20px; border: 2px solid #A20D10; padding: 5px 5px 5px 5px;">
                     <img src="/images/event-images/newsgallery-virtual/ee_sfp.jpg" alt="A newspaper masthead featuring The Singapore Free Press.">
                 </div>
             </div>             
@@ -51,7 +51,7 @@ collection_name: newsgallery-virtual
                 </div>
             </div>
             <div class="row">
-                <div class="col is-8-desktop is-7-tablet" style="margin-left: auto; margin-right: auto; margin-top: 20px; border: 2px solid #A20D10; padding: 5px 5px 5px 5px;">
+                <div class="col is-10-desktop is-10-tablet" style="margin-left: auto; margin-right: auto; margin-top: 20px; border: 2px solid #A20D10; padding: 5px 5px 5px 5px;">
                     <img src="/images/event-images/newsgallery-virtual/ee_um.jpg" alt="A newspaper spread featuring Utusan Melayu.">
                 </div>
             </div>             
@@ -76,7 +76,7 @@ collection_name: newsgallery-virtual
                 </div>
             </div>
             <div class="row">
-                <div class="col is-8-desktop is-7-tablet" style="margin-left: auto; margin-right: auto; margin-top: 20px; border: 2px solid #A20D10; padding: 5px 5px 5px 5px;">
+                <div class="col is-10-desktop is-10-tablet" style="margin-left: auto; margin-right: auto; margin-top: 20px; border: 2px solid #A20D10; padding: 5px 5px 5px 5px;">
                     <img src="/images/event-images/newsgallery-virtual/ee_nysp.jpg" alt="A newspaper spread featuring Nanyang Siang Pau.">
                 </div>
             </div>             
@@ -101,7 +101,7 @@ collection_name: newsgallery-virtual
                 </div>
             </div>
             <div class="row">
-                <div class="col is-8-desktop is-7-tablet" style="margin-left: auto; margin-right: auto; margin-top: 20px; border: 2px solid #A20D10; padding: 5px 5px 5px 5px;">
+                <div class="col is-10-desktop is-10-tablet" style="margin-left: auto; margin-right: auto; margin-top: 20px; border: 2px solid #A20D10; padding: 5px 5px 5px 5px;">
                     <img src="/images/event-images/newsgallery-virtual/ee_tm.jpg" alt="A newspaper featuring Tamil Murasu.">
                 </div>
             </div>             
