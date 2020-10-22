@@ -65,7 +65,7 @@ collection_name: newsgallery-virtual
                 </div>
             </div>
             <div class="row">
-                <div class="col is-8-desktop is-7-tablet" style="margin-left: auto; margin-right: auto; text-align: center;">
+                <div class="col is-8-desktop is-7-tablet" style="margin-left: auto; margin-right: auto; text-align: center; padding-top: 0px; padding-bottom: 0px;">
                     <h6 style="margin-top: 10px;">AI-generated realistic images</h6>
                 </div>
             </div>            
