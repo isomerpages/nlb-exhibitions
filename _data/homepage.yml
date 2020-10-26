@@ -51,6 +51,7 @@ info-sections:
     section-more-button: More Information
     external: false
     section-more-button-url: /exhibitions/current-exhibitions/newsgallery
+    section-more-button-url: /exhibitions/current-exhibitions/newsgallery/virtual-gallery/
     section-image-path: /images/event-images/newsgallery/Homepage_exh-highlight_NG.jpg
 
 
