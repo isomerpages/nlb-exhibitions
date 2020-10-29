@@ -41,7 +41,7 @@ info-sections:
     section-more-button:
     external: false
     section-more-button-url:
-    section-image-path: /images/homepage_NL_highlight_2.jpg
+    section-image-path: /images/homepage_NL_highlight.png
   - section-title: 
     section-subtitle: "The News Gallery: Beyond Headlines"
     section-description: |
@@ -51,6 +51,16 @@ info-sections:
     section-more-button: More Information
     external: false
     section-more-button-url: /exhibitions/current-exhibitions/newsgallery
-    section-image-path: /images/event-images/newsgallery/Homepage_exh-highlight_NG.jpg
+    section-image-path: /images/event-images/newsgallery/Homepage_exh-highlight_NG.jpg  
+  - section-title: 
+    section-subtitle: "The Virtual News Gallery"
+    section-description: |
+      Due to the COVID-19 situation, we have not been able to open The News Gallery at full capacity and the interactive exhibits remain closed.
+      <p>&nbsp;</p>
+      <p>In the meantime, please explore this Virtual News Gallery which features key contents and highlights of the exhibition.</p>
+    section-more-button: Enter Gallery
+    external: false
+    section-more-button-url: /exhibitions/current-exhibitions/newsgallery/virtual-gallery/
+    section-image-path: /images/event-images/newsgallery-virtual/frontpage.jpg
 
 
