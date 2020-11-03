@@ -249,7 +249,7 @@ breadcrumb: Online Exhibitions
              <div class="sgds-container__exh__description">
                 <div class="row">
                     <div class="col">
-                        <h5><a href="http://www.nlb.gov.sg/exhibitions/virtual/lotl360/LOTL360.html" target="_blank" style="color:#E21216;">https://memoriesoftwocities.nlb.gov.sg/ &#187;</a></h5>
+                        <h5><a href="https://memoriesoftwocities.nlb.gov.sg/" target="_blank" style="color:#E21216;">VISIT THE ONLINE EXHIBITION &#187;</a></h5>
                     </div>
                 </div>
             </div>
