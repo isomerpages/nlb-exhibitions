@@ -7,7 +7,43 @@ breadcrumb: Online Exhibitions
 ---
 
 <section class="sgds-section__online">
-    
+
+<!-- MOTC -->
+
+<div class="sgds-container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+    <div class="row">
+        <div class="col padding--bottom--xs">
+            <h3 style="margin-bottom: 0px;"><strong>Memories of Two Cities</strong></h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <img src="/images/event-images/motc/logo.png" alt="A red stamp seal, with white Chinese characters for Memories of Two Cities." style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
+        </div>
+        <div class="col is-two-thirds">
+            <div class="row">
+                 <p style="padding: 0 20px;">‘Memories of Two Cities’ is a pictorial exhibition jointly presented by the Capital Library of China and the National Library of Singapore, signifying the goodwill and partnership between the two institutions. Through historical photographs drawn from the collections of both institutions, this exhibition presents Beijing and Singapore in earlier time periods, showcasing the many places, scenes and customs that have long vanished.
+                </p>
+            </div>
+            <div class="sgds-container__exh__break padding">
+                <div class="row">
+                    <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #efefef;">
+                    </div>
+                </div>
+            </div>
+             <div class="sgds-container__exh__description">
+                <div class="row">
+                    <div class="col">
+                        <h5><a href="https://memoriesoftwocities.nlb.gov.sg/" target="_blank" style="color:#E21216;">VISIT THE ONLINE EXHIBITION &#187;</a></h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<hr class="margin--top margin--bottom--lg">  
+
 <!-- SEAD -->
     
 <div class="sgds-container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
@@ -223,40 +259,5 @@ breadcrumb: Online Exhibitions
 
 <hr class="margin--top margin--bottom--lg">
 
-<!-- MOTC -->
 
-<div class="sgds-container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
-    <div class="row">
-        <div class="col padding--bottom--xs">
-            <h3 style="margin-bottom: 0px;"><strong>Memories of Two Cities</strong></h3>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col">
-            <img src="/images/event-images/motc/logo.png" alt="A red stamp seal, with white Chinese characters for Memories of Two Cities." style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
-        </div>
-        <div class="col is-two-thirds">
-            <div class="row">
-                 <p style="padding: 0 20px;">‘Memories of Two Cities’ is a pictorial exhibition jointly presented by the Capital Library of China and the National Library of Singapore, signifying the goodwill and partnership between the two institutions. Through historical photographs drawn from the collections of both institutions, this exhibition presents Beijing and Singapore in earlier time periods, showcasing the many places, scenes and customs that have long vanished.
-                </p>
-            </div>
-            <div class="sgds-container__exh__break padding">
-                <div class="row">
-                    <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #efefef;">
-                    </div>
-                </div>
-            </div>
-             <div class="sgds-container__exh__description">
-                <div class="row">
-                    <div class="col">
-                        <h5><a href="https://memoriesoftwocities.nlb.gov.sg/" target="_blank" style="color:#E21216;">VISIT THE ONLINE EXHIBITION &#187;</a></h5>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-<hr class="margin--top margin--bottom--lg">    
-    
 </section>
