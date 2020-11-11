@@ -8,8 +8,8 @@ second_nav_title: "From The Stacks: Highlights of the National Library"
 
 ---
 
-<section class="sgds-section__about">
-<div class="sgds-container__card">
+<section class="section__about">
+<div class="container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
             <img src="/images/event-images/from-the-stacks-onsite/from-the-stacks-main-image.jpg" alt="A title card labelled From The Stacks: Highlights of the National Library">
@@ -40,7 +40,7 @@ second_nav_title: "From The Stacks: Highlights of the National Library"
         </div>
 </div>
     
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
             <p>Documents, publications and photographs from Singapore’s early days reveal fascinating insights into our history and culture. For instance, an 1819 document on the establishment of Malay College reveals how Raffles envisioned Singapore not just as a commercial hub but also as a centre for learning, culture and the arts.</p>
@@ -52,7 +52,7 @@ second_nav_title: "From The Stacks: Highlights of the National Library"
     </div>
 </div>
 
-<div class="sgds-container__downloads">
+<div class="container__downloads">
     <div class="row">
         <div class="col is-full padding--top--lg">
             <h4>Brochure, Exhibition Guides and Activity Booklet</h4>
@@ -81,14 +81,14 @@ second_nav_title: "From The Stacks: Highlights of the National Library"
     </div>
 </div>
 
-<div class="sgds-container__line padding--lg">
+<div class="container__line padding--lg">
     <div class="row">
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
         </div>
     </div>
 </div>  
 
-<div class="sgds-container__card">
+<div class="container__card">
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
             <img src="/images/event-images/from-the-stacks-onsite/FTS06.jpg" alt="Three images of featured items from the exhibition.">
@@ -124,7 +124,7 @@ second_nav_title: "From The Stacks: Highlights of the National Library"
         </div>
 </div>
     
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
             <p>What is the last thing you would expect to find at the National Library? Satisfy your curiosity as you explore cabinets and drawers full of ephemera from the library’s closed shelves. An eclectic assortment of bits and bobs, explore a different side of history through the odds and ends of our collection.</p>
@@ -132,14 +132,14 @@ second_nav_title: "From The Stacks: Highlights of the National Library"
     </div>
 </div>    
 
-<div class="sgds-container__line padding--lg">
+<div class="container__line padding--lg">
     <div class="row">
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
         </div>
     </div>
 </div>  
 
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
             <h3>School Tours</h3>
@@ -158,14 +158,14 @@ second_nav_title: "From The Stacks: Highlights of the National Library"
     </div>
 </div> 
 
-<div class="sgds-container__line padding--lg">
+<div class="container__line padding--lg">
     <div class="row">
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
         </div>
     </div>
 </div>  
 
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
             <h3>Featurette &#124; Vice &amp; Virtue: 1800s Singapore</h3>
@@ -181,14 +181,14 @@ second_nav_title: "From The Stacks: Highlights of the National Library"
     </div>
 </div>    
     
-<div class="sgds-container__line padding--lg">
+<div class="container__line padding--lg">
     <div class="row">
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
         </div>
     </div>
 </div>  
 
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
             <h3><em>From the Stacks</em> Giftaways</h3>

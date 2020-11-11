@@ -8,8 +8,8 @@ second_nav_title: "The News Gallery: Beyond Headlines"
 
 ---
 
-<section class="sgds-section__about">
-<div class="sgds-container__card">
+<section class="section__about">
+<div class="container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
             <img src="/images/event-images/newsgallery/TNG_1200x355.jpg" alt="A title card labelled The News Gallery">
@@ -44,7 +44,7 @@ second_nav_title: "The News Gallery: Beyond Headlines"
             </div>
 </div>
     
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
         <p>Explore the fascinating yet bewildering world of news media at our permanent exhibition <strong><em>The News Gallery: Beyond Headlines.</em></strong></p>
@@ -56,7 +56,7 @@ second_nav_title: "The News Gallery: Beyond Headlines"
 </div>
 
 
-<div class="sgds-container__downloads">
+<div class="container__downloads">
     <div class="row">
         <div class="col is-full padding--top--lg">
             <h4>Brochures</h4>
@@ -82,7 +82,7 @@ second_nav_title: "The News Gallery: Beyond Headlines"
     </div>
 </div>
     
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
         <h4>Education Resources</h4>

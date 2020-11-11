@@ -8,8 +8,8 @@ second_nav_title: "Script &amp; Stage: Theatre in Singapore from the 50s to 80s"
 
 ---
 
-<section class="sgds-section__about">
-<div class="sgds-container__card">
+<section class="section__about">
+<div class="container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
             <img src="/images/event-images/script-and-stage-onsite/script-and-stage-main-image.jpg" alt="A title card labelled Script & Stage">
@@ -40,7 +40,7 @@ second_nav_title: "Script &amp; Stage: Theatre in Singapore from the 50s to 80s"
         </div>
 </div>
     
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
             <p>Script &amp; Stage explores the fascinating roots of local playwriting and theatre production, highlighting significant performances, playwrights and prominent theatre companies that have shaped the foundation of contemporary theatre in Singapore.</p>
@@ -52,7 +52,7 @@ second_nav_title: "Script &amp; Stage: Theatre in Singapore from the 50s to 80s"
     </div>
 </div>
 
-<div class="sgds-container__downloads">
+<div class="container__downloads">
     <div class="row">
         <div class="col is-full padding--top--lg">
             <h4>Brochure</h4>
@@ -67,14 +67,14 @@ second_nav_title: "Script &amp; Stage: Theatre in Singapore from the 50s to 80s"
 </div>
 
 
-<div class="sgds-container__line padding--lg">
+<div class="container__line padding--lg">
     <div class="row">
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
         </div>
     </div>
 </div>  
 
-<div class="sgds-container__card">
+<div class="container__card">
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
             <h3><strong>Theatre Tales!</strong></h3>
@@ -102,7 +102,7 @@ second_nav_title: "Script &amp; Stage: Theatre in Singapore from the 50s to 80s"
         </div>
 </div>
     
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
             <p>Delve into stories from traditional theatre found in Southeast Asia! Get up-close and personal with characters from the epic tales of the <em>Ramayana</em>, <em>Mahabharataand</em> and Chinese legends. Learn about the theatre traditions of <em>wayang kulit</em> (shadow puppetry), Chinese street opera and <em>therukoothu</em> (Tamil street theatre) through interactive displays at selected libraries around Singapore.</p>
@@ -112,14 +112,14 @@ second_nav_title: "Script &amp; Stage: Theatre in Singapore from the 50s to 80s"
     </div>
 </div>     
     
-<div class="sgds-container__line padding--lg">
+<div class="container__line padding--lg">
     <div class="row">
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
         </div>
     </div>
 </div>  
 
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
             <h3>School Tours</h3>

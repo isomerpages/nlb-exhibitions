@@ -8,8 +8,8 @@ second_nav_title: "The First Print: Stories and Legends of Early Singapore"
 
 ---
 
-<section class="sgds-section__about">
-<div class="sgds-container__card">
+<section class="section__about">
+<div class="container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
             <img src="/images/event-images/the-first-print/the-first-print-tab-banner.jpg" alt="A title card labelled The First Print: Stories and Legends of Early Singapore">
@@ -40,7 +40,7 @@ second_nav_title: "The First Print: Stories and Legends of Early Singapore"
             </div>
 </div>
     
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
             <p>We all grew up with the story of Sang Nila Utama and how he founded Singapura, the “lion city”. This tale from the 13th century is included in one of the oldest and most important Malay texts, Sulalat al-Salatin, which was actually composed four centuries later, around the 17th century.</p>
@@ -51,7 +51,7 @@ second_nav_title: "The First Print: Stories and Legends of Early Singapore"
         </div>
     </div>
     
-<div class="sgds-container__line padding--lg">
+<div class="container__line padding--lg">
     <div class="row">
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
         </div>

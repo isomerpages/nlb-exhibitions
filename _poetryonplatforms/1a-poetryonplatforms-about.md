@@ -8,8 +8,8 @@ second_nav_title: "Poetry on Platforms: Poems on Singapore"
 
 ---
 
-<section class="sgds-section__about">
-<div class="sgds-container__card">
+<section class="section__about">
+<div class="container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
             <img src="/images/event-images/poetry-on-platforms/poetry-on-platforms-tab-banner.jpg" alt="A photo of an MRT door, with a Poetry on Platforms peotry sticker on it.">
@@ -36,7 +36,7 @@ second_nav_title: "Poetry on Platforms: Poems on Singapore"
         </div>
 </div>
     
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
             <p>Immerse yourself in 82 Singapore poems written beautifully by poets on the City Hall MRT platforms. Commuters and passer-by can look forward to humorous, moving and thought-provoking poems on life, people, and places in Singapore that will strike a chord with them</p>
@@ -46,14 +46,14 @@ second_nav_title: "Poetry on Platforms: Poems on Singapore"
     </div>
 </div>
 
-<div class="sgds-container__line padding--lg">
+<div class="container__line padding--lg">
     <div class="row">
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
         </div>
     </div>
 </div>  
 
-<div class="sgds-container__card">
+<div class="container__card">
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
             <img src="/images/event-images/poetry-on-platforms/POP02.jpg" alt="An illustration of a typewriter.">
@@ -76,7 +76,7 @@ second_nav_title: "Poetry on Platforms: Poems on Singapore"
         </div>
 </div>
     
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
             <p>Anyone can be a poet. Pen an original poem and submit to POP@nlb.gov.sg to receive a commemorative EZ- Link card.</p>

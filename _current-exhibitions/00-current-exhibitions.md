@@ -9,8 +9,8 @@ collection_name: current-exhibitions
 
 <!-- COVID advisory -->
 
-<section class="sgds-section__notice">
-<div class="sgds-container" style="padding: 0 0 32px 0;">
+<section class="section__notice">
+<div class="container" style="padding: 0 0 32px 0;">
     <div class="row">
         <div class="col is-full" style="background-color: #E21216;">
             <span class="sgds-icon sgds-icon-triangle-warning" style="font-size: 150%; display: inline-block; float: left; color: #ffffff"></span>
@@ -21,11 +21,11 @@ collection_name: current-exhibitions
 </section>
 
 
-<section class="sgds-section__exhibitions">
+<section class="section__exhibitions">
 
 <!-- News Gallery -->
 
-<div class="sgds-container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+<div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
         <div class="col padding--bottom--xs">
             <h3 style="margin-bottom: 0px;"><strong>The News Gallery: Beyond Headlines</strong></h3>
@@ -56,14 +56,14 @@ collection_name: current-exhibitions
     </div>
 </div>
 
-<div class="sgds-container__exh__break padding">
+<div class="container__exh__break padding">
     <div class="row">
         <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #efefef;">
         </div>
     </div>
 </div>
 
-<div class="sgds-container__exh__description">
+<div class="container__exh__description">
     <div class="row is-multiline">
         <div class="col">
             <p>Discover stories of Singapore newspapers in the National Library’s collection dating from the 1820s and learn about significant episodes from Singapore’s history through the perspectives of different media. Gain insights into fake news, and learn how you can be more discerning about information and media, through our rich resources on newspapers.
@@ -80,7 +80,7 @@ collection_name: current-exhibitions
 
 <!-- Rare Gallery -->
 
-<div class="sgds-container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+<div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
         <div class="col padding--bottom--xs">
             <h3 style="margin-bottom: 0px;"><strong>The Rare Collection Gallery</strong></h3>
@@ -107,14 +107,14 @@ collection_name: current-exhibitions
     </div>
 </div>
 
-<div class="sgds-container__exh__break padding">
+<div class="container__exh__break padding">
     <div class="row">
         <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #efefef;">
         </div>
     </div>
 </div>
 
-<div class="sgds-container__exh__description">
+<div class="container__exh__description">
     <div class="row is-multiline">
         <div class="col">
             <p>The Rare Collection Gallery showcases treasures from the National Library’s Rare Materials Collection of valuable research materials on Singapore and Southeast Asia. Comprising over 15,000 books, journals, manuscripts, maps, photographs and ephemera, many of the items in the collection were inherited from the National Library’s predecessors – the Singapore Library (1844–1874) and the Raffles Museum and Library (1874–1960). The collection is also further enhanced by recent donations from institutions and individuals.
@@ -130,7 +130,7 @@ collection_name: current-exhibitions
 
 <!-- NL Donor Gallery -->
 
-<div class="sgds-container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+<div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
         <div class="col padding--bottom--xs">
             <h3 style="margin-bottom: 0px;"><strong>National Library Donors' Gallery</strong></h3>
@@ -161,14 +161,14 @@ collection_name: current-exhibitions
     </div>
 </div>
 
-<div class="sgds-container__exh__break padding">
+<div class="container__exh__break padding">
     <div class="row">
         <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #efefef;">
         </div>
     </div>
 </div>
 
-<div class="sgds-container__exh__description">
+<div class="container__exh__description">
     <div class="row is-multiline">
         <div class="col">
             <p>Donations of library materials to the National Library play a significant role in adding diversity and depth to our collection and are instrumental in assisting the library to obtain notable National Collection items. This Donors’ Gallery was set up to acknowledge our donors and showcase their donations. On display is a small selection of materials which provides a glimpse of the variety of materials that have been gifted to the National Library over the years.
@@ -184,7 +184,7 @@ collection_name: current-exhibitions
 
 <!-- BtB -->
 
-<div class="sgds-container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+<div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
         <div class="col padding--bottom--xs">
             <h3 style="margin-bottom: 0px;"><strong>From Books to Bytes: The Story of the National Library</strong></h3>
@@ -215,14 +215,14 @@ collection_name: current-exhibitions
     </div>
 </div>
 
-<div class="sgds-container__exh__break padding">
+<div class="container__exh__break padding">
     <div class="row">
         <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #efefef;">
         </div>
     </div>
 </div>
 
-<div class="sgds-container__exh__description">
+<div class="container__exh__description">
     <div class="row is-multiline">
         <div class="col">
             <p>Throughout our history, the library has been an integral part of Singapore’s cultural and social fabric as well as its residents. The exhibition traces the founding, development and growth of the National Library, Singapore from 1823 till present.

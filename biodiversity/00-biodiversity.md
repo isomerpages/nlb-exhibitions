@@ -6,11 +6,11 @@ breadcrumb: Biodiversity
 
 ---
 
-<section class="sgds-section__bio1">
+<section class="section__bio1">
 
 <!-- Bio 1A -->
 
-<div class="sgds-container__bio1A" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+<div class="container__bio1A" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
         <div class="col is-12">
             <h3 style="margin-bottom: 0px;"><strong>Section 1A</strong></h3>
@@ -45,13 +45,3 @@ breadcrumb: Biodiversity
 
 </section>
 
-<script type="text/javascript">
-document.addEventListener('play', function(e){
-    var audios = document.getElementsByTagName('audio');
-    for(var i = 0, len = audios.length; i < len;i++){
-        if(audios[i] != e.target){
-            audios[i].pause();
-        }
-    }
-}, true);
-</script>

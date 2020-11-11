@@ -8,8 +8,8 @@ second_nav_title: "Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creat
 
 ---
 
-<section class="sgds-section__about">
-<div class="sgds-container__card">
+<section class="section__about">
+<div class="container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
             <img src="/images/event-images/aof/anatomy-of-a-free-mind-main-image.jpg" alt="A title card labelled Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations">
@@ -40,7 +40,7 @@ second_nav_title: "Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creat
         </div>
 </div>
     
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
             <p>1973 was a milestone year in Tan Swie Hian’s life during which he experienced a breakthrough in his spirituality and creative capacity. Henceforth, his artistic creations have been characterised by freedom – in medium, subject matter, genre and expression. The artist likens his newfound free mind to a hummingbird that can fly in all directions and experience different realms of reality.</p>
@@ -60,7 +60,7 @@ second_nav_title: "Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creat
     </div>
 </div>
 
-<div class="sgds-container__downloads">
+<div class="container__downloads">
     <div class="row">
         <div class="col is-full padding--top--lg">
             <h4>Brochure</h4>
@@ -74,14 +74,14 @@ second_nav_title: "Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creat
     </div>
 </div>
 
-<div class="sgds-container__line padding--lg">
+<div class="container__line padding--lg">
     <div class="row">
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
         </div>
     </div>
 </div>  
 
-<div class="sgds-container__card">
+<div class="container__card">
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
             <h3><strong>Compassion: Tan Swie Hian’s Literary Creations – Roving Exhibition</strong></h3>
@@ -106,7 +106,7 @@ second_nav_title: "Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creat
         </div>
 </div>
     
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg padding--bottom--lg">
             <p>Singapore Cultural Medallion recipient Tan Swie Hian is the top grossing living artist in Southeast Asia who has received numerous accolades both locally and abroad. Although he exhibited impressive artistic talents at a tender age, he was first recognised for his literary creations when he ventured into the arts scene.</p>
@@ -118,7 +118,7 @@ second_nav_title: "Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creat
     </div>
 </div>    
 
-<div class="sgds-container__card">
+<div class="container__card">
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
             <h3><strong>《悲悯人生：陈瑞献的文艺创作》巡回展</strong></h3>
@@ -143,7 +143,7 @@ second_nav_title: "Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creat
         </div>
 </div>
     
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
             <p>新加坡文化奖得主陈瑞献是东南亚作品拍卖价最高的在世艺术家，他荣获多项本地及国际的奖项与殊荣，享有极高名声。他在年少时便展露非凡的艺术天分，但他刚开始涉足艺术领域时，却是先以文艺创作引起注意的。</p>
@@ -161,14 +161,14 @@ second_nav_title: "Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creat
     </div>
 </div>
 
-<div class="sgds-container__line padding--lg">
+<div class="container__line padding--lg">
     <div class="row">
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
         </div>
     </div>
 </div> 
     
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
             <h3><strong>About Tan Swie Hian 陈瑞献简介</strong></h3>

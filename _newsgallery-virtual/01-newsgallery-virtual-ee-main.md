@@ -7,13 +7,13 @@ collection_name: newsgallery-virtual
 
 ---
 
-<div class="sgds-container" style="margin-bottom: 40px;">
+<div class="container" style="margin-bottom: 40px;">
 <p>Watch the video below to hear the fascinating stories of four  early newspapers in Singapore, and learn about their formation, development and significance in the press history of the country.</p>
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/1hdpZa2owjE" frameborder="0" allowfullscreen></iframe></div>
 </div>
 
-<div class="sgds-container">
+<div class="container">
 
     <div class="row" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 25px; margin-right: 15px;">
         <div class="col">

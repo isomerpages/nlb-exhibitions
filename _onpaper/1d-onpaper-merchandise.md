@@ -9,9 +9,9 @@ second_nav_title: "On Paper: Singapore Before 1867"
 ---
 
 
-<section class="sgds-section__merch">
+<section class="section__merch">
     
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full">
         <p>In conjunction with the exhibition, On Paper: Singapore before 1867, three limited edition prints are now available for purchase.</p>
@@ -23,7 +23,7 @@ second_nav_title: "On Paper: Singapore Before 1867"
 
 <hr class="margin--top">
 
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full">
             <center style="margin-top: 5px;">
@@ -36,14 +36,14 @@ second_nav_title: "On Paper: Singapore Before 1867"
     </div>
 </div>
                 
-<div class="sgds-container__miniline">
+<div class="container__miniline">
     <div class="row" style="margin-top: 20px; margin-bottom: 20px;">
         <div class="col is-6 is-offset-3" style="padding: 2px 0; background-color: #efefef;">
         </div>
     </div>
 </div>
     
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full">
             <center style="margin-top: 5px;">
@@ -56,14 +56,14 @@ second_nav_title: "On Paper: Singapore Before 1867"
     </div>
 </div>                
 
-<div class="sgds-container__miniline">
+<div class="container__miniline">
     <div class="row" style="margin-top: 20px; margin-bottom: 20px;">
         <div class="col is-6 is-offset-3" style="padding: 2px 0; background-color: #efefef;">
         </div>
     </div>
 </div>
     
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full">
             <center style="margin-top: 5px;">
@@ -76,7 +76,7 @@ second_nav_title: "On Paper: Singapore Before 1867"
     </div>
 </div>
     
-<div class="sgds-container__line padding--lg">
+<div class="container__line padding--lg">
     <div class="row">
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
         </div>

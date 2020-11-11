@@ -16,9 +16,9 @@ Past: #c1c1c1
 
 -->
 
-<section class="sgds-section__progs">
+<section class="section__progs">
 
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-10-mobile">
 

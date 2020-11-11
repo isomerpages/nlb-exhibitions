@@ -8,8 +8,8 @@ second_nav_title: "Singapore Literary Pioneers"
 
 ---
 
-<section class="sgds-section__about">
-<div class="sgds-container__card">
+<section class="section__about">
+<div class="container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
             <img src="/images/event-images/lpg/singapore-literary-pioneers-tab-banner_v2.jpg" alt="A title card labelled From Singapore Literary Pioneers">
@@ -40,7 +40,7 @@ second_nav_title: "Singapore Literary Pioneers"
         </div>
 </div>
     
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
             <p>The <strong>Singapore Literary Pioneers</strong> Gallery at the National Library promotes Singapore literature and gives recognition to our writers.</p>

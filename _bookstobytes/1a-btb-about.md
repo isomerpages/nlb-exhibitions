@@ -8,8 +8,8 @@ second_nav_title: "From Books to Bytes: The Story of the National Library"
 
 ---
 
-<section class="sgds-section__about">
-<div class="sgds-container__card">
+<section class="section__about">
+<div class="container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
             <img src="/images/event-images/frombooks/from-books-to-bytes-tab-banner_v2.jpg" alt="A title card labelled From Books to Bytes: The Story of the National Library">
@@ -44,7 +44,7 @@ second_nav_title: "From Books to Bytes: The Story of the National Library"
             </div>
 </div>
     
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
             <p><strong>From Books to Bytes: The Story of the National Library</strong> tells the story of the National Library, Singapore. Throughout our history, the library has been an integral part of Singapore’s cultural and social fabric as well as its residents. The exhibition traces the founding, development and growth of the National Library, Singapore from 1823 till present. Learn interesting snippets of the library’s rich history and how its function has evolved with the learning needs of the nation.</p>
