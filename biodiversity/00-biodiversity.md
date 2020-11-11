@@ -21,10 +21,14 @@ breadcrumb: Biodiversity
             <div class="row">
                  <p style="padding: 0 20px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut sapien tortor. Cras eu luctus tortor, ac semper mauris. Aenean sed tortor vitae nisl luctus lacinia. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus at dui tincidunt leo hendrerit facilisis. Donec id sapien scelerisque, condimentum nulla tristique, maximus justo.
                 </p>
+    <div class="row">
+            <div class="col is-full">
                 <audio controls preload="none">
                 <source src="/files/biodiversity/energizing-by-kevin-macleod-from-filmmusic-io.mp3" type="audio/mpeg">
                    Your browser does not support the audio element. <a href="/files/biodiversity/energizing-by-kevin-macleod-from-filmmusic-io.mp3">Please click here to download the audio file.</a>
                 </audio>
+            </div>
+    </div>
             </div>
         </div>
     </div>
