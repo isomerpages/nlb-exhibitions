@@ -6,7 +6,7 @@ breadcrumb: Biodiversity
 
 ---
 
-<script>
+<script type="text/javascript">
 function onlyPlayOneIn(container) {
   container.addEventListener("play", function(event) {
   audio_elements = container.getElementsByTagName("audio")
