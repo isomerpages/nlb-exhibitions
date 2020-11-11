@@ -6,6 +6,16 @@ breadcrumb: Biodiversity
 
 ---
 
+<script>
+$(function(){
+    $("audio").on("play", function() {
+        $("audio").not(this).each(function(index, audio) {
+            audio.pause();
+        });
+    });
+});
+</script>
+
 <section class="sgds-section__bio1">
     
 <!-- Bio 1A -->
