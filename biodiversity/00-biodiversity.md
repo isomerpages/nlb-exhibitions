@@ -6,25 +6,6 @@ breadcrumb: Biodiversity
 
 ---
 
-<script type="text/javascript">
-function onlyPlayOneIn(container) {
-  container.addEventListener("play", function(event) {
-  audio_elements = container.getElementsByTagName("audio")
-    for(i=0; i < audio_elements.length; i++) {
-      audio_element = audio_elements[i];
-      if (audio_element !== event.target) {
-        audio_element.pause();
-      }
-    }
-  }, true);
-}
-
-document.addEventListener("DOMContentLoaded", function() {
-  onlyPlayOneIn(document.body);
-});
-</script>
-
-
 <section class="sgds-section__bio1">
 
 <!-- Bio 1A -->
@@ -43,7 +24,7 @@ document.addEventListener("DOMContentLoaded", function() {
     </div>
     <div class="row">
             <div class="col is-full">
-                <audio controls preload="none">
+                <audio controls preload="metadata">
                 <source src="/files/biodiversity/energizing-by-kevin-macleod-from-filmmusic-io.mp3" type="audio/mpeg">
                    Your browser does not support the audio element. <a href="/files/biodiversity/energizing-by-kevin-macleod-from-filmmusic-io.mp3">Please click here to download the audio file.</a>
                 </audio>
@@ -51,7 +32,7 @@ document.addEventListener("DOMContentLoaded", function() {
     </div>
     <div class="row">
             <div class="col is-full">
-                <audio controls preload="none">
+                <audio controls preload="metadata">
                 <source src="/files/biodiversity/energizing-by-kevin-macleod-from-filmmusic-io.mp3" type="audio/mpeg">
                    Your browser does not support the audio element. <a href="/files/biodiversity/energizing-by-kevin-macleod-from-filmmusic-io.mp3">Please click here to download the audio file.</a>
                 </audio>
@@ -63,3 +44,21 @@ document.addEventListener("DOMContentLoaded", function() {
 <hr class="margin--top margin--bottom--lg">  
 
 </section>
+
+<script type="text/javascript">
+function onlyPlayOneIn(container) {
+  container.addEventListener("play", function(event) {
+  audio_elements = container.getElementsByTagName("audio")
+    for(i=0; i < audio_elements.length; i++) {
+      audio_element = audio_elements[i];
+      if (audio_element !== event.target) {
+        audio_element.pause();
+      }
+    }
+  }, true);
+}
+
+document.addEventListener("DOMContentLoaded", function() {
+  onlyPlayOneIn(document.body);
+});
+</script>
