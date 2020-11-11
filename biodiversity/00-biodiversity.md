@@ -46,19 +46,12 @@ breadcrumb: Biodiversity
 </section>
 
 <script type="text/javascript">
-function onlyPlayOneIn(container) {
-  container.addEventListener("play", function(event) {
-  audio_elements = container.getElementsByTagName("audio")
-    for(i=0; i < audio_elements.length; i++) {
-      audio_element = audio_elements[i];
-      if (audio_element !== event.target) {
-        audio_element.pause();
-      }
+document.addEventListener('play', function(e){
+    var audios = document.getElementsByTagName('audio');
+    for(var i = 0, len = audios.length; i < len;i++){
+        if(audios[i] != e.target){
+            audios[i].pause();
+        }
     }
-  }, true);
-}
-
-document.addEventListener("DOMContentLoaded", function() {
-  onlyPlayOneIn(document.body);
-});
+}, true);
 </script>
