@@ -17,10 +17,11 @@ breadcrumb: Biodiversity
         </div>
     </div>
     <div class="row">
-        <div class="col">
-            <div class="row">
+        <div class="col is-full">
                  <p style="padding: 0 20px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut sapien tortor. Cras eu luctus tortor, ac semper mauris. Aenean sed tortor vitae nisl luctus lacinia. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus at dui tincidunt leo hendrerit facilisis. Donec id sapien scelerisque, condimentum nulla tristique, maximus justo.
                 </p>
+        </div>
+    </div>
     <div class="row">
             <div class="col is-full">
                 <audio controls preload="none">
@@ -29,10 +30,8 @@ breadcrumb: Biodiversity
                 </audio>
             </div>
     </div>
-            </div>
-        </div>
-    </div>
 </div>
+
 
 <hr class="margin--top margin--bottom--lg">  
 
