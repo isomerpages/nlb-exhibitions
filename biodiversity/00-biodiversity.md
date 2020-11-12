@@ -6,9 +6,6 @@ breadcrumb: Biodiversity
 
 ---
 
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/amplitudejs@5.2.0/dist/amplitude.js"></script>
-
-
 <section class="section__bio1">
 
 <!-- Bio 1A -->
@@ -81,7 +78,7 @@ breadcrumb: Biodiversity
 
 <!-- Bio 3A -->
 
-<div class="container__bio3A" id="bio3A" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+<div class="container__bio1A" id="bio3A" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
         <div class="col is-12">
             <h3 style="margin-bottom: 0px;"><strong>Section 3A</strong></h3>
@@ -113,40 +110,5 @@ breadcrumb: Biodiversity
 
 <hr class="margin--top margin--bottom--lg">  
 
-<div id="single-song-player">
-<img amplitude-song-info="cover_art_url" amplitude-main-song-info="true"/>
-    <div class="bottom-container">
-      <progress class="amplitude-song-played-progress" amplitude-main-song-played-progress="true" id="song-played-progress"></progress>
-    </div>
-    <div class="time-container">
-  <span class="current-time">
-    <span class="amplitude-current-minutes" amplitude-main-current-minutes="true"></span>:<span class="amplitude-current-seconds" amplitude-main-current-seconds="true"></span>
-  </span>
-  <span class="duration">
-    <span class="amplitude-duration-minutes" amplitude-main-duration-minutes="true"></span>:<span class="amplitude-duration-seconds" amplitude-main-duration-seconds="true"></span>
-  </span>
-</div>
-    <div class="control-container">
-  <div class="amplitude-play-pause" amplitude-main-play-pause="true" id="play-pause"></div>
-</div>
-    <div class="meta-container">
-  <span amplitude-song-info="name" amplitude-main-song-info="true" class="song-name"></span>
-  <span amplitude-song-info="artist" amplitude-main-song-info="true"></span>
-</div>
-</div>
-    
 </section>
 
-<script>
-  Amplitude.init({
-    "songs": [
-      {
-        "name": "Test track",
-        "artist": "Test Artist",
-        "album": "Test Album",
-        "url": "/files/biodiversity/energizing-by-kevin-macleod-from-filmmusic-io.mp3",
-        "cover_art_url": "/images/event-images/motc/logo.png"
-      }
-    ]
-  });
-</script>
