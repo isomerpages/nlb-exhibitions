@@ -8,8 +8,8 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
 
 ---
 
-<section class="sgds-section__about">
-<div class="sgds-container__card">
+<section class="section__about">
+<div class="container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
             <img src="/images/event-images/geographic/geographic-main-image.jpg" alt="A title card labelled Geo&#124;Graphic: Celebrating maps and their stories. Open bags of spices are in the background.">
@@ -40,7 +40,7 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
         </div>
 </div>
     
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
             <p>Maps are fascinating objects; they not only tell us about the places they depict but also how their makers saw the world around them. For Singapore in particular, maps are a window to our early history – before the arrival of the British in 1819. The National Library is pleased to present Geo|Graphic, an offering of exhibitions and programmes that explore maps and mapping.</p>
@@ -48,7 +48,7 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
     </div>
 </div>
 
-<div class="sgds-container__downloads">
+<div class="container__downloads">
     <div class="row">
         <div class="col is-full padding--top--lg">
             <h4>Brochure</h4>
@@ -62,7 +62,7 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
     </div>
 </div>
 
-<div class="sgds-container__line padding--lg">
+<div class="container__line padding--lg">
     <div class="row">
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
         </div>
@@ -71,7 +71,7 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
 
 <!-- List of exhibitions -->
     
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full padding--bottom--lg">
         <h2>Geo&#124;Graphic exhibitions</h2>
@@ -79,7 +79,7 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
     </div>
 </div>
 
-<div class="sgds-container__card">
+<div class="container__card">
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
             <img src="/images/event-images/geographic/geographic-main-image-2.jpg" alt="A map of several islands.">
@@ -104,7 +104,7 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
         </div>
 </div>
 
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
         <p>Topographic maps give a three-dimensional sense of the area being mapped, depicting the contours and relief of the terrain. On display are Singapore’s first complete set of topographical maps that were produced in 1924, and the six-sheet 1954 map of the city centre.</p>
@@ -112,14 +112,14 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
     </div>
 </div>
 
-<div class="sgds-container__line padding--lg">
+<div class="container__line padding--lg">
     <div class="row">
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
         </div>
     </div>
 </div>
 
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full padding--bottom--lg">
         <h3>Mind the Gap: Mapping the Other</h3>
@@ -128,14 +128,14 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
     </div>
 </div>
 
-<div class="sgds-container__miniline padding--lg">
+<div class="container__miniline padding--lg">
     <div class="row">
         <div class="col is-6 is-offset-3" style="padding: 2px 0; background-color: #efefef;">
         </div>
     </div>
 </div>
 
-<div class="sgds-container__card">
+<div class="container__card">
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
             <img src="/images/event-images/geographic/geographic-main-image-3.png" alt="A mind-map structure with many branching paths. In the center, the title is 'not here, not there'.">
@@ -160,7 +160,7 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
         </div>
 </div>
 
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
         <p>In this work titled Bibliotopia, Michael Lee uses the device of the mind map to uncover the “secret bookscape” of Singapore’s book culture. Focusing on the genres of short fiction, horror and the teen novel through the literary output of Catherine Lim, Russell Lee and Adrian Tan – the artist draws out secrets that are hidden within, or exposed by, narratives on identity, adolescence, and the ghostly in Singapore.</p>
@@ -170,14 +170,14 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
     </div>
 </div>
 
-<div class="sgds-container__miniline padding--lg">
+<div class="container__miniline padding--lg">
     <div class="row">
         <div class="col is-6 is-offset-3" style="padding: 2px 0; background-color: #efefef;">
         </div>
     </div>
 </div>
 
-<div class="sgds-container__card">
+<div class="container__card">
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
             <img src="/images/event-images/geographic/geographic-main-image-4.jpg" alt="A large foam block sits on the floor. A drill machine hovers over it.">
@@ -202,7 +202,7 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
         </div>
 </div>
 
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
         <p>In the installation Outliers by Jeremy Sharma, are four white polystyrene blocks with undulating surfaces that capture the signals of dying stars (pulsars) in material form. Sharma, with the help of a pulsar scientist, has been collecting and categorising the radiographic data of selected pulsars. His work contemplates the profound space-time distance the signals of dying stars travel to communicate their death throes.</p>
@@ -212,14 +212,14 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
     </div>
 </div>
 
-<div class="sgds-container__miniline padding--lg">
+<div class="container__miniline padding--lg">
     <div class="row">
         <div class="col is-6 is-offset-3" style="padding: 2px 0; background-color: #efefef;">
         </div>
     </div>
 </div>
 
-<div class="sgds-container__card">
+<div class="container__card">
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
             <img src="/images/event-images/geographic/geographic-main-image-5.jpg" alt="Video stills from Fables of Nusantara">
@@ -244,7 +244,7 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
         </div>
 </div>
 
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
         <p>In this video installation, Sherman Ong uses the documentary/ethnographic film genre to tell stories of migration, trans-border identities, myths and memories in the islands of Southeast Asia. The histories and contemporary stories of the region are explored through the nine individuals featured in the video vignettes.</p>
@@ -254,14 +254,14 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
     </div>
 </div>
     
-<div class="sgds-container__line padding--lg">
+<div class="container__line padding--lg">
     <div class="row">
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
         </div>
     </div>
 </div>
     
-<div class="sgds-container__card">
+<div class="container__card">
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
             <img src="/images/event-images/geographic/geographic-main-image-6.png" alt="An illustrated map with the title Land of Gold and Spices">
@@ -284,7 +284,7 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
         </div>
 </div>
 
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
         <p>Asia, particularly Southeast Asia, had a strong hold over the imaginations of early Europeans as a source of gold, spices and all things exotic. Land of Gold and Spices presents a fascinating look at how Southeast Asia was perceived, conceived of and mapped by the Europeans from the 15th to the early 19th centuries.</p>
@@ -294,14 +294,14 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
     </div>
 </div>
 
-<div class="sgds-container__line padding--lg">
+<div class="container__line padding--lg">
     <div class="row">
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
         </div>
     </div>
 </div>
     
-<div class="sgds-container__card">
+<div class="container__card">
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
             <img src="/images/event-images/geographic/geographic-main-image-7.jpg" alt="An illustrated map of Singapore with the title Island of Stories">
@@ -324,7 +324,7 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
         </div>
 </div>
 
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
         <p><strong>Island of Stories</strong>, showcasing the collection of the National Archives of Singapore, draws on an eclectic mix of Singapore maps that captures intriguing moments from our country’s history. Featuring maps of forgotten mileage points to the island’s farmland and soil composition, as well as stories of the former detached mole at Marina Bay, the Orchard Road “circus” and the election fever of 1955 – these maps weave a quirky, multifaceted story of Singapore’s past.</p>
@@ -336,14 +336,14 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
     </div>
 </div>
     
-<div class="sgds-container__line padding--lg">
+<div class="container__line padding--lg">
     <div class="row">
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
         </div>
     </div>
 </div>
     
-<div class="sgds-container__card">
+<div class="container__card">
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
             <img src="/images/event-images/geographic/geographic-main-image-8.jpg" alt="An illustrated map of Singapore">
@@ -367,7 +367,7 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
         </div>
 </div>
 
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
         <p>Part of the SEA STATE series, <strong>SEABOOK</strong> follows Charles Lim’s solo-exhibition, “In Search of Raffles’ Light” (2013) held at the NUS Museum. SEABOOK is conceived by the artist, as a site for the accumulation of archival materials, anecdotes and memories that unravels Singapore’s relationship with the sea. Developed with the librarians from the National Library, the project attempts to highlight the range of primary resources available on the sea from the colonial and post-colonial periods. In effect, SEABOOK aspires to be the most extensive cultural study of Singapore’s troubled relationship with the sea.</p>
@@ -379,14 +379,14 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
     </div>
 </div>
 
-<div class="sgds-container__line padding--lg">
+<div class="container__line padding--lg">
     <div class="row">
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
         </div>
     </div>
 </div>
 
-<div class="sgds-container__card">
+<div class="container__card">
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
             <h3><strong>MAPS! At the Public Libraries</strong></h3>
@@ -417,7 +417,7 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
         </div>
 </div>
     
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
             <p>Check out our interactive exhibition <strong>MAPS!</strong> which explores maps and navigation through history at the following libraries near you!</p>
@@ -425,14 +425,14 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
     </div>
 </div>
 
-<div class="sgds-container__line padding--lg">
+<div class="container__line padding--lg">
     <div class="row">
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
         </div>
     </div>
 </div>  
 
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
             <h3>School Self-guided Tour</h3>
@@ -445,14 +445,14 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
     </div>
 </div> 
     
-<div class="sgds-container__line padding--lg">
+<div class="container__line padding--lg">
     <div class="row">
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
         </div>
     </div>
 </div>  
 
-<div class="sgds-container__card">
+<div class="container__card">
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
             <h3><strong>Book Display: Maps that Shaped Singapore</strong></h3>
@@ -478,7 +478,7 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
         </div>
 </div>
     
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
             <p>Singapore’s urban landscape has been shaped by its various Concept Plans – the country’s strategic land use and transportation plans. By showcasing these Concept Plans and publications related to land use in Singapore, this book display examines the background and impact of Concept Plans in shaping the country’s urban environment.</p>
@@ -486,14 +486,14 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
     </div>
 </div>
     
-<div class="sgds-container__line padding--lg">
+<div class="container__line padding--lg">
     <div class="row">
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
         </div>
     </div>
 </div>  
 
-<div class="sgds-container__card">
+<div class="container__card">
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
             <h3><strong>The Past is a Foreign Country: A special presentation by the Singapore Memory Project</strong></h3>
@@ -519,7 +519,7 @@ second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
         </div>
 </div>
     
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
             <p>The Past is a Foreign Country is a selection of projects funded by the irememberSG fund that explore issues of territoriality, space and environment through the trope of memory in Singapore. For more information of the specific exhibitions and programmes, please visit <a href="https://eresources.nlb.gov.sg/webarchives/details/www.iremember.sg.html" style="color:#E21216;">iremember.sg</a></p>

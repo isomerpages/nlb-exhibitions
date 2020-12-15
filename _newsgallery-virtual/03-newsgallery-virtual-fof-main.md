@@ -7,7 +7,7 @@ collection_name: newsgallery-virtual
 
 ---
 
-<div class="sgds-container" style="margin-bottom: 40px;">
+<div class="container" style="margin-bottom: 40px;">
 <p>Fake news has become a global threat as it spreads like wildfire on the Internet and social media.  One’s ability to distinguish between facts and falsehoods has never been more important.</p>
 <p>Watch the video below to take part in the “Real or Fake?” game show, and learn how to be more discerning with information from four cases of fake news.</p>
 
@@ -15,7 +15,7 @@ collection_name: newsgallery-virtual
     
 </div>
 
-<div class="sgds-container">
+<div class="container">
 
     <div class="row" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 40px; margin-right: 15px;">
         <div class="col">

@@ -8,8 +8,8 @@ second_nav_title: "Selling Dreams: Early Advertising in Singapore"
 
 ---
 
-<section class="sgds-section__about">
-<div class="sgds-container__card">
+<section class="section__about">
+<div class="container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
             <img src="/images/event-images/sellingdreamsonsite/selling-dreams-main-image.jpg" alt="A title card labelled Selling Dreams">
@@ -40,7 +40,7 @@ second_nav_title: "Selling Dreams: Early Advertising in Singapore"
         </div>
 </div>
     
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
             <p>Advertisements are fascinating cultural documents that both shape and reflect people’s desires and ideals. This exhibition features advertising materials from the 1830s to 1960s in the National Library collection, and explores the hopes, dreams, aspirations and insecurities of society over the years.</p>
@@ -50,7 +50,7 @@ second_nav_title: "Selling Dreams: Early Advertising in Singapore"
     </div>
 </div>
 
-<div class="sgds-container__downloads">
+<div class="container__downloads">
     <div class="row">
         <div class="col is-full padding--top--lg">
             <h4>Brochures and Exhibition Guides</h4>
@@ -81,14 +81,14 @@ second_nav_title: "Selling Dreams: Early Advertising in Singapore"
     </div>
 </div>
 
-<div class="sgds-container__line padding--lg">
+<div class="container__line padding--lg">
     <div class="row">
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
         </div>
     </div>
 </div>
 
-<div class="sgds-container__card">
+<div class="container__card">
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
             <h3><strong>The Art of Persuasion</strong></h3>
@@ -114,7 +114,7 @@ second_nav_title: "Selling Dreams: Early Advertising in Singapore"
         </div>
 </div>
 
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
             <p>How do advertisers hook an audience? ‘The Art of Persuasion’ looks at different advertising methods and strategies used in ads drawn from the library’s vast collection of print publications from the 1830s to 1960s. Head down to the National Library’s ‘advertising studio’ in the lobby and check out ads featuring comics and cartoons, witty copy, bold imagery and illustrations as well as early advertising attempts to appeal to local audiences.</p>
@@ -154,14 +154,14 @@ second_nav_title: "Selling Dreams: Early Advertising in Singapore"
     </div>
 </div>
 
-<div class="sgds-container__line padding--lg">
+<div class="container__line padding--lg">
     <div class="row">
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
         </div>
     </div>
 </div>
 
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full">
             <h3>School Tours</h3>

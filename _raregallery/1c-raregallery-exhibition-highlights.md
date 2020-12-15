@@ -19,7 +19,7 @@ second_nav_title: "The Rare Collection Gallery"
 
 <p><em>Rong-geng</em> dancers were also singers and usually belonged to an itinerant group of dancers and musicians. As <em>rong-geng</em> was a public dance, the dancers were often perceived as sexually permissive. However, some dancers went on to have accomplished careers, amassing considerable wealth, while others married local petty chiefs. Often, these marriages did not last and the women would return to dancing.</p>
 
-<div class="sgds-container__miniline">
+<div class="container__miniline">
     <div class="row" style="margin-top: 20px; margin-bottom: 20px;">
         <div class="col is-6 is-offset-3" style="padding: 2px 0; background-color: #efefef;">
         </div>
@@ -40,7 +40,7 @@ Scenes from this work include some of the earliest views of Rangoon, depictions 
 
 The hand-coloured aquatint shows the Shwedagon Pagoda, also known as the Great Dagon Pagoda or the Golden Pagoda, located in Rangoon (Yangon). It was used by the British in 1824 during the war.
 
-<div class="sgds-container__miniline">
+<div class="container__miniline">
     <div class="row" style="margin-top: 20px; margin-bottom: 20px;">
         <div class="col is-6 is-offset-3" style="padding: 2px 0; background-color: #efefef;">
         </div>
@@ -58,7 +58,7 @@ Daniel Beeckman was the captain of an English merchant ship that traded under th
 
 He also documented the animals he saw in Borneo; his record of the orangutan (meaning “Man of the Woods” in Malay) is thought to be one of the earliest. He opined that the orangutan was more handsome than some of the natives he had seen. Beeckman had bought an orangutan as a pet for six Spanish dollars but it died after seven months.
 
-<div class="sgds-container__miniline">
+<div class="container__miniline">
     <div class="row" style="margin-top: 20px; margin-bottom: 20px;">
         <div class="col is-6 is-offset-3" style="padding: 2px 0; background-color: #efefef;">
         </div>

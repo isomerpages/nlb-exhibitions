@@ -7,11 +7,11 @@ collection_name: past-exhibitions
 
 ---
 
-<section class="sgds-section__exhibitions">
+<section class="section__exhibitions">
 
 <!-- On Paper -->
 
-<div class="sgds-container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+<div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
         <div class="col padding--bottom--xs">
             <h3 style="margin-bottom: 0px;"><strong>On Paper: Singapore Before 1867</strong></h3>
@@ -42,14 +42,14 @@ collection_name: past-exhibitions
     </div>
 </div>
 
-<div class="sgds-container__exh__break padding">
+<div class="container__exh__break padding">
     <div class="row">
         <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #efefef;">
         </div>
     </div>
 </div>
 
-<div class="sgds-container__exh__description">
+<div class="container__exh__description">
     <div class="row is-multiline">
         <div class="col">
             <p>On Paper: Singapore Before 1867 features over 150 paper-based artefacts that tell the story of Singapore’s early history – from a 17th-century Portuguese navigational chart that points to the existence of a Shahbandar (harbour master) on Singapore island to the key document that established the Straits Settlements as a Crown Colony of Britain on 1 April 1867.
@@ -65,7 +65,7 @@ collection_name: past-exhibitions
 
 <!-- 1919 -->
 
-<div class="sgds-container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+<div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
         <div class="col padding--bottom--xs">
             <h3 style="margin-bottom: 0px;"><strong>1919: The Singapore Centenary and its Celebration</strong></h3>
@@ -96,14 +96,14 @@ collection_name: past-exhibitions
     </div>
 </div>
 
-<div class="sgds-container__exh__break padding">
+<div class="container__exh__break padding">
     <div class="row">
         <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #efefef;">
         </div>
     </div>
 </div>
 
-<div class="sgds-container__exh__description">
+<div class="container__exh__description">
     <div class="row is-multiline">
         <div class="col">
             <p>Centenary Day took place on 6 February 1919 and marked Singapore’s hundredth year as a colonial port-settlement. It was celebrated as a public holiday filled with official festivities and fanfare. This display features photographs and publications produced for the occasion.
@@ -119,7 +119,7 @@ collection_name: past-exhibitions
 
 <!-- TFP -->
 
-<div class="sgds-container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+<div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
         <div class="col padding--bottom--xs">
             <h3 style="margin-bottom: 0px;"><strong>The First Print: Stories and Legends of Early Singapore</strong></h3>
@@ -150,14 +150,14 @@ collection_name: past-exhibitions
     </div>
 </div>
 
-<div class="sgds-container__exh__break padding">
+<div class="container__exh__break padding">
     <div class="row">
         <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #efefef;">
         </div>
     </div>
 </div>
 
-<div class="sgds-container__exh__description">
+<div class="container__exh__description">
     <div class="row is-multiline">
         <div class="col">
             <p>With many tales such as the strong man Badang and the attack of the garfish, Sejarah Melayu continues to enchant writers and readers everywhere. Discover these timeless stories and how one man managed to bring this ancient manuscript to the masses, thereby ensuring that its legacy live on through the ages.
@@ -173,7 +173,7 @@ collection_name: past-exhibitions
 
 <!-- Selling Dreams -->
 
-<div class="sgds-container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+<div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
         <div class="col padding--bottom--xs">
             <h3 style="margin-bottom: 0px;"><strong>Selling Dreams: Early Advertising in Singapore</strong></h3>
@@ -204,14 +204,14 @@ collection_name: past-exhibitions
     </div>
 </div>
 
-<div class="sgds-container__exh__break padding">
+<div class="container__exh__break padding">
     <div class="row">
         <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #efefef;">
         </div>
     </div>
 </div>
 
-<div class="sgds-container__exh__description">
+<div class="container__exh__description">
     <div class="row is-multiline">
         <div class="col">
             <p>Advertisements are fascinating cultural documents that both shape and reflect people’s desires and ideals. This exhibition features advertising materials from the 1830s to 1960s in the National Library collection, and explores the hopes, dreams, aspirations and insecurities of society over the years.
@@ -227,7 +227,7 @@ collection_name: past-exhibitions
 
 <!-- TMW -->
 
-<div class="sgds-container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+<div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
         <div class="col padding--bottom--xs">
             <h3 style="margin-bottom: 0px;"><strong>Tales of the Malay World: Manuscripts and Early Books</strong></h3>
@@ -258,14 +258,14 @@ collection_name: past-exhibitions
     </div>
 </div>
 
-<div class="sgds-container__exh__break padding">
+<div class="container__exh__break padding">
     <div class="row">
         <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #efefef;">
         </div>
     </div>
 </div>
 
-<div class="sgds-container__exh__description">
+<div class="container__exh__description">
     <div class="row is-multiline">
         <div class="col">
             <p>For centuries, Malay was the language of trade, diplomacy, religious discourse, and literature for maritime Southeast Asia. This exhibition explores traditional Malay literature captured in ink on paper – from handwritten manuscripts to early lithographed books.
@@ -281,7 +281,7 @@ collection_name: past-exhibitions
 
 <!-- SFF -->
 
-<div class="sgds-container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+<div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
         <div class="col padding--bottom--xs">
             <h3 style="margin-bottom: 0px;"><strong>Shakespeare in Print: The First Folio</strong></h3>
@@ -312,14 +312,14 @@ collection_name: past-exhibitions
     </div>
 </div>
 
-<div class="sgds-container__exh__break padding">
+<div class="container__exh__break padding">
     <div class="row">
         <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #efefef;">
         </div>
     </div>
 </div>
 
-<div class="sgds-container__exh__description">
+<div class="container__exh__description">
     <div class="row is-multiline">
         <div class="col">
             <p>Join us at the National Library as we showcase Shakespeare’s First Folio, first printed in 1623, on special loan from The University of Oxford’s Bodleian Libraries for six weeks only. Shakespeare’s plays are among the most significant pieces of literature in the English language and have influenced art and media all over the world for centuries.
@@ -335,7 +335,7 @@ collection_name: past-exhibitions
 
 <!-- AOFM -->
 
-<div class="sgds-container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+<div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
         <div class="col padding--bottom--xs">
             <h3 style="margin-bottom: 0px;"><strong>Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations</strong></h3>
@@ -366,14 +366,14 @@ collection_name: past-exhibitions
     </div>
 </div>
 
-<div class="sgds-container__exh__break padding">
+<div class="container__exh__break padding">
     <div class="row">
         <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #efefef;">
         </div>
     </div>
 </div>
 
-<div class="sgds-container__exh__description">
+<div class="container__exh__description">
     <div class="row is-multiline">
         <div class="col">
             <p>1973 was a milestone year in Tan Swie Hian’s life during which he experienced a breakthrough in his spirituality and creative capacity. Now, more than 40 years later, Tan’s works are presented again at the National Library in this exhibition featuring over 100 creations in a wide range of media.
@@ -389,7 +389,7 @@ collection_name: past-exhibitions
 
 <!-- SS -->
 
-<div class="sgds-container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+<div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
         <div class="col padding--bottom--xs">
             <h3 style="margin-bottom: 0px;"><strong>Script &amp; Stage: Theatre in Singapore from the 50s to 80s</strong></h3>
@@ -420,14 +420,14 @@ collection_name: past-exhibitions
     </div>
 </div>
 
-<div class="sgds-container__exh__break padding">
+<div class="container__exh__break padding">
     <div class="row">
         <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #efefef;">
         </div>
     </div>
 </div>
 
-<div class="sgds-container__exh__description">
+<div class="container__exh__description">
     <div class="row is-multiline">
         <div class="col">
             <p>Script &amp; Stage explores the fascinating roots of local playwriting and theatre production, highlighting significant performances, playwrights and prominent theatre companies that have shaped the foundation of contemporary theatre in Singapore.
@@ -443,7 +443,7 @@ collection_name: past-exhibitions
 
 <!-- FTS -->
 
-<div class="sgds-container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+<div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
         <div class="col padding--bottom--xs">
             <h3 style="margin-bottom: 0px;"><strong>From The Stacks: Highlights of the National Library</strong></h3>
@@ -474,14 +474,14 @@ collection_name: past-exhibitions
     </div>
 </div>
 
-<div class="sgds-container__exh__break padding">
+<div class="container__exh__break padding">
     <div class="row">
         <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #efefef;">
         </div>
     </div>
 </div>
 
-<div class="sgds-container__exh__description">
+<div class="container__exh__description">
     <div class="row is-multiline">
         <div class="col">
             <p>Documents, publications and photographs from Singapore’s early days reveal fascinating insights into our history and culture. Discover early Singapore from a fresh perspective through over 100 highlights from the National Library’s collection of rare publications, manuscripts, documents, maps, photographs and more.</p>
@@ -496,7 +496,7 @@ collection_name: past-exhibitions
 
 <!-- POP -->
 
-<div class="sgds-container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+<div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
         <div class="col padding--bottom--xs">
             <h3 style="margin-bottom: 0px;"><strong>Poetry on Platforms: Poems on Singapore</strong></h3>
@@ -523,14 +523,14 @@ collection_name: past-exhibitions
     </div>
 </div>
 
-<div class="sgds-container__exh__break padding">
+<div class="container__exh__break padding">
     <div class="row">
         <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #efefef;">
         </div>
     </div>
 </div>
 
-<div class="sgds-container__exh__description">
+<div class="container__exh__description">
     <div class="row is-multiline">
         <div class="col">
             <p>Immerse yourself in 82 Singapore poems written beautifully by poets on the City Hall MRT platforms. Commuters and passer-by can look forward to humorous, moving and thought-provoking poems on life, people, and places in Singapore that will strike a chord with them.</p>
@@ -545,7 +545,7 @@ collection_name: past-exhibitions
 
 <!-- Geo -->
 
-<div class="sgds-container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+<div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
         <div class="col padding--bottom--xs">
             <h3 style="margin-bottom: 0px;"><strong>Geo&#124;Graphic: Celebrating maps and their stories</strong></h3>
@@ -576,14 +576,14 @@ collection_name: past-exhibitions
     </div>
 </div>
 
-<div class="sgds-container__exh__break padding">
+<div class="container__exh__break padding">
     <div class="row">
         <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #efefef;">
         </div>
     </div>
 </div>
 
-<div class="sgds-container__exh__description">
+<div class="container__exh__description">
     <div class="row is-multiline">
         <div class="col">
             <p>Maps are fascinating objects; they not only tell us about the places they depict but also how their makers saw the world around them. For Singapore in particular, maps are a window to our early history – before the arrival of the British in 1819. The National Library is pleased to present Geo|Graphic, an offering of exhibitions and programmes that explore maps and mapping.</p>
@@ -598,7 +598,7 @@ collection_name: past-exhibitions
 
 <!-- Lit -->
 
-<div class="sgds-container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+<div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
         <div class="col padding--bottom--xs">
             <h3 style="margin-bottom: 0px;"><strong>Singapore Literary Pioneers</strong></h3>
@@ -629,14 +629,14 @@ collection_name: past-exhibitions
     </div>
 </div>
 
-<div class="sgds-container__exh__break padding">
+<div class="container__exh__break padding">
     <div class="row">
         <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #efefef;">
         </div>
     </div>
 </div>
 
-<div class="sgds-container__exh__description">
+<div class="container__exh__description">
     <div class="row is-multiline">
         <div class="col">
             <p>The gallery displays the books, letters, calligraphic works, manuscripts, photographs and portraits of Singapore’s literary pioneers. Some prominent writers have also donated their pens, typewriters and literary awards. In addition, visitors can appreciate audio and video recordings of the writers in two multimedia screens.</p>

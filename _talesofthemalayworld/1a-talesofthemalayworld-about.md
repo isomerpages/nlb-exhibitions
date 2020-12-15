@@ -8,8 +8,8 @@ second_nav_title: "Tales of the Malay World: Manuscripts and Early Books"
 
 ---
 
-<section class="sgds-section__about">
-<div class="sgds-container__card">
+<section class="section__about">
+<div class="container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
             <img src="/images/event-images/tmw/tales-of-the-malay-world-main-image.jpg" alt="A title card labelled Tales of the Malay World">
@@ -40,7 +40,7 @@ second_nav_title: "Tales of the Malay World: Manuscripts and Early Books"
         </div>
 </div>
     
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
             <p><i>Step into the world of Malay stories – fantastical adventure tales of kings and heroes, founding myths of sultanates, and romantic poetry.</i></p>
@@ -58,7 +58,7 @@ second_nav_title: "Tales of the Malay World: Manuscripts and Early Books"
     </div>
 </div>
 
-<div class="sgds-container__downloads">
+<div class="container__downloads">
     <div class="row">
         <div class="col is-full padding--top--lg">
             <h4>Brochures and Exhibition Guides</h4>
@@ -78,14 +78,14 @@ second_nav_title: "Tales of the Malay World: Manuscripts and Early Books"
     </div>
 </div>
 
-<div class="sgds-container__line padding--lg">
+<div class="container__line padding--lg">
     <div class="row">
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
         </div>
     </div>
 </div>
 
-<div class="sgds-container__card">
+<div class="container__card">
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
             <h3><strong>Shared Stories: Malay Movies and Manuscripts</strong></h3>
@@ -111,7 +111,7 @@ second_nav_title: "Tales of the Malay World: Manuscripts and Early Books"
         </div>
 </div>
 
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
             <p>In the late 1950s and early 1960s, Singapore was the hub of Malay film production. Some of these films feature stories similar to those in handwritten Malay manuscripts. This display features snippets of seven such films, including Sultan Mahmud Mangkat di-Julang and Dang Anom, with accompanying film magazines.</p>
@@ -121,14 +121,14 @@ second_nav_title: "Tales of the Malay World: Manuscripts and Early Books"
     </div>
 </div>
     
-<div class="sgds-container__line padding--lg">
+<div class="container__line padding--lg">
     <div class="row">
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
         </div>
     </div>
 </div>  
 
-<div class="sgds-container__card">
+<div class="container__card">
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
             <h3><strong>Tales of the Wily Mousedeer</strong></h3>
@@ -159,7 +159,7 @@ second_nav_title: "Tales of the Malay World: Manuscripts and Early Books"
         </div>
 </div>
     
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
             <p>In Malay folklore, the wily mousedeer is the king of the forest. Stories of how the mousedeer outsmarts animals bigger than itself have entertained adults and children alike for centuries. The earliest manuscript containing the mousedeer story was written over 350 years ago! Learn more about the mousedeer in this travelling mini-exhibition.</p>

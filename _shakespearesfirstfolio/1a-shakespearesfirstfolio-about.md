@@ -8,8 +8,8 @@ second_nav_title: "Shakespeare in Print: The First Folio"
 
 ---
 
-<section class="sgds-section__about">
-<div class="sgds-container__card">
+<section class="section__about">
+<div class="container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
             <img src="/images/event-images/shakespeare/shakespeare-in-print-main-image.jpg" alt="A title card labelled Shakespeare in Print">
@@ -40,7 +40,7 @@ second_nav_title: "Shakespeare in Print: The First Folio"
         </div>
 </div>
     
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
             <p>Join us at the National Library as we showcase Shakespeare’s First Folio, first printed in 1623, on special loan from The University of Oxford’s Bodleian Libraries for six weeks only. Shakespeare’s plays are among the most significant pieces of literature in the English language and have influenced art and media all over the world for centuries.</p>
@@ -50,14 +50,14 @@ second_nav_title: "Shakespeare in Print: The First Folio"
     </div>
 </div>
 
-<div class="sgds-container__line padding--lg">
+<div class="container__line padding--lg">
     <div class="row">
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
         </div>
     </div>
 </div>  
 
-<div class="sgds-container__card">
+<div class="container__card">
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
             <h3><strong>#Shakespeare</strong></h3>
@@ -85,7 +85,7 @@ second_nav_title: "Shakespeare in Print: The First Folio"
         </div>
 </div>
     
-<div class="sgds-container__description">
+<div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
             <p>Alongside the main showcase the National Library, three public libraries will host “#Shakespeare”, a display that turns stories from Shakespeare’s plays into tweets by key characters from plays such as <em>Romeo and Juliet, Julius Caesar, A Midsummer Night’s Dream</em>, and <em>Hamlet</em>.</p>

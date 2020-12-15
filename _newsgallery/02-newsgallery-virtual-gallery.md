@@ -10,7 +10,7 @@ second_nav_title: "The News Gallery: Beyond Headlines"
 
 <p style="padding-bottom: 10px;">Welcome to the Virtual News Gallery, which features highlights from the <a href="/exhibitions/current-exhibitions/newsgallery/" style="color:#E21216;">main exhibition at the National Library</a>.</p>
 
-<div class="sgds-container">
+<div class="container">
 
     <div class="row" style="border: 2px solid #efefef; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 25px; margin-right: 15px;">
         <div class="col">
