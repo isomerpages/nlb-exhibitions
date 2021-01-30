@@ -14,6 +14,18 @@ Colours
 Upcoming: default colour
 Past: #c1c1c1
 
+<table class="table table-v">
+    <tr>
+        <td style="background-color: #c1c1c1;">Date<br>
+            &mdash;<br>
+            Time</td>
+        <td>
+            <p>Title</p>
+            <p><a href="#">Description</a></p>
+        </td>
+    </tr>
+</table>
+
 -->
 
 <h2>Upcoming programmes</h2>
@@ -22,14 +34,3 @@ Past: #c1c1c1
 
 <h2>Past programmes</h2>
 
-<table class="table table-v">
-    <tr>
-        <td style="background-color: #c1c1c1;">14 Apr<br>
-            &mdash;<br>
-            7:00pm</td>
-        <td>
-            <p>Talk &#124; A Librarian's World - Beyond the News Gallery</p>
-            <p><a href="/programmes/newsgallery/20200414-talk/">The event is cancelled.</a></p>
-        </td>
-    </tr>
-</table>
