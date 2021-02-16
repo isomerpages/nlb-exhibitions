@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title:   25 June 2016
+title: '25 June 2016'
 permalink: /programmes/sellingdreams/20160625-talk/
-breadcrumb: "A Printmaker’s Tale"
+breadcrumb: 'A Printmaker’s Tale'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 
