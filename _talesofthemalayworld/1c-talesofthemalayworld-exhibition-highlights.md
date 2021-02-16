@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Exhibition Highlights"
+title: 'Exhibition Highlights'
 permalink: /exhibitions/past-exhibitions/talesofthemalayworld/exhibition-highlights/
-breadcrumb: "Exhibition Highlights"
-collection_name: talesofthemalayworld
-second_nav_title: "Tales of the Malay World: Manuscripts and Early Books"
+breadcrumb: 'Exhibition Highlights'
+third_nav_title: 'Tales of the Malay World: Manuscripts and Early Books'
 
 ---
+
 
 <p>Click on the image below for full-view.</p>
 
