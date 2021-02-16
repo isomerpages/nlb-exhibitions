@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: 18 August 2017
+title: '18 August 2017'
 permalink: /programmes/talesofthemalayworld/20170818-talk/
-breadcrumb: "Art and Artists in Malay Manuscript Books"
+breadcrumb: 'Art and Artists in Malay Manuscript Books'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 
