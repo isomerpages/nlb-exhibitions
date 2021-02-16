@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: Curator Tours
+title: 'Curator Tours'
 permalink: /programmes/geographic/curator-tours/
-breadcrumb: Curator Tours
+breadcrumb: 'Curator Tours'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 
