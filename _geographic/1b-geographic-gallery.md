@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Gallery"
+title: Gallery
 permalink: /exhibitions/past-exhibitions/geographic/gallery/
-breadcrumb: "Gallery"
-collection_name: geographic
-second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
+breadcrumb: Gallery
+third_nav_title: 'Geo&#124;Graphic: Celebrating maps and their stories'
 
 ---
+
 
 ![Several table showcases are in the room, with a giant map backdrop on the back wall.](/images/event-images/geographic/geographic_gallery_1.jpg)
 
