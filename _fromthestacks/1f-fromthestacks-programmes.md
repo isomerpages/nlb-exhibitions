@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Programmes"
+title: Programmes
 permalink: /exhibitions/past-exhibitions/fromthestacks/programmes/
-breadcrumb: "Programmes"
-collection_name: fromthestacks
-second_nav_title: "From The Stacks: Highlights of the National Library"
+breadcrumb: Programmes
+third_nav_title: 'From The Stacks: Highlights of the National Library'
 
 ---
+
 
 <!-- 
 
