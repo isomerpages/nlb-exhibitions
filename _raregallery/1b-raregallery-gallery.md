@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Gallery"
+title: Gallery
 permalink: /exhibitions/current-exhibitions/raregallery/gallery/
-breadcrumb: "Gallery"
-collection_name: raregallery
-second_nav_title: "The Rare Collection Gallery"
+breadcrumb: Gallery
+third_nav_title: 'The Rare Collection Gallery'
 
 ---
+
 
 ![A photo showing an overview of the Rare Collection Gallery, with various showcases.](/images/event-images/rarecollection/the-rare-collection-gallery_gallery_1.jpg)
 
