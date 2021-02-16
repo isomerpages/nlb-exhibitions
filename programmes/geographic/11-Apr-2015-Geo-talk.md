@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: 11 April 2015
+title: '11 April 2015'
 permalink: /programmes/geographic/20150411-talk/
-breadcrumb: "Mapping Histories: Cartographic Representation of Singapore and Its Limits"
+breadcrumb: 'Mapping Histories: Cartographic Representation of Singapore and Its Limits'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 
