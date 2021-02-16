@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Exhibition Highlights"
+title: 'Exhibition Highlights'
 permalink: /exhibitions/past-exhibitions/geographic/exhibition-highlights/
-breadcrumb: "Exhibition Highlights"
-collection_name: geographic
-second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
+breadcrumb: 'Exhibition Highlights'
+third_nav_title: 'Geo&#124;Graphic: Celebrating maps and their stories'
 
 ---
+
 
 <p>Click on the images below for full-view.</p>
 
