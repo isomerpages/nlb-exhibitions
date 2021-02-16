@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: 26 October 2019
+title: '26 October 2019'
 permalink: /programmes/onpaper/20191026-talk/
-breadcrumb: "Early Singapore in the Syair of Dissent"
+breadcrumb: 'Early Singapore in the Syair of Dissent'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 
