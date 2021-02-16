@@ -1,11 +1,10 @@
 ---
-layout: leftnav-page-content
-title: "Fact or Fake?"
+title: 'Fact or Fake?'
 permalink: /exhibitions/current-exhibitions/newsgallery/virtual-gallery/fact-or-fake/
-breadcrumb: "Fact or Fake?"
-collection_name: newsgallery-virtual
+breadcrumb: 'Fact or Fake?'
 
 ---
+
 
 <div class="container" style="margin-bottom: 40px;">
 <p>Fake news has become a global threat as it spreads like wildfire on the Internet and social media.  One’s ability to distinguish between facts and falsehoods has never been more important.</p>
