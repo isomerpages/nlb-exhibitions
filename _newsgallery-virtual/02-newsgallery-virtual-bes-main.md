@@ -1,11 +1,10 @@
 ---
-layout: leftnav-page-content
-title: "Behind Every Story"
+title: 'Behind Every Story'
 permalink: /exhibitions/current-exhibitions/newsgallery/virtual-gallery/behind-every-story/
-breadcrumb: "Behind Every Story"
-collection_name: newsgallery-virtual
+breadcrumb: 'Behind Every Story'
 
 ---
+
 
 <p>A news story might seem like a mere account of an incident or development in the world, it is subject to numerous influences and written with multiple perspectives in mind. Reports on a particular event by different newspapers and media sources can vary significantly.</p>
 
