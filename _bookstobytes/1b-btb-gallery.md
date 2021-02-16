@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Gallery"
+title: Gallery
 permalink: /exhibitions/current-exhibitions/bookstobytes/gallery/
-breadcrumb: "Gallery"
-collection_name: bookstobytes
-second_nav_title: "From Books to Bytes: The Story of the National Library"
+breadcrumb: Gallery
+third_nav_title: 'From Books to Bytes: The Story of the National Library'
 
 ---
+
 
 ![Photo of the front entrance of the From Books to Bytes gallery. The title and information wall is on the left. On the right is the main exhibition with a long cloth banner hanging from the tall ceiling. The banner has selected illustrations from books printed on it.](/images/event-images/frombooks/from-books-to-bytes_gallery_1.jpg)
 
