@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: "Chasing Dreams: Shopping in Old Singapore"
+title: 'Chasing Dreams: Shopping in Old Singapore'
 permalink: /programmes/sellingdreams/children-workshops/
-breadcrumb: "Chasing Dreams: Shopping in Old Singapore"
+breadcrumb: 'Chasing Dreams: Shopping in Old Singapore'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 
