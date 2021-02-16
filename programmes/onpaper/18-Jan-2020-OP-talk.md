@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: 18 January 2020
+title: '18 January 2020'
 permalink: /programmes/onpaper/20200118-talk/
-breadcrumb: "Wilkes Expedition"
+breadcrumb: 'Wilkes Expedition'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 
