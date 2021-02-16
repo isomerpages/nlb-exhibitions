@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Programmes"
+title: Programmes
 permalink: /exhibitions/past-exhibitions/onpaper/programmes/
-breadcrumb: "Programmes"
-collection_name: onpaper
-second_nav_title: "On Paper: Singapore Before 1867"
+breadcrumb: Programmes
+third_nav_title: 'On Paper: Singapore Before 1867'
 
 ---
+
 
 <!-- 
 
