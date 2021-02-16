@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "About"
+title: About
 permalink: /exhibitions/past-exhibitions/onpaper/
-breadcrumb: "About"
-collection_name: onpaper
-second_nav_title: "On Paper: Singapore Before 1867"
+breadcrumb: About
+third_nav_title: 'On Paper: Singapore Before 1867'
 
 ---
+
 
 <section class="section__about">
 <div class="container__card">
