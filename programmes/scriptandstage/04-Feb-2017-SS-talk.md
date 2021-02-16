@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: 4 February 2017
+title: '4 February 2017'
 permalink: /programmes/scriptandstage/20170204-talk/
-breadcrumb: 4 February 2017
+breadcrumb: '4 February 2017'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 
