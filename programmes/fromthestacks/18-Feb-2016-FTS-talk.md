@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title:  18 February 2016
+title: '18 February 2016'
 permalink: /programmes/sellingdreams/20160218-talk/
-breadcrumb: "In Honour of Dead Friends: The Ethics of Antiquarian Book Collecting"
+breadcrumb: 'In Honour of Dead Friends: The Ethics of Antiquarian Book Collecting'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 
