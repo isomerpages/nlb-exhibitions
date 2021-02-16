@@ -1,11 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Past Exhibitions
+title: 'Past Exhibitions'
 permalink: /exhibitions/past-exhibitions/
-breadcrumb: Past Exhibitions
-collection_name: past-exhibitions
+breadcrumb: 'Past Exhibitions'
 
 ---
+
 
 <section class="section__exhibitions">
 
