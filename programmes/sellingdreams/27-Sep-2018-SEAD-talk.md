@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: 27 September 2018
+title: '27 September 2018'
 permalink: /programmes/sellingdreams/20180927-talk/
-breadcrumb: "Survey of Tamil and Malay Ads in 20th century Singapore"
+breadcrumb: 'Survey of Tamil and Malay Ads in 20th century Singapore'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 
