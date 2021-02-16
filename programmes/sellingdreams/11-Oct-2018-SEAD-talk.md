@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: 11 October 2018
+title: '11 October 2018'
 permalink: /programmes/sellingdreams/20181011-talk/
-breadcrumb: "Behind the Dreams: The Curators’ Perspective"
+breadcrumb: 'Behind the Dreams: The Curators’ Perspective'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 
