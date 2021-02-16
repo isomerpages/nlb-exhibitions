@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Resources"
+title: Resources
 permalink: /exhibitions/past-exhibitions/sellingdreams/resources/
-breadcrumb: "Resources"
-collection_name: sellingdreams
-second_nav_title: "Selling Dreams: Early Advertising in Singapore"
+breadcrumb: Resources
+third_nav_title: 'Selling Dreams: Early Advertising in Singapore'
 
 ---
+
 
 The National Library’s collection contains more information available on several of the brands and companies featured in Selling Dreams. Browse through these pages on branding history to discover more resources pertaining to brands and their history in Singapore.
 
