@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Programmes"
+title: Programmes
 permalink: /exhibitions/past-exhibitions/geographic/programmes/
-breadcrumb: "Programmes"
-collection_name: geographic
-second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
+breadcrumb: Programmes
+third_nav_title: 'Geo&#124;Graphic: Celebrating maps and their stories'
 
 ---
+
 
 <!-- 
 
