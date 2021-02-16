@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Exhibition Highlights"
+title: 'Exhibition Highlights'
 permalink: /exhibitions/past-exhibitions/fromthestacks/exhibition-highlights/
-breadcrumb: "Exhibition Highlights"
-collection_name: fromthestacks
-second_nav_title: "From The Stacks: Highlights of the National Library"
+breadcrumb: 'Exhibition Highlights'
+third_nav_title: 'From The Stacks: Highlights of the National Library'
 
 ---
+
 
 <p>Click on the image below for full-view.</p>
 
