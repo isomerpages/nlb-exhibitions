@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "About"
+title: About
 permalink: /exhibitions/past-exhibitions/poetryonplatforms/
-breadcrumb: "About"
-collection_name: poetryonplatforms
-second_nav_title: "Poetry on Platforms: Poems on Singapore"
+breadcrumb: About
+third_nav_title: 'Poetry on Platforms: Poems on Singapore'
 
 ---
+
 
 <section class="section__about">
 <div class="container__card">
