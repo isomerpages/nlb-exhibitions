@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: Public Tours
+title: 'Public Tours'
 permalink: /programmes/sellingdreams/public-tours/
-breadcrumb: Public Tours Tours
+breadcrumb: 'Public Tours Tours'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 
