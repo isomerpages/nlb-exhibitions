@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: Curator’s Tours
+title: 'Curator’s Tours'
 permalink: /programmes/talesofthemalayworld/curator-tours/
-breadcrumb: Curator’s Tours
+breadcrumb: 'Curator’s Tours'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 
