@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "About"
+title: About
 permalink: /exhibitions/past-exhibitions/shakespearesfirstfolio/
-breadcrumb: "About"
-collection_name: shakespearesfirstfolio
-second_nav_title: "Shakespeare in Print: The First Folio"
+breadcrumb: About
+third_nav_title: 'Shakespeare in Print: The First Folio'
 
 ---
+
 
 <section class="section__about">
 <div class="container__card">
