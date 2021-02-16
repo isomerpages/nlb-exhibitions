@@ -1,10 +1,10 @@
 ---
-layout: simple-page
 title: 周末员导览
 permalink: /programmes/anatomyofafreemind/public-tours/
 breadcrumb: 周末员导览
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 
