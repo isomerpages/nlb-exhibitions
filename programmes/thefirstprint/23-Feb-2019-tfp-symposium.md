@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: 23 February 2019
+title: '23 February 2019'
 permalink: /programmes/thefirstprint/20190223-symposium/
-breadcrumb: "TEMASEK AND SINGAPURA: Marvels, Metaphors and Meanings from Sejarah Melayu"
+breadcrumb: 'TEMASEK AND SINGAPURA: Marvels, Metaphors and Meanings from Sejarah Melayu'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 
