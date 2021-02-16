@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: 30 September 2017
+title: '30 September 2017'
 permalink: /programmes/talesofthemalayworld/20170930-talk/
-breadcrumb: "The Script State (Negeri Naskhah) – Malay Manuscripts in Documenting Memories"
+breadcrumb: 'The Script State (Negeri Naskhah) – Malay Manuscripts in Documenting Memories'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 
