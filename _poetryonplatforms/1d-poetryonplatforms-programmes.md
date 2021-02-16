@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Programmes"
+title: Programmes
 permalink: /exhibitions/past-exhibitions/poetryonplatforms/programmes/
-breadcrumb: "Programmes"
-collection_name: poetryonplatforms
-second_nav_title: "Poetry on Platforms: Poems on Singapore"
+breadcrumb: Programmes
+third_nav_title: 'Poetry on Platforms: Poems on Singapore'
 
 ---
+
 
 <!-- 
 
