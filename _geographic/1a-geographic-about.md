@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "About"
+title: About
 permalink: /exhibitions/past-exhibitions/geographic/
-breadcrumb: "About"
-collection_name: geographic
-second_nav_title: "Geo&#124;Graphic: Celebrating maps and their stories"
+breadcrumb: About
+third_nav_title: 'Geo&#124;Graphic: Celebrating maps and their stories'
 
 ---
+
 
 <section class="section__about">
 <div class="container__card">
