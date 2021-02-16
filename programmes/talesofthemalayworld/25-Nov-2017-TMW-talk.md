@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: 25 November 2017
+title: '25 November 2017'
 permalink: /programmes/talesofthemalayworld/20171125-talk/
-breadcrumb: "Malay Manuscript Collection and Early Malay Printing in America and Europe"
+breadcrumb: 'Malay Manuscript Collection and Early Malay Printing in America and Europe'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 
