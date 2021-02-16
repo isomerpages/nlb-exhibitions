@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "About"
+title: About
 permalink: /exhibitions/current-exhibitions/raregallery/
-breadcrumb: "About"
-collection_name: raregallery
-second_nav_title: "The Rare Collection Gallery"
+breadcrumb: About
+third_nav_title: 'The Rare Collection Gallery'
 
 ---
+
 
 <section class="section__about">
 <div class="container__card">
