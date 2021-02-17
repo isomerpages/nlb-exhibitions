@@ -1,80 +1,94 @@
-title: National Library Exhibitions
-title-abbreviated: National Library Exhibitions
-description: "Exhibitions organised by National Library Singapore"
-url: "https://exhibitions.nlb.gov.sg/" # the base hostname & protocol for your site, e.g. http://example.com
-
-# Analytics
+title: 'National Library Exhibitions'
+title-abbreviated: 'National Library Exhibitions'
+description: 'Exhibitions organised by National Library Singapore'
+url: 'https://exhibitions.nlb.gov.sg/'
 google-analytics: UA-50449401-28
-
-# Build settings
-markdown: kramdown
-remote_theme: isomerpages/isomerpages-template
+remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-
 plugins:
-  - jekyll-feed
-  - jekyll-assets
-  - jekyll-sitemap
-
-# Breadcrumbs
-breadcrumbs:
-  root:
-    hide: false  # show breadcrumbs on root/home page
-    image: false # Show image or title text
-
-# Resource Room and Pagination
-resources_name: "exhibitions"
+    - jekyll-feed
+    - jekyll-assets
+    - jekyll-paginate
+    - jekyll-sitemap
+resources_name: exhibitions
 paginate: 12
-paginate_path: "/exhibitons/page:num"
-
-# Homepage sections
-homepage_hero_i_want_to: false
-homepage_resources: false
-
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
-
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-
+paginate_path: '/exhibitons/page:num'
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+exclude:
+    - travis-script.js
+    - .travis.yml
+    - README.md
+    - package.json
+    - package-lock.json
+    - node_modules
+    - vendor/bundle/
+    - vendor/cache/
+    - vendor/gems/
+    - vendor/ruby/
+    - Gemfile
+    - Gemfile.lock
 collections:
-  exhibitions:
-    output: true
-  current-exhibitions:
-    output: true
-  past-exhibitions:
-    output: true
-  newsgallery:
-    output: true
-  newsgallery-virtual:
-    output: true
-  raregallery:
-    output: true
-  onpaper:
-    output: true
-  nldonorsgallery:
-    output: true
-  bookstobytes:
-    output: true
-  centenary:
-    output: true
-  thefirstprint:
-    output: true
-  sellingdreams:
-    output: true
-  talesofthemalayworld:
-    output: true
-  shakespearesfirstfolio:
-    output: true
-  anatomy:
-    output: true
-  scriptandstage:
-    output: true
-  fromthestacks:
-    output: true
-  poetryonplatforms:
-    output: true
-  geographic:
-    output: true
-  slpioneers:
-    output: true
+    exhibitions:
+        output: true
+    current-exhibitions:
+        output: true
+    past-exhibitions:
+        output: true
+    newsgallery:
+        output: true
+    newsgallery-virtual:
+        output: true
+    raregallery:
+        output: true
+    onpaper:
+        output: true
+    nldonorsgallery:
+        output: true
+    bookstobytes:
+        output: true
+    centenary:
+        output: true
+    thefirstprint:
+        output: true
+    sellingdreams:
+        output: true
+    talesofthemalayworld:
+        output: true
+    shakespearesfirstfolio:
+        output: true
+    anatomy:
+        output: true
+    scriptandstage:
+        output: true
+    fromthestacks:
+        output: true
+    poetryonplatforms:
+        output: true
+    geographic:
+        output: true
+    slpioneers:
+        output: true
+favicon: /images/cropped-nlb-favicon_192.png
+google_analytics: null
+permalink: none
+baseurl: ""
+defaults:
+    - scope:
+          path: ""
+      values:
+          layout: page
+colors:
+    primary-color: '#2D3436'
+    secondary-color: '#E21216'
+    media-colors:
+        - title: media-color-one
+          color: '#2d3436'
+        - title: media-color-two
+          color: '#e21216'
+        - title: media-color-three
+          color: '#00838f'
+        - title: media-color-four
+          color: '#00838f'
+        - title: media-color-five
+          color: '#00838f'

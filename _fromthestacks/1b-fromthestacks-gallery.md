@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Gallery"
+title: Gallery
 permalink: /exhibitions/past-exhibitions/fromthestacks/gallery/
-breadcrumb: "Gallery"
-collection_name: fromthestacks
-second_nav_title: "From The Stacks: Highlights of the National Library"
+breadcrumb: Gallery
+third_nav_title: 'From The Stacks: Highlights of the National Library'
 
 ---
+
 
 ![Photo close-up of a small book with a bright red cover. The book's title and author is My Favourite Recipes by Ellice Handy.](/images/event-images/from-the-stacks-onsite/from-the-stacks_gallery_1.jpg)
 

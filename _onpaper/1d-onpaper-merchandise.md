@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Merchandise"
+title: Merchandise
 permalink: /exhibitions/past-exhibitions/onpaper/merchandise/
-breadcrumb: "Merchandise"
-collection_name: onpaper
-second_nav_title: "On Paper: Singapore Before 1867"
+breadcrumb: Merchandise
+third_nav_title: 'On Paper: Singapore Before 1867'
 
 ---
+
 
 
 <section class="section__merch">

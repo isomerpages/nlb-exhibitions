@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Online Exhibition"
+title: 'Online Exhibition'
 permalink: /exhibitions/past-exhibitions/scriptandstage/online-exhibition/
-breadcrumb: "Online Exhibition"
-collection_name: scriptandstage
-second_nav_title: "Script &amp; Stage: Theatre in Singapore from the 50s to 80s"
+breadcrumb: 'Online Exhibition'
+third_nav_title: 'Script &amp; Stage: Theatre in Singapore from the 50s to 80s'
 
 ---
+
 
 <div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
              <div class="container__exh__description">

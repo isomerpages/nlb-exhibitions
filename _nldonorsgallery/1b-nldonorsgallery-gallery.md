@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Gallery"
+title: Gallery
 permalink: /exhibitions/current-exhibitions/nldonorsgallery/gallery/
-breadcrumb: "Gallery"
-collection_name: nldonorsgallery
-second_nav_title: "National Library Donors' Gallery"
+breadcrumb: Gallery
+third_nav_title: 'National Library Donors'' Gallery'
 
 ---
+
 
 ![Photo of the National Library Donors' Gallery title wall.](/images/event-images/donors/donors-gallery_gallery_1.jpg)
 

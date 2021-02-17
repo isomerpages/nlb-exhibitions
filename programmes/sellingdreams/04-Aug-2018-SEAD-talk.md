@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: 4 August 2018
+title: '4 August 2018'
 permalink: /programmes/sellingdreams/20180804-talk/
-breadcrumb: "The Sticky Tricky History of Advertising in Singapore"
+breadcrumb: 'The Sticky Tricky History of Advertising in Singapore'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 

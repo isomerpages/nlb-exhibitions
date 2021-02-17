@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: 24 September 2019
+title: '24 September 2019'
 permalink: /programmes/onpaper/20190924-talk/
-breadcrumb: "Southeast Asian Cosmopolitanism on its Own Terms"
+breadcrumb: 'Southeast Asian Cosmopolitanism on its Own Terms'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 

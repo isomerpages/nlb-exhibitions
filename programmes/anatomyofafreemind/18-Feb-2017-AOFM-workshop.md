@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: 18 February 2017
+title: '18 February 2017'
 permalink: /programmes/anatomyofafreemind/20170218-workshop/
-breadcrumb: 18 February 2017
+breadcrumb: '18 February 2017'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 

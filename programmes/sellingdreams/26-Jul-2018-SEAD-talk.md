@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: 26 July 2018
+title: '26 July 2018'
 permalink: /programmes/sellingdreams/20180726-talk/
-breadcrumb: "Early Advertising in Singapore (Fashion, Hospitality and Entertainment)"
+breadcrumb: 'Early Advertising in Singapore (Fashion, Hospitality and Entertainment)'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 

@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Programmes"
+title: Programmes
 permalink: /exhibitions/past-exhibitions/shakespearesfirstfolio/programmes/
-breadcrumb: "Programmes"
-collection_name: shakespearesfirstfolio
-second_nav_title: "Shakespeare in Print: The First Folio"
+breadcrumb: Programmes
+third_nav_title: 'Shakespeare in Print: The First Folio'
 
 ---
+
 
 <!-- 
 

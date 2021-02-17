@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: 16 January 2020
+title: '16 January 2020'
 permalink: /programmes/onpaper/20200116-talk/
-breadcrumb: "Thomson's Maps of Singapore"
+breadcrumb: 'Thomson''s Maps of Singapore'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 

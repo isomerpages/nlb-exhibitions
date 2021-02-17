@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "About"
+title: About
 permalink: /exhibitions/current-exhibitions/newsgallery/
-breadcrumb: "About"
-collection_name: newsgallery
-second_nav_title: "The News Gallery: Beyond Headlines"
+breadcrumb: About
+third_nav_title: 'The News Gallery: Beyond Headlines'
 
 ---
+
 
 <section class="section__about">
 <div class="container__card">

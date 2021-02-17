@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Terms of Use
+title: 'Terms of Use'
 permalink: /terms-of-use/
-breadcrumb: Terms of Use
+breadcrumb: 'Terms of Use'
+
 ---
+
 #### **Conditions of Use and Copyright & Disclaimer Statement**
 
 Please read these terms and conditions carefully. A reference to this "website" is to [https://exhibitions.nlb.gov.sg](https://memoriesoftwocities.nlb.gov.sg) including but not limited to the information, text, images, links, sound, graphics and video sequences displayed herein (the "Materials").

@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Gallery"
+title: Gallery
 permalink: /exhibitions/past-exhibitions/anatomyofafreemind/gallery/
-breadcrumb: "Gallery"
-collection_name: anatomy
-second_nav_title: "Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations"
+breadcrumb: Gallery
+third_nav_title: 'Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations'
 
 ---
+
 
 ![A photo of the exhibition entrance. In the foreground, there is a narrow archway shaped like a bell. In the background, there is the informational wall.](/images/event-images/aof/anatomy-of-a-free-mind_gallery_11.jpg)
 

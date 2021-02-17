@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: 24 February 2018
+title: '24 February 2018'
 permalink: /programmes/talesofthemalayworld/20180224-talk/
-breadcrumb: "Lithography and the Malay Manuscript Tradition"
+breadcrumb: 'Lithography and the Malay Manuscript Tradition'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 

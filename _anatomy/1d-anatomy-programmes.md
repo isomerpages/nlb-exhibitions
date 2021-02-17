@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Programmes"
+title: Programmes
 permalink: /exhibitions/past-exhibitions/anatomyofafreemind/programmes/
-breadcrumb: "Programmes"
-collection_name: anatomy
-second_nav_title: "Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations"
+breadcrumb: Programmes
+third_nav_title: 'Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations'
 
 ---
+
 
 <!-- 
 

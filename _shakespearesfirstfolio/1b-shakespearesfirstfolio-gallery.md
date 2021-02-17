@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Gallery"
+title: Gallery
 permalink: /exhibitions/past-exhibitions/shakespearesfirstfolio/gallery/
-breadcrumb: "Gallery"
-collection_name: shakespearesfirstfolio
-second_nav_title: "Shakespeare in Print: The First Folio"
+breadcrumb: Gallery
+third_nav_title: 'Shakespeare in Print: The First Folio'
 
 ---
+
 
 ![A photo showing the First Folio. The folio is opened up to a black and white etching of Shakesphere's portrait.](/images/event-images/shakespeare/shakespeare-in-print_gallery_1.jpg)
 

@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: 3 February 2018
+title: '3 February 2018'
 permalink: /programmes/talesofthemalayworld/20180203-workshop/
-breadcrumb: "I Can Compose and Recite Syair!"
+breadcrumb: 'I Can Compose and Recite Syair!'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 

@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title:  2016年1月30日 / 30 January 2016
+title: '2016年1月30日 / 30 January 2016'
 permalink: /programmes/sellingdreams/20160130-talk/
-breadcrumb: "2016年1月30日 / 30 January 2016"
+breadcrumb: '2016年1月30日 / 30 January 2016'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 

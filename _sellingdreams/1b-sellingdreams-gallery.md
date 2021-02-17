@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Gallery"
+title: Gallery
 permalink: /exhibitions/past-exhibitions/sellingdreams/gallery/
-breadcrumb: "Gallery"
-collection_name: sellingdreams
-second_nav_title: "Selling Dreams: Early Advertising in Singapore"
+breadcrumb: Gallery
+third_nav_title: 'Selling Dreams: Early Advertising in Singapore'
 
 ---
+
 
 ![Photo of the exhibition introduction wall. A trivision-style video is projected onto the wall, next to the introduction text.](/images/event-images/sellingdreamsonsite/selling-dreams_gallery_1.jpg)
 

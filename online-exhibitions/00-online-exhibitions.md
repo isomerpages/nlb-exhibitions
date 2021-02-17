@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: Online Exhibitions
+title: 'Online Exhibitions'
 permalink: /exhibitions/online-exhibitions/
-breadcrumb: Online Exhibitions
+breadcrumb: 'Online Exhibitions'
 
 ---
+
 
 <section class="section__online">
 

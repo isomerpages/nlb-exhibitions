@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Exhibition Highlights"
+title: 'Exhibition Highlights'
 permalink: /exhibitions/past-exhibitions/onpaper/exhibition-highlights/
-breadcrumb: "Exhibition Highlights"
-collection_name: onpaper
-second_nav_title: "On Paper: Singapore Before 1867"
+breadcrumb: 'Exhibition Highlights'
+third_nav_title: 'On Paper: Singapore Before 1867'
 
 ---
+
 
 <p>Click on the image below for full-view.</p>
 

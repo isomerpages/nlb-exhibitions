@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: 19 January 2018
+title: '19 January 2018'
 permalink: /programmes/sellingdreams/20190119-talk/
-breadcrumb: "The Journey of a Mad Man"
+breadcrumb: 'The Journey of a Mad Man'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 

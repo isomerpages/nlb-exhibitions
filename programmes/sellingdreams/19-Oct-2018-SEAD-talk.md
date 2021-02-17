@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: 19 October 2018
+title: '19 October 2018'
 permalink: /programmes/sellingdreams/20181019-talk/
-breadcrumb: "幸福青春梦：1880年代至1960年代新加坡华文报纸广告中的爱与性"
+breadcrumb: 幸福青春梦：1880年代至1960年代新加坡华文报纸广告中的爱与性
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 

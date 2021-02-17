@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Gallery"
+title: Gallery
 permalink: /exhibitions/past-exhibitions/centenary/gallery/
-breadcrumb: "Gallery"
-collection_name: centenary
-second_nav_title: "1919: The Singapore Centenary and its Celebration"
+breadcrumb: Gallery
+third_nav_title: '1919: The Singapore Centenary and its Celebration'
 
 ---
+
 
 ![Photo of the showcases, with books inside. They are opened up, and the book closest to the foreground has an image of Sir Stamford Raffles. The book next to it has a photograph of a crowd.](/images/event-images/centenary/1919-Centenary-gallery_1.jpg)
 

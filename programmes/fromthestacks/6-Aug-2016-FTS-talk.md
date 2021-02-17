@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title:  6 August 2016
+title: '6 August 2016'
 permalink: /programmes/sellingdreams/20160806-talk/
-breadcrumb: "Heritage Food Talk &amp; Cooking Demonstration"
+breadcrumb: 'Heritage Food Talk &amp; Cooking Demonstration'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 

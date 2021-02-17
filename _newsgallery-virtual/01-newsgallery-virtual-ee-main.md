@@ -1,11 +1,10 @@
 ---
-layout: leftnav-page-content
-title: "Early Editions"
+title: 'Early Editions'
 permalink: /exhibitions/current-exhibitions/newsgallery/virtual-gallery/early-editions/
-breadcrumb: "Early Editions"
-collection_name: newsgallery-virtual
+breadcrumb: 'Early Editions'
 
 ---
+
 
 <div class="container" style="margin-bottom: 40px;">
 <p>Watch the video below to hear the fascinating stories of four  early newspapers in Singapore, and learn about their formation, development and significance in the press history of the country.</p>

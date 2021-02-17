@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: "17 & 18 Aug 2018, 24 & 25 Aug 2018"
+title: '17 & 18 Aug 2018, 24 & 25 Aug 2018'
 permalink: /programmes/sellingdreams/nightfest/
-breadcrumb: "Selling Dreams @ Singapore Night Festival"
+breadcrumb: 'Selling Dreams @ Singapore Night Festival'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 

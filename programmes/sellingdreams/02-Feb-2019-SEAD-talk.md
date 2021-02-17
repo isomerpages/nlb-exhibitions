@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: 2 February 2018
+title: '2 February 2018'
 permalink: /programmes/sellingdreams/20190202-talk/
-breadcrumb: "Selling Utopia: The Good Life as a Commodity in Singapore’s Early Advertisements"
+breadcrumb: 'Selling Utopia: The Good Life as a Commodity in Singapore’s Early Advertisements'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 

@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Resources"
+title: Resources
 permalink: /exhibitions/past-exhibitions/talesofthemalayworld/resources/
-breadcrumb: "Resources"
-collection_name: talesofthemalayworld
-second_nav_title: "Tales of the Malay World: Manuscripts and Early Books"
+breadcrumb: Resources
+third_nav_title: 'Tales of the Malay World: Manuscripts and Early Books'
 
 ---
+
 
 #### Digitised Malay Manuscripts
 

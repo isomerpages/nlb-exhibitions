@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Programmes"
+title: Programmes
 permalink: /exhibitions/past-exhibitions/talesofthemalayworld/programmes/
-breadcrumb: "Programmes"
-collection_name: talesofthemalayworld
-second_nav_title: "Tales of the Malay World: Manuscripts and Early Books"
+breadcrumb: Programmes
+third_nav_title: 'Tales of the Malay World: Manuscripts and Early Books'
 
 ---
+
 
 <!-- 
 

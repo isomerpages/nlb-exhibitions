@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Exhibition Highlights"
+title: 'Exhibition Highlights'
 permalink: /exhibitions/current-exhibitions/raregallery/exhibition-highlights/
-breadcrumb: "Exhibition Highlights"
-collection_name: raregallery
-second_nav_title: "The Rare Collection Gallery"
+breadcrumb: 'Exhibition Highlights'
+third_nav_title: 'The Rare Collection Gallery'
 
 ---
+
 
 ![An open book, showcasing a coloured illustration of a dancing woman in traditional garb.](/images/event-images/rarecollection/the-rare-collection-gallery-the-history-of-java.jpg)
 

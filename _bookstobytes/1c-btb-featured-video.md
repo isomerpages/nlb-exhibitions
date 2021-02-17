@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Featured Video"
+title: 'Featured Video'
 permalink: /exhibitions/current-exhibitions/bookstobytes/featured-video/
-breadcrumb: "Featured Video"
-collection_name: bookstobytes
-second_nav_title: "From Books to Bytes: The Story of the National Library"
+breadcrumb: 'Featured Video'
+third_nav_title: 'From Books to Bytes: The Story of the National Library'
 
 ---
+
 
 #### The mobile library, 1960s
 

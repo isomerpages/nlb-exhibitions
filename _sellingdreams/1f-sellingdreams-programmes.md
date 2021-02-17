@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Programmes"
+title: Programmes
 permalink: /exhibitions/past-exhibitions/sellingdreams/programmes/
-breadcrumb: "Programmes"
-collection_name: sellingdreams
-second_nav_title: "Selling Dreams: Early Advertising in Singapore"
+breadcrumb: Programmes
+third_nav_title: 'Selling Dreams: Early Advertising in Singapore'
 
 ---
+
 
 <!-- 
 

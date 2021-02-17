@@ -1,10 +1,10 @@
 ---
-layout: simple-page
 title: Programmes
 permalink: /programmes/
 breadcrumb: Programmes
 
 ---
+
 
 <!--
 

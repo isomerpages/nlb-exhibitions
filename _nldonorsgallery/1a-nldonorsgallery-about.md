@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "About"
+title: About
 permalink: /exhibitions/current-exhibitions/nldonorsgallery/
-breadcrumb: "About"
-collection_name: nldonorsgallery
-second_nav_title: "National Library Donors' Gallery"
+breadcrumb: About
+third_nav_title: 'National Library Donors'' Gallery'
 
 ---
+
 
 <section class="section__about">
 <div class="container__card">

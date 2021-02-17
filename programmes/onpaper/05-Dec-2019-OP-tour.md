@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: 5 December 2019
+title: '5 December 2019'
 permalink: /programmes/onpaper/20201205-tour/
-breadcrumb: "On Paper: A Special Maps Tour"
+breadcrumb: 'On Paper: A Special Maps Tour'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 

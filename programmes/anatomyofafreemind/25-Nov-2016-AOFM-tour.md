@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: Artist’s Tour
+title: 'Artist’s Tour'
 permalink: /programmes/anatomyofafreemind/artist-tour/
-breadcrumb: Artist’s Tour
+breadcrumb: 'Artist’s Tour'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 

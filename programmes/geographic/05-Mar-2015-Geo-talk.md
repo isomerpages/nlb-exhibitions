@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: 5 March 2015
+title: '5 March 2015'
 permalink: /programmes/geographic/20150305-talk/
-breadcrumb: "Cartography at National Geographic: From Crow Quill Pen to Computer"
+breadcrumb: 'Cartography at National Geographic: From Crow Quill Pen to Computer'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 

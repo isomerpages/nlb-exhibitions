@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Gallery"
+title: Gallery
 permalink: /exhibitions/past-exhibitions/singaporeliterarypioneers/gallery/
-breadcrumb: "Gallery"
-collection_name: slpioneers
-second_nav_title: "Singapore Literary Pioneers"
+breadcrumb: Gallery
+third_nav_title: 'Singapore Literary Pioneers'
 
 ---
+
 
 ![Photo of the Singapore Literary Pioneers front entrance. A sign with a title hangs from the very tall ceiling above. There is a white chair and table with a typewriter on a small platform underneath it. On its left is a bookshelf.](/images/event-images/lpg/singapore-literary-pioneers_gallery_1.jpg)
 

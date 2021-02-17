@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: 24 November 2018
+title: '24 November 2018'
 permalink: /programmes/sellingdreams/20181124-talk/
-breadcrumb: "A.I. – The Future of Advertising (But it’s not what you think)"
+breadcrumb: 'A.I. – The Future of Advertising (But it’s not what you think)'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 

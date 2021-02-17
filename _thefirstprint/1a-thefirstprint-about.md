@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "About"
+title: About
 permalink: /exhibitions/past-exhibitions/thefirstprint/
-breadcrumb: "About"
-collection_name: thefirstprint
-second_nav_title: "The First Print: Stories and Legends of Early Singapore"
+breadcrumb: About
+third_nav_title: 'The First Print: Stories and Legends of Early Singapore'
 
 ---
+
 
 <section class="section__about">
 <div class="container__card">

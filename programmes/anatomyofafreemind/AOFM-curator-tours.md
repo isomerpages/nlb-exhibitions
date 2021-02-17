@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: Curator’s Tours 策展员导览
+title: 'Curator’s Tours 策展员导览'
 permalink: /programmes/anatomyofafreemind/curator-tours/
-breadcrumb: Curator’s Tours 策展员导览
+breadcrumb: 'Curator’s Tours 策展员导览'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 

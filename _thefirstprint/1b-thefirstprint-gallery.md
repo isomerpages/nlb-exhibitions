@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Gallery"
+title: Gallery
 permalink: /exhibitions/past-exhibitions/thefirstprint/gallery/
-breadcrumb: "Gallery"
-collection_name: thefirstprint
-second_nav_title: "The First Print: Stories and Legends of Early Singapore"
+breadcrumb: Gallery
+third_nav_title: 'The First Print: Stories and Legends of Early Singapore'
 
 ---
+
 
 ![Photo of the title and introduction wall.](/images/event-images/the-first-print/the-first-print_gallery_1.jpg)
 

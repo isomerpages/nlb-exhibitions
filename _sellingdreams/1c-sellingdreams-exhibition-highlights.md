@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Exhibition Highlights"
+title: 'Exhibition Highlights'
 permalink: /exhibitions/past-exhibitions/sellingdreams/exhibition-highlights/
-breadcrumb: "Exhibition Highlights"
-collection_name: sellingdreams
-second_nav_title: "Selling Dreams: Early Advertising in Singapore"
+breadcrumb: 'Exhibition Highlights'
+third_nav_title: 'Selling Dreams: Early Advertising in Singapore'
 
 ---
+
 
 <p>Click on the images below for full-view.</p>
 

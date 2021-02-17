@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Be a Donor"
+title: 'Be a Donor'
 permalink: /exhibitions/current-exhibitions/nldonorsgallery/be-a-donor/
-breadcrumb: "Be a Donor"
-collection_name: nldonorsgallery
-second_nav_title: "National Library Donors' Gallery"
+breadcrumb: 'Be a Donor'
+third_nav_title: 'National Library Donors'' Gallery'
 
 ---
+
 
 #### Be a Donor
 
