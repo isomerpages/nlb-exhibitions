@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: 28 September 2019
+title: '28 September 2019'
 permalink: /programmes/onpaper/20190928-talk/
-breadcrumb: "The Orang Laut in the Realm of the Straits (Negara Selat)"
+breadcrumb: 'The Orang Laut in the Realm of the Straits (Negara Selat)'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 

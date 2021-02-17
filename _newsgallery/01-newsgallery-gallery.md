@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Gallery"
+title: Gallery
 permalink: /exhibitions/current-exhibitions/newsgallery/gallery/
-breadcrumb: "Gallery"
-collection_name: newsgallery
-second_nav_title: "The News Gallery: Beyond Headlines"
+breadcrumb: Gallery
+third_nav_title: 'The News Gallery: Beyond Headlines'
 
 ---
+
 
 ![Photo of the News Gallery's introduction wall. Tall multimedia touchscreens next to it are featuring 'behind the scenes' information on news articles.](/images/event-images/newsgallery/news-gallery-image_1.jpg)
 

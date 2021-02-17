@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "About"
+title: About
 permalink: /exhibitions/past-exhibitions/singaporeliterarypioneers/
-breadcrumb: "About"
-collection_name: slpioneers
-second_nav_title: "Singapore Literary Pioneers"
+breadcrumb: About
+third_nav_title: 'Singapore Literary Pioneers'
 
 ---
+
 
 <section class="section__about">
 <div class="container__card">

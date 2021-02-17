@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Gallery"
+title: Gallery
 permalink: /exhibitions/past-exhibitions/poetryonplatforms/gallery/
-breadcrumb: "Gallery"
-collection_name: poetryonplatforms
-second_nav_title: "Poetry on Platforms: Poems on Singapore"
+breadcrumb: Gallery
+third_nav_title: 'Poetry on Platforms: Poems on Singapore'
 
 ---
+
 
 ![Photo of the illustrated title graphic on a MRT door.](/images/event-images/poetry-on-platforms/poetry-on-platforms_gallery_1.jpg)
 

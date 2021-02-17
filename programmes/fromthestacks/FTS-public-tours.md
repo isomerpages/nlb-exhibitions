@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: Public Tours
+title: 'Public Tours'
 permalink: /programmes/fromthestacks/public-tours/
-breadcrumb: Public Tours
+breadcrumb: 'Public Tours'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 

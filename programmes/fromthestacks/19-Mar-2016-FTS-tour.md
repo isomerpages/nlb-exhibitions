@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title:  19 March 2016
+title: '19 March 2016'
 permalink: /programmes/sellingdreams/20160319-tour/
-breadcrumb: "Birdwatching &amp; Exhibition Tour with Nature Society Singapore (NSS)"
+breadcrumb: 'Birdwatching &amp; Exhibition Tour with Nature Society Singapore (NSS)'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 

@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title:  16 April 2016
+title: '16 April 2016'
 permalink: /programmes/sellingdreams/20160416-talk/
-breadcrumb: "Conservation Talk by National Archives of Singapore (NAS)"
+breadcrumb: 'Conservation Talk by National Archives of Singapore (NAS)'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 

@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title:  21 January 2015
+title: '21 January 2015'
 permalink: /programmes/geographic/20150121-talk/
-breadcrumb: "The Spice Islands’ Impact on the Mapping of the World"
+breadcrumb: 'The Spice Islands’ Impact on the Mapping of the World'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 

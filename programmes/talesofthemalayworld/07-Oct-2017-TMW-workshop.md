@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: 7 October 2017
+title: '7 October 2017'
 permalink: /programmes/talesofthemalayworld/20171007-workshop/
-breadcrumb: "Basic Jawi in Minutes!"
+breadcrumb: 'Basic Jawi in Minutes!'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 

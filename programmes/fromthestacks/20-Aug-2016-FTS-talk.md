@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title:  20 August 2016
+title: '20 August 2016'
 permalink: /programmes/sellingdreams/20160820-talk/
-breadcrumb: "Picturing the Past: 19th-century Photographs of Singapore"
+breadcrumb: 'Picturing the Past: 19th-century Photographs of Singapore'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 

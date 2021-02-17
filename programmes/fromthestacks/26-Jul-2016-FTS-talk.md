@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title:  26 July 2016
+title: '26 July 2016'
 permalink: /programmes/sellingdreams/20160726-talk/
-breadcrumb: "Chinese Identity and Loyalty in Singapore in the 19th and 20th Centuries"
+breadcrumb: 'Chinese Identity and Loyalty in Singapore in the 19th and 20th Centuries'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 

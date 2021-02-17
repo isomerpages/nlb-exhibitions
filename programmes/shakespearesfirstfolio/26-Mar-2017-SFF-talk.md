@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: 26 March 2017
+title: '26 March 2017'
 permalink: /programmes/shakespearesfirstfolio/20170326-talk/
-breadcrumb: "Comedies, Histories and Tragedies: Public Talk"
+breadcrumb: 'Comedies, Histories and Tragedies: Public Talk'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 

@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: "Children’s Workshop &#124; The People of Early Singapore"
+title: 'Children’s Workshop &#124; The People of Early Singapore'
 permalink: /programmes/onpaper/children-workshops/
-breadcrumb: "Children’s Workshop &#124; The People of Early Singapore"
+breadcrumb: 'Children’s Workshop &#124; The People of Early Singapore'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 

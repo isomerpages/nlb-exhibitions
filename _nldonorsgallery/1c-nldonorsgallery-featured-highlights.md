@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Featured Highlight"
+title: 'Featured Highlight'
 permalink: /exhibitions/current-exhibitions/nldonorsgallery/featured-highlight/
-breadcrumb: "Featured Highlight"
-collection_name: nldonorsgallery
-second_nav_title: "National Library Donors' Gallery"
+breadcrumb: 'Featured Highlight'
+third_nav_title: 'National Library Donors'' Gallery'
 
 ---
+
 
 ![Photo of a wall, featuring old photos of city areas that were taken by Lee Kip Lin.](/images/event-images/donors/donors-gallery_featured_1.jpg)
 

@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Resources"
+title: Resources
 permalink: /exhibitions/past-exhibitions/poetryonplatforms/resources/
-breadcrumb: "Resources"
-collection_name: poetryonplatforms
-second_nav_title: "Poetry on Platforms: Poems on Singapore"
+breadcrumb: Resources
+third_nav_title: 'Poetry on Platforms: Poems on Singapore'
 
 ---
+
 
 <a href="https://www.facebook.com/media/set/?set=a.803222086464802.1073741842.219541704832846&type=3" style="color:#E21216;">Click here</a> to read entries from the Be a Poetry on Platforms Star Poet Contest.
 

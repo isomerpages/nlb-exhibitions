@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "About"
+title: About
 permalink: /exhibitions/current-exhibitions/bookstobytes/
-breadcrumb: "About"
-collection_name: bookstobytes
-second_nav_title: "From Books to Bytes: The Story of the National Library"
+breadcrumb: About
+third_nav_title: 'From Books to Bytes: The Story of the National Library'
 
 ---
+
 
 <section class="section__about">
 <div class="container__card">

@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Resources"
+title: Resources
 permalink: /exhibitions/past-exhibitions/shakespearesfirstfolio/resources/
-breadcrumb: "Resources"
-collection_name: shakespearesfirstfolio
-second_nav_title: "Shakespeare in Print: The First Folio"
+breadcrumb: Resources
+third_nav_title: 'Shakespeare in Print: The First Folio'
 
 ---
+
 
 #### The Bodleian First Folio
 

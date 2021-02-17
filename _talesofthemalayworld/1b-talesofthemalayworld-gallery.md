@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Gallery"
+title: Gallery
 permalink: /exhibitions/past-exhibitions/talesofthemalayworld/gallery/
-breadcrumb: "Gallery"
-collection_name: talesofthemalayworld
-second_nav_title: "Tales of the Malay World: Manuscripts and Early Books"
+breadcrumb: Gallery
+third_nav_title: 'Tales of the Malay World: Manuscripts and Early Books'
 
 ---
+
 
 ![A graphic styled like an illustrated manuscript. The title in the middle is 'Tales of the Malay World: Manuscripts and Early Books'.](/images/event-images/tmw/tales-of-the-malay-world_gallery_1.jpg)
 

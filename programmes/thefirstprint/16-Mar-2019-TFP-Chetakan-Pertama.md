@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: 16 March 2019
+title: '16 March 2019'
 permalink: /programmes/thefirstprint/20190316-chetakan-pertama/
-breadcrumb: "Kisah-Kisah Abadi: Nilai, Bahasa dan Wanita dalam Kesusasteraan Melayu Tradisional"
+breadcrumb: 'Kisah-Kisah Abadi: Nilai, Bahasa dan Wanita dalam Kesusasteraan Melayu Tradisional'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 

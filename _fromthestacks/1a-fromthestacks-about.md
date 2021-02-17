@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "About"
+title: About
 permalink: /exhibitions/past-exhibitions/fromthestacks/
-breadcrumb: "About"
-collection_name: fromthestacks
-second_nav_title: "From The Stacks: Highlights of the National Library"
+breadcrumb: About
+third_nav_title: 'From The Stacks: Highlights of the National Library'
 
 ---
+
 
 <section class="section__about">
 <div class="container__card">

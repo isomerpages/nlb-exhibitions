@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Gallery"
+title: Gallery
 permalink: /exhibitions/past-exhibitions/scriptandstage/gallery/
-breadcrumb: "Gallery"
-collection_name: scriptandstage
-second_nav_title: "Script &amp; Stage: Theatre in Singapore from the 50s to 80s"
+breadcrumb: Gallery
+third_nav_title: 'Script &amp; Stage: Theatre in Singapore from the 50s to 80s'
 
 ---
+
 
 ![A photo showing the entrance of Script & Stage.](/images/event-images/script-and-stage-onsite/script-and-stage_gallery_1.jpg)
 

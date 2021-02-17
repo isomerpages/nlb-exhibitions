@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Virtual Gallery"
+title: 'Virtual Gallery'
 permalink: /exhibitions/current-exhibitions/newsgallery/virtual-gallery/
-breadcrumb: "Virtual Gallery"
-collection_name: newsgallery
-second_nav_title: "The News Gallery: Beyond Headlines"
+breadcrumb: 'Virtual Gallery'
+third_nav_title: 'The News Gallery: Beyond Headlines'
 
 ---
+
 
 <p style="padding-bottom: 10px;">Welcome to the Virtual News Gallery, which features highlights from the <a href="/exhibitions/current-exhibitions/newsgallery/" style="color:#E21216;">main exhibition at the National Library</a>.</p>
 

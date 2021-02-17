@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: 19 February 2018
+title: '19 February 2018'
 permalink: /programmes/sellingdreams/20190219-talk/
-breadcrumb: "Japanese Brand Presence in Singapore Since the 19th Century"
+breadcrumb: 'Japanese Brand Presence in Singapore Since the 19th Century'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 

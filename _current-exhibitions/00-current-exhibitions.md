@@ -1,11 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Current Exhibitions
+title: 'Current Exhibitions'
 permalink: /exhibitions/current-exhibitions/
-breadcrumb: Current Exhibitions
-collection_name: current-exhibitions
+breadcrumb: 'Current Exhibitions'
 
 ---
+
 
 <!-- COVID advisory -->
 

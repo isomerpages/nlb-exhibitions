@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Gallery"
+title: Gallery
 permalink: /exhibitions/past-exhibitions/onpaper/gallery/
-breadcrumb: "Gallery"
-collection_name: onpaper
-second_nav_title: "On Paper: Singapore Before 1867"
+breadcrumb: Gallery
+third_nav_title: 'On Paper: Singapore Before 1867'
 
 ---
+
 
 ![Photo of the Mao Kun Map.](/images/event-images/onpaper/On-Paper_gallery_2.jpg)
 

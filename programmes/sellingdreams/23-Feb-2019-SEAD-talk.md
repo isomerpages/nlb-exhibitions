@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: 24 February 2018
+title: '24 February 2018'
 permalink: /programmes/sellingdreams/20190224-talk/
-breadcrumb: "Decoding Advertisements: The Semiotics of Print Advertisements"
+breadcrumb: 'Decoding Advertisements: The Semiotics of Print Advertisements'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 

@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: 25 April 2015
+title: '25 April 2015'
 permalink: /programmes/geographic/20150425-talk/
-breadcrumb: "Changing Landscapes of Singapore"
+breadcrumb: 'Changing Landscapes of Singapore'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 

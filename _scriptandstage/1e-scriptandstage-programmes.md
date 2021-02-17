@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Programmes"
+title: Programmes
 permalink: /exhibitions/past-exhibitions/scriptandstage/programmes/
-breadcrumb: "Programmes"
-collection_name: scriptandstage
-second_nav_title: "Script &amp; Stage: Theatre in Singapore from the 50s to 80s"
+breadcrumb: Programmes
+third_nav_title: 'Script &amp; Stage: Theatre in Singapore from the 50s to 80s'
 
 ---
+
 
 <!-- 
 

@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title:  7 May 2016
+title: '7 May 2016'
 permalink: /programmes/sellingdreams/20160507-talk/
-breadcrumb: "From Priest to an Islamic Reformer"
+breadcrumb: 'From Priest to an Islamic Reformer'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 

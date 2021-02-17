@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "About"
+title: About
 permalink: /exhibitions/past-exhibitions/talesofthemalayworld/
-breadcrumb: "About"
-collection_name: talesofthemalayworld
-second_nav_title: "Tales of the Malay World: Manuscripts and Early Books"
+breadcrumb: About
+third_nav_title: 'Tales of the Malay World: Manuscripts and Early Books'
 
 ---
+
 
 <section class="section__about">
 <div class="container__card">

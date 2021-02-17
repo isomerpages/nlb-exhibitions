@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: 2 December 2017
+title: '2 December 2017'
 permalink: /programmes/talesofthemalayworld/20171202-screening/
-breadcrumb: "Malay Magic and Divination Manuscripts"
+breadcrumb: 'Malay Magic and Divination Manuscripts'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 

@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Exhibition Highlights"
+title: 'Exhibition Highlights'
 permalink: /exhibitions/past-exhibitions/anatomyofafreemind/exhibition-highlights/
-breadcrumb: "Exhibition Highlights"
-collection_name: anatomy
-second_nav_title: "Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations"
+breadcrumb: 'Exhibition Highlights'
+third_nav_title: 'Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations'
 
 ---
+
 
 <p>Click on the images below for full-view.</p>
 

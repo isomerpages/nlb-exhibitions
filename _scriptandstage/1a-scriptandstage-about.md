@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "About"
+title: About
 permalink: /exhibitions/past-exhibitions/scriptandstage/
-breadcrumb: "About"
-collection_name: scriptandstage
-second_nav_title: "Script &amp; Stage: Theatre in Singapore from the 50s to 80s"
+breadcrumb: About
+third_nav_title: 'Script &amp; Stage: Theatre in Singapore from the 50s to 80s'
 
 ---
+
 
 <section class="section__about">
 <div class="container__card">

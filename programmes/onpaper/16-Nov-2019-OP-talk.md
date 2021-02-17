@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: 16 November 2019
+title: '16 November 2019'
 permalink: /programmes/onpaper/20191116-talk/
-breadcrumb: "Early Singapore Through the Lens of Colonial Artists"
+breadcrumb: 'Early Singapore Through the Lens of Colonial Artists'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 

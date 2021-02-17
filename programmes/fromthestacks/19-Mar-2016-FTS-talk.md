@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title:  19 March 2016
+title: '19 March 2016'
 permalink: /programmes/sellingdreams/20160319-talk/
-breadcrumb: "Art and Cartoons about the Japanese Occupation in Singapore and Malaysia"
+breadcrumb: 'Art and Cartoons about the Japanese Occupation in Singapore and Malaysia'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 

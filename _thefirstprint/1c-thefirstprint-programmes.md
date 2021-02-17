@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "Programmes"
+title: Programmes
 permalink: /exhibitions/past-exhibitions/thefirstprint/programmes/
-breadcrumb: "Programmes"
-collection_name: thefirstprint
-second_nav_title: "The First Print: Stories and Legends of Early Singapore"
+breadcrumb: Programmes
+third_nav_title: 'The First Print: Stories and Legends of Early Singapore'
 
 ---
+
 
 <!-- 
 

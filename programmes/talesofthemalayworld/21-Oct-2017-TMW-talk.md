@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: 21 October 2017
+title: '21 October 2017'
 permalink: /programmes/talesofthemalayworld/20171021-talk/
-breadcrumb: "Hang Tuah in a Time of Independence: Malay Texts in the 1950s and 1960s"
+breadcrumb: 'Hang Tuah in a Time of Independence: Malay Texts in the 1950s and 1960s'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 

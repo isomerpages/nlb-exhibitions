@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title:  25 July 2015
+title: '25 July 2015'
 permalink: /programmes/poetryonplatforms/20150725-talk/
-breadcrumb: "Poetry on Platforms Talk"
+breadcrumb: 'Poetry on Platforms Talk'
 
 ---
+
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 

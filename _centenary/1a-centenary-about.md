@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: "About"
+title: About
 permalink: /exhibitions/past-exhibitions/centenary/
-breadcrumb: "About"
-collection_name: centenary
-second_nav_title: "1919: The Singapore Centenary and its Celebration"
+breadcrumb: About
+third_nav_title: '1919: The Singapore Centenary and its Celebration'
 
 ---
+
 
 <section class="section__about">
 <div class="container__card">
