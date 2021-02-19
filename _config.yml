@@ -2,7 +2,7 @@ title: 'National Library Exhibitions'
 title-abbreviated: 'National Library Exhibitions'
 description: 'Exhibitions organised by National Library Singapore'
 url: 'https://exhibitions.nlb.gov.sg/'
-google-analytics: UA-50449401-28
+google_analytics: UA-50449401-28
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 plugins:
