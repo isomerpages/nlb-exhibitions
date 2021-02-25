@@ -1,6 +1,6 @@
 ---
 title: About
-permalink: /exhibitions/past-exhibitions/humanxnature/
+permalink: /exhibitions/current-exhibitions/humanxnature/
 breadcrumb: About
 third_nav_title: 'Human x Nature'
 
