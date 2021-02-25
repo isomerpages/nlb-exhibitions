@@ -69,6 +69,8 @@ collections:
         output: true
     slpioneers:
         output: true
+    humanxnature:
+        output: true
 favicon: /images/cropped-nlb-favicon_192.png
 google_analytics: null
 permalink: none
