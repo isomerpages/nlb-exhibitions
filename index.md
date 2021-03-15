@@ -32,7 +32,7 @@ sections:
           subtitle: null
           description: "Singapore’s natural environment, as we know and experience today, is the result of a long history of knowledge gathering, plantation agriculture and attempts at rehabilitation. This exhibition explores our relationships with the natural world from cultural understandings and scientific study to commercial and urban land use, as well as conservation and restoration."
           url: /exhibitions/current-exhibitions/humanxnature
-          image: /images/event-images/newsgallery/Homepage_exh-highlight_HxN.jpg
+          image: /images/event-images/humanxnature/Homepage_exh-highlight_HxN.jpg
           alt: 'A painted drawing of a bird'
           button: 'More Information'
     - infopic:
