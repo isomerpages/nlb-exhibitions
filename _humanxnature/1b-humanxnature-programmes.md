@@ -1,21 +1,33 @@
 ---
 title: Programmes
-permalink: /programmes/
+permalink: /exhibitions/current-exhibitions/humanxnature/programmes/
 breadcrumb: Programmes
+third_nav_title: 'Human x Nature'
 
 ---
 
 
-<!--
+<!-- 
 
-Programmes to be divided by exhibition sections.
+Colours
+Upcoming: default colour
+Past: #c1c1c1
+
+<table class="table table-v">
+    <tr>
+        <td style="background-color: #c1c1c1;">Date<br>
+            &mdash;<br>
+            Time</td>
+        <td>
+            <p>Title</p>
+            <p><a href="#">Description</a></p>
+        </td>
+    </tr>
+</table>
 
 -->
 
-
 <h2>Upcoming programmes</h2>
-
-<h3>Human x Nature: Environmental Histories of Singapore</h3>
 
 <table class="table table-v">
     <tr>
@@ -55,3 +67,8 @@ Programmes to be divided by exhibition sections.
         </td>
     </tr>
 </table>
+
+<!--
+<h2>Past programmes</h2>
+-->
+
