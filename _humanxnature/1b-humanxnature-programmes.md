@@ -49,7 +49,7 @@ Past: #c1c1c1
         </td>
     </tr>  
     <tr>
-        <td></td>Various dates<br>
+        <td>Various dates<br>
             &mdash;<br>
             7:00pm</td>
         <td>

@@ -58,7 +58,7 @@ Past: #c1c1c1
         </td>
     </tr>  
     <tr>
-        <td></td>Various dates<br>
+        <td>Various dates<br>
             &mdash;<br>
             7:00pm</td>
         <td>
@@ -109,6 +109,19 @@ Past: #c1c1c1
         <td>
             <p>Histories: Singapore’s Climate in the Past, Present and Future</p>
             <p><a href="https://www.eventbrite.com/e/histories-singapores-climate-in-the-past-present-and-future-registration-149105383215?aff=ebcollection&keep_tld=1">Register here</a></p>
+        </td>
+    </tr>
+</table>
+
+<h2>Past programmes</h2>
+<table class="table table-v">
+    <tr>
+        <td style="background-color: #c1c1c1;">17 Mar<br>
+            &mdash;<br>
+            6:00pm</td>
+        <td>
+            <p>Histories: Tracking Otters in Singapore</p>
+            <p><a href="https://www.eventbrite.com/e/histories-tracking-otters-in-singapore-registration-144389118741?aff=ebcollection&keep_tld=1">The event has ended.</a></p>
         </td>
     </tr>
 </table>
