@@ -84,6 +84,20 @@ third_nav_title: 'Human x Nature'
     </div>
 </div>
 
+<div class="container__downloads">
+    <div class="row">
+        <div class="col is-full padding--top--lg">
+            <h4>Brochure</h4>
+            <p style="margin-top: 5px;">Download the brochure below:</p>
+                    <ul style="list-style: none; margin-left: 5px; color: #E21216">
+                        <li style="margin-bottom: 1rem;">
+                            <a href="/files/humanxnature/Human x Nature digital brochure.pdf" style="color:#E21216;">English exhibition brochure (1.88mb)</a>
+                        </li>                          
+                    </ul>
+        </div>
+    </div>
+</div>
+
 <div class="container__card">
     <!--
     <div class="row">
