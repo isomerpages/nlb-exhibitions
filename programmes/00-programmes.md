@@ -36,7 +36,7 @@ Past: #c1c1c1
         </div>
     </div>
 </div>
-<h3>Human x Nature: Environmental Histories of Singapore</h3>
+<h3 style="margin-top: 12px;">Human x Nature: Environmental Histories of Singapore</h3>
 
 <table class="table table-v">
     <tr>
