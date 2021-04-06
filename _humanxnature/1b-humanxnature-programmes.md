@@ -10,7 +10,7 @@ third_nav_title: 'Human x Nature'
 <!-- 
 
 Colours
-Upcoming: #E21216
+Upcoming: default colour
 Past: #c1c1c1
 
 <table class="table table-v">
@@ -31,7 +31,7 @@ Past: #c1c1c1
 
 <table class="table table-v">
     <tr>
-        <td style="background-color: #E21216;">Various dates<br>
+        <td>Various dates<br>
             &mdash;<br>
             2:00pm</td>
         <td>
@@ -40,7 +40,7 @@ Past: #c1c1c1
         </td>
     </tr>
     <tr>
-        <td style="background-color: #E21216;">Various dates<br>
+        <td>Various dates<br>
             &mdash;<br>
             3:00pm</td>
         <td>
@@ -49,7 +49,7 @@ Past: #c1c1c1
         </td>
     </tr>  
     <tr>
-        <td style="background-color: #E21216;">Various dates<br>
+        <td></td>Various dates<br>
             &mdash;<br>
             7:00pm</td>
         <td>
@@ -58,7 +58,7 @@ Past: #c1c1c1
         </td>
     </tr> 
     <tr>
-        <td style="background-color: #E21216;">16 Apr<br>
+        <td>16 Apr<br>
             &mdash;<br>
             7:30pm</td>
         <td>
@@ -67,7 +67,7 @@ Past: #c1c1c1
         </td>
     </tr>  
     <tr>
-        <td style="background-color: #E21216;">16 Apr<br>
+        <td>16 Apr<br>
             &mdash;<br>
             6:00pm</td>
         <td>
@@ -76,7 +76,7 @@ Past: #c1c1c1
         </td>
     </tr>    
     <tr>
-        <td style="background-color: #E21216;">24 May<br>
+        <td>24 May<br>
             &mdash;<br>
             6:00pm</td>
         <td>
@@ -85,7 +85,7 @@ Past: #c1c1c1
         </td>
     </tr>    
     <tr>
-        <td style="background-color: #E21216;">21 Jun<br>
+        <td>21 Jun<br>
             &mdash;<br>
             6:00pm</td>
         <td>
@@ -94,7 +94,7 @@ Past: #c1c1c1
         </td>
     </tr>    
     <tr>
-        <td style="background-color: #E21216;">13 Jul<br>
+        <td>13 Jul<br>
             &mdash;<br>
             6:00pm</td>
         <td>
