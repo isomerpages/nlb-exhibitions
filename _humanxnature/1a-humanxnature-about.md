@@ -49,34 +49,19 @@ third_nav_title: 'Human x Nature'
         </div>
     </div>
 </div>
-<!--
 <div class="container__downloads">
     <div class="row">
         <div class="col is-full padding--top--lg">
-            <h4>Brochures and Exhibition Guides</h4>
-            <p style="margin-top: 5px;">Download the brochures and exhibition guides below:</p>
+            <h4>Brochure</h4>
+            <p style="margin-top: 5px;">Download the brochure below:</p>
                     <ul style="list-style: none; margin-left: 5px; color: #E21216">
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/humanxnature/#" style="color:#E21216;">English exhibition brochure (#)</a>
-                            <div style="line-height: 150%; padding-left: 2.3rem;">(with programmes from #)</div>
-                        </li>                                              
-                        <li style="margin-bottom: 1rem;">
-                            <a href="/files/humanxnature/#" style="color:#E21216;">English exhibition guide (#)</a>
-                        </li>                        
-                        <li style="margin-bottom: 1rem;">
-                            <a href="/files/humanxnature/#" style="color:#E21216;">Malay exhibition guide (#)</a> 
-                        </li>
-                        <li style="margin-bottom: 1rem;">
-                            <a href="/files/humanxnature/#" style="color:#E21216;">Chinese exhibition guide (#)</a>
-                        </li>                         
-                        <li style="margin-bottom: 1rem;">
-                            <a href="/files/humanxnature/#" style="color:#E21216;">Tamil exhibition guide (#)</a>
-                        </li> 
+                            <a href="/files/humanxnature/Human x Nature digital brochure.pdf" style="color:#E21216;">English exhibition brochure (1.88mb)</a>
+                        </li>                          
                     </ul>
         </div>
     </div>
 </div>
--->
 <div class="container__line padding--lg">
     <div class="row">
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
