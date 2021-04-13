@@ -1,5 +1,5 @@
 ---
-title: Programmes
+title: Gallery
 permalink: /exhibitions/current-exhibitions/humanxnature/gallery/
 breadcrumb: Gallery
 third_nav_title: 'Human x Nature'
