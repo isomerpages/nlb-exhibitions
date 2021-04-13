@@ -168,7 +168,6 @@ third_nav_title: 'Human x Nature'
         <div class="col is-full">
             <h3>Private Tours</h3>
             <p style="margin-top: 10px;">For enquiries on exhibition tours, please email visitnls@nlb.gov.sg.</p>
-            <blockquote style="color: #E21216; font-size: 150%;">The event is over, registration is closed.</blockquote>
         </div>
     </div>
 </div>
