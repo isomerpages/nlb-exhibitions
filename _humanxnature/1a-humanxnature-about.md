@@ -13,13 +13,13 @@ third_nav_title: 'Human x Nature'
             <img src="/images/event-images/humanxnature/HxN_1200px_355.jpg" alt="A title card labelled Human x Nature">
         </div>
     </div>
-    <!--
+    
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img src="/images/event-images/humanxnature/#" alt="#">
+            <img src="/images/event-images/humanxnature/HxN_Photo_01.jpg" alt="A photo of the gallery entrance.">
         </div>
     </div>
-    -->
+    
         <div class="row">
             <div class="col" style="border-top: 10px solid #E21216; border-bottom: 5px solid #E21216;">
                 <ul style="list-style: none; margin-left: 0px;">
@@ -72,13 +72,13 @@ third_nav_title: 'Human x Nature'
 </div>
 
 <div class="container__card">
-    <!--
+    <
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img src="/images/event-images/humanxnature/#" alt="A title card for Library of Life">
+            <img src="/images/event-images/humanxnature/HxN_Photo_09.jpg" alt="A photo of the Library of Life exhibit">
         </div>
     </div>
-    -->
+    
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
             <h3><strong>Library Of Life</strong></h3>
@@ -120,13 +120,7 @@ third_nav_title: 'Human x Nature'
 </div>
 
 <div class="container__card">
-    <!--
-    <div class="row">
-        <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img src="/images/event-images/humanxnature/#" alt="A title card for An Island By Any Other Name">
-        </div>
-    </div>
-    -->
+
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
             <h3><strong>Animal Friends</strong></h3>
@@ -168,17 +162,16 @@ third_nav_title: 'Human x Nature'
         </div>
     </div>
 </div>
-<!--
+
 <div class="container__description">
     <div class="row">
         <div class="col is-full">
             <h3>Private Tours</h3>
-            <p style="margin-top: 10px;">Interested schools or organisations can email visitnls@nlb.gov.sg for more details on private tours. Book early to secure a tour slot!</p>
-            <blockquote style="color: #E21216; font-size: 150%;">The event is over, registration is closed.</blockquote>
+            <p style="margin-top: 10px;">For enquiries on exhibition tours, please email visitnls@nlb.gov.sg.</p>
         </div>
     </div>
 </div>
--->
+
 </section>
 
 
