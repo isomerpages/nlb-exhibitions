@@ -6,7 +6,7 @@ third_nav_title: 'Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creati
 
 ---
 
-<img src="/images/event-images/aof/anatomy-of-a-free-mind_gallery_11.jpg" height="1485" width="620" alt="A photo of the exhibition entrance. In the foreground, there is a narrow archway shaped like a bell. In the background, there is the informational wall.">
+<img src="/images/event-images/aof/anatomy-of-a-free-mind_gallery_11.jpg" srcset="/images/event-images/aof/anatomy-of-a-free-mind_gallery_11_400w.jpg 400w, /images/event-images/aof/anatomy-of-a-free-mind_gallery_11_700w.jpg 700w" sizes="(max-width: 600px) 480px, 800px" height="1485" width="620" alt="A photo of the exhibition entrance. In the foreground, there is a narrow archway shaped like a bell. In the background, there is the informational wall.">
 
 <img src="/images/event-images/aof/anatomy-of-a-free-mind_gallery_2.jpg" height="1000" width="667" alt="A photo of an exhibition wall. Ten ink portraits on newspapers are framed up and hung on the wall.">
 
