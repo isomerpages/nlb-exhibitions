@@ -7,7 +7,7 @@ third_nav_title: 'Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creati
 ---
 
 
-<p>Click on the images below for full-view.</p>
+<p>Click on the images below for high resolution full-view.</p>
 
 <a href="/images/event-images/aof/anatomy-of-a-free-mind-exhibition-highlights-1-high.jpg"><img src="/images/event-images/aof/anatomy-of-a-free-mind-exhibition-highlights-1-low.jpg" alt="An image with selected exhibition artefacts and its brief information."></a>
 
