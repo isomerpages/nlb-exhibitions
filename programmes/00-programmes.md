@@ -67,24 +67,6 @@ Past: #c1c1c1
         </td>
     </tr> 
     <tr>
-        <td>16 Apr<br>
-            &mdash;<br>
-            7:30pm</td>
-        <td>
-            <p>Notes from Nature: The Biodiversity Heritage Collections</p>
-            <p><a href="https://www.eventbrite.com/e/notes-from-nature-the-biodiversity-heritage-collections-registration-148191937073?aff=ebcollection&keep_tld=1">Register here</a></p>
-        </td>
-    </tr>  
-    <tr>
-        <td>16 Apr<br>
-            &mdash;<br>
-            6:00pm</td>
-        <td>
-            <p>Histories: Investigating Land Use History</p>
-            <p><a href="https://www.eventbrite.com/e/histories-investigating-land-use-history-registration-139154377489?aff=ebcollection&keep_tld=1">Register here</a></p>
-        </td>
-    </tr>    
-    <tr>
         <td>24 May<br>
             &mdash;<br>
             6:00pm</td>
