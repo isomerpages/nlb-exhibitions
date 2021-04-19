@@ -56,24 +56,6 @@ Past: #c1c1c1
             <p>Human x Nature: Curators' Tour</p>
             <p><a href="https://www.eventbrite.com/e/human-x-nature-curators-tour-registration-147077469671?aff=ebcollection&keep_tld=1">Register here</a></p>
         </td>
-    </tr> 
-    <tr>
-        <td>16 Apr<br>
-            &mdash;<br>
-            7:30pm</td>
-        <td>
-            <p>Notes from Nature: The Biodiversity Heritage Collections</p>
-            <p><a href="https://www.eventbrite.com/e/notes-from-nature-the-biodiversity-heritage-collections-registration-148191937073?aff=ebcollection&keep_tld=1">Register here</a></p>
-        </td>
-    </tr>  
-    <tr>
-        <td>16 Apr<br>
-            &mdash;<br>
-            6:00pm</td>
-        <td>
-            <p>Histories: Investigating Land Use History</p>
-            <p><a href="https://www.eventbrite.com/e/histories-investigating-land-use-history-registration-139154377489?aff=ebcollection&keep_tld=1">Register here</a></p>
-        </td>
     </tr>    
     <tr>
         <td>24 May<br>
@@ -113,6 +95,24 @@ Past: #c1c1c1
         <td>
             <p>Histories: Tracking Otters in Singapore</p>
             <p><a href="https://www.eventbrite.com/e/histories-tracking-otters-in-singapore-registration-144389118741?aff=ebcollection&keep_tld=1">The event has ended.</a></p>
+        </td>
+    </tr>
+    <tr>
+        <td style="background-color: #c1c1c1;">16 Apr<br>
+            &mdash;<br>
+            7:30pm</td>
+        <td>
+            <p>Notes from Nature: The Biodiversity Heritage Collections</p>
+            <p><a href="https://www.eventbrite.com/e/notes-from-nature-the-biodiversity-heritage-collections-registration-148191937073?aff=ebcollection&keep_tld=1">The event has ended.</a></p>
+        </td>
+    </tr>  
+    <tr>
+        <td style="background-color: #c1c1c1;">16 Apr<br>
+            &mdash;<br>
+            6:00pm</td>
+        <td>
+            <p>Histories: Investigating Land Use History</p>
+            <p><a href="https://www.eventbrite.com/e/histories-investigating-land-use-history-registration-139154377489?aff=ebcollection&keep_tld=1">The event has ended.</a></p>
         </td>
     </tr>
 </table>
