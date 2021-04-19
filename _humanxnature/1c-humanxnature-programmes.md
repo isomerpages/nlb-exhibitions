@@ -98,7 +98,7 @@ Past: #c1c1c1
         </td>
     </tr>
     <tr>
-        <td>16 Apr<br>
+        <td style="background-color: #c1c1c1;">16 Apr<br>
             &mdash;<br>
             7:30pm</td>
         <td>
@@ -107,7 +107,7 @@ Past: #c1c1c1
         </td>
     </tr>  
     <tr>
-        <td>16 Apr<br>
+        <td style="background-color: #c1c1c1;">16 Apr<br>
             &mdash;<br>
             6:00pm</td>
         <td>
