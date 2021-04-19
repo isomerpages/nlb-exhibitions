@@ -103,7 +103,7 @@ Past: #c1c1c1
             7:30pm</td>
         <td>
             <p>Notes from Nature: The Biodiversity Heritage Collections</p>
-            <p><a href="https://www.eventbrite.com/e/notes-from-nature-the-biodiversity-heritage-collections-registration-148191937073?aff=ebcollection&keep_tld=1">Register here</a></p>
+            <p><a href="https://www.eventbrite.com/e/notes-from-nature-the-biodiversity-heritage-collections-registration-148191937073?aff=ebcollection&keep_tld=1">The event has ended.</a></p>
         </td>
     </tr>  
     <tr>
@@ -112,7 +112,7 @@ Past: #c1c1c1
             6:00pm</td>
         <td>
             <p>Histories: Investigating Land Use History</p>
-            <p><a href="https://www.eventbrite.com/e/histories-investigating-land-use-history-registration-139154377489?aff=ebcollection&keep_tld=1">Register here</a></p>
+            <p><a href="https://www.eventbrite.com/e/histories-investigating-land-use-history-registration-139154377489?aff=ebcollection&keep_tld=1">The event has ended.</a></p>
         </td>
     </tr>
 </table>
