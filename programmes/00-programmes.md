@@ -112,16 +112,3 @@ Past: #c1c1c1
         </td>
     </tr>
 </table>
-
-<h2>Past programmes</h2>
-<table class="table table-v">
-    <tr>
-        <td style="background-color: #c1c1c1;">17 Mar<br>
-            &mdash;<br>
-            6:00pm</td>
-        <td>
-            <p>Histories: Tracking Otters in Singapore</p>
-            <p><a href="https://www.eventbrite.com/e/histories-tracking-otters-in-singapore-registration-144389118741?aff=ebcollection&keep_tld=1">The event has ended.</a></p>
-        </td>
-    </tr>
-</table>
