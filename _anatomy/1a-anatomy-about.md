@@ -11,12 +11,12 @@ third_nav_title: 'Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creati
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
-            <img src="/images/event-images/aof/anatomy-of-a-free-mind-main-image.jpg" height="940" width="323" alt="A title card labelled Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations">
+            <img src="/images/event-images/aof/anatomy-of-a-free-mind-main-image.jpg" srcset="/images/event-images/aof/anatomy-of-a-free-mind-main-image_400w.jpg 400w, /images/event-images/aof/anatomy-of-a-free-mind-main-image_700w.jpg 700w" sizes="(max-width: 600px) 400px, (max-width: 800px) 700px, 1000px" height="323" width="940" alt="A title card labelled Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations">
         </div>
     </div>    
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img src="/images/event-images/aof/anatomy-of-a-free-mind_gallery_3.jpg" height="1000" width="667" alt="A photo showing an overview of the Anatomy of a Free Mind exhibition">
+            <img src="/images/event-images/aof/anatomy-of-a-free-mind_gallery_3.jpg" srcset="/images/event-images/aof/anatomy-of-a-free-mind_gallery_3_400w.jpg 400w, /images/event-images/aof/anatomy-of-a-free-mind_gallery_3_700w.jpg 700w" sizes="(max-width: 600px) 400px, (max-width: 800px) 700px, 1000px" height="667" width="1000" alt="A photo overview of the exhibition. There are sculptures and paintings.">
         </div>
     </div>
         <div class="row">
@@ -151,11 +151,11 @@ third_nav_title: 'Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creati
 
             <p>为了配合在国家图书馆大厦举办的“解析自由心：陈瑞献稿本与创作”特展（2016年11月22日至2017年4月23日），本巡回展将着重介绍陈瑞献的多种文艺作品，如诗作、散文、小说、寓言、译作以及他所编辑的刊物。欲一览陈瑞献当年在文坛备受瞩目的作品，请于举办期间到上述图书馆参观展览。</p>
             
-            <img src="/images/event-images/aof/AOFM06.jpg" height="1000" width="616" alt="A photo of the roving exhibition. An information wall in the middle is surrounded by showcases and a wall with books.">
+            <img src="/images/event-images/aof/AOFM06.jpg" srcset="/images/event-images/aof/images/event-images/aof/AOFM06_400w.jpg 400w, /images/event-images/aof/images/event-images/aof/AOFM06_700w.jpg 700w" sizes="(max-width: 600px) 400px, (max-width: 800px) 700px, 1000px" height="616" width="1000" alt="A photo of the roving exhibition. An information wall in the middle is surrounded by showcases and a wall with books.">
             
-            <img src="/images/event-images/aof/AOFM07.jpg" height="1000" width="602" alt="A photo of the roving exhibition. An information wall in the middle is surrounded by showcases and a wall with books.">
+            <img src="/images/event-images/aof/AOFM07.jpg" srcset="/images/event-images/aof/images/event-images/aof/AOFM07_400w.jpg 400w, /images/event-images/aof/images/event-images/aof/AOFM07_700w.jpg 700w" sizes="(max-width: 600px) 400px, (max-width: 800px) 700px, 1000px" height="602" width="1000" alt="A photo of the roving exhibition. An information wall in the middle is surrounded by showcases and a wall with books.">
             
-            <img src="/images/event-images/aof/AOFM08.jpg" height="1000" width="614" alt="A photo of the roving exhibition. An information wall in the middle is surrounded by showcases and a wall with books.">
+            <img src="/images/event-images/aof/AOFM08.jpg" srcset="/images/event-images/aof/images/event-images/aof/AOFM08_400w.jpg 400w, /images/event-images/aof/images/event-images/aof/AOFM08_700w.jpg 700w" sizes="(max-width: 600px) 400px, (max-width: 800px) 700px, 1000px" height="614" width="1000" alt="A photo of the roving exhibition. An information wall in the middle is surrounded by showcases and a wall with books.">
         </div>
     </div>
 </div>
