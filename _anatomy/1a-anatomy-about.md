@@ -11,7 +11,7 @@ third_nav_title: 'Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creati
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
-            <img srcset="/images/event-images/aof/anatomy-of-a-free-mind-main-image_400w.jpg 400w, /images/event-images/aof/anatomy-of-a-free-mind-main-image.jpg 940w" sizes="(max-width: 600px) 400px, 940px" height="323" width="940" src="/images/event-images/aof/anatomy-of-a-free-mind-main-image.jpg" alt="A title card labelled Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations">
+            <img srcset="/images/event-images/aof/anatomy-of-a-free-mind-main-image_400w.jpg 400w, /images/event-images/aof/anatomy-of-a-free-mind-main-image.jpg 940w" sizes="(max-width: 600px) 400px, 940px" src="/images/event-images/aof/anatomy-of-a-free-mind-main-image.jpg" alt="A title card labelled Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations">
         </div>
     </div>    
     <div class="row">
