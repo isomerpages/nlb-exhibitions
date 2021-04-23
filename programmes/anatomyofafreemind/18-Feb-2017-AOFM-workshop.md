@@ -18,7 +18,7 @@ _Admission is free._
 
 Learn how artists record their ideas and inspiration in their art journals in this talk-and-demonstration that offers you a peek into their minds.
 
-<img src="/images/event-images/aof/AOFM05.jpg" srcset="/images/event-images/aof/AOFM05_400w.jpg 400w, /images/event-images/aof/AOFM05_700w.jpg 700w" sizes="(max-width: 600px) 400px, (max-width: 800px) 700px, 1000px" height="221" width="1000" alt="A photo of several illustrated journal pages.">
+<img src="/images/event-images/aof/AOFM05.jpg" srcset="/images/event-images/aof/AOFM05_400w.jpg 400w" sizes="(max-width: 600px) 400px, 1000px" height="221" width="1000" alt="A photo of several illustrated journal pages.">
 
 <a href="/exhibitions/past-exhibitions/anatomyofafreemind/programmes/" style="color:#E21216;">Return to Anatomy of a Free Mind exhibition programmes page &#187;</a>
 
