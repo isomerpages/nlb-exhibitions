@@ -1,0 +1,9 @@
+collections:
+  anatomy:
+    output: true
+    order:
+      - tan-swie-hian-s-notebooks-and-creations/.keep
+      - tan-swie-hian-s-notebooks-and-creations/about.md
+      - tan-swie-hian-s-notebooks-and-creations/gallery.md
+      - tan-swie-hian-s-notebooks-and-creations/exhibition-highlights.md
+      - tan-swie-hian-s-notebooks-and-creations/programmes.md

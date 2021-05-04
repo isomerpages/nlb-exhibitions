@@ -1,0 +1,9 @@
+collections:
+  newsgallery:
+    output: true
+    order:
+      - beyond-headlines/.keep
+      - beyond-headlines/about.md
+      - beyond-headlines/gallery.md
+      - beyond-headlines/virtual-gallery.md
+      - beyond-headlines/programmes.md

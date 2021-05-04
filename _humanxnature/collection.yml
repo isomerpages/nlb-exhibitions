@@ -1,0 +1,8 @@
+collections:
+  humanxnature:
+    output: true
+    order:
+      - human-x-nature/.keep
+      - human-x-nature/about.md
+      - human-x-nature/gallery.md
+      - human-x-nature/programmes.md

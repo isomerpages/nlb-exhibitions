@@ -1,0 +1,20 @@
+collections:
+  past-exhibitions:
+    output: true
+    order:
+      - past-exhibitions.md
+      - 2019-2020/.keep
+      - 2019-2020/singapore-before-1867.md
+      - 2019-2020/the-singapore-centenary-and-its-celebration.md
+      - 2019-2020/stories-and-legends-of-early-singapore.md
+      - 2017-2018/.keep
+      - 2017-2018/early-advertising-in-singapore.md
+      - 2017-2018/manuscripts-and-early-books.md
+      - 2017-2018/the-first-folio.md
+      - 2016-earlier/.keep
+      - 2016-earlier/tan-swie-hian-s-notebooks-and-creations.md
+      - 2016-earlier/theatre-in-singapore-from-the-50s-to-80s.md
+      - 2016-earlier/highlights-of-the-national-library.md
+      - 2016-earlier/poems-on-singapore.md
+      - 2016-earlier/celebrating-maps-and-their-stories.md
+      - 2016-earlier/singapore-literary-pioneers.md

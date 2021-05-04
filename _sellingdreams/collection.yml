@@ -1,0 +1,11 @@
+collections:
+  sellingdreams:
+    output: true
+    order:
+      - early-advertising-in-singapore/.keep
+      - early-advertising-in-singapore/about.md
+      - early-advertising-in-singapore/gallery.md
+      - early-advertising-in-singapore/exhibition-highlights.md
+      - early-advertising-in-singapore/resources.md
+      - early-advertising-in-singapore/online-exhibition.md
+      - early-advertising-in-singapore/programmes.md

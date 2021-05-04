@@ -1,0 +1,9 @@
+collections:
+  shakespearesfirstfolio:
+    output: true
+    order:
+      - the-first-folio/.keep
+      - the-first-folio/about.md
+      - the-first-folio/gallery.md
+      - the-first-folio/resources.md
+      - the-first-folio/programmes.md

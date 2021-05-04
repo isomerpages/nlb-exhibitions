@@ -1,0 +1,10 @@
+collections:
+  onpaper:
+    output: true
+    order:
+      - singapore-before-1867/.keep
+      - singapore-before-1867/about.md
+      - singapore-before-1867/gallery.md
+      - singapore-before-1867/exhibition-highlights.md
+      - singapore-before-1867/merchandise.md
+      - singapore-before-1867/programmes.md
