@@ -1,0 +1,9 @@
+collections:
+  geographic:
+    output: true
+    order:
+      - celebrating-maps-and-their-stories/.keep
+      - celebrating-maps-and-their-stories/about.md
+      - celebrating-maps-and-their-stories/gallery.md
+      - celebrating-maps-and-their-stories/exhibition-highlights.md
+      - celebrating-maps-and-their-stories/programmes.md

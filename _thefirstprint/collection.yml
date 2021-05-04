@@ -1,0 +1,8 @@
+collections:
+  thefirstprint:
+    output: true
+    order:
+      - stories-and-legends-of-early-singapore/.keep
+      - stories-and-legends-of-early-singapore/about.md
+      - stories-and-legends-of-early-singapore/gallery.md
+      - stories-and-legends-of-early-singapore/programmes.md

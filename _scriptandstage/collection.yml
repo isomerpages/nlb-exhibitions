@@ -1,0 +1,10 @@
+collections:
+  scriptandstage:
+    output: true
+    order:
+      - theatre-in-singapore-from-the-50s-to-80s/.keep
+      - theatre-in-singapore-from-the-50s-to-80s/about.md
+      - theatre-in-singapore-from-the-50s-to-80s/gallery.md
+      - theatre-in-singapore-from-the-50s-to-80s/exhibition-highlights.md
+      - theatre-in-singapore-from-the-50s-to-80s/online-exhibition.md
+      - theatre-in-singapore-from-the-50s-to-80s/programmes.md

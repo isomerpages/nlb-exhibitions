@@ -1,0 +1,10 @@
+collections:
+  talesofthemalayworld:
+    output: true
+    order:
+      - manuscripts-and-early-books/.keep
+      - manuscripts-and-early-books/about.md
+      - manuscripts-and-early-books/gallery.md
+      - manuscripts-and-early-books/exhibition-highlights.md
+      - manuscripts-and-early-books/resources.md
+      - manuscripts-and-early-books/programmes.md

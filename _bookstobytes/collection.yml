@@ -1,0 +1,9 @@
+collections:
+  bookstobytes:
+    output: true
+    order:
+      - the-story-of-the-national-library/.keep
+      - the-story-of-the-national-library/about.md
+      - the-story-of-the-national-library/gallery.md
+      - the-story-of-the-national-library/featured-video.md
+      - the-story-of-the-national-library/exhibition-microsite.md

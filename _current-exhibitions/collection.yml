@@ -1,0 +1,10 @@
+collections:
+  current-exhibitions:
+    output: true
+    order:
+      - current-exhibitions.md
+      - environmental-histories-of-singapore.md
+      - beyond-headlines.md
+      - national-library-donors-gallery.md
+      - the-story-of-the-national-library.md
+      - the-rare-collection-gallery.md
