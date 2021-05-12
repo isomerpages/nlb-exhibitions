@@ -91,7 +91,7 @@ third_nav_title: 'Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creati
     </div>
     <div class="row">
         <div class="col-is-half" style="padding: 5px;">
-            <a href="/images/event-images/aof/anatomy-of-a-free-mind-exhibition-highlights-21-high.jpg"<img srcset="/images/event-images/aof/anatomy-of-a-free-mind-exhibition-highlights-21-low_400w.jpg 400w, /images/event-images/aof/anatomy-of-a-free-mind-exhibition-highlights-21-low.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="1419" width="1000" src="/images/event-images/aof/anatomy-of-a-free-mind-exhibition-highlights-21-low_400w.jpg" alt="An image of Fable of The Mountain."></a>
+            <a href="/images/event-images/aof/anatomy-of-a-free-mind-exhibition-highlights-21-high.jpg"><img srcset="/images/event-images/aof/anatomy-of-a-free-mind-exhibition-highlights-21-low_400w.jpg 400w, /images/event-images/aof/anatomy-of-a-free-mind-exhibition-highlights-21-low.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="1419" width="1000" src="/images/event-images/aof/anatomy-of-a-free-mind-exhibition-highlights-21-low_400w.jpg" alt="An image of Fable of The Mountain."></a>
         </div>
     </div>
 </div>
