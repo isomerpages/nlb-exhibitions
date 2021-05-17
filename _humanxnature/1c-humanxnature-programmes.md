@@ -58,30 +58,21 @@ Past: #c1c1c1
         </td>
     </tr>
     <tr>
-        <td>15 May<br>
-            &mdash;<br>
-            11:00am</td>
-        <td>
-            <p>Human x Nature: Unnatural Stories</p>
-            <p><a href="https://www.eventbrite.com/e/human-x-nature-unnatural-stories-registration-150695479235?aff=ebcollection&keep_tld=1">Register here</a></p>
-        </td>
-    </tr>
-    <tr>
-        <td>15 May<br>
-            &mdash;<br>
-            2:00pm</td>
-        <td>
-            <p>Nature, Biodiversity and Our Role | WWF Explains</p>
-            <p><a href="https://www.eventbrite.com/e/nature-biodiversity-and-our-role-wwf-explains-registration-151440391287?aff=ebcollection&keep_tld=1">Register here</a></p>
-        </td>
-    </tr>
-    <tr>
         <td>20 May<br>
             &mdash;<br>
             7:00pm</td>
         <td>
             <p>Singapore’s Natural Heritage | Human x Nature</p>
             <p><a href="https://www.eventbrite.com/e/singapores-natural-heritage-human-x-nature-registration-153439791547?aff=ebcollection&keep_tld=1">Register here</a></p>
+        </td>
+    </tr>
+    <tr>
+        <td>22 May<br>
+            &mdash;<br>
+            11:00am</td>
+        <td>
+            <p>Human x Nature: Unnatural Stories</p>
+            <p><a href="https://www.eventbrite.com/e/online-human-x-nature-unnatural-stories-registration-154796523569?aff=ebcollection&keep_tld=1">Register here</a></p>
         </td>
     </tr>
     <tr>
@@ -176,6 +167,15 @@ Past: #c1c1c1
         <td>
             <p>Histories: Investigating Land Use History</p>
             <p><a href="https://www.eventbrite.com/e/histories-investigating-land-use-history-registration-139154377489?aff=ebcollection&keep_tld=1">The event has ended.</a></p>
+        </td>
+    </tr>
+    <tr>
+        <td style="background-color: #c1c1c1;">15 May<br>
+            &mdash;<br>
+            2:00pm</td>
+        <td>
+            <p>Nature, Biodiversity and Our Role | WWF Explains</p>
+            <p><a href="https://www.eventbrite.com/e/nature-biodiversity-and-our-role-wwf-explains-registration-151440391287?aff=ebcollection&keep_tld=1">The event has ended.</a></p>
         </td>
     </tr>
 </table>
