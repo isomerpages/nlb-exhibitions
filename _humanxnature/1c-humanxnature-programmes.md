@@ -170,7 +170,7 @@ Past: #c1c1c1
         </td>
     </tr>
     <tr>
-        <td>15 May<br>
+        <td style="background-color: #c1c1c1;">15 May<br>
             &mdash;<br>
             2:00pm</td>
         <td>
