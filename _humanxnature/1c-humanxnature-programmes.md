@@ -175,7 +175,7 @@ Past: #c1c1c1
             2:00pm</td>
         <td>
             <p>Nature, Biodiversity and Our Role | WWF Explains</p>
-            <p><a href="https://www.eventbrite.com/e/nature-biodiversity-and-our-role-wwf-explains-registration-151440391287?aff=ebcollection&keep_tld=1">Register here</a></p>
+            <p><a href="https://www.eventbrite.com/e/nature-biodiversity-and-our-role-wwf-explains-registration-151440391287?aff=ebcollection&keep_tld=1">The event has ended.</a></p>
         </td>
     </tr>
 </table>
