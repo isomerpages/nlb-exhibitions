@@ -29,6 +29,6 @@ Past: #c1c1c1
 -->
 
 
-##Human x Nature
+## Human x Nature
 
-For upcoming programmes, [please click here to visit the Human x Nature programmes page at Eventbrite.] (https://go.gov.sg/hxnprogs)
+For upcoming programmes, [please click here to visit the Human x Nature programmes page at Eventbrite.](https://go.gov.sg/hxnprogs)
