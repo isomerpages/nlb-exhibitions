@@ -71,6 +71,8 @@ collections:
         output: true
     humanxnature:
         output: true
+    qupl50:
+        output: true
 favicon: /images/cropped-nlb-favicon_192.png
 permalink: none
 baseurl: ""
