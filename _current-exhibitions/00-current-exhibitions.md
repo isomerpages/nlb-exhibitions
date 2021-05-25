@@ -81,7 +81,7 @@ breadcrumb: 'Current Exhibitions'
 <div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
         <div class="col padding--bottom--xs">
-            <h3 style="margin-bottom: 0px;"><strong>Human x Nature: Environmental Histories of Singapore</strong></h3>
+            <h3 style="margin-bottom: 0px;"><strong>Libraries Transforming: Our Journey from Past to Future</strong></h3>
         </div>
     </div>
     <div class="row">
