@@ -76,6 +76,64 @@ breadcrumb: 'Current Exhibitions'
 
 <hr class="margin--top margin--bottom--lg">
 
+<!-- QUPL50 -->
+
+<div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+    <div class="row">
+        <div class="col padding--bottom--xs">
+            <h3 style="margin-bottom: 0px;"><strong>Human x Nature: Environmental Histories of Singapore</strong></h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <img src="/images/event-images/qupl50/QUPL50_thumbnail_500w.jpg" alt="Queenstown Public Library 50th Anniversary thumbnail" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
+        </div>
+        <div class="col is-two-thirds">
+            <div class="row">
+                    <ul style="list-style: none; margin-left: 5px;">
+                        <li style="margin-bottom: 1rem;">
+                            <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                            <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">10 April – 10 October 2021</div>
+                        </li> 
+                        <li style="margin-bottom: 1rem;">
+                            <span class="sgds-icon sgds-icon-clock" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                            <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">10:00am – 9:00pm</div>
+                        </li>          
+                        <li style="margin-bottom: 1rem;">
+                            <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                            <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">Queenstown Public Library</div>
+                        </li>
+                    </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container__exh__break padding">
+    <div class="row">
+        <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #efefef;">
+        </div>
+    </div>
+</div>
+
+<div class="container__exh__description">
+    <div class="row is-multiline">
+        <div class="col">
+            <p>First opened on 30 April 1970, Queenstown Public Library (then Queenstown Branch Library) was the first of several full-fledged public libraries built in the 1970s.  These first-generation libraries made books more accessible to all Singaporeans at a time when many could not afford them.</p>
+
+            <p>Since then, our public libraries have gone through a dramatic transformation. Today, Singapore boasts of a National Library and 26 public libraries, which have evolved greatly from what they were decades ago.</p>
+                
+            <p>Journey with us from the past to present in this interactive exhibition. Discover how much our public libraries have transformed and will continue to grow in the future!
+            </p>
+            <a href="/exhibitions/current-exhibitions/qupl50/" style="color:#E21216;"><h5>MORE INFORMATION &#187;</h5></a>
+        </div>
+    </div>
+</div>
+
+<!-- End of QUPL50 -->
+
+<hr class="margin--top margin--bottom--lg">
+
 <!-- News Gallery -->
 
 <div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
