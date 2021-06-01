@@ -138,10 +138,10 @@ third_nav_title: 'Human x Nature'
                     </li> 
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Jurong Regional Library, Level 2</strong> &#124; 7 April - 1 June 2021</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Jurong Regional Library, Level 2</strong> &#124; 7 April - 13 June 2021</div>
                     </li>                    
                     <li style="margin-bottom: 1rem;">
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Tampines Regional Library, Level 4</strong> &#124; 1 June - 2 August 2021</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Tampines Regional Library, Level 4</strong> &#124; 14 June - 2 August 2021</div>
                     </li>                    
                     <li style="margin-bottom: 1rem;">
                         <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Woodlands Regional Library, Level 1</strong> &#124; 2 August - 30 September 2021</div>

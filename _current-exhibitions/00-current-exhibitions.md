@@ -118,12 +118,8 @@ breadcrumb: 'Current Exhibitions'
 
 <div class="container__exh__description">
     <div class="row is-multiline">
-        <div class="col">
-            <p>First opened on 30 April 1970, Queenstown Public Library (then Queenstown Branch Library) was the first of several full-fledged public libraries built in the 1970s.  These first-generation libraries made books more accessible to all Singaporeans at a time when many could not afford them.</p>
-
-            <p>Since then, our public libraries have gone through a dramatic transformation. Today, Singapore boasts of a National Library and 26 public libraries, which have evolved greatly from what they were decades ago.</p>
-                
-            <p>Journey with us from the past to present in this interactive exhibition. Discover how much our public libraries have transformed and will continue to grow in the future!
+        <div class="col">            
+            <p>Since the opening of the first branch library in Queenstown in 1970, public libraries in Singapore have gone through a dramatic transformation. Journey with us from the past to present in this exciting exhibition. Discover how much our public libraries have evolved and will continue to grow in the future! 
             </p>
             <a href="/exhibitions/current-exhibitions/qupl50/" style="color:#E21216;"><h5>MORE INFORMATION &#187;</h5></a>
         </div>
