@@ -6,22 +6,26 @@ third_nav_title: 'Human x Nature'
 
 ---
 
-![A photo of the Human x Nature title wall. The opposite wall is a lightbox photo of Chek Jawa.](/images/event-images/humanxnature/HxN_Photo_01.jpg)
+<img srcset="/images/event-images/humanxnature/HxN_Photo_01_400w.jpg 400w, /images/event-images/humanxnature/HxN_Photo_01_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/humanxnature/HxN_Photo_01_400w.jpg" alt="A photo of the gallery entrance and logo, brightly lit as a lightbox featuring a photo of Chek Jawa.">
 
-![Butterflies are on display in a box, accompanied by a book showing illustrations of similar butterflies.](/images/event-images/humanxnature/HxN_Photo_02.jpg)
+<img srcset="/images/event-images/humanxnature/HxN_Photo_02_400w.jpg 400w, /images/event-images/humanxnature/HxN_Photo_02_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/humanxnature/HxN_Photo_02_400w.jpg" alt="Butterflies are on display in a box, accompanied by a book showing illustrations of similar butterflies.">
 
-![A showcase featuring some books, accompanied by a taxidermized monkey.](/images/event-images/humanxnature/HxN_Photo_03.jpg)
+<img srcset="/images/event-images/humanxnature/HxN_Photo_03_400w.jpg 400w, /images/event-images/humanxnature/HxN_Photo_03_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/humanxnature/HxN_Photo_03_400w.jpg" alt="A book shows a full page colour illustration of a monkey holding a pole and sitting on a bench. Other items featured are a book and 2 taxidermized small animals mounted horizontally.">
 
-![An overview of a gallery section.](/images/event-images/humanxnature/HxN_Photo_04.jpg)
+<img srcset="/images/event-images/humanxnature/HxN_Photo_04_400w.jpg 400w, /images/event-images/humanxnature/HxN_Photo_04_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/humanxnature/HxN_Photo_04_400w.jpg" alt="An overview of a gallery section, with old photographs wrapped around pillars. Brown cloth columns, lit up from the inside, resemble tree trunks as they decorate the section.">
 
-![A showcase featuring a black and white photo, map booklet, and a pineapple ad.](/images/event-images/humanxnature/HxN_Photo_05.jpg)
+<img srcset="/images/event-images/humanxnature/HxN_Photo_05_400w.jpg 400w, /images/event-images/humanxnature/HxN_Photo_05_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="665" width="1000" src="/images/event-images/humanxnature/HxN_Photo_05_400w.jpg" alt="A showcase featuring a black and white photo, map booklet, and an old pineapple advertisment.">
 
-![A taxidermized tiger on display.](/images/event-images/humanxnature/HxN_Photo_06.jpg)
+<img srcset="/images/event-images/humanxnature/HxN_Photo_06_400w.jpg 400w, /images/event-images/humanxnature/HxN_Photo_06_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="665" width="1000" src="/images/event-images/humanxnature/HxN_Photo_06_400w.jpg" alt="A taxidermized tiger on display.">
 
-![A close-up of a taxidermized tapir, along with a book illustration of a similar tapir.](/images/event-images/humanxnature/HxN_Photo_07.jpg)
+<img srcset="/images/event-images/humanxnature/HxN_Photo_07_400w.jpg 400w, /images/event-images/humanxnature/HxN_Photo_07_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="665" width="1000" src="/images/event-images/humanxnature/HxN_Photo_07_400w.jpg" alt="A close-up of a taxidermized tapir, along with a book illustration of a similar tapir.">
 
-![A close-up of a book illustration of an animal skull.](/images/event-images/humanxnature/HxN_Photo_08.jpg)
+<img srcset="/images/event-images/humanxnature/HxN_Photo_08_400w.jpg 400w, /images/event-images/humanxnature/HxN_Photo_08_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/humanxnature/HxN_Photo_08_400w.jpg" alt="A showcase featuring several illustrations of mushrooms.">
 
-![A photo of the lobby exhibition, Library of Life.](/images/event-images/humanxnature/HxN_Photo_09.jpg)
+<img srcset="/images/event-images/humanxnature/HxN_Photo_09_400w.jpg 400w, /images/event-images/humanxnature/HxN_Photo_09_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/humanxnature/HxN_Photo_09_400w.jpg" alt="Several books are on display in a showcase. A book is opened up to a black and white etching illustration of several men pulling a rope around a crocodile.">
 
-![A photo featuring a wall from the lobby exhibition, with books in a wall showcase and a display featuring digitised images from books.](/images/event-images/humanxnature/HxN_Photo_10.jpg)
+<img srcset="/images/event-images/humanxnature/HxN_Photo_10_400w.jpg 400w, /images/event-images/humanxnature/HxN_Photo_10_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/humanxnature/HxN_Photo_10_400w.jpg" alt="A map of Singapore with several areas highlighted in colour is on display within a showcase.">
+
+<img srcset="/images/event-images/humanxnature/HxN_Photo_11_400w.jpg 400w, /images/event-images/humanxnature/HxN_Photo_11_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/humanxnature/HxN_Photo_11_400w.jpg" alt="A photo of the Library of Life exhibition. A small tilted caption stand is placed in the middle. Three multimedia screens line the back wall. The left and right walls are lightboxes featuring various biodiversity illustrations, along with a showcase and multimedia screen.">
+
+<img srcset="/images/event-images/humanxnature/HxN_Photo_12_400w.jpg 400w, /images/event-images/humanxnature/HxN_Photo_12_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/humanxnature/HxN_Photo_12_400w.jpg" alt="A photo featuring a wall from the lobby exhibition, with books in a wall showcase and a display featuring digitised images from books.">

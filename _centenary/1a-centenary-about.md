@@ -11,12 +11,12 @@ third_nav_title: '1919: The Singapore Centenary and its Celebration'
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
-            <img src="/images/event-images/centenary/SG-centenary-tab-banner.jpg" alt="A title card labelled 1919: The Singapore Centenary and its Celebration">
+            <img srcset="/images/event-images/centenary/SG-centenary-tab-banner_400w.jpg 400w, /images/event-images/centenary/SG-centenary-tab-banner_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="250" width="1000" src="/images/event-images/centenary/SG-centenary-tab-banner_400w.jpg" alt="A title card labelled 1919: The Singapore Centenary and its Celebration">
         </div>
     </div>    
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img src="/images/event-images/centenary/1919-Centenary-gallery_2.jpg" alt="An old photo of the centenary celebrations.">
+            <img srcset="/images/event-images/centenary/1919-Centenary-gallery_2_400w.jpg 400w, /images/event-images/centenary/1919-Centenary-gallery_2_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="865" width="1000" src="/images/event-images/centenary/1919-Centenary-gallery_2_400w.jpg" alt="An old photo of the Singapore centenary celebrations.">
         </div>
     </div>
         <div class="row">

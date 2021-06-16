@@ -11,12 +11,12 @@ third_nav_title: 'Geo&#124;Graphic: Celebrating maps and their stories'
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
-            <img src="/images/event-images/geographic/geographic-main-image.jpg" alt="A title card labelled Geo&#124;Graphic: Celebrating maps and their stories. Open bags of spices are in the background.">
+            <img srcset="/images/event-images/geographic/geographic-main-image_400w.jpg 400w, /images/event-images/geographic/geographic-main-image_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="345" width="1000" src="/images/event-images/geographic/geographic-main-image_400w.jpg" alt="A title card labelled Geo&#124;Graphic: Celebrating maps and their stories. Sacks of spices are in the background.">
         </div>
     </div>    
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img src="/images/event-images/geographic/geographic_gallery_2.jpg" alt="A photo showing an overview of the Geo&#124;Graphic exhibition">
+            <img srcset="/images/event-images/geographic/geographic_gallery_2_400w.jpg 400w, /images/event-images/geographic/geographic_gallery_2_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="430" width="1000" src="/images/event-images/geographic/geographic_gallery_2_400w.jpg" alt="A section of the exhibition, with purple wall showcases and a silver table-top showcase in the middle. Maps are on display.">
         </div>
     </div>
         <div class="row">
@@ -81,7 +81,7 @@ third_nav_title: 'Geo&#124;Graphic: Celebrating maps and their stories'
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img src="/images/event-images/geographic/geographic-main-image-2.jpg" alt="A map of several islands.">
+            <img srcset="/images/event-images/geographic/geographic-main-image-2_400w.jpg 400w, /images/event-images/geographic/geographic-main-image-2_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="833" width="1000" src="/images/event-images/geographic/geographic-main-image-2_400w.jpg" alt="A brown map of several islands.">
             <center style="margin-top: 10px;"><h6 style="margin-top: 10px;">Sheet 14 showing islands like Pulau Bukom and Semakau off the west coast of mainland Singapore 1924<br>
             Source: Singapore Land Authority, Courtesy of National Archives of Singapore</h6></center>
         </div>
@@ -137,7 +137,7 @@ third_nav_title: 'Geo&#124;Graphic: Celebrating maps and their stories'
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img src="/images/event-images/geographic/geographic-main-image-3.png" alt="A mind-map structure with many branching paths. In the center, the title is 'not here, not there'.">
+            <img srcset="/images/event-images/geographic/geographic-main-image-3_400w.jpg 400w, /images/event-images/geographic/geographic-main-image-3_640w.jpg 640w" sizes="(max-width: 500px) 40vw, 64vw" height="360" width="640" src="/images/event-images/geographic/geographic-main-image-3_400w.jpg" alt="A mind-map structure with many branching paths. In the center, the title is 'not here, not there'.">
             <center style="margin-top: 10px;"><h6 style="margin-top: 10px;">Michael Lee<br>
                 Work in progress for not here, not there (after Russell Lee) from the Bibliotopia series (2015)</h6></center>
         </div>
@@ -179,7 +179,7 @@ third_nav_title: 'Geo&#124;Graphic: Celebrating maps and their stories'
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img src="/images/event-images/geographic/geographic-main-image-4.jpg" alt="A large foam block sits on the floor. A drill machine hovers over it.">
+            <img srcset="/images/event-images/geographic/geographic-main-image-4_400w.jpg 400w, /images/event-images/geographic/geographic-main-image-4_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="748" width="1000" src="/images/event-images/geographic/geographic-main-image-4_400w.jpg" alt="A large foam block sculpture sits on the floor, with a drill machine over it.">
             <center style="margin-top: 10px;"><h6 style="margin-top: 10px;">Jeremy Sharma<br>
                 Work in Progress for the Outliers, 2014-2015</h6></center>
         </div>
@@ -221,7 +221,7 @@ third_nav_title: 'Geo&#124;Graphic: Celebrating maps and their stories'
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img src="/images/event-images/geographic/geographic-main-image-5.jpg" alt="Video stills from Fables of Nusantara">
+            <img srcset="/images/event-images/geographic/geographic-main-image-5_400w.jpg 400w, /images/event-images/geographic/geographic-main-image-5_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="666" width="1000" src="/images/event-images/geographic/geographic-main-image-5_400w.jpg" alt="A collage of 4 different images, each featuring a different actor from the video 'Fables of Nusantara'.">
             <center style="margin-top: 10px;"><h6 style="margin-top: 10px;">Sherman Ong<br>
                 Video stills from Fables of Nusantara (2015)</h6></center>
         </div>
@@ -263,7 +263,7 @@ third_nav_title: 'Geo&#124;Graphic: Celebrating maps and their stories'
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img src="/images/event-images/geographic/geographic-main-image-6.png" alt="An illustrated map with the title Land of Gold and Spices">
+            <img srcset="/images/event-images/geographic/geographic-main-image-6_400w.jpg 400w, /images/event-images/geographic/geographic-main-image-6_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="719" width="1000" src="/images/event-images/geographic/geographic-main-image-6_400w.jpg" alt="An illustrated map with the title: 'Land of Gold and Spices'.">
         </div>
     </div>
     <div class="row margin--bottom--xs">
@@ -303,7 +303,7 @@ third_nav_title: 'Geo&#124;Graphic: Celebrating maps and their stories'
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img src="/images/event-images/geographic/geographic-main-image-7.jpg" alt="An illustrated map of Singapore with the title Island of Stories">
+            <img srcset="/images/event-images/geographic/geographic-main-image-7_400w.jpg 400w, /images/event-images/geographic/geographic-main-image-7_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="668" width="1000" src="/images/event-images/geographic/geographic-main-image-7_400w.jpg" alt="An illustrated map of Singapore with the title: 'Island of Stories'.">
         </div>
     </div>
     <div class="row margin--bottom--xs">
@@ -345,7 +345,7 @@ third_nav_title: 'Geo&#124;Graphic: Celebrating maps and their stories'
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img src="/images/event-images/geographic/geographic-main-image-8.jpg" alt="An illustrated map of Singapore">
+            <img srcset="/images/event-images/geographic/geographic-main-image-8_400w.jpg 400w, /images/event-images/geographic/geographic-main-image-8_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="623" width="1000" src="/images/event-images/geographic/geographic-main-image-8_400w.jpg" alt="An illustrated map of Singapore, laid out like a jigsaw puzzle. The outside edges are filled in, leaving a blank gap in the middle of Singapore.">
             <center style="margin-top: 10px;"><h6 style="margin-top: 10px;">Charles Lim<br>Sea Safe (2014)</h6></center>
         </div>
     </div>
