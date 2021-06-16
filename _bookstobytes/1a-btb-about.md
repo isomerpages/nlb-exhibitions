@@ -11,12 +11,12 @@ third_nav_title: 'From Books to Bytes: The Story of the National Library'
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
-            <img src="/images/event-images/frombooks/from-books-to-bytes-tab-banner_v2.jpg" alt="A title card labelled From Books to Bytes: The Story of the National Library">
+            <img srcset="/images/event-images/frombooks/from-books-to-bytes-tab-banner_v2_400w.jpg 400w, /images/event-images/frombooks/from-books-to-bytes-tab-banner_v2_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="250" width="1000" src="/images/event-images/frombooks/from-books-to-bytes-tab-banner_v2_400w.jpg" alt="A title card labelled From Books to Bytes: The Story of the National Library.">
         </div>
     </div>    
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img src="/images/event-images/frombooks/from-books-to-bytes-main-image.jpg" alt="A photo showing an overview of the From Books to Bytes gallery.">
+            <img srcset="/images/event-images/frombooks/from-books-to-bytes-main-image_400w.jpg 400w, /images/event-images/frombooks/from-books-to-bytes-main-image_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="665" width="1000" src="/images/event-images/frombooks/from-books-to-bytes-main-image_400w.jpg" alt="A photo showing the front of the From Books to Bytes gallery.">
         </div>
     </div>
         <div class="row">

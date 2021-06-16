@@ -10,13 +10,13 @@ third_nav_title: 'Human x Nature'
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
-            <img src="/images/event-images/humanxnature/HxN_1200px_355.jpg" alt="A title card labelled Human x Nature">
+            <img srcset="/images/event-images/humanxnature/HxN_1200px_355_400w.jpg 400w, /images/event-images/humanxnature/HxN_1200px_355_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="296" width="1000" src="/images/event-images/humanxnature/HxN_1200px_355_400w.jpg" alt="A title card labelled Human x Nature, with illustrations of animals and insects.">
         </div>
     </div>
     
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img src="/images/event-images/humanxnature/HxN_Photo_01.jpg" alt="A photo of the gallery entrance.">
+            <img srcset="/images/event-images/humanxnature/HxN_Photo_01_400w.jpg 400w, /images/event-images/humanxnature/HxN_Photo_01_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/humanxnature/HxN_Photo_01_400w.jpg" alt="A photo of the gallery entrance and logo, brightly lit as a lightbox featuring a photo of Chek Jawa.">
         </div>
     </div>
     
@@ -75,10 +75,9 @@ third_nav_title: 'Human x Nature'
 </div>
 
 <div class="container__card">
-    <
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img src="/images/event-images/humanxnature/HxN_Photo_09.jpg" alt="A photo of the Library of Life exhibit">
+            <img srcset="/images/event-images/humanxnature/HxN_Photo_11_400w.jpg 400w, /images/event-images/humanxnature/HxN_Photo_11_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/humanxnature/HxN_Photo_11_400w.jpg" alt="A photo of the Library of Life exhibition. A small tilted caption stand is placed in the middle. Three multimedia screens line the back wall. The left and right walls are lightboxes featuring various biodiversity illustrations, along with a showcase and multimedia screen.">
         </div>
     </div>
     
@@ -123,7 +122,11 @@ third_nav_title: 'Human x Nature'
 </div>
 
 <div class="container__card">
-
+    <div class="row">
+        <div class="col is-full" style="padding: 0 0 12px 0;">
+            <img srcset="/images/event-images/humanxnature/HxN_Photo_13_400w.jpg 400w, /images/event-images/humanxnature/HxN_Photo_13_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/humanxnature/HxN_Photo_13_400w.jpg" alt="A photo of the Animal Friends exhibition, with bright yellow and deep green walls decorated with animal and tree silhouettes. Captions adorn the walls, and interactive flip cards are on the right.">
+        </div>
+    </div>
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
             <h3><strong>Animal Friends</strong></h3>
@@ -138,10 +141,10 @@ third_nav_title: 'Human x Nature'
                     </li> 
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Jurong Regional Library, Level 2</strong> &#124; 7 April - 13 June 2021</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Jurong Regional Library, Level 2</strong> &#124; 7 April - 15 June 2021</div>
                     </li>                    
                     <li style="margin-bottom: 1rem;">
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Tampines Regional Library, Level 4</strong> &#124; 14 June - 2 August 2021</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Central Public Library</strong> &#124; 17 June - 1 July 2021</div>
                     </li>                    
                     <li style="margin-bottom: 1rem;">
                         <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Woodlands Regional Library, Level 1</strong> &#124; 2 August - 30 September 2021</div>

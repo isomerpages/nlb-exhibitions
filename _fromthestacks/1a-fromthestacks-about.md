@@ -11,12 +11,12 @@ third_nav_title: 'From The Stacks: Highlights of the National Library'
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
-            <img src="/images/event-images/from-the-stacks-onsite/from-the-stacks-main-image.jpg" alt="A title card labelled From The Stacks: Highlights of the National Library">
+            <img srcset="/images/event-images/from-the-stacks-onsite/from-the-stacks-main-image_400w.jpg 400w, /images/event-images/from-the-stacks-onsite/from-the-stacks-main-image.jpg 940w" sizes="(max-width: 500px) 40vw, 94vw" height="323" width="940" src="/images/event-images/from-the-stacks-onsite/from-the-stacks-main-image_400w.jpg" alt="A title card labelled From The Stacks: Highlights of the National Library.">
         </div>
     </div>    
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img src="/images/event-images/from-the-stacks-onsite/from-the-stacks_gallery_7.jpg" alt="A photo showing a row of open books in a showcase. They feature beautifully illustrated birds.">
+            <img srcset="/images/event-images/from-the-stacks-onsite/from-the-stacks_gallery_7_400w.jpg 400w, /images/event-images/from-the-stacks-onsite/from-the-stacks_gallery_7_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/from-the-stacks-onsite/from-the-stacks_gallery_7_400w.jpg" alt="Books in a showcase featuring illustrations of birds.">
         </div>
     </div>
         <div class="row">
@@ -90,7 +90,7 @@ third_nav_title: 'From The Stacks: Highlights of the National Library'
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img src="/images/event-images/from-the-stacks-onsite/FTS06.jpg" alt="Three images of featured items from the exhibition.">
+            <img srcset="/images/event-images/from-the-stacks-onsite/FTS06_400w.jpg 400w, /images/event-images/from-the-stacks-onsite/FTS06_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="1262" width="1000" src="/images/event-images/from-the-stacks-onsite/FTS06_400w.jpg" alt="Three images of featured items from the exhibition.">
         </div>
     </div>
     <div class="row margin--bottom--xs">
@@ -174,7 +174,7 @@ third_nav_title: 'From The Stacks: Highlights of the National Library'
 
             <p>Selected artefacts in the exhibition are showcased in this documentary.</p>
             
-            <img src="/images/event-images/from-the-stacks-onsite/FTS05.jpg" alt="A set of books. On the top is Journal of a Tour Along The Coast of Java and Bali, published by Mission Press, 1830. The bottom book is The Journal of the Indian Archipelago and Eastern Asia by J. R. Logan, 1847-1855.">
+            <img srcset="/images/event-images/from-the-stacks-onsite/FTS05_400w.jpg 400w, /images/event-images/from-the-stacks-onsite/FTS05_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="1278" width="1000" src="/images/event-images/from-the-stacks-onsite/FTS05_400w.jpg" alt="A set of books. On the top is Journal of a Tour Along The Coast of Java and Bali, published by Mission Press, 1830. The bottom book is The Journal of the Indian Archipelago and Eastern Asia by J. R. Logan, 1847-1855.">
             
         </div>
     </div>

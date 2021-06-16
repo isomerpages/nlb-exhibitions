@@ -6,16 +6,15 @@ third_nav_title: 'Geo&#124;Graphic: Celebrating maps and their stories'
 
 ---
 
+<img srcset="/images/event-images/geographic/geographic_gallery_1_400w.jpg 400w, /images/event-images/geographic/geographic_gallery_1_850w.jpg 850w" sizes="(max-width: 500px) 40vw, 85vw" height="554" width="850" src="/images/event-images/geographic/geographic_gallery_1_400w.jpg" alt="Several table showcases featuring maps are in a room, with a giant map graphic on the back wall.">
 
-![Several table showcases are in the room, with a giant map backdrop on the back wall.](/images/event-images/geographic/geographic_gallery_1.jpg)
+<img srcset="/images/event-images/geographic/geographic_gallery_2_400w.jpg 400w, /images/event-images/geographic/geographic_gallery_2_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="430" width="1000" src="/images/event-images/geographic/geographic_gallery_2_400w.jpg" alt="A section of the exhibition, with purple wall showcases and a silver table-top showcase in the middle. Maps are on display.">
 
-![Several purple wall showcases surround the room, with a grey table showcase in the middle.](/images/event-images/geographic/geographic_gallery_2.jpg)
+<img srcset="/images/event-images/geographic/geographic_gallery_3_400w.jpg 400w, /images/event-images/geographic/geographic_gallery_3_700w.jpg 1000w" sizes="(max-width: 500px) 40vw, 70vw" height="466" width="700" src="/images/event-images/geographic/geographic_gallery_3_400w.jpg" alt="A table showcase with a map is surrounded by a curator and his tour group. Some of them are looking at the map, while the others are listening to the curator's talk.">
 
-![A curator talks about map displayed in the table showcase to the tour group.](/images/event-images/geographic/geographic_gallery_3.jpg)
+<img srcset="/images/event-images/geographic/geographic_gallery_4_400w.jpg 400w, /images/event-images/geographic/geographic_gallery_4_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="589" width="1000" src="/images/event-images/geographic/geographic_gallery_4_400w.jpg" alt="Several red walls line this exhibition section. In the middle is a title wall labelled 'Early Maps of Singapore', with a gold globe half-embedded on its side. Maps are displayed up on the walls.">
 
-![A photo of an exhibition section. The red introduction wall in the middle has a golden globe halfway embedded within it, and its title is Early Maps of Singapore. In the background, several maps are on display. In front of each wall are two chairs and a table showcase.](/images/event-images/geographic/geographic_gallery_4.jpg)
+<img srcset="/images/event-images/geographic/geographic_gallery_5_400w.jpg 400w, /images/event-images/geographic/geographic_gallery_5_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="750" width="1000" src="/images/event-images/geographic/geographic_gallery_5_400w.jpg" alt="An artistic sand sculpture representing the island of Singapore.">
 
-![An art display, featuring a sand sculpture forming the island of Singapore.](/images/event-images/geographic/geographic_gallery_5.jpg)
-
-![A photo of the entrance to the Island of Stories exhibition.](/images/event-images/geographic/geographic_gallery_6.jpg)
+<img srcset="/images/event-images/geographic/geographic_gallery_6_400w.jpg 400w, /images/event-images/geographic/geographic_gallery_6_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="446" width="1000" src="/images/event-images/geographic/geographic_gallery_6_400w.jpg" alt="The entrance of the 'Island of Stories' exhibition, formed by blue walls.">
 
