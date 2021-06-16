@@ -6,11 +6,10 @@ third_nav_title: 'The News Gallery: Beyond Headlines'
 
 ---
 
+<img srcset="/images/event-images/newsgallery/news-gallery-image_1_400w.jpg 400w, /images/event-images/newsgallery/news-gallery-image_1_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/newsgallery/news-gallery-image_1_400w.jpg" alt="An overview of the News Gallery exhibition, which has showcases and tall multimedia screens.">
 
-![Photo of the News Gallery's introduction wall. Tall multimedia touchscreens next to it are featuring 'behind the scenes' information on news articles.](/images/event-images/newsgallery/news-gallery-image_1.jpg)
+<img srcset="/images/event-images/newsgallery/news-gallery-image_2_400w.jpg 400w, /images/event-images/newsgallery/news-gallery-image_2_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/newsgallery/news-gallery-image_2_400w.jpg" alt="An overview of the News Gallery exhibition, which has showcases and tall multimedia screens.">
 
-![Photo of the News Gallery's 'Behind Every Story' section. It features sliding handles to display different images, along with tall multimedia touchscreens. A showcase featuring physical news articles is in the foreground.](/images/event-images/newsgallery/news-gallery-image_2.jpg)
+<img srcset="/images/event-images/newsgallery/news-gallery-image_3_400w.jpg 400w, /images/event-images/newsgallery/news-gallery-image_3_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/newsgallery/news-gallery-image_3_400w.jpg" alt="Photo of the News Gallery's 'Fake News Busters' section. It is an interactive game with four player stations, with buttons.">
 
-![Photo of the News Gallery's 'Fake News Busters' section. It is an interactive game with four player stations.](/images/event-images/newsgallery/news-gallery-image_3.jpg)
-
-![Photo of the News Gallery's rare item showcase, featuring decades-old newspapers.](/images/event-images/newsgallery/news-gallery-image_4.jpg)
+<img srcset="/images/event-images/newsgallery/news-gallery-image_4_400w.jpg 400w, /images/event-images/newsgallery/news-gallery-image_4_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/newsgallery/news-gallery-image_4_400w.jpg" alt="Photo of the News Gallery's 'Fake News Busters' section. It is an interactive game with four player stations, with buttons.">
