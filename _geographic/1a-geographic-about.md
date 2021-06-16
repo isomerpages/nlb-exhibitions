@@ -13,7 +13,6 @@ third_nav_title: 'Geo&#124;Graphic: Celebrating maps and their stories'
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
             <img srcset="/images/event-images/geographic/geographic-main-image_400w.jpg 400w, /images/event-images/geographic/geographic-main-image_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="345" width="1000" src="/images/event-images/geographic/geographic-main-image_400w.jpg" alt="A title card labelled Geo&#124;Graphic: Celebrating maps and their stories. Sacks of spices are in the background.">
         </div>
-        </div>
     </div>    
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">

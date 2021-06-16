@@ -16,7 +16,7 @@ breadcrumb: 'Conservation Talk by National Archives of Singapore (NAS)'
 
 <p>Ever wondered how Singapore’s historical archives are conserved and preserved? What can you do to safely keep your own family records?</p>
 
-<p>Hear from _<strong>Dr Phang Lai Tee</strong>, Senior Assistant Director, Audio Visual Archives, National Archives of Singapore (NAS), as she shares about NAS’s role in preserving the nation’s audio-visual archives including family videos, broadcast archives and music albums.</p>
+<p>Hear from <strong>Dr Phang Lai Tee</strong>, Senior Assistant Director, Audio Visual Archives, National Archives of Singapore (NAS), as she shares about NAS’s role in preserving the nation’s audio-visual archives including family videos, broadcast archives and music albums.</p>
 
 <p>Learn from Conservator, <strong>Mr Chng Yak Hock</strong>, who will introduce the art of paper conservation performed by NAS and provide advice on what you can do to maintain your old paper records at home.</p>
 
