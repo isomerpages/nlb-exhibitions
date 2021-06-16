@@ -11,14 +11,17 @@ third_nav_title: 'The News Gallery: Beyond Headlines'
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
-            <img src="/images/event-images/newsgallery/TNG_1200x355.jpg" alt="A title card labelled The News Gallery">
-        </div>
-    </div>    
-    <div class="row">
-        <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img src="/images/event-images/newsgallery/TNG_about.jpg" alt="A photo showing an overview of the News Gallery">
+            <img srcset="/images/event-images/newsgallery/TNG_1200x355_400w.jpg 400w, /images/event-images/newsgallery/TNG_1200x355_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="296" width="1000" src="/images/event-images/newsgallery/TNG_1200x355_400w.jpg" alt="A title card labelled: The News Gallery.">
         </div>
     </div>
+
+    <div class="row">
+        <div class="col is-full" style="padding: 0 0 12px 0;">
+            <img srcset="/images/event-images/newsgallery/TNG_about_400w.jpg 400w, /images/event-images/newsgallery/TNG_about_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/newsgallery/TNG_about_400w.jpg" alt="A photo showing an overview of the News Gallery exhibition.">
+        </div>
+    </div>
+
+    <div>
         <div class="row">
             <div class="col" style="border-top: 10px solid #E21216; border-bottom: 5px solid #E21216;">
                 <ul style="list-style: none; margin-left: 0px;">
@@ -38,9 +41,10 @@ third_nav_title: 'The News Gallery: Beyond Headlines'
                         <span class="sgds-icon sgds-icon-triangle-warning" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle; color: #E21216"></span>
                         <div style="line-height: 150%; padding-left: 2.3rem; color: #E21216">The exhibitions at the National Library building have re-opened. We have implemented enhanced measures for the safety of our visitors. Thank you for your understanding and cooperation. <a href="https://www.nlb.gov.sg/" target="_blank">MORE INFORMATION</a>.</div>
                     </li>                    
-                    </ul>
-                </div>
+                </ul>
             </div>
+        </div>
+    </div>
 </div>
     
 <div class="container__description">

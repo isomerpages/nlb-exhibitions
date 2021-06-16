@@ -144,7 +144,7 @@ third_nav_title: 'Human x Nature'
                         <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Jurong Regional Library, Level 2</strong> &#124; 7 April - 15 June 2021</div>
                     </li>                    
                     <li style="margin-bottom: 1rem;">
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Central Public Library</strong> &#124; 17 June - 1 July 2021</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>National Library Building, Level 1, Lobby</strong> &#124; 17 June - 1 August 2021</div>
                     </li>                    
                     <li style="margin-bottom: 1rem;">
                         <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Woodlands Regional Library, Level 1</strong> &#124; 2 August - 30 September 2021</div>
