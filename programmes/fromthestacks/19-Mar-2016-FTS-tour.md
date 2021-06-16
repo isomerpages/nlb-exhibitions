@@ -63,4 +63,4 @@ breadcrumb: 'Birdwatching &amp; Exhibition Tour with Nature Society Singapore (N
 
 <p>A bus will be chartered to bring participants to and from Labrador Park. Participants are advised to dress comfortably (e.g. walking shoes) as well as to bring their own water and binoculars. To join this tour, please email visitnls@nlb.gov.sg with the subject “Birdwatching Tour”, indicating if rental of binoculars is required ($10 per pair).</p>
 
-<a href="/exhibitions/past-exhibitions/fromthestacks/programmes/" style="color:#E21216;"><p>Return to the From The Stacks exhibition programmes page &#187;</p></a>
+<a href="/exhibitions/past-exhibitions/fromthestacks/programmes/" style="color:#E21216;">Return to the From The Stacks exhibition programmes page &#187;</a>
