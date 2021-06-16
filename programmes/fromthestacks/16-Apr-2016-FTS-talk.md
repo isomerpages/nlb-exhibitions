@@ -20,4 +20,4 @@ breadcrumb: 'Conservation Talk by National Archives of Singapore (NAS)'
 
 <p>Learn from Conservator, <strong>Mr Chng Yak Hock</strong>, who will introduce the art of paper conservation performed by NAS and provide advice on what you can do to maintain your old paper records at home.</p>
 
-<a href="/exhibitions/past-exhibitions/fromthestacks/programmes/" style="color:#E21216;"><p>Return to the From The Stacks exhibition programmes page &#187;</p></a>
+<a href="/exhibitions/past-exhibitions/fromthestacks/programmes/" style="color:#E21216;">Return to the From The Stacks exhibition programmes page &#187;</a>
