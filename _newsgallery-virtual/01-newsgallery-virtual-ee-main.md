@@ -27,7 +27,7 @@ breadcrumb: 'Early Editions'
             </div>
             <div class="row">
                 <div class="col is-10-desktop is-10-tablet" style="margin-left: auto; margin-right: auto; margin-top: 20px; border: 2px solid #A20D10; padding: 5px 5px 5px 5px;">
-                    <img src="/images/event-images/newsgallery-virtual/ee_sfp.jpg" alt="A newspaper masthead featuring The Singapore Free Press.">
+                    <img srcset="/images/event-images/newsgallery-virtual/ee_sfp_400w.jpg 400w, /images/event-images/newsgallery-virtual/ee_sfp_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/newsgallery-virtual/ee_sfp_400w.jpg" alt="A newspaper masthead titled The Singapore Free Press.">
                 </div>
             </div>             
             <div class="row">
@@ -51,7 +51,7 @@ breadcrumb: 'Early Editions'
             </div>
             <div class="row">
                 <div class="col is-10-desktop is-10-tablet" style="margin-left: auto; margin-right: auto; margin-top: 20px; border: 2px solid #A20D10; padding: 5px 5px 5px 5px;">
-                    <img src="/images/event-images/newsgallery-virtual/ee_um.jpg" alt="A newspaper spread featuring Utusan Melayu.">
+                    <img srcset="/images/event-images/newsgallery-virtual/ee_um_400w.jpg 400w, /images/event-images/newsgallery-virtual/ee_um_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/newsgallery-virtual/ee_um_400w.jpg" alt="A newspaper spread featuring the Utusan Melayu.">
                 </div>
             </div>             
             <div class="row">
@@ -76,7 +76,7 @@ breadcrumb: 'Early Editions'
             </div>
             <div class="row">
                 <div class="col is-10-desktop is-10-tablet" style="margin-left: auto; margin-right: auto; margin-top: 20px; border: 2px solid #A20D10; padding: 5px 5px 5px 5px;">
-                    <img src="/images/event-images/newsgallery-virtual/ee_nysp.jpg" alt="A newspaper spread featuring Nanyang Siang Pau.">
+                    <img srcset="/images/event-images/newsgallery-virtual/ee_nysp_400w.jpg 400w, /images/event-images/newsgallery-virtual/ee_nysp_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/newsgallery-virtual/ee_nysp_400w.jpg" alt="A newspaper spread featuring the Nanyang Siang Pau.">
                 </div>
             </div>             
             <div class="row">
@@ -101,7 +101,7 @@ breadcrumb: 'Early Editions'
             </div>
             <div class="row">
                 <div class="col is-10-desktop is-10-tablet" style="margin-left: auto; margin-right: auto; margin-top: 20px; border: 2px solid #A20D10; padding: 5px 5px 5px 5px;">
-                    <img src="/images/event-images/newsgallery-virtual/ee_tm.jpg" alt="A newspaper featuring Tamil Murasu.">
+                    <img srcset="/images/event-images/newsgallery-virtual/ee_tm_400w.jpg 400w, /images/event-images/newsgallery-virtual/ee_tm_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/newsgallery-virtual/ee_tm_400w.jpg" alt="A newspaper featuring the Tamil Murasu.">
                 </div>
             </div>             
             <div class="row">

@@ -6,13 +6,12 @@ third_nav_title: 'National Library Donors'' Gallery'
 
 ---
 
+<img srcset="/images/event-images/donors/donors-gallery_gallery_1_400w.jpg 400w, /images/event-images/donors/donors-gallery_gallery_1_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="665" width="1000" src="/images/event-images/donors/donors-gallery_gallery_1_400w.jpg" alt="A photo of the National Library Donors' Gallery title wall.">
 
-![Photo of the National Library Donors' Gallery title wall.](/images/event-images/donors/donors-gallery_gallery_1.jpg)
+<img srcset="/images/event-images/donors/donors-gallery_gallery_2_400w.jpg 400w, /images/event-images/donors/donors-gallery_gallery_2_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="665" width="1000" src="/images/event-images/donors/donors-gallery_gallery_2_400w.jpg" alt="A photo of the National Library Donors' Gallery, with showcases in the foreground.">
 
-![Photo overview of the National Library Donors' Gallery, with showcases in the foreground.](/images/event-images/donors/donors-gallery_gallery_2.jpg)
+<img srcset="/images/event-images/donors/donors-gallery_gallery_3_400w.jpg 400w, /images/event-images/donors/donors-gallery_gallery_3_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="665" width="1000" src="/images/event-images/donors/donors-gallery_gallery_3_400w.jpg" alt="A wall featuring photos of city areas, that were taken by Lee Kip Lin.">
 
-![Photo of a wall, featuring old photos of city areas that were taken by Lee Kip Lin.](/images/event-images/donors/donors-gallery_gallery_3.jpg)
+<img srcset="/images/event-images/donors/donors-gallery_gallery_4_400w.jpg 400w, /images/event-images/donors/donors-gallery_gallery_4_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="665" width="1000" src="/images/event-images/donors/donors-gallery_gallery_4_400w.jpg" alt="A photo of the Arts Heritage collection.">
 
-![Photo overview of the Arts Heritage collection, with showcases in the foreground.](/images/event-images/donors/donors-gallery_gallery_4.jpg)
-
-![Photo close-up of the Arts Heritage introduction wall. A TV is showing a video with a concert performance.](/images/event-images/donors/donors-gallery_gallery_5.jpg)
+<img srcset="/images/event-images/donors/donors-gallery_gallery_5_400w.jpg 400w, /images/event-images/donors/donors-gallery_gallery_5_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="663" width="1000" src="/images/event-images/donors/donors-gallery_gallery_5_400w.jpg" alt="A close-up of the Arts Heritage introduction wall. A TV is showing a video with a concert performance.">

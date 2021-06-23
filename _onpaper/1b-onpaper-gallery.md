@@ -6,19 +6,18 @@ third_nav_title: 'On Paper: Singapore Before 1867'
 
 ---
 
+<img srcset="/images/event-images/onpaper/On-Paper_gallery_2_400w.jpg 400w, /images/event-images/onpaper/On-Paper_gallery_2_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/onpaper/On-Paper_gallery_2_400w.jpg" alt="A photo of the Mao Kun Map on display.">
 
-![Photo of the Mao Kun Map.](/images/event-images/onpaper/On-Paper_gallery_2.jpg)
+<img srcset="/images/event-images/onpaper/On-Paper_gallery_3_400w.jpg 400w, /images/event-images/onpaper/On-Paper_gallery_3_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/onpaper/On-Paper_gallery_3_400w.jpg" alt="A photo of an old nautical map on display.">
 
-![Photo close-up of a old nautical map.](/images/event-images/onpaper/On-Paper_gallery_3.jpg)
+<img srcset="/images/event-images/onpaper/On-Paper_gallery_4_400w.jpg 400w, /images/event-images/onpaper/On-Paper_gallery_4_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/onpaper/On-Paper_gallery_4_400w.jpg" alt="A showcase featuring Jawi calligraphy letters from various royals figures.">
 
-![Photo of a showcase featuring Jawi calligraphy letters from various royals.](/images/event-images/onpaper/On-Paper_gallery_4.jpg)
+<img srcset="/images/event-images/onpaper/On-Paper_gallery_5_400w.jpg 400w, /images/event-images/onpaper/On-Paper_gallery_5_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/onpaper/On-Paper_gallery_5_400w.jpg" alt="A photo of the Documenting Early Singapore section. Various Straits Settlement records are in the showcases. On the wall, there are donut charts depicting population percentages.">
 
-![Photo of the Documenting Early Singapore section. Various Straits Settlement records are in the showcases. On the wall, there is an info-graphic breakdown of population ethnicity, that was recorded by the British in early Singapore.](/images/event-images/onpaper/On-Paper_gallery_5.jpg)
+<img srcset="/images/event-images/onpaper/On-Paper_gallery_6_400w.jpg 400w, /images/event-images/onpaper/On-Paper_gallery_6_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/onpaper/On-Paper_gallery_6_400w.jpg" alt="A close-up of a journal and various sepia sketches of everyday street life in early Singapore.">
 
-![Photo close-up of a journal and various sepia sketches of life in early Singapore.](/images/event-images/onpaper/On-Paper_gallery_6.jpg)
+<img srcset="/images/event-images/onpaper/On-Paper_gallery_7_400w.jpg 400w, /images/event-images/onpaper/On-Paper_gallery_7_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/onpaper/On-Paper_gallery_7_400w.jpg" alt="A photo overview of the 1860 section, with various maps and books on display.">
 
-![A photo overview of the 1860 section, with various maps and books on display.](/images/event-images/onpaper/On-Paper_gallery_7.jpg)
+<img srcset="/images/event-images/onpaper/On-Paper_gallery_8_400w.jpg 400w, /images/event-images/onpaper/On-Paper_gallery_8_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/onpaper/On-Paper_gallery_8_400w.jpg" alt="A close-up of various watercolour sketches featuring Singapore landmarks in 1800s.">
 
-![Photo close-up of various watercolour sketches featuring Singapore landmarks in 1800s.](/images/event-images/onpaper/On-Paper_gallery_8.jpg)
-
-![Photo close-up of the Bute map.](/images/event-images/onpaper/On-Paper_gallery_9.jpg)
+<img srcset="/images/event-images/onpaper/On-Paper_gallery_9_400w.jpg 400w, /images/event-images/onpaper/On-Paper_gallery_9_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/onpaper/On-Paper_gallery_9_400w.jpg" alt="A close-up of the Bute map">

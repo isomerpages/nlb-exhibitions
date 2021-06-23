@@ -6,17 +6,16 @@ third_nav_title: 'Script &amp; Stage: Theatre in Singapore from the 50s to 80s'
 
 ---
 
-
 <section class="section__about">
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
-            <img src="/images/event-images/script-and-stage-onsite/script-and-stage-main-image.jpg" alt="A title card labelled Script & Stage">
+            <img srcset="/images/event-images/script-and-stage-onsite/script-and-stage-main-image_400w.jpg 400w, /images/event-images/script-and-stage-onsite/script-and-stage-main-image_940w.jpg 940w" sizes="(max-width: 500px) 40vw, 94vw" height="323" width="940" src="/images/event-images/script-and-stage-onsite/script-and-stage-main-image_400w.jpg" alt="A title card labelled: Script & Stage.">
         </div>
     </div>    
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img src="/images/event-images/script-and-stage-onsite/script-and-stage_gallery_1.jpg" alt="A photo showing the entrance of Script & Stage">
+            <img srcset="/images/event-images/script-and-stage-onsite/script-and-stage_gallery_1_400w.jpg 400w, /images/event-images/script-and-stage-onsite/script-and-stage_gallery_1_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/script-and-stage-onsite/script-and-stage_gallery_1_400w.jpg" alt="A photo showing the entrance of the Script & Stage exhibition.">
         </div>
     </div>
         <div class="row">
@@ -130,9 +129,9 @@ third_nav_title: 'Script &amp; Stage: Theatre in Singapore from the 50s to 80s'
             
             <blockquote style="color: #E21216; font-size: 150%;">Programme has ended, registration is closed.</blockquote>
             
-            <img src="/images/event-images/script-and-stage-onsite/SS10.jpg" alt="A photo of a tour. A librarian is giving talking about the contents of a table showcase, while students crowd around.">
+            <img srcset="/images/event-images/script-and-stage-onsite/SS10_400w.jpg 400w, /images/event-images/script-and-stage-onsite/SS10_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="711" width="1000" src="/images/event-images/script-and-stage-onsite/SS10_400w.jpg" alt="A photo of a tour. A librarian is giving a talk next to a table showcase, while students crowd around.">
             
-            <img src="/images/event-images/script-and-stage-onsite/SS11.jpg" alt="A photo of a tour. Students look down into a table showcase.">
+            <img srcset="/images/event-images/script-and-stage-onsite/SS11_400w.jpg 400w, /images/event-images/script-and-stage-onsite/SS11_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="710" width="1000" src="/images/event-images/script-and-stage-onsite/SS11_400w.jpg" alt="A photo of a tour. Students are looking down into a table showcase.">
         </div>
     </div>
 </div>     
