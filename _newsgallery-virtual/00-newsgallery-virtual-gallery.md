@@ -6,6 +6,7 @@ third_nav_title: 'The News Gallery: Beyond Headlines'
 
 ---
 
+
 <p style="padding-bottom: 10px;">Welcome to the Virtual News Gallery, which features highlights from the <a href="/exhibitions/current-exhibitions/newsgallery/" style="color:#E21216;">main exhibition at the National Library</a>.</p>
 
 <div class="container">
@@ -23,7 +24,7 @@ third_nav_title: 'The News Gallery: Beyond Headlines'
             </div>
             <div class="row">
                 <div class="col is-8-desktop is-7-tablet" style="margin-left: auto; margin-right: auto; margin-top: 20px; border: 2px solid #A20D10; padding: 5px 5px 5px 5px;">
-                    <img srcset="/images/event-images/newsgallery-virtual/homepage_ee_400w.jpg 400w, /images/event-images/newsgallery-virtual/homepage_ee_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/newsgallery-virtual/homepage_ee_400w.jpg" alt="A close-up of the Nanyang Siang Pau masthead.">
+                    <img src="/images/event-images/newsgallery-virtual/homepage_ee.jpg" alt="A newspaper masthead with Chinese text">
                 </div>
             </div>
             <div class="row">
@@ -48,7 +49,7 @@ third_nav_title: 'The News Gallery: Beyond Headlines'
             </div>
             <div class="row">
                 <div class="col is-8-desktop is-7-tablet" style="margin-left: auto; margin-right: auto; margin-top: 20px; border: 2px solid #A20D10; padding: 5px 5px 5px 5px;">
-                    <img srcset="/images/event-images/newsgallery-virtual/homepage_bes_400w.jpg 400w, /images/event-images/newsgallery-virtual/homepage_bes_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/newsgallery-virtual/homepage_bes_400w.jpg" alt="A newspaper mockup with the title: Maria Hertogh Custody Battle. Three portrait photographs of 2 women and a young girl are below the title.">
+                    <img src="/images/event-images/newsgallery-virtual/homepage_bes.jpg" alt="A newspaper mockup featuring photos of 2 women and a young girl. The headline reads 'Maria Hertogh Custody Battle'.">
                 </div>
             </div>            
             <div class="row">
@@ -73,7 +74,7 @@ third_nav_title: 'The News Gallery: Beyond Headlines'
             </div>
             <div class="row">
                 <div class="col is-8-desktop is-7-tablet" style="margin-left: auto; margin-right: auto; margin-top: 20px; border: 2px solid #A20D10; padding: 5px 5px 5px 5px;">
-                    <img srcset="/images/event-images/newsgallery-virtual/homepage_fof_400w.jpg 400w, /images/event-images/newsgallery-virtual/homepage_fof_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/newsgallery-virtual/homepage_fof_400w.jpg" alt="A game show mockup, with bright lights and a big screen in the middle. The screen shows the title: Real of Fake?">
+                    <img src="/images/event-images/newsgallery-virtual/homepage_fof.jpg" alt="A close-up photo of a phone with Whatsapp open on it.">
                 </div>
             </div>            
             <div class="row">

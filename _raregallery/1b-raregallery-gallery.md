@@ -6,20 +6,21 @@ third_nav_title: 'The Rare Collection Gallery'
 
 ---
 
-<img srcset="/images/event-images/rarecollection/the-rare-collection-gallery_gallery_1_400w.jpg 400w, /images/event-images/rarecollection/the-rare-collection-gallery_gallery_1_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/rarecollection/the-rare-collection-gallery_gallery_1_400w.jpg" alt="A photo showing an overview of the Rare Collection Gallery, with various showcases.">
 
-<img srcset="/images/event-images/rarecollection/the-rare-collection-gallery_gallery_2_400w.jpg 400w, /images/event-images/rarecollection/the-rare-collection-gallery_gallery_2_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/rarecollection/the-rare-collection-gallery_gallery_2_400w.jpg" alt="Another gallery photo overview at a different angle.">
+![A photo showing an overview of the Rare Collection Gallery, with various showcases.](/images/event-images/rarecollection/the-rare-collection-gallery_gallery_1.jpg)
 
-<img srcset="/images/event-images/rarecollection/the-rare-collection-gallery_gallery_3_400w.jpg 400w, /images/event-images/rarecollection/the-rare-collection-gallery_gallery_3_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/rarecollection/the-rare-collection-gallery_gallery_3_400w.jpg" alt="Photo of a wall showcase. Several open books are mounted to the wall, featuring black and white illustrations.">
+![Another gallery photo overview at a different angle.](/images/event-images/rarecollection/the-rare-collection-gallery_gallery_2.jpg)
 
-<img srcset="/images/event-images/rarecollection/the-rare-collection-gallery_gallery_4_400w.jpg 400w, /images/event-images/rarecollection/the-rare-collection-gallery_gallery_4_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/rarecollection/the-rare-collection-gallery_gallery_4_400w.jpg" alt="Showcases with several opened books on display.">
+![Photo of a wall showcase. Several books are mounted to the wall, showcasing black and white illustrations on their pages.](/images/event-images/rarecollection/the-rare-collection-gallery_gallery_3.jpg)
 
-<img srcset="/images/event-images/rarecollection/the-rare-collection-gallery_gallery_5_400w.jpg 400w, /images/event-images/rarecollection/the-rare-collection-gallery_gallery_5_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/rarecollection/the-rare-collection-gallery_gallery_5_400w.jpg" alt="A gallery photo downward angle, showcasing illustrative books on the walls and table.">
+![Another gallery photo overview, showcasing more illustrative books.](/images/event-images/rarecollection/the-rare-collection-gallery_gallery_4.jpg)
 
-<img srcset="/images/event-images/rarecollection/the-rare-collection-gallery_gallery_6_400w.jpg 400w, /images/event-images/rarecollection/the-rare-collection-gallery_gallery_6_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/rarecollection/the-rare-collection-gallery_gallery_6_400w.jpg" alt="A photo of a showcase featuring several open small to medium-sized books.">
+![Another gallery photo overview at a downward angle, showcasing illustrative books on the walls and table.](/images/event-images/rarecollection/the-rare-collection-gallery_gallery_5.jpg)
 
-<img srcset="/images/event-images/rarecollection/the-rare-collection-gallery_gallery_7_400w.jpg 400w, /images/event-images/rarecollection/the-rare-collection-gallery_gallery_7_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/rarecollection/the-rare-collection-gallery_gallery_7_400w.jpg" alt="A photo closeup of a nature book. It features a drawing of a civet ('La Civette de Malacca') on the right page, and a write-up on its opposite side.">
+![A photo of a showcase featuring several small to medium-sized books. They are opened up to show text.](/images/event-images/rarecollection/the-rare-collection-gallery_gallery_6.jpg)
 
-<img srcset="/images/event-images/rarecollection/the-rare-collection-gallery_gallery_8_400w.jpg 400w, /images/event-images/rarecollection/the-rare-collection-gallery_gallery_8_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="666" width="1000" src="/images/event-images/rarecollection/the-rare-collection-gallery_gallery_8_400w.jpg" alt="A gallery photo overview at a different angle.">
+![A photo closeup of a nature book. It features a drawing of a civet ('La Civette de Malacca') on the right page, and a write-up on its opposite side.](/images/event-images/rarecollection/the-rare-collection-gallery_gallery_7.jpg)
 
-<img srcset="/images/event-images/rarecollection/the-rare-collection-gallery_gallery_9_400w.jpg 400w, /images/event-images/rarecollection/the-rare-collection-gallery_gallery_9_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/rarecollection/the-rare-collection-gallery_gallery_9_400w.jpg" alt="A photo closeup of a book. It features drawings of traditional attap wooden houses.">
+![Another gallery photo overview at a different angle.](/images/event-images/rarecollection/the-rare-collection-gallery_gallery_8.jpg)
+
+![A photo closeup of a book. It features drawings of traditional attap wooden houses.](/images/event-images/rarecollection/the-rare-collection-gallery_gallery_9.jpg)

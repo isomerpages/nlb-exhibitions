@@ -29,7 +29,7 @@ breadcrumb: 'Fact or Fake?'
             </div>
             <div class="row">
                 <div class="col is-10-desktop is-10-tablet" style="margin-left: auto; margin-right: auto; margin-top: 20px; border: 2px solid #A20D10; padding: 5px 5px 5px 5px;">
-                    <img srcset="/images/event-images/newsgallery-virtual/fof_wha_400w.jpg 400w, /images/event-images/newsgallery-virtual/fof_wha_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="668" width="1000" src="/images/event-images/newsgallery-virtual/fof_wha_400w.jpg" alt="A close-up photo of a phone with Whatsapp open on it.">
+                    <img src="/images/event-images/newsgallery-virtual/fof_wha.jpg" alt="A close-up photo of a phone with Whatsapp open on it.">
                 </div>
             </div>            
             <div class="row">
@@ -60,7 +60,7 @@ breadcrumb: 'Fact or Fake?'
             </div>
             <div class="row">
                 <div class="col is-10-desktop is-10-tablet" style="margin-left: auto; margin-right: auto; margin-top: 20px; border: 2px solid #A20D10; padding: 5px 5px 5px 5px;">
-                    <img srcset="/images/event-images/newsgallery-virtual/fof_deepfake_400w.jpg 400w, /images/event-images/newsgallery-virtual/fof_deepfake_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="500" width="1000" src="/images/event-images/newsgallery-virtual/fof_deepfake_400w.jpg" alt="A set of faces of different races and ages.">
+                    <img src="/images/event-images/newsgallery-virtual/fof_deepfake.jpg" alt="A set of faces of different races and ages.">
                 </div>
             </div>
             <div class="row">
@@ -96,7 +96,7 @@ breadcrumb: 'Fact or Fake?'
             </div>
             <div class="row">
                 <div class="col is-10-desktop is-10-tablet" style="margin-left: auto; margin-right: auto; margin-top: 20px; border: 2px solid #A20D10; padding: 5px 5px 5px 5px;">
-                    <img srcset="/images/event-images/newsgallery-virtual/fof_punggol_400w.jpg 400w, /images/event-images/newsgallery-virtual/fof_punggol_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="551" width="1000" src="/images/event-images/newsgallery-virtual/fof_punggol_400w.jpg" alt="A photo of a Punggol HDB in the distance. The photo angle makes it look like it's collapsed.">
+                    <img src="/images/event-images/newsgallery-virtual/fof_punggol.jpg" alt="A photo of a Punggol HDB in the distance. The photo angle makes it look like it's collapsed.">
                 </div>
             </div>             
             <div class="row">
@@ -129,7 +129,7 @@ breadcrumb: 'Fact or Fake?'
             </div>
             <div class="row">
                 <div class="col is-10-desktop is-10-tablet" style="margin-left: auto; margin-right: auto; margin-top: 20px; border: 2px solid #A20D10; padding: 5px 5px 5px 5px;">
-                    <img srcset="/images/event-images/newsgallery-virtual/fof_water_400w.jpg 400w, /images/event-images/newsgallery-virtual/fof_water_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="551" width="1000" src="/images/event-images/newsgallery-virtual/fof_water_400w.jpg" alt="A close-up photo of a woman drinking a glass of water.">
+                    <img src="/images/event-images/newsgallery-virtual/fof_water.jpg" alt="A close-up photo of a woman drinking water.">
                 </div>
             </div>             
             <div class="row">

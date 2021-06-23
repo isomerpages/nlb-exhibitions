@@ -6,9 +6,8 @@ third_nav_title: 'The Rare Collection Gallery'
 
 ---
 
-<p>Here are some previous highlights from the Rare Collection:</p>
 
-<img srcset="/images/event-images/rarecollection/the-rare-collection-gallery-the-history-of-java_400w.jpg 400w, /images/event-images/rarecollection/the-rare-collection-gallery-the-history-of-java_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="585" width="1000" src="/images/event-images/rarecollection/the-rare-collection-gallery-the-history-of-java_400w.jpg" alt="A book showcasing a coloured illustration of a dancing woman in traditional garb.">
+![An open book, showcasing a coloured illustration of a dancing woman in traditional garb.](/images/event-images/rarecollection/the-rare-collection-gallery-the-history-of-java.jpg)
 
 <h3 style="margin-top: 10px;">The history of Java</h3>
 
@@ -26,7 +25,7 @@ third_nav_title: 'The Rare Collection Gallery'
     </div>
 </div>
 
-<img srcset="/images/event-images/rarecollection/the-rare-collection-gallery-views-in-burma_400w.jpg 400w, /images/event-images/rarecollection/the-rare-collection-gallery-views-in-burma_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="589" width="1000" src="/images/event-images/rarecollection/the-rare-collection-gallery-views-in-burma_400w.jpg" alt="A book showcasing a coloured illustration of a street. British soldiers are marching through. In the distant background, there is the Golden Pagoda.">
+![An open book, showcasing a coloured illustration of a street. British soldiers are marching through. In the distant background, there is the Golden Pagoda.](/images/event-images/rarecollection/the-rare-collection-gallery-views-in-burma.jpg)
 
 <h3 style="margin-top: 10px;">Views in Burma</h3>
 
@@ -47,7 +46,7 @@ The hand-coloured aquatint shows the Shwedagon Pagoda, also known as the Great D
     </div>
 </div>
 
-<img srcset="/images/event-images/rarecollection/the-rare-collection-gallery-a-voyage-to_400w.jpg 400w, /images/event-images/rarecollection/the-rare-collection-gallery-a-voyage-to_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="952" width="1000" src="/images/event-images/rarecollection/the-rare-collection-gallery-a-voyage-to_400w.jpg" alt="A book with a black and white illustration of an orangutan on the left page. It sits on a rock facing the reader, and it looks more human than ape.">
+![An open book, with a black and white illustration of an orangutan on the left page. It sits on a rock facing the reader, and it looks more human than ape.](/images/event-images/rarecollection/the-rare-collection-gallery-a-voyage-to.jpg)
 
 <h3 style="margin-top: 10px;">A voyage to and from the island of Borneo, in the East Indies …</h3>
 

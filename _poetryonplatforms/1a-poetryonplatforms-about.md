@@ -11,7 +11,7 @@ third_nav_title: 'Poetry on Platforms: Poems on Singapore'
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
-            <img srcset="/images/event-images/poetry-on-platforms/poetry-on-platforms-tab-banner_400w.jpg 400w, /images/event-images/poetry-on-platforms/poetry-on-platforms-tab-banner_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="250" width="1000" src="/images/event-images/poetry-on-platforms/poetry-on-platforms-tab-banner_400w.jpg" alt="A photo of an MRT door, with a Poetry on Platforms poetry sticker on it.">
+            <img src="/images/event-images/poetry-on-platforms/poetry-on-platforms-tab-banner.jpg" alt="A photo of an MRT door, with a Poetry on Platforms peotry sticker on it.">
         </div>
     </div>    
     <div class="row">
@@ -55,7 +55,7 @@ third_nav_title: 'Poetry on Platforms: Poems on Singapore'
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img srcset="/images/event-images/poetry-on-platforms/POP02_400w.jpg 400w, /images/event-images/poetry-on-platforms/POP02_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="581" width="1000" src="/images/event-images/poetry-on-platforms/POP02_400w.jpg" alt="An illustration of a typewriter.">
+            <img src="/images/event-images/poetry-on-platforms/POP02.jpg" alt="An illustration of a typewriter.">
         </div>
     </div>
     <div class="row margin--bottom--xs">
