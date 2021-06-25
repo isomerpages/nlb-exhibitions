@@ -30,8 +30,5 @@ third_nav_title: 'Geo&#124;Graphic: Celebrating maps and their stories'
         <div class="col-is-half" style="padding: 5px;">
             <a href="/images/event-images/geographic/geographic-exhibition-highlights-5-high.jpg"><img srcset="/images/event-images/geographic/geographic-exhibition-highlights-5-low_400w.jpg 400w, /images/event-images/geographic/geographic-exhibition-highlights-5-low_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="1419" width="1000" src="/images/event-images/geographic/geographic-exhibition-highlights-5-low_400w.jpg" alt="Two maps are listed on this page. The first map is: A 1942 British map that was drawn up on the day the Japanese won the battle for Singapore. The second map is: An 1846 survey of the Straits of Singapore by John Turnbull Thomson, Singapore's first government surveyor."></a>
         </div>
-        <div class="col-is-half" style="padding: 5px;">
-            <p>&nbsp;</p>
-        </div>
     </div>
 </div>

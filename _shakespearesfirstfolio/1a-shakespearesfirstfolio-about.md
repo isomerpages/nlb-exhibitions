@@ -11,12 +11,12 @@ third_nav_title: 'Shakespeare in Print: The First Folio'
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
-            <img src="/images/event-images/shakespeare/shakespeare-in-print-main-image.jpg" alt="A title card labelled Shakespeare in Print">
+            <img srcset="/images/event-images/shakespeare/shakespeare-in-print-main-image_400w.jpg 400w, /images/event-images/shakespeare/shakespeare-in-print-main-image_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="344" width="1000" src="/images/event-images/shakespeare/shakespeare-in-print-main-image_400w.jpg" alt="A title card labelled: Shakespeare in Print.">
         </div>
     </div>    
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img src="/images/event-images/shakespeare/shakespeare-in-print_gallery_1.jpg" alt="A photo showing the FIrst Folio. The folio is opened up to a black and white etching of Shakesphere's portrait.">
+            <img srcset="/images/event-images/shakespeare/shakespeare-in-print_gallery_1_400w.jpg 400w, /images/event-images/shakespeare/shakespeare-in-print_gallery_1_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="666" width="1000" src="/images/event-images/shakespeare/shakespeare-in-print_gallery_1_400w.jpg" alt="A photo showing the First Folio. The folio is opened up to a black and white etching of Shakesphere's portrait.">
         </div>
     </div>
         <div class="row">
