@@ -62,7 +62,10 @@ third_nav_title: 'Human x Nature'
                         </li>
                         <li style="margin-bottom: 1rem;">
                             <a href="/files/humanxnature/Human x Nature exhibition guide_EN.pdf" style="color:#E21216;">English exhibition guide (1.94mb)</a>
-                        </li>                          
+                        </li>
+                        <li style="margin-bottom: 1rem;">
+                            <a href="/files/humanxnature/Human x Nature exhibition guide_MA.pdf" style="color:#E21216;">Malay exhibition guide (1.78mb)</a>
+                        </li>                           
                     </ul>
         </div>
     </div>

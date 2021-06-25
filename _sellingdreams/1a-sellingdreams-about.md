@@ -16,7 +16,7 @@ third_nav_title: 'Selling Dreams: Early Advertising in Singapore'
     </div>    
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img src="/images/event-images/sellingdreamsonsite/selling-dreams_gallery_7.jpg" alt="A photo showing the fashion section of Selling Dreams">
+            <img srcset="/images/event-images/sellingdreamsonsite/selling-dreams_gallery_7_400w.jpg 400w, /images/event-images/sellingdreamsonsite/selling-dreams_gallery_7_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/sellingdreamsonsite/selling-dreams_gallery_7_400w.jpg" alt="A photo showing the fashion section of Selling Dreams.">
         </div>
     </div>
         <div class="row">
