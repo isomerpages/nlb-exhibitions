@@ -19,7 +19,7 @@ breadcrumb: 'Early Singapore in the Syair of Dissent'
 <p>Join Dr Azhar as he examines these syair and considers their place in Singapore’s literary heritage.</p>
 
 <h4>Speaker</h4>
-<p><b>Dr Azhar Ibrahim</p> is a lecturer at the Department of Malay Studies, National University of
+<p><b>Dr Azhar Ibrahim</b> is a lecturer at the Department of Malay Studies, National University of
 Singapore. He teaches Malay-Indonesian literature and ideologies of development.
 His research interests include the sociology of religion, sociology of literature and critical literacy, and Malay-Indonesian intellectual development.</p>
 
