@@ -11,12 +11,12 @@ third_nav_title: 'Tales of the Malay World: Manuscripts and Early Books'
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
-            <img src="/images/event-images/tmw/tales-of-the-malay-world-main-image.jpg" alt="A title card labelled Tales of the Malay World">
+            <img srcset="/images/event-images/tmw/tales-of-the-malay-world-main-image_400w.jpg 400w, /images/event-images/tmw/tales-of-the-malay-world-main-image_940w.jpg 940w" sizes="(max-width: 500px) 40vw, 94vw" height="323" width="940" src="/images/event-images/tmw/tales-of-the-malay-world-main-image_400w.jpg" alt="A title card labelled: 'Tales of the Malay World'.">
         </div>
     </div>    
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img src="/images/event-images/tmw/tales-of-the-malay-world_gallery_2.jpg" alt="A photo showing the introduction wall of Tales of the Malay World">
+            <img srcset="/images/event-images/tmw/tales-of-the-malay-world_gallery_2_400w.jpg 400w, /images/event-images/tmw/tales-of-the-malay-world_gallery_2_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="551" width="1000" src="/images/event-images/tmw/tales-of-the-malay-world_gallery_2_400w.jpg" alt="The introduction wall of the exhibition, which is surrounded by showcases.">
         </div>
     </div>
         <div class="row">

@@ -11,12 +11,12 @@ third_nav_title: 'The First Print: Stories and Legends of Early Singapore'
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
-            <img src="/images/event-images/the-first-print/the-first-print-tab-banner.jpg" alt="A title card labelled The First Print: Stories and Legends of Early Singapore">
+            <img srcset="/images/event-images/the-first-print/the-first-print-tab-banner_400w.jpg 400w, /images/event-images/the-first-print/the-first-print-tab-banner_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="250" width="1000" src="/images/event-images/the-first-print/the-first-print-tab-banner_400w.jpg" alt="A title card labelled 'The First Print: Stories and Legends of Early Singapore'.">
         </div>
     </div>    
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img src="/images/event-images/the-first-print/The%20First%20Print.jpg" alt="A title card labelled The First Print: Stories and Legends of Early Singapore">
+            <img srcset="/images/event-images/the-first-print/The%20First%20Print_400w.jpg 400w, /images/event-images/the-first-print/The%20First%20Print_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="665" width="1000" src="/images/event-images/the-first-print/The%20First%20Print_400w.jpg" alt="There is a small showcase with paper sculptures, sitting on top of an audio kiosk. It is of a man by the riverside holding a boulder and several ships aloft in the air, while a Sultan bows before him.">
         </div>
     </div>
         <div class="row">

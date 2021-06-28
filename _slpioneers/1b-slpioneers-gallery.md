@@ -6,11 +6,10 @@ third_nav_title: 'Singapore Literary Pioneers'
 
 ---
 
+<img srcset="/images/event-images/lpg/singapore-literary-pioneers_gallery_1_400w.jpg 400w, /images/event-images/lpg/singapore-literary-pioneers_gallery_1_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="1333" width="1000" src="/images/event-images/lpg/singapore-literary-pioneers_gallery_1_400w.jpg" alt="The entrance of the exhibition, with the title sign hanging from above. A display bookshelf with a white table and chair are in the front. A typewriter is on the table.">
 
-![Photo of the Singapore Literary Pioneers front entrance. A sign with a title hangs from the very tall ceiling above. There is a white chair and table with a typewriter on a small platform underneath it. On its left is a bookshelf.](/images/event-images/lpg/singapore-literary-pioneers_gallery_1.jpg)
+<img srcset="/images/event-images/lpg/singapore-literary-pioneers_gallery_2_400w.jpg 400w, /images/event-images/lpg/singapore-literary-pioneers_gallery_2_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="750" width="1000" src="/images/event-images/lpg/singapore-literary-pioneers_gallery_2_400w.jpg" alt="Green and orange curved walls with information panels on them are in the middle of the exhibition. Tall banners cover the pillars at the sides. A bookshelf is in the back.">
 
-![Green and orange curved information wall panels are in the middle of the photo. Small pieces of paper decorations hang from the tall ceiling. Several posters featuring author biographies and portraits are on the surrounding windows.](/images/event-images/lpg/singapore-literary-pioneers_gallery_2.jpg)
+<img srcset="/images/event-images/lpg/singapore-literary-pioneers_gallery_3_400w.jpg 400w, /images/event-images/lpg/singapore-literary-pioneers_gallery_3_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="750" width="1000" src="/images/event-images/lpg/singapore-literary-pioneers_gallery_3_400w.jpg" alt="Another view of the green wall.">
 
-![Another view of the green information wall.](/images/event-images/lpg/singapore-literary-pioneers_gallery_3.jpg)
-
-![A wall title Literary Works. On the upper half, rows of illustrated book covers decorate the shelves. On the bottom half, there is a showcase featuring items of interest from the authors, such as trophies.](/images/event-images/lpg/singapore-literary-pioneers_gallery_4.jpg)
+<img srcset="/images/event-images/lpg/singapore-literary-pioneers_gallery_4_400w.jpg 400w, /images/event-images/lpg/singapore-literary-pioneers_gallery_4_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="750" width="1000" src="/images/event-images/lpg/singapore-literary-pioneers_gallery_4_400w.jpg" alt="A bookshelf titled: 'Literary Works'. Book cover replicas line the top shelves. In the middle, a lighted showcase feature awards for display.">
