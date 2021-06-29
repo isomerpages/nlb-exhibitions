@@ -22,9 +22,8 @@ Almost without exception, these exquisite works of art were anonymous, for Malay
 
 Join Dr Annabel Gallop in this talk as she shares about the illumination of Qur’ans and other Islamic manuscripts.
 
-![A picture of an illuminated manuscript, the Hikayat Nabi Yusuf.](/images/event-images/tmw/TMW-old-001.jpg)
+<img src="/images/event-images/tmw/TMW-old-001.jpg" alt="A picture of the Hikayat Nabi Yusuf, an illuminated manuscript." height="344" width="434">
 <center><em>Hikayat Nabi Yusuf</em>, 1802, British Library</center>
-
 
 ##### Speaker
 __Annabel Teh Gallop__ is lead curator for Southeast Asia materials at the British Library. She obtained her doctorate at the School of Oriental and African Studies, London, in 2002 with the thesis, ‘Malay Seal Inscriptions: A Study in Islamic Epigraphy from Southeast Asia’. Her main research interests are Malay manuscripts, letters, documents and seals, and the art of the Qur’an in Southeast Asia.
