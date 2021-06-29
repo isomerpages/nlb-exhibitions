@@ -18,7 +18,7 @@ breadcrumb: 'Online Exhibitions'
     </div>
     <div class="row">
         <div class="col">
-            <img src="/images/event-images/sellingdreams/selling-dreams-thumbnail_2.jpg" alt="Selling Dreams: Early Advertising in Singapore" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
+            <img src="/images/event-images/sellingdreams/selling-dreams-thumbnail_2.jpg" height="500" width="500" alt="Selling Dreams: Early Advertising in Singapore" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
         </div>
         <div class="col is-two-thirds">
             <div class="row">
@@ -61,7 +61,7 @@ breadcrumb: 'Online Exhibitions'
     </div>
     <div class="row">
         <div class="col">
-            <img src="/images/event-images/script-and-stage/script-and-stage-thumbnail-2.jpg" alt="Stage: Theatre in Singapore from the 50s to 80s" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
+            <img src="/images/event-images/script-and-stage/script-and-stage-thumbnail-2.jpg" height="466" width="434" alt="Stage: Theatre in Singapore from the 50s to 80s" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
         </div>
         <div class="col is-two-thirds">
             <div class="row">
@@ -104,7 +104,7 @@ breadcrumb: 'Online Exhibitions'
     </div>
     <div class="row">
         <div class="col">
-            <img src="/images/event-images/from-the-stacks/from-the-stacks-thumbnail.jpg" alt="From the Stacks: Highlights of the National Library" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
+            <img src="/images/event-images/from-the-stacks/from-the-stacks-thumbnail.jpg" height="500" width="500" alt="From the Stacks: Highlights of the National Library" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
         </div>
         <div class="col is-two-thirds">
             <div class="row">
@@ -147,7 +147,7 @@ breadcrumb: 'Online Exhibitions'
     </div>
     <div class="row">
         <div class="col">
-            <img src="/images/event-images/formerfordfactory/former-ford-factory-thumbnail.jpg" alt="From the Stacks: Highlights of the National Library" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
+            <img src="/images/event-images/formerfordfactory/former-ford-factory-thumbnail.jpg" height="500" width="500" alt="From the Stacks: Highlights of the National Library" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
         </div>
         <div class="col is-two-thirds">
             <div class="row">
@@ -190,7 +190,7 @@ breadcrumb: 'Online Exhibitions'
     </div>
     <div class="row">
         <div class="col">
-            <img src="/images/event-images/lawoftheland/law-of-the-land-thumbnail.jpg" alt="Law of the Land: Highlights of Singapore’s Constitutional Documents" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
+            <img src="/images/event-images/lawoftheland/law-of-the-land-thumbnail.jpg" height="500" width="500" alt="Law of the Land: Highlights of Singapore’s Constitutional Documents" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
         </div>
         <div class="col is-two-thirds">
             <div class="row">
@@ -233,7 +233,7 @@ breadcrumb: 'Online Exhibitions'
     </div>
     <div class="row">
         <div class="col">
-            <img src="/images/event-images/motc/logo.png" alt="A red stamp seal, with white Chinese characters for Memories of Two Cities." style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
+            <img src="/images/event-images/motc/logo.png" height="584" width="592" alt="A red stamp seal, with white Chinese characters for Memories of Two Cities." style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
         </div>
         <div class="col is-two-thirds">
             <div class="row">
