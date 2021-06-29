@@ -11,7 +11,7 @@ third_nav_title: 'Script &amp; Stage: Theatre in Singapore from the 50s to 80s'
              <div class="container__exh__description">
                 <div class="row">
                     <div class="col">
-                        <h5><a href="http://www.nlb.gov.sg/exhibitions/virtual/scriptandstage/virtualtour/Script%20and%20Stage.html" target="_blank" style="color:#E21216;">VISIT THE ONLINE EXHIBITION &#187;</a></h5>
+                        <h5><a href="http://www.nlb.gov.sg/exhibitions/virtual/scriptandstage/virtualtour/Script%20and%20Stage.html" target="_blank" rel="noopener" style="color:#E21216;">VISIT THE ONLINE EXHIBITION &#187;</a></h5>
                         <img src="/images/event-images/script-and-stage/script-and-stage-main-image.jpg" alt="A banner with the title Script and Stage">
                     </div>
                 </div>

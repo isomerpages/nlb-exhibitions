@@ -39,7 +39,7 @@ third_nav_title: 'The News Gallery: Beyond Headlines'
                     </li>
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-triangle-warning" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle; color: #E21216"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem; color: #E21216">The exhibitions at the National Library building have re-opened. We have implemented enhanced measures for the safety of our visitors. Thank you for your understanding and cooperation. <a href="https://www.nlb.gov.sg/" target="_blank">MORE INFORMATION</a>.</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem; color: #E21216">The exhibitions at the National Library building have re-opened. We have implemented enhanced measures for the safety of our visitors. Thank you for your understanding and cooperation. <a href="https://www.nlb.gov.sg/" target="_blank" rel="noopener">VIEW CURRENT MEASURES AT NLB</a>.</div>
                     </li>                    
                 </ul>
             </div>

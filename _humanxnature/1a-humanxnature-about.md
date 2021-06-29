@@ -34,6 +34,10 @@ third_nav_title: 'Human x Nature'
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
                         <div style="line-height: 150%; padding-left: 2.3rem;">Level 10, Gallery, National Library Building</div>
+                    </li>
+                    <li style="margin-bottom: 1rem;">
+                        <span class="sgds-icon sgds-icon-triangle-warning" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle; color: #E21216"></span>
+                        <div style="line-height: 150%; padding-left: 2.3rem; color: #E21216">The exhibitions at the National Library building have re-opened. We have implemented enhanced measures for the safety of our visitors. Thank you for your understanding and cooperation. <a href="https://www.nlb.gov.sg/" target="_blank" rel="noopener">VIEW CURRENT MEASURES AT NLB</a>.</div>
                     </li>                    
                     </ul>
             </div>

@@ -77,7 +77,7 @@ breadcrumb: 'Online Exhibitions'
              <div class="container__exh__description">
                 <div class="row">
                     <div class="col">
-                        <h5><a href="http://www.nlb.gov.sg/exhibitions/virtual/scriptandstage/virtualtour/Script%20and%20Stage.html" target="_blank" style="color:#E21216;">VISIT THE ONLINE EXHIBITION &#187;</a></h5>
+                        <h5><a href="http://www.nlb.gov.sg/exhibitions/virtual/scriptandstage/virtualtour/Script%20and%20Stage.html" target="_blank" rel="noopener" style="color:#E21216;">VISIT THE ONLINE EXHIBITION &#187;</a></h5>
                     </div>
                 </div>
             </div>
@@ -86,7 +86,7 @@ breadcrumb: 'Online Exhibitions'
         <div class="container__exh__feedback">
         <div class="row">
             <div class="col is-full" style="background-color: #E21216;">
-                <p><a href="https://efm.jusfeedback.com/Community/se/705E3ED970FCBA9C" target="_blank" style="color:#fff;">Leave us your feedback here &#187;</a></p>
+                <p><a href="https://efm.jusfeedback.com/Community/se/705E3ED970FCBA9C" target="_blank" rel="noopener" style="color:#fff;">Leave us your feedback here &#187;</a></p>
             </div>
         </div>
     </div>
@@ -120,7 +120,7 @@ breadcrumb: 'Online Exhibitions'
              <div class="container__exh__description">
                 <div class="row">
                     <div class="col">
-                        <h5><a href="http://www.nlb.gov.sg/exhibitions/virtual/fromthestacks/web-hires/index.html" target="_blank" style="color:#E21216;">VISIT THE ONLINE EXHIBITION &#187;</a></h5>
+                        <h5><a href="http://www.nlb.gov.sg/exhibitions/virtual/fromthestacks/web-hires/index.html" target="_blank" rel="noopener" style="color:#E21216;">VISIT THE ONLINE EXHIBITION &#187;</a></h5>
                     </div>
                 </div>
             </div>
@@ -129,7 +129,7 @@ breadcrumb: 'Online Exhibitions'
         <div class="container__exh__feedback">
         <div class="row">
             <div class="col is-full" style="background-color: #E21216;">
-                <p><a href="https://efm.jusfeedback.com/Community/se/705E3ED93A52064F" target="_blank" style="color:#fff;">Leave us your feedback here &#187;</a></p>
+                <p><a href="https://efm.jusfeedback.com/Community/se/705E3ED93A52064F" target="_blank" rel="noopener" style="color:#fff;">Leave us your feedback here &#187;</a></p>
             </div>
         </div>
     </div>
@@ -163,7 +163,7 @@ breadcrumb: 'Online Exhibitions'
              <div class="container__exh__description">
                 <div class="row">
                     <div class="col">
-                        <h5><a href="http://www.nlb.gov.sg/exhibitions/virtual/fff360/FFF360.html" target="_blank" style="color:#E21216;">VISIT THE ONLINE EXHIBITION &#187;</a></h5>
+                        <h5><a href="http://www.nlb.gov.sg/exhibitions/virtual/fff360/FFF360.html" target="_blank" rel="noopener" style="color:#E21216;">VISIT THE ONLINE EXHIBITION &#187;</a></h5>
                     </div>
                 </div>
             </div>
@@ -172,7 +172,7 @@ breadcrumb: 'Online Exhibitions'
         <div class="container__exh__feedback">
         <div class="row">
             <div class="col is-full" style="background-color: #E21216;">
-                <p><a href="https://efm.jusfeedback.com/Community/se/705E3ED93DBD886A" target="_blank" style="color:#fff;">Leave us your feedback here &#187;</a></p>
+                <p><a href="https://efm.jusfeedback.com/Community/se/705E3ED93DBD886A" target="_blank" rel="noopener" style="color:#fff;">Leave us your feedback here &#187;</a></p>
             </div>
         </div>
     </div>
@@ -206,7 +206,7 @@ breadcrumb: 'Online Exhibitions'
              <div class="container__exh__description">
                 <div class="row">
                     <div class="col">
-                        <h5><a href="http://www.nlb.gov.sg/exhibitions/virtual/lotl360/LOTL360.html" target="_blank" style="color:#E21216;">VISIT THE ONLINE EXHIBITION &#187;</a></h5>
+                        <h5><a href="http://www.nlb.gov.sg/exhibitions/virtual/lotl360/LOTL360.html" target="_blank" rel="noopener" style="color:#E21216;">VISIT THE ONLINE EXHIBITION &#187;</a></h5>
                     </div>
                 </div>
             </div>
@@ -215,7 +215,7 @@ breadcrumb: 'Online Exhibitions'
         <div class="container__exh__feedback">
         <div class="row">
             <div class="col is-full" style="background-color: #E21216;">
-                <p><a href="https://efm.jusfeedback.com/Community/se/705E3ED962CCF4F1" target="_blank" style="color:#fff;">Leave us your feedback here &#187;</a></p>
+                <p><a href="https://efm.jusfeedback.com/Community/se/705E3ED962CCF4F1" target="_blank" rel="noopener" style="color:#fff;">Leave us your feedback here &#187;</a></p>
             </div>
         </div>
     </div>
@@ -249,7 +249,7 @@ breadcrumb: 'Online Exhibitions'
              <div class="container__exh__description">
                 <div class="row">
                     <div class="col">
-                        <h5><a href="https://memoriesoftwocities.nlb.gov.sg/" target="_blank" style="color:#E21216;">VISIT THE ONLINE EXHIBITION &#187;</a></h5>
+                        <h5><a href="https://memoriesoftwocities.nlb.gov.sg/" target="_blank" rel="noopener" style="color:#E21216;">VISIT THE ONLINE EXHIBITION &#187;</a></h5>
                     </div>
                 </div>
             </div>
