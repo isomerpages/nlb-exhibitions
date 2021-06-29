@@ -32,7 +32,7 @@ breadcrumb: 'Current Exhibitions'
     </div>
     <div class="row">
         <div class="col">
-            <img src="/images/event-images/humanxnature/HxN_thumbnail_dark_500x500.jpg" alt="Human x Nature thumbnail" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
+            <img src="/images/event-images/humanxnature/HxN_thumbnail_dark_500x500.jpg" alt="Human x Nature thumbnail" height="500" width="500" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
         </div>
         <div class="col is-two-thirds">
             <div class="row">
@@ -67,7 +67,7 @@ breadcrumb: 'Current Exhibitions'
         <div class="col">
             <p>Singapore’s natural environment, as we know and experience today, is the result of a long history of knowledge gathering, plantation agriculture and attempts at rehabilitation. This exhibition explores our relationships with the natural world from cultural understandings and scientific study to commercial and urban land use, as well as conservation and restoration.
             </p>
-            <a href="/exhibitions/current-exhibitions/humanxnature/" style="color:#E21216;"><h5>MORE INFORMATION &#187;</h5></a>
+            <a href="/exhibitions/current-exhibitions/humanxnature/" style="color:#E21216;"><h5>EXHIBITION INFORMATION &#187;</h5></a>
         </div>
     </div>
 </div>
@@ -86,7 +86,7 @@ breadcrumb: 'Current Exhibitions'
     </div>
     <div class="row">
         <div class="col">
-            <img src="/images/event-images/qupl50/QUPL50_thumbnail_500w.jpg" alt="Queenstown Public Library 50th Anniversary thumbnail" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
+            <img src="/images/event-images/qupl50/QUPL50_thumbnail_500w.jpg" alt="Queenstown Public Library 50th Anniversary thumbnail" height="500" width="500" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
         </div>
         <div class="col is-two-thirds">
             <div class="row">
@@ -121,7 +121,7 @@ breadcrumb: 'Current Exhibitions'
         <div class="col">            
             <p>Since the opening of the first branch library in Queenstown in 1970, public libraries in Singapore have gone through a dramatic transformation. Journey with us from the past to present in this exciting exhibition. Discover how much our public libraries have evolved and will continue to grow in the future! 
             </p>
-            <a href="/exhibitions/current-exhibitions/qupl50/" style="color:#E21216;"><h5>MORE INFORMATION &#187;</h5></a>
+            <a href="/exhibitions/current-exhibitions/qupl50/" style="color:#E21216;"><h5>EXHIBITION INFORMATION &#187;</h5></a>
         </div>
     </div>
 </div>
@@ -140,7 +140,7 @@ breadcrumb: 'Current Exhibitions'
     </div>
     <div class="row">
         <div class="col">
-            <img src="/images/event-images/newsgallery/news-gallery-thumbnail.jpg" alt="The News Gallery: Beyond Headlines thumbnail" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
+            <img src="/images/event-images/newsgallery/news-gallery-thumbnail.jpg" alt="The News Gallery: Beyond Headlines thumbnail" height="500" width="500" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
         </div>
         <div class="col is-two-thirds">
             <div class="row">
@@ -175,7 +175,7 @@ breadcrumb: 'Current Exhibitions'
         <div class="col">
             <p>Discover stories of Singapore newspapers in the National Library’s collection dating from the 1820s and learn about significant episodes from Singapore’s history through the perspectives of different media. Gain insights into fake news, and learn how you can be more discerning about information and media, through our rich resources on newspapers.
             </p>
-            <a href="/exhibitions/current-exhibitions/newsgallery/" style="color:#E21216;"><h5>MORE INFORMATION &#187;</h5></a>
+            <a href="/exhibitions/current-exhibitions/newsgallery/" style="color:#E21216;"><h5>EXHIBITION INFORMATION &#187;</h5></a>
             <a href="/exhibitions/current-exhibitions/newsgallery/virtual-gallery/" style="color:#E21216;"><h5 style="margin-top: 20px;">VIRTUAL GALLERY &#187;</h5></a>
         </div>
     </div>
@@ -195,7 +195,7 @@ breadcrumb: 'Current Exhibitions'
     </div>
     <div class="row">
         <div class="col">
-            <img src="/images/event-images/rarecollection/the-rare-collection-gallery-thumbnail.jpg" alt="The News Gallery: Beyond Headlines thumbnail" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
+            <img src="/images/event-images/rarecollection/the-rare-collection-gallery-thumbnail.jpg" alt="The News Gallery: Beyond Headlines thumbnail" height="500" width="500" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
         </div>
         <div class="col is-two-thirds">
             <div class="row">
@@ -226,7 +226,7 @@ breadcrumb: 'Current Exhibitions'
         <div class="col">
             <p>The Rare Collection Gallery showcases treasures from the National Library’s Rare Materials Collection of valuable research materials on Singapore and Southeast Asia. Comprising over 15,000 books, journals, manuscripts, maps, photographs and ephemera, many of the items in the collection were inherited from the National Library’s predecessors – the Singapore Library (1844–1874) and the Raffles Museum and Library (1874–1960). The collection is also further enhanced by recent donations from institutions and individuals.
             </p>
-            <a href="/exhibitions/current-exhibitions/raregallery/" style="color:#E21216;"><h5>MORE INFORMATION &#187;</h5></a>
+            <a href="/exhibitions/current-exhibitions/raregallery/" style="color:#E21216;"><h5>EXHIBITION INFORMATION &#187;</h5></a>
         </div>
     </div>
 </div>
@@ -245,7 +245,7 @@ breadcrumb: 'Current Exhibitions'
     </div>
     <div class="row">
         <div class="col">
-            <img src="/images/event-images/donors/donors-gallery-thumbnail.jpg" alt="National Library Donors' Gallery thumbnail" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
+            <img src="/images/event-images/donors/donors-gallery-thumbnail.jpg" alt="National Library Donors' Gallery thumbnail" height="500" width="500" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
         </div>
         <div class="col is-two-thirds">
             <div class="row">
@@ -280,7 +280,7 @@ breadcrumb: 'Current Exhibitions'
         <div class="col">
             <p>Donations of library materials to the National Library play a significant role in adding diversity and depth to our collection and are instrumental in assisting the library to obtain notable National Collection items. This Donors’ Gallery was set up to acknowledge our donors and showcase their donations. On display is a small selection of materials which provides a glimpse of the variety of materials that have been gifted to the National Library over the years.
             </p>
-            <a href="/exhibitions/current-exhibitions/nldonorsgallery/" style="color:#E21216;"><h5>MORE INFORMATION &#187;</h5></a>
+            <a href="/exhibitions/current-exhibitions/nldonorsgallery/" style="color:#E21216;"><h5>EXHIBITION INFORMATION &#187;</h5></a>
         </div>
     </div>
 </div>
@@ -299,7 +299,7 @@ breadcrumb: 'Current Exhibitions'
     </div>
     <div class="row">
         <div class="col">
-            <img src="/images/event-images/frombooks/from-books-to-bytes-thumbnail.jpg" alt="From Books to Bytes: The Story of the National Library thumbnail" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
+            <img src="/images/event-images/frombooks/from-books-to-bytes-thumbnail.jpg" alt="From Books to Bytes: The Story of the National Library thumbnail" height="500" width="500" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
         </div>
         <div class="col is-two-thirds">
             <div class="row">
@@ -334,7 +334,7 @@ breadcrumb: 'Current Exhibitions'
         <div class="col">
             <p>Throughout our history, the library has been an integral part of Singapore’s cultural and social fabric as well as its residents. The exhibition traces the founding, development and growth of the National Library, Singapore from 1823 till present.
             </p>
-            <a href="/exhibitions/current-exhibitions/bookstobytes/" style="color:#E21216;"><h5>MORE INFORMATION &#187;</h5></a>
+            <a href="/exhibitions/current-exhibitions/bookstobytes/" style="color:#E21216;"><h5>EXHIBITION INFORMATION &#187;</h5></a>
         </div>
     </div>
 </div>
