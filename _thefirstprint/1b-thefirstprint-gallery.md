@@ -6,15 +6,14 @@ third_nav_title: 'The First Print: Stories and Legends of Early Singapore'
 
 ---
 
+<img srcset="/images/event-images/the-first-print/the-first-print_gallery_1_400w.jpg 400w, /images/event-images/the-first-print/the-first-print_gallery_1_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="665" width="1000" src="/images/event-images/the-first-print/the-first-print_gallery_1_400w.jpg" alt="A photo of the exhibition's title wall.">
 
-![Photo of the title and introduction wall.](/images/event-images/the-first-print/the-first-print_gallery_1.jpg)
+<img srcset="/images/event-images/the-first-print/the-first-print_gallery_2_400w.jpg 400w, /images/event-images/the-first-print/the-first-print_gallery_2_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="665" width="1000" src="/images/event-images/the-first-print/the-first-print_gallery_2_400w.jpg" alt="A photo of a wall and showcases with books. The title on the wall is: 'A Timeless Tale Through The Ages'.">
 
-![Photo of the information wall and showcases with books. The title on the wall is: A Timeless Tale Through The Ages.](/images/event-images/the-first-print/the-first-print_gallery_2.jpg)
+<img srcset="/images/event-images/the-first-print/the-first-print_gallery_3_400w.jpg 400w, /images/event-images/the-first-print/the-first-print_gallery_3_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="665" width="1000" src="/images/event-images/the-first-print/the-first-print_gallery_3_400w.jpg" alt="A photo close-up of the opened books within the showcase. There is a black and white illustration of swordfishes on one of the pages.">
 
-![Photo close-up of the opened books within the showcase. There is a black and white illustration on one of the pages.](/images/event-images/the-first-print/the-first-print_gallery_3.jpg)
+<img srcset="/images/event-images/the-first-print/the-first-print_gallery_4_400w.jpg 400w, /images/event-images/the-first-print/the-first-print_gallery_4_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="665" width="1000" src="/images/event-images/the-first-print/the-first-print_gallery_4_400w.jpg" alt="There is a small showcase with paper sculptures, sitting on top of an audio kiosk. It is of a man standing on top of a big boulder.">
 
-![A photo of an audio booth, with the A Timeless Tale Through The Ages wall in the background. The audio booth has a paper sculpture in a glass case - it is of a man, his arm outstretched, standing on a rock. Its headphones and button are located below.](/images/event-images/the-first-print/the-first-print_gallery_4.jpg)
+<img srcset="/images/event-images/the-first-print/the-first-print_gallery_5_400w.jpg 400w, /images/event-images/the-first-print/the-first-print_gallery_5_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="665" width="1000" src="/images/event-images/the-first-print/the-first-print_gallery_5_400w.jpg" alt="There is a small showcase with paper sculptures, sitting on top of an audio kiosk. It is of a man by the riverside holding a boulder and several ships aloft in the air, while a Sultan bows before him.">
 
-![A photo of another audio booth, with the A Timeless Tale Through The Ages wall in the background. The audio booth has a paper sculpture in a glass case. There is a man by the riverside holding a boulder and several shifts aloft in the air, while a Sultan bows before him.](/images/event-images/the-first-print/the-first-print_gallery_5.jpg)
-
-![A photo close-up of an opened book within a tall showcase. It contains Jawi script. In the showcase background, there is a printed graphic with a write-up about Sejarah Melayu on it.](/images/event-images/the-first-print/the-first-print_gallery_6.jpg)
+<img srcset="/images/event-images/the-first-print/the-first-print_gallery_6_400w.jpg 400w, /images/event-images/the-first-print/the-first-print_gallery_6_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="665" width="1000" src="/images/event-images/the-first-print/the-first-print_gallery_6_400w.jpg" alt="An opened book sits within a tall showcase. It contains Jawi script. In the showcase background, there is a printed graphic with a write-up about the Sejarah Melayu on it.">

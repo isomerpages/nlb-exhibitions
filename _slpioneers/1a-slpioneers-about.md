@@ -11,12 +11,12 @@ third_nav_title: 'Singapore Literary Pioneers'
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
-            <img src="/images/event-images/lpg/singapore-literary-pioneers-tab-banner_v2.jpg" alt="A title card labelled From Singapore Literary Pioneers">
+            <img srcset="/images/event-images/lpg/singapore-literary-pioneers-tab-banner_v2_400w.jpg 400w, /images/event-images/lpg/singapore-literary-pioneers-tab-banner_v2_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="250" width="1000" src="/images/event-images/lpg/singapore-literary-pioneers-tab-banner_v2_400w.jpg" alt="A title card labelled: Singapore Literary Pioneers.">
         </div>
     </div>    
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img src="/images/event-images/lpg/singapore-literary-pioneers-main-image.jpg" alt="A photo showing an overview of Singapore Literary Pioneers exhibition.">
+            <img srcset="/images/event-images/lpg/singapore-literary-pioneers-main-image_400w.jpg 400w, /images/event-images/lpg/singapore-literary-pioneers-main-image_950w.jpg 950w" sizes="(max-width: 500px) 40vw, 95vw" height="682" width="950" src="/images/event-images/lpg/singapore-literary-pioneers-main-image_400w.jpg" alt="A photo of the Singapore Literary Pioneers exhibition.">
         </div>
     </div>
         <div class="row">

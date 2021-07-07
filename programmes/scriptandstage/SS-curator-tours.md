@@ -23,10 +23,10 @@ The curator will share behind-the-scenes stories on some of the productions feat
 
 Conducted by: __Georgina Wong__, Assistant Curator, National Library.
 
-![A photo of a tour at the exhibition, with the curator talking about showcase.](/images/event-images/script-and-stage-onsite/SS08.jpg)
+<img srcset="/images/event-images/script-and-stage-onsite/SS08_400w.jpg 400w, /images/event-images/script-and-stage-onsite/SS08_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="714" width="1000" src="/images/event-images/script-and-stage-onsite/SS08_400w.jpg" alt="A photo of a tour at the exhibition, led by the curator.">
 
-![A photo of a tour at the exhibition. Visitors look into a wall showcase.](/images/event-images/script-and-stage-onsite/SS09.jpg)
+<img srcset="/images/event-images/script-and-stage-onsite/SS09_400w.jpg 400w, /images/event-images/script-and-stage-onsite/SS09_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="703" width="1000" src="/images/event-images/script-and-stage-onsite/SS09_400w.jpg" alt="A photo of a tour at the exhibition. Visitors look into a wall showcase.">
 
-![A photo of a tour at the exhibition. The curator is giving the tour.](/images/event-images/script-and-stage-onsite/SS07.jpg)
+<img srcset="/images/event-images/script-and-stage-onsite/SS07_400w.jpg 400w, /images/event-images/script-and-stage-onsite/SS07_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="607" width="1000" src="/images/event-images/script-and-stage-onsite/SS07_400w.jpg" alt="A photo of a tour at the exhibition, led by the curator.">
 
 <a href="/exhibitions/past-exhibitions/scriptandstage/programmes/" style="color:#E21216;">Return to Script &amp; Stage exhibition programmes page &#187;</a>

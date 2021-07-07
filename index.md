@@ -33,8 +33,8 @@ sections:
           description: "Singapore’s natural environment, as we know and experience today, is the result of a long history of knowledge gathering, plantation agriculture and attempts at rehabilitation. This exhibition explores our relationships with the natural world from cultural understandings and scientific study to commercial and urban land use, as well as conservation and restoration."
           url: /exhibitions/current-exhibitions/humanxnature
           image: /images/event-images/humanxnature/Homepage_exh-highlight_HxN.jpg
-          alt: 'A painted drawing of a bird'
-          button: 'More Information'
+          alt: 'A photo of the HxN entrance'
+          button: 'Human x Nature Exhibition Information'
     - infopic:
           title: 'The News Gallery: Beyond Headlines'
           subtitle: null
@@ -42,7 +42,7 @@ sections:
           url: /exhibitions/current-exhibitions/newsgallery
           image: /images/event-images/newsgallery/Homepage_exh-highlight_NG.jpg
           alt: 'A photo of the News Gallery'
-          button: 'More Information'
+          button: 'News Gallery Exhibition Information'
     - infopic:
           title: 'The Virtual News Gallery'
           subtitle: null
@@ -50,7 +50,7 @@ sections:
           url: /exhibitions/current-exhibitions/newsgallery/virtual-gallery/
           image: /images/event-images/newsgallery-virtual/frontpage.jpg
           alt: 'A photo of a video wall from the News Gallery'
-          button: 'Enter Gallery'
+          button: 'Enter the Virtual News Gallery'
 notification: "\nThe exhibitions at the National Library building have re-opened. We have implemented enhanced measures for the safety of our visitors. Our opening hours are 10am - 9pm. Thank you for your understanding and cooperation. <a href=\"https://www.nlb.gov.sg/\" target=\"_blank\">MORE INFORMATION</a>.\n"
 
 ---
