@@ -77,7 +77,7 @@ breadcrumb: 'Online Exhibitions'
              <div class="container__exh__description">
                 <div class="row">
                     <div class="col">
-                        <h5><a href="http://www.nlb.gov.sg/exhibitions/virtual/scriptandstage/virtualtour/Script%20and%20Stage.html" target="_blank" rel="noopener" style="color:#E21216;">VISIT THE ONLINE EXHIBITION &#187;</a></h5>
+                        <h5><a href="https://www.nlb.gov.sg/staticassets/exhibitions/virtual/scriptandstage/virtualtour/Script%20and%20Stage.html" target="_blank" rel="noopener" style="color:#E21216;">VISIT THE ONLINE EXHIBITION &#187;</a></h5>
                     </div>
                 </div>
             </div>
@@ -120,7 +120,7 @@ breadcrumb: 'Online Exhibitions'
              <div class="container__exh__description">
                 <div class="row">
                     <div class="col">
-                        <h5><a href="http://www.nlb.gov.sg/exhibitions/virtual/fromthestacks/web-hires/index.html" target="_blank" rel="noopener" style="color:#E21216;">VISIT THE ONLINE EXHIBITION &#187;</a></h5>
+                        <h5><a href="https://www.nlb.gov.sg/staticassets/exhibitions/virtual/fromthestacks/web-hires/index.html" target="_blank" rel="noopener" style="color:#E21216;">VISIT THE ONLINE EXHIBITION &#187;</a></h5>
                     </div>
                 </div>
             </div>
@@ -163,7 +163,7 @@ breadcrumb: 'Online Exhibitions'
              <div class="container__exh__description">
                 <div class="row">
                     <div class="col">
-                        <h5><a href="http://www.nlb.gov.sg/exhibitions/virtual/fff360/FFF360.html" target="_blank" rel="noopener" style="color:#E21216;">VISIT THE ONLINE EXHIBITION &#187;</a></h5>
+                        <h5><a href="https://www.nlb.gov.sg/staticassets/exhibitions/virtual/fff360/FFF360.html" target="_blank" rel="noopener" style="color:#E21216;">VISIT THE ONLINE EXHIBITION &#187;</a></h5>
                     </div>
                 </div>
             </div>
@@ -206,7 +206,7 @@ breadcrumb: 'Online Exhibitions'
              <div class="container__exh__description">
                 <div class="row">
                     <div class="col">
-                        <h5><a href="http://www.nlb.gov.sg/exhibitions/virtual/lotl360/LOTL360.html" target="_blank" rel="noopener" style="color:#E21216;">VISIT THE ONLINE EXHIBITION &#187;</a></h5>
+                        <h5><a href="https://www.nlb.gov.sg/staticassets/exhibitions/virtual/lotl360/LOTL360.html" target="_blank" rel="noopener" style="color:#E21216;">VISIT THE ONLINE EXHIBITION &#187;</a></h5>
                     </div>
                 </div>
             </div>
