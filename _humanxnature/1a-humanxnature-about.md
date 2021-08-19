@@ -72,6 +72,9 @@ third_nav_title: 'Human x Nature'
                         </li>
                         <li style="margin-bottom: 1rem;">
                             <a href="/files/humanxnature/Human x Nature exhibition guide_ZH.pdf" style="color:#E21216;">Chinese exhibition guide (1.68mb)</a>
+                        </li>
+                        <li style="margin-bottom: 1rem;">
+                            <a href="/files/humanxnature/Human x Nature exhibition guide_TA.pdf" style="color:#E21216;">Tamil exhibition guide (2.16mb)</a>
                         </li>                             
                     </ul>
         </div>
