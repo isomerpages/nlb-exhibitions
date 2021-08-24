@@ -72,6 +72,9 @@ third_nav_title: 'Human x Nature'
                         </li>
                         <li style="margin-bottom: 1rem;">
                             <a href="/files/humanxnature/Human x Nature exhibition guide_ZH.pdf" style="color:#E21216;">Chinese exhibition guide (1.68mb)</a>
+                        </li>
+                        <li style="margin-bottom: 1rem;">
+                            <a href="/files/humanxnature/Human x Nature exhibition guide_TA.pdf" style="color:#E21216;">Tamil exhibition guide (2.16mb)</a>
                         </li>                             
                     </ul>
         </div>
@@ -101,7 +104,7 @@ third_nav_title: 'Human x Nature'
                 <ul style="list-style: none; margin-left: 0px;">
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem;">9 April – 26 September 2021</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">9 April – 25 October 2021</div>
                     </li> 
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-clock" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
