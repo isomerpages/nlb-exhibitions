@@ -80,6 +80,40 @@ third_nav_title: 'Human x Nature'
         </div>
     </div>
 </div>
+
+<div class="container__line padding--lg">
+    <div class="row">
+        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
+        </div>
+    </div>
+</div>
+
+<div class="container__publications">
+    <div class="row">
+        <div class="col is-full">
+            <h4>Publications</h4>
+            <p style="margin-top: 5px;"><strong>BiblioAsia:</strong></p>
+                <ul style="color: #E21216">
+                    <li style="margin-bottom: 1rem;">
+                        <a href="https://biblioasia.nlb.gov.sg/vol-17/issue-1/apr-jun-2021/" style="color:#E21216;">The Nature Issue</a>
+                    </li>
+                </ul>
+            <p style="margin-top: 5px;"><strong>Blog Posts:</strong></p>
+                <ul style="color: #E21216">
+                    <li style="margin-bottom: 1rem;">
+                        <a href="https://medium.com/the-national-library-blog/curating-human-x-nature-what-goes-on-behind-the-scenes-part-i-7c24b2e04892" style="color:#E21216;">Curating Human x Nature: What Goes On Behind the Scenes (Part I)</a>
+                    </li>
+                    <li style="margin-bottom: 1rem;">
+                        <a href="https://medium.com/the-national-library-blog/curating-human-x-nature-what-goes-on-behind-the-scenes-part-ii-ef6d8836a973" style="color:#E21216;">Curating Human x Nature: What Goes On Behind the Scenes (Part II)</a>
+                    </li>
+                    <li style="margin-bottom: 1rem;">
+                        <a href="https://medium.com/the-national-library-blog/three-reasons-we-should-care-about-the-environment-64272c8f1efd" style="color:#E21216;">Three Reasons Why We Should Care About the Environment</a>
+                    </li>
+                </ul>
+        </div>
+    </div>
+</div>
+
 <div class="container__line padding--lg">
     <div class="row">
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
@@ -104,7 +138,7 @@ third_nav_title: 'Human x Nature'
                 <ul style="list-style: none; margin-left: 0px;">
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem;">9 April – 25 October 2021</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">9 April – 24 October 2021</div>
                     </li> 
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-clock" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
@@ -150,7 +184,7 @@ third_nav_title: 'Human x Nature'
                 <ul style="list-style: none; margin-left: 0px;">
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem;">7 April – 30 September 2021</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">7 April – 24 October 2021</div>
                     </li> 
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
@@ -160,7 +194,7 @@ third_nav_title: 'Human x Nature'
                         <div style="line-height: 150%; padding-left: 2.3rem;"><strong>National Library Building, Level 1, Lobby</strong> &#124; 17 June - 1 August 2021</div>
                     </li>                    
                     <li style="margin-bottom: 1rem;">
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Woodlands Regional Library, Level 1</strong> &#124; 2 August - 30 September 2021</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Woodlands Regional Library, Level 1</strong> &#124; 2 August - 24 October 2021</div>
                     </li>                       
                 </ul>
             </div>
