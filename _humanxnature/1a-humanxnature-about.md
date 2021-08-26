@@ -138,7 +138,7 @@ third_nav_title: 'Human x Nature'
                 <ul style="list-style: none; margin-left: 0px;">
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem;">9 April – 25 October 2021</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">9 April – 24 October 2021</div>
                     </li> 
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-clock" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
@@ -194,7 +194,7 @@ third_nav_title: 'Human x Nature'
                         <div style="line-height: 150%; padding-left: 2.3rem;"><strong>National Library Building, Level 1, Lobby</strong> &#124; 17 June - 1 August 2021</div>
                     </li>                    
                     <li style="margin-bottom: 1rem;">
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Woodlands Regional Library, Level 1</strong> &#124; 2 August - 30 September 2021</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Woodlands Regional Library, Level 1</strong> &#124; 2 August - 24 October 2021</div>
                     </li>                       
                 </ul>
             </div>
