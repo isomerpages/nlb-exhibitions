@@ -90,16 +90,16 @@ third_nav_title: 'Human x Nature'
 
 <div class="container__publications">
     <div class="row">
-        <div class="col is-full padding--top--lg">
+        <div class="col is-full">
             <h4>Publications</h4>
-            <p style="margin-top: 5px;">BiblioAsia</p>
-                <ul style="list-style: none; margin-left: 5px; color: #E21216">
+            <p style="margin-top: 5px;"><strong>BiblioAsia:</strong></p>
+                <ul style="color: #E21216">
                     <li style="margin-bottom: 1rem;">
                         <a href="https://biblioasia.nlb.gov.sg/vol-17/issue-1/apr-jun-2021/" style="color:#E21216;">The Nature Issue</a>
                     </li>
                 </ul>
-            <p style="margin-top: 5px;">Blog Posts</p>
-                <ul style="list-style: none; margin-left: 5px; color: #E21216">
+            <p style="margin-top: 5px;"><strong>Blog Posts:</strong></p>
+                <ul style="color: #E21216">
                     <li style="margin-bottom: 1rem;">
                         <a href="https://medium.com/the-national-library-blog/curating-human-x-nature-what-goes-on-behind-the-scenes-part-i-7c24b2e04892" style="color:#E21216;">Curating Human x Nature: What Goes On Behind the Scenes (Part I)</a>
                     </li>
@@ -110,6 +110,13 @@ third_nav_title: 'Human x Nature'
                         <a href="https://medium.com/the-national-library-blog/three-reasons-we-should-care-about-the-environment-64272c8f1efd" style="color:#E21216;">Three Reasons Why We Should Care About the Environment</a>
                     </li>
                 </ul>
+        </div>
+    </div>
+</div>
+
+<div class="container__line padding--lg">
+    <div class="row">
+        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
         </div>
     </div>
 </div>
