@@ -10,13 +10,13 @@ third_nav_title: 'Human x Nature'
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
-            <img srcset="/images/event-images/humanxnature/HxN_1200px_355_400w.jpg 400w, /images/event-images/humanxnature/HxN_1200px_355_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="296" width="1000" src="/images/event-images/humanxnature/HxN_1200px_355_400w.jpg" alt="A title card labelled Human x Nature, with illustrations of animals and insects.">
+            <img srcset="/images/event-images/humanxnature/HxN_1200px_355_400w.jpg 400w, /images/event-images/humanxnature/HxN_1200px_355_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="296" width="1000" src="/images/event-images/humanxnature/HxN_1200px_355_400w.jpg" alt="A title card labelled Human x Nature, with illustrations of animals and insects.">
         </div>
     </div>
     
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img srcset="/images/event-images/humanxnature/HxN_Photo_01_400w.jpg 400w, /images/event-images/humanxnature/HxN_Photo_01_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/humanxnature/HxN_Photo_01_400w.jpg" alt="A photo of the gallery entrance and logo, brightly lit as a lightbox featuring a photo of Chek Jawa.">
+            <img srcset="/images/event-images/humanxnature/HxN_Photo_01_400w.jpg 400w, /images/event-images/humanxnature/HxN_Photo_01_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/humanxnature/HxN_Photo_01_400w.jpg" alt="A photo of the gallery entrance and logo, brightly lit as a lightbox featuring a photo of Chek Jawa.">
         </div>
     </div>
     
