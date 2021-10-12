@@ -11,7 +11,9 @@ third_nav_title: 'Selling Dreams: Early Advertising in Singapore'
              <div class="container__exh__description">
                 <div class="row">
                     <div class="col">
-                        <h5>This online site has been archived. You can explore the archived edition at the Internet Archive's Wayback Machine.<a href="https://web.archive.org/web/20210816094323/https:/www.nlb.gov.sg/exhibitions/sellingdreams/" target="_blank" rel="noopener" style="color:#E21216;">VISIT THE ARCHIVED EXHIBITION &#187;</a></h5>
+                        <p style="padding: 0 20px;">This online site has been archived. You can explore the archived edition at the Internet Archive's Wayback Machine.
+                        </p>
+                        <h5><a href="https://web.archive.org/web/20210816094323/https:/www.nlb.gov.sg/exhibitions/sellingdreams/" target="_blank" rel="noopener" style="color:#E21216;">VISIT THE ARCHIVED EXHIBITION &#187;</a></h5>
                         <img src="/images/event-images/sellingdreams/selling-dreams-main-image.jpg" alt="A banner with the title Selling Dreams">
                     </div>
                 </div>

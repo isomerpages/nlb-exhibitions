@@ -22,7 +22,9 @@ breadcrumb: 'Online Exhibitions'
         </div>
         <div class="col is-two-thirds">
             <div class="row">
-                 <p style="padding: 0 20px;">Modelled after a department store, this exhibition highlights advertisements promoting a myriad of products, services and brands that once saturated Singapore’s busy consumer market.
+                <p style="padding: 0 20px;">Modelled after a department store, this exhibition highlights advertisements promoting a myriad of products, services and brands that once saturated Singapore’s busy consumer market.
+                </p>
+                <p style="padding: 0 20px;">This online site has been archived. You can explore the archived edition at the Internet Archive's Wayback Machine.
                 </p>
             </div>
             <div class="container__exh__break padding">
@@ -34,7 +36,7 @@ breadcrumb: 'Online Exhibitions'
              <div class="container__exh__description">
                 <div class="row">
                     <div class="col">
-                        <h5>This online site has been archived. You can explore the archived edition at the Internet Archive's Wayback Machine.<a href="https://web.archive.org/web/20210816094323/https:/www.nlb.gov.sg/exhibitions/sellingdreams/" target="_blank" rel="noopener" style="color:#E21216;">VISIT THE ARCHIVED EXHIBITION &#187;</a></h5>
+                        <h5><a href="https://web.archive.org/web/20210816094323/https:/www.nlb.gov.sg/exhibitions/sellingdreams/" target="_blank" rel="noopener" style="color:#E21216;">VISIT THE ARCHIVED EXHIBITION &#187;</a></h5>
                     </div>
                 </div>
             </div>
