@@ -34,7 +34,7 @@ breadcrumb: 'Online Exhibitions'
              <div class="container__exh__description">
                 <div class="row">
                     <div class="col">
-                        <h5><a href="http://www.nlb.gov.sg/exhibitions/sellingdreams/" target="_blank" style="color:#E21216;">VISIT THE ONLINE EXHIBITION &#187;</a></h5>
+                        <h5>This online site has been archived. You can explore the archived edition at the Internet Archive's Wayback Machine.<a href="https://web.archive.org/web/20210816094323/https:/www.nlb.gov.sg/exhibitions/sellingdreams/" target="_blank" rel="noopener" style="color:#E21216;">VISIT THE ARCHIVED EXHIBITION &#187;</a></h5>
                     </div>
                 </div>
             </div>
@@ -43,7 +43,7 @@ breadcrumb: 'Online Exhibitions'
         <div class="container__exh__feedback">
         <div class="row">
             <div class="col is-full" style="background-color: #E21216;">
-                <p><a href="https://efm.jusfeedback.com/Community/se/705E3ED967035D29" target="_blank" style="color:#fff;">Leave us your feedback here &#187;</a></p>
+                <p><a href="https://efm.jusfeedback.com/Community/se/705E3ED967035D29" target="_blank" rel="noopener" style="color:#fff;">Leave us your feedback here &#187;</a></p>
             </div>
         </div>
     </div>
