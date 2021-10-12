@@ -23,8 +23,8 @@ breadcrumb: 'Online Exhibitions'
         <div class="col is-two-thirds">
             <div class="row">
                 <p style="padding: 0 20px;">Modelled after a department store, this exhibition highlights advertisements promoting a myriad of products, services and brands that once saturated Singapore’s busy consumer market.
-                </p>
-                <p style="padding: 0 20px;">This online site has been archived. You can explore the archived edition at the Internet Archive's Wayback Machine.
+                <br>
+                This online site has been archived. You can explore the archived edition at the Internet Archive's Wayback Machine.
                 </p>
             </div>
             <div class="container__exh__break padding">
