@@ -1,7 +1,7 @@
 ---
-title: 'Human X Nature Public Tours (English)'
+title: 'Human X Nature Public Tours'
 permalink: /programmes/humanxnature/publictours-en/
-breadcrumb: 'Human X Nature Public Tours (English)'
+breadcrumb: 'Human X Nature Public Tours'
 
 ---
 
