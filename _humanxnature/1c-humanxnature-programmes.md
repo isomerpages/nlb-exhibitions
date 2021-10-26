@@ -1,6 +1,6 @@
 ---
 title: Programmes
-permalink: /exhibitions/current-exhibitions/humanxnature/programmes/
+permalink: /exhibitions/past-exhibitions/humanxnature/programmes/
 breadcrumb: Programmes
 third_nav_title: 'Human x Nature'
 
