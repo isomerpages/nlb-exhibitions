@@ -25,6 +25,15 @@ third_nav_title: 'Human x Nature'
             <p>Workshop &#124; (Online) Human x Nature: Unnatural Stories</p>
             <p><a href="/programmes/humanxnature/20210522-workshop/">The event is over.</a></p>
         </td>
+    </tr>
+    <tr>
+        <td style="background-color: #c1c1c1;">27 May 2021<br>
+            &mdash;<br>
+            6:00pm</td>
+        <td>
+            <p>Talk &#124; (Online) Behind-The-Scenes: A Curator's Perspective</p>
+            <p><a href="/programmes/humanxnature/20210527-talk/">The event is over.</a></p>
+        </td>
     </tr>    
 
 </table>
