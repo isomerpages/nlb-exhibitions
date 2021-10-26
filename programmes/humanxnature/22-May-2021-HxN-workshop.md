@@ -1,7 +1,7 @@
 ---
 title: '22 May 2021'
 permalink: /programmes/humanxnature/20210522-workshop/
-breadcrumb: '(Online) Human x Nature: Unnatural Stories'
+breadcrumb: '(Online) Unnatural Stories'
 
 ---
 

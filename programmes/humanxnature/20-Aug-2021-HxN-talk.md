@@ -1,20 +1,20 @@
 ---
-title: '27 May 2021'
-permalink: /programmes/humanxnature/20210527-talk/
-breadcrumb: "(Online) Behind-The-Scenes, A Curator's Perspective"
+title: '20 August 2021'
+permalink: /programmes/humanxnature/20210820-talk/
+breadcrumb: "(Online) Curators' Sharing"
 
 ---
 
 
 <blockquote style="color: #E21216; font-size: 150%;">The event is over.</blockquote>
 
-#### (Online) Behind-The-Scenes: A Curator's Perspective
+#### (Online) Human x Nature: Curators' Sharing
 
-__27 May 2021__<br>
-__6:00pm – 7:00pm__<br>
+__20 August 2021__<br>
+__6:00pm – 7:30pm__<br>
 __Online event__
 
-Curators Ms Georgina Wong and Ms Chia Jie Lin will share what they have learned from their research as well as interesting behind-the-scenes anecdotes.
+Join the curators of the exhibition Human x Nature: Environmental Histories of Singapore, Georgina Wong and Chia Jie Lin, as they share interesting stories of some exhibits on display.
 
 #### Online Programme/Event Administrative Information
 
