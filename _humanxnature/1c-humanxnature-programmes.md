@@ -41,7 +41,7 @@ third_nav_title: 'Human x Nature'
             7:00pm</td>
         <td>
             <p>Tour &#124; Human X Nature Curators' Tour</p>
-            <p><a href="/programmes/humanxnature/curatorstours/>The event is over.</a></p>
+            <p><a href="/programmes/humanxnature/curatorstours/">The event is over.</a></p>
         </td>
     </tr>
     <tr>
