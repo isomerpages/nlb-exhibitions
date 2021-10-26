@@ -28,19 +28,19 @@ Learn more about the basics of illustration as they share tips and techniques on
 
 Check out the [“An Unnatural History”](https://unnaturalhistory.sg/) mural and explore a series of upcoming online talks organised by the creators [here](https://www.singaporeartmuseum.sg/art-events/events/conversations-about-conservation).
 
-![A photo of a colourful city-scape mural.](/images/event-images/prog_20210522_wkshop_01.jpg)
+![A photo of a colourful city-scape mural.](/images/event-images/humanxnature/prog_20210522_wkshop_01.jpg)
 
 #### About the Workshop Facilitator - Darel Seow
 
 Darel Seow is a visual storyteller who illustrates tales of the natural world with his unique brand of wry wit and the whimsy. The illustration graduate from Central Saint Martins believes in using storytelling as a means of engagement to create experiences that simultaneously excite and educate. He has worked with The British Museum, National Museum of Singapore, Asian Civilisations Museum and other cultural institutions on projects that encourage learning through the power of imagination and play.
 
-![A photo Darel Seow.](/images/event-images/prog_20210522_wkshop_02.jpg)
+![A photo Darel Seow.](/images/event-images//humanxnature/prog_20210522_wkshop_02.jpg)
 
 #### About the Workshop Facilitator - Lee Xin Li
 
 Lee Xin Li is an independent illustrator. Based in Singapore, Lee finds inspiration in the environment in which he grew up, drawing on culture, food, architecture and history. An architecture graduate from the National University of Singapore, his love for the comic series The Adventures of Tin Tin by Hergé and Guy Delisle’s travel chronicles motivated him to begin drawing in 2013. His notable works include the Kueh series and Peta Singapura.
 
-![A photo Lee Xin Li.](/images/event-images/prog_20210522_wkshop_03.jpg)
+![A photo Lee Xin Li.](/images/event-images//humanxnature/prog_20210522_wkshop_03.jpg)
 
 #### Online Programme/Event Administrative Information
 
