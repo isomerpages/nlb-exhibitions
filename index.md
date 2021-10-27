@@ -5,7 +5,7 @@ permalink: /
 description: 'Exhibitions by National Library Singapore'
 sections:
     - hero:
-          background: /images/event-images/humanxnature/HxN_1200px_355.jpg
+          background: /images/event-images/newsgallery/TNG_1200x355.jpg
           key_highlights:
                 - title: 'Current exhibitions'
                   description: null
@@ -27,14 +27,6 @@ sections:
           image: /images/homepage_NL_highlight.png
           alt: 'Photos of exhibitions'
           button: null
-    - infopic:
-          title: 'Human x Nature: Environmental Histories of Singapore'
-          subtitle: null
-          description: "Singapore’s natural environment, as we know and experience today, is the result of a long history of knowledge gathering, plantation agriculture and attempts at rehabilitation. This exhibition explores our relationships with the natural world from cultural understandings and scientific study to commercial and urban land use, as well as conservation and restoration."
-          url: /exhibitions/current-exhibitions/humanxnature
-          image: /images/event-images/humanxnature/Homepage_exh-highlight_HxN.jpg
-          alt: 'A photo of the HxN entrance'
-          button: 'Human x Nature Exhibition Information'
     - infopic:
           title: 'The News Gallery: Beyond Headlines'
           subtitle: null
