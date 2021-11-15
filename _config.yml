@@ -73,6 +73,8 @@ collections:
         output: true
     qupl50:
         output: true
+    mappingtheworld:
+        output: true
 favicon: /images/cropped-nlb-favicon_192.png
 permalink: none
 baseurl: ""
