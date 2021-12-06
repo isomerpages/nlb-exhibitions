@@ -30,4 +30,4 @@ Past: #c1c1c1
 
 ## Upcoming programmes
 
-For information on Mapping the World: Perspectives from Asian Cartography programmes, please visit the [Eventbrite page](www.go.gov.sg/mtwprogs/).
+For information on __Mapping the World: Perspectives from Asian Cartography__ programmes, please visit the [Eventbrite page](https://www.go.gov.sg/mtwprogs/).
