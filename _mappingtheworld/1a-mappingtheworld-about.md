@@ -47,7 +47,7 @@ third_nav_title: 'Mapping the World'
 <div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
-        <p>Showcasing rare historical maps, Mapping the World: Perspectives from Asian Cartography brings together different mapping traditions and worldviews, political and cultural spheres of influence, and the exchange of cartographic knowledge between civilisations across the world.</p>
+        <p>Showcasing rare historical maps, <strong><em>Mapping the World: Perspectives from Asian Cartography</em></strong> brings together different mapping traditions and worldviews, political and cultural spheres of influence, and the exchange of cartographic knowledge between civilisations across the world.</p>
 
         <p>The exhibition, held in partnership with the Embassy of France in Singapore, features over 60 treasures from overseas institutions and private collections such as the Bibliothèque nationale de France, Musée Guimet and École Française D’Extreme-Orient in France, as well as the MacLean Collection, Illinois, United States and the Yokohama City University, Japan. It also highlights rare maps from the National Library, Singapore, as well as local institutions such as the Asian Civilisations Museum and the Indian Heritage Centre.</p>
             
@@ -115,7 +115,7 @@ third_nav_title: 'Mapping the World'
 <div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
-        <p>Learn about a rare indigenous Thai map found in the Traiphum Manuscript, a Thai Buddhist cosmological treatise dating to 1776.</p>
+        <p><strong><em>Spiritual Journeys</em></strong> delves into the world of a rare indigenous Thai map found in the Traiphum Manuscript, a Thai Buddhist cosmological treatise dating to 1776. Containing a mixture of geographical and spiritual locations and stories, the Traiphum map offers a fascinating glimpse into the history of Thai cartography and its intersections with Theravada Buddhism.</p>
         </div>
     </div>
 </div>
@@ -166,7 +166,7 @@ third_nav_title: 'Mapping the World'
 <div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
-            <p>Explore a unique historical map from Thailand that tells the story of Prince Siddhartha Gautama and his journey to becoming Buddha.</p>
+            <p>Throughout history, different cultures have used maps to navigate, outline the location of kingdoms, and even to tell stories. <strong><em>Story of A Map</em></strong> is an interactive display which explores a unique Thai historical map that tells the story of Prince Siddhartha Gautama and his journey to becoming the Buddha.</p>
         </div>
     </div>
 </div>
