@@ -32,7 +32,7 @@ breadcrumb: 'Current Exhibitions'
     </div>
     <div class="row">
         <div class="col">
-            <img src="/images/event-images/mappingtheworld/Exhibition Thumbnail_500x500px_opt.jpg" alt="Mapping the World thumbnail" height="500" width="500" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
+            <img src="/images/event-images/mappingtheworld/Exhibition_Thumbnail_500x500px_opt.jpg" alt="Mapping the World thumbnail" height="500" width="500" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
         </div>
         <div class="col is-two-thirds">
             <div class="row">

@@ -5,7 +5,7 @@ permalink: /
 description: 'Exhibitions by National Library Singapore'
 sections:
     - hero:
-          background: /images/event-images/mappingtheworld/Exhibition homepage hero banner_1920x720px_opt.jpg
+          background: /images/event-images/mappingtheworld/Exhibition_banner_1920x720px_opt.jpg
           key_highlights:
                 - title: 'Current exhibitions'
                   description: null
