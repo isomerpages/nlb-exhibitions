@@ -10,7 +10,7 @@ third_nav_title: 'Mapping the World'
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
-            <img srcset="/images/event-images/mappingtheworld/Exhibition homepage hero banner_1200x355px_400w.jpg 400w, /images/event-images/mappingtheworld/Exhibition homepage hero banner_1200x355px_opt.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="296" width="1000" src="/images/event-images/mappingtheworld/Exhibition homepage hero banner_1200x355px_400w.jpg" alt="A title card labelled Mapping the World: Perspectives from Asian Cartography.">
+            <img srcset="/images/event-images/mappingtheworld/Exhibition homepage hero banner_1200x355px_400w.jpg 400w, /images/event-images/mappingtheworld/Exhibition homepage hero banner_1200x355px_opt.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="356" width="1201" src="/images/event-images/mappingtheworld/Exhibition homepage hero banner_1200x355px_400w.jpg" alt="A title card labelled Mapping the World: Perspectives from Asian Cartography.">
         </div>
     </div>
 <!--    
@@ -78,21 +78,14 @@ third_nav_title: 'Mapping the World'
     </div>
 </div>
 
-<div class="container__line padding--lg">
-    <div class="row">
-        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
-        </div>
-    </div>
-</div>
-
 <div class="container__card">
     <!--
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
             <img srcset="/images/event-images/humanxnature/HxN_Photo_11_400w.jpg 400w, /images/event-images/humanxnature/HxN_Photo_11_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/humanxnature/HxN_Photo_11_400w.jpg" alt="A photo of the Library of Life exhibition. A small tilted caption stand is placed in the middle. Three multimedia screens line the back wall. The left and right walls are lightboxes featuring various biodiversity illustrations, along with a showcase and multimedia screen.">
         </div>
-    -->
     </div>
+    -->
     
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
