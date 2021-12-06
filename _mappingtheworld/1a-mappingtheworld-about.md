@@ -10,7 +10,7 @@ third_nav_title: 'Mapping the World'
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
-            <img srcset="/images/event-images/mappingtheworld/Exhibition_banner_1200x355px_400w.jpg 400w, Exhibition_banner_1200x355px_opt.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="356" width="1201" src="/images/event-images/mappingtheworld/Exhibition_banner_1200x355px_400w.jpg" alt="A title card labelled Mapping the World: Perspectives from Asian Cartography.">
+            <img srcset="/images/event-images/mappingtheworld/Exhibition_banner_1200x355px_400w.jpg 400w, /images/event-images/mappingtheworld/Exhibition_banner_1200x355px_opt.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="356" width="1201" src="/images/event-images/mappingtheworld/Exhibition_banner_1200x355px_400w.jpg" alt="A title card labelled Mapping the World: Perspectives from Asian Cartography.">
         </div>
     </div>
 <!--    
@@ -53,7 +53,7 @@ third_nav_title: 'Mapping the World'
             
         <p>Through these historical maps, this exhibition opens up a fascinating and illuminating window into how civilisations see themselves and the world across time and space.</p>
 
-        <img srcset="/images/event-images/mappingtheworld/Partner_sponsors_banner_400w.jpg 400w, /images/event-images/mappingtheworld/Partner_sponsors_banner_opt.jpg.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="296" width="1000" src="/images/event-images/mappingtheworld/Partner_sponsors_banner_400w.jpg" alt="A banner with logos. Presented by: National Library of Singapore. In partnership with: The Embassy of France in Singapore. In Association with: The vOliah! Festival. Supported by: Temasek, and Tikehau Capital.">
+        <img srcset="/images/event-images/mappingtheworld/Partner_sponsors_banner_400w.jpg 400w, /images/event-images/mappingtheworld/Partner_sponsors_banner_opt.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="296" width="1000" src="/images/event-images/mappingtheworld/Partner_sponsors_banner_400w.jpg" alt="A banner with logos. Presented by: National Library of Singapore. In partnership with: The Embassy of France in Singapore. In Association with: The vOliah! Festival. Supported by: Temasek, and Tikehau Capital.">
         </div>
     </div>
 </div>
