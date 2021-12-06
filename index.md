@@ -32,7 +32,7 @@ sections:
           subtitle: null
           description: "Showcasing rare historical maps, Mapping the World: Perspectives from Asian Cartography brings together different mapping traditions and worldviews, political and cultural spheres of influence, and the exchange of cartographic knowledge between civilisations across the world."
           url: /exhibitions/current-exhibitions/mappingthworld/
-          image: /images/event-images/mappingtheworld/Homepage_exh-highlight_mappingtheworld.jpg.jpg
+          image: /images/event-images/mappingtheworld/Homepage_exh-highlight_mappingtheworld.jpg
           alt: 'A photo of the Mapping the World exhibition'
           button: 'Mapping the World Exhibition Information'
     - infopic:
