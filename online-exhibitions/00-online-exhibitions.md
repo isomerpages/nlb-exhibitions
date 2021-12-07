@@ -42,10 +42,10 @@ breadcrumb: 'Online Exhibitions'
             </div>
         </div>
     </div>
-        <div class="container__exh__feedback">
+    <div class="container__exh__feedback">
         <div class="row">
             <div class="col is-full" style="background-color: #E21216;">
-                <p><a href="https://efm.jusfeedback.com/Community/se/705E3ED967035D29" target="_blank" rel="noopener" style="color:#fff;">Leave us your feedback here &#187;</a></p>
+                <p><a href="https://efm.jusfeedback.com/Community/se/705E3ED90807EF71" target="_blank" rel="noopener" style="color:#fff;">Leave us your feedback here &#187;</a></p>
             </div>
         </div>
     </div>
@@ -85,10 +85,10 @@ breadcrumb: 'Online Exhibitions'
             </div>
         </div>
     </div>
-        <div class="container__exh__feedback">
+    <div class="container__exh__feedback">
         <div class="row">
             <div class="col is-full" style="background-color: #E21216;">
-                <p><a href="https://efm.jusfeedback.com/Community/se/705E3ED970FCBA9C" target="_blank" rel="noopener" style="color:#fff;">Leave us your feedback here &#187;</a></p>
+                <p><a href="https://efm.jusfeedback.com/Community/se/705E3ED978D738BB" target="_blank" rel="noopener" style="color:#fff;">Leave us your feedback here &#187;</a></p>
             </div>
         </div>
     </div>
@@ -128,10 +128,10 @@ breadcrumb: 'Online Exhibitions'
             </div>
         </div>
     </div>
-        <div class="container__exh__feedback">
+    <div class="container__exh__feedback">
         <div class="row">
             <div class="col is-full" style="background-color: #E21216;">
-                <p><a href="https://efm.jusfeedback.com/Community/se/705E3ED93A52064F" target="_blank" rel="noopener" style="color:#fff;">Leave us your feedback here &#187;</a></p>
+                <p><a href="https://efm.jusfeedback.com/Community/se/705E3ED9676632DF" target="_blank" rel="noopener" style="color:#fff;">Leave us your feedback here &#187;</a></p>
             </div>
         </div>
     </div>
@@ -171,10 +171,10 @@ breadcrumb: 'Online Exhibitions'
             </div>
         </div>
     </div>
-        <div class="container__exh__feedback">
+    <div class="container__exh__feedback">
         <div class="row">
             <div class="col is-full" style="background-color: #E21216;">
-                <p><a href="https://efm.jusfeedback.com/Community/se/705E3ED93DBD886A" target="_blank" rel="noopener" style="color:#fff;">Leave us your feedback here &#187;</a></p>
+                <p><a href="https://efm.jusfeedback.com/Community/se/705E3ED94E28201F" target="_blank" rel="noopener" style="color:#fff;">Leave us your feedback here &#187;</a></p>
             </div>
         </div>
     </div>
@@ -205,7 +205,7 @@ breadcrumb: 'Online Exhibitions'
                     </div>
                 </div>
             </div>
-             <div class="container__exh__description">
+            <div class="container__exh__description">
                 <div class="row">
                     <div class="col">
                         <h5><a href="https://www.nlb.gov.sg/staticassets/exhibitions/virtual/lotl360/LOTL360.html" target="_blank" rel="noopener" style="color:#E21216;">VISIT THE ONLINE EXHIBITION &#187;</a></h5>
@@ -214,10 +214,10 @@ breadcrumb: 'Online Exhibitions'
             </div>
         </div>
     </div>
-        <div class="container__exh__feedback">
+    <div class="container__exh__feedback">
         <div class="row">
             <div class="col is-full" style="background-color: #E21216;">
-                <p><a href="https://efm.jusfeedback.com/Community/se/705E3ED962CCF4F1" target="_blank" rel="noopener" style="color:#fff;">Leave us your feedback here &#187;</a></p>
+                <p><a href="https://efm.jusfeedback.com/Community/se/705E3ED91BE67438" target="_blank" rel="noopener" style="color:#fff;">Leave us your feedback here &#187;</a></p>
             </div>
         </div>
     </div>
@@ -254,6 +254,13 @@ breadcrumb: 'Online Exhibitions'
                         <h5><a href="https://memoriesoftwocities.nlb.gov.sg/" target="_blank" rel="noopener" style="color:#E21216;">VISIT THE ONLINE EXHIBITION &#187;</a></h5>
                     </div>
                 </div>
+            </div>
+        </div>
+    </div>
+    <div class="container__exh__feedback">
+        <div class="row">
+            <div class="col is-full" style="background-color: #E21216;">
+                <p><a href="https://efm.jusfeedback.com/Community/se/705E3ED94F887CA6" target="_blank" rel="noopener" style="color:#fff;">Leave us your feedback here &#187;</a></p>
             </div>
         </div>
     </div>

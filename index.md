@@ -5,7 +5,7 @@ permalink: /
 description: 'Exhibitions by National Library Singapore'
 sections:
     - hero:
-          background: /images/event-images/newsgallery/TNG_1200x355.jpg
+          background: /images/event-images/mappingtheworld/Exhibition_banner_1920x720px_opt.jpg
           key_highlights:
                 - title: 'Current exhibitions'
                   description: null
@@ -27,6 +27,14 @@ sections:
           image: /images/homepage_NL_highlight.png
           alt: 'Photos of exhibitions'
           button: null
+    - infopic:
+          title: 'Mapping the World: Perspectives from Asian Cartography.'
+          subtitle: null
+          description: "Showcasing rare historical maps, <i>Mapping the World: Perspectives from Asian Cartography</i> brings together different mapping traditions and worldviews, political and cultural spheres of influence, and the exchange of cartographic knowledge between civilisations across the world."
+          url: /exhibitions/current-exhibitions/mappingtheworld/
+          image: /images/event-images/mappingtheworld/Homepage_exh-highlight_mappingtheworld.jpg
+          alt: 'A photo of the Mapping the World exhibition'
+          button: 'Mapping the World Exhibition Information'
     - infopic:
           title: 'The News Gallery: Beyond Headlines'
           subtitle: null

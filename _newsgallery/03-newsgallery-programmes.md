@@ -30,6 +30,3 @@ Past: #c1c1c1
 <h2>Upcoming programmes</h2>
 
 <p>There are currently no upcoming programmes.</p>
-
-<h2>Past programmes</h2>
-

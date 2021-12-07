@@ -28,4 +28,6 @@ Past: #c1c1c1
 
 -->
 
-There are currently no upcoming programmes.
+## Upcoming programmes
+
+For information on __Mapping the World: Perspectives from Asian Cartography__ programmes, please visit the [Eventbrite page](https://www.go.gov.sg/mtwprogs/).
