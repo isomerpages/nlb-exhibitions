@@ -65,7 +65,7 @@ breadcrumb: 'Current Exhibitions'
 <div class="container__exh__description">
     <div class="row is-multiline">
         <div class="col">            
-            <p>Showcasing rare historical maps, Mapping the World: Perspectives from Asian Cartography brings together different mapping traditions and worldviews, political and cultural spheres of influence, and the exchange of cartographic knowledge between civilisations across the world. 
+            <p>Showcasing rare historical maps, <i>Mapping the World: Perspectives from Asian Cartography</i> brings together different mapping traditions and worldviews, political and cultural spheres of influence, and the exchange of cartographic knowledge between civilisations across the world. 
             </p>
             <a href="/exhibitions/current-exhibitions/mappingtheworld/" style="color:#E21216;"><h5>EXHIBITION INFORMATION &#187;</h5></a>
         </div>
