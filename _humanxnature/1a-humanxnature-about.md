@@ -113,6 +113,13 @@ third_nav_title: 'Human x Nature'
                         <a href="https://medium.com/the-national-library-blog/three-reasons-we-should-care-about-the-environment-64272c8f1efd" style="color:#E21216;">Three Reasons Why We Should Care About the Environment</a>
                     </li>
                 </ul>
+            <h4>Videos</h4>
+            <p style="margin-top: 5px;"><strong>BiblioAsia:</strong></p>
+                <ul style="color: #E21216">
+                    <li style="margin-bottom: 1rem;">
+                        <a href="https://youtu.be/v4O0iFON03A" style="color:#E21216;">Digital Curators' tour</a>
+                    </li>
+                </ul>
         </div>
     </div>
 </div>
