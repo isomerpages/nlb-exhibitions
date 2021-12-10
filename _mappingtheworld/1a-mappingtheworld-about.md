@@ -12,14 +12,12 @@ third_nav_title: 'Mapping the World'
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
             <img srcset="/images/event-images/mappingtheworld/Exhibition_banner_1200x355px_400w.jpg 400w, /images/event-images/mappingtheworld/Exhibition_banner_1200x355px_opt.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="356" width="1201" src="/images/event-images/mappingtheworld/Exhibition_banner_1200x355px_400w.jpg" alt="A title card labelled Mapping the World: Perspectives from Asian Cartography.">
         </div>
-    </div>
-<!--    
+    </div>  
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img srcset="/images/event-images/humanxnature/HxN_Photo_01_400w.jpg 400w, /images/event-images/humanxnature/HxN_Photo_01_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/humanxnature/HxN_Photo_01_400w.jpg" alt="A photo of the gallery entrance.">
+            <img srcset="/images/event-images/mappingtheworld/001_400w.jpg 400w, /images/event-images/mappingtheworld/001_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/mappingtheworld/001_400w.jpg" alt="A photo of the gallery entrance.">
         </div>
     </div>
--->    
         <div class="row">
             <div class="col" style="border-top: 10px solid #E21216; border-bottom: 5px solid #E21216;">
                 <ul style="list-style: none; margin-left: 0px;">
