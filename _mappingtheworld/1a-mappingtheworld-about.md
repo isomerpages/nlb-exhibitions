@@ -63,10 +63,7 @@ third_nav_title: 'Mapping the World'
                     <ul style="list-style: none; margin-left: 5px; color: #E21216">
                         <li style="margin-bottom: 1rem;">
                             <a href="/files/mappingtheworld/NLB Mapping The World_Brochure_web.pdf" style="color:#E21216;">English exhibition brochure (1.68mb)</a>
-                        </li>
-                        <li style="margin-bottom: 1rem;">
-                            <a href="https://eresources.nlb.gov.sg/printheritage/detail/90d85fba-f1a9-4456-b675-37335ddf7865.aspx?s=Mapping%20the%20world" style="color:#E21216;">E-publication</a>
-                        </li>                            
+                        </li>                        
                     </ul>
         </div>
     </div>
