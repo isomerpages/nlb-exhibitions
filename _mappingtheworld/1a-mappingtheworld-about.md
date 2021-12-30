@@ -58,11 +58,14 @@ third_nav_title: 'Mapping the World'
 <div class="container__downloads">
     <div class="row">
         <div class="col is-full padding--top--lg">
-            <h4>Brochure</h4>
-            <p style="margin-top: 5px;">Download the brochure below:</p>
+            <h4>Brochure and e-publication</h4>
+            <p style="margin-top: 5px;">Download the brochure and e-publication below:</p>
                     <ul style="list-style: none; margin-left: 5px; color: #E21216">
                         <li style="margin-bottom: 1rem;">
                             <a href="/files/mappingtheworld/NLB Mapping The World_Brochure_web.pdf" style="color:#E21216;">English exhibition brochure (1.68mb)</a>
+                        </li>
+                        <li style="margin-bottom: 1rem;">
+                            <a href="https://eresources.nlb.gov.sg/printheritage/detail/90d85fba-f1a9-4456-b675-37335ddf7865.aspx?s=Mapping%20the%20world" style="color:#E21216;">E-publication</a>
                         </li>                            
                     </ul>
         </div>
@@ -126,14 +129,12 @@ third_nav_title: 'Mapping the World'
 </div>
 
 <div class="container__card">
-    <!--
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
             
-            <img srcset="/images/event-images/humanxnature/HxN_Photo_13_400w.jpg 400w, /images/event-images/humanxnature/HxN_Photo_13_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/humanxnature/HxN_Photo_13_400w.jpg" alt="A photo of the Animal Friends exhibition, with bright yellow and deep green walls decorated with animal and tree silhouettes. Captions adorn the walls, and interactive flip cards are on the right.">
+            <img srcset="/images/event-images/mappingtheworld/008_400w.jpg 400w, /images/event-images/mappingtheworld/008_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/mappingtheworld/008_400w.jpg" alt="A photo of the roving exhibition.">
         </div>
     </div>
-    -->
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
             <h3><strong>Story of a Map: The tale of Buddha</strong></h3>
