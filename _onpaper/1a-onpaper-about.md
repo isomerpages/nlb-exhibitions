@@ -51,8 +51,8 @@ third_nav_title: 'On Paper: Singapore Before 1867'
 <div class="container__downloads">
     <div class="row">
         <div class="col is-full padding--top--lg">
-            <h4>Brochures and Exhibition Guides</h4>
-            <p style="margin-top: 5px;">Download the brochures and exhibition guides below:</p>
+            <h4>Brochures, Exhibition Guides and e-publication</h4>
+            <p style="margin-top: 5px;">Download them below:</p>
                     <ul style="list-style: none; margin-left: 5px; color: #E21216">
                         <li style="margin-bottom: 1rem;">
                             <a href="/files/onpaper/On-Paper-eBrochure-Sep-Dec-2019.pdf" style="color:#E21216;">English exhibition brochure (1.35mb)</a>
@@ -73,8 +73,21 @@ third_nav_title: 'On Paper: Singapore Before 1867'
                         </li>                         
                         <li style="margin-bottom: 1rem;">
                             <a href="/files/onpaper/NLB-On-Paper-exhibition-guide_TA.pdf" style="color:#E21216;">Tamil exhibition guide (834kb)</a>
-                        </li> 
+                        </li>
                     </ul>
+        </div>
+    </div>
+</div>
+
+<div class="container__publications">
+    <div class="row">
+        <div class="col is-full">
+            <h4>Publication</h4>
+                <ul style="color: #E21216">
+                    <li style="margin-bottom: 1rem;">
+                        <a href="https://eresources.nlb.gov.sg/printheritage/detail/594f089e-283a-4386-b865-7c4b9e359ff3.aspx?s=on%20paper" style="color:#E21216;">On Paper: Singapore Before 1867 e-publication</a>
+                    </li>
+                </ul>
         </div>
     </div>
 </div>
