@@ -58,8 +58,8 @@ third_nav_title: 'Mapping the World'
 <div class="container__downloads">
     <div class="row">
         <div class="col is-full padding--top--lg">
-            <h4>Brochure and e-publication</h4>
-            <p style="margin-top: 5px;">Download the brochure and e-publication below:</p>
+            <h4>Brochure</h4>
+            <p style="margin-top: 5px;">Download the brochure below:</p>
                     <ul style="list-style: none; margin-left: 5px; color: #E21216">
                         <li style="margin-bottom: 1rem;">
                             <a href="/files/mappingtheworld/NLB Mapping The World_Brochure_web.pdf" style="color:#E21216;">English exhibition brochure (1.68mb)</a>
@@ -68,6 +68,19 @@ third_nav_title: 'Mapping the World'
                             <a href="https://eresources.nlb.gov.sg/printheritage/detail/90d85fba-f1a9-4456-b675-37335ddf7865.aspx?s=Mapping%20the%20world" style="color:#E21216;">E-publication</a>
                         </li>                            
                     </ul>
+        </div>
+    </div>
+</div>
+
+<div class="container__publications">
+    <div class="row">
+        <div class="col is-full">
+            <h4>Publication</h4>
+                <ul style="color: #E21216">
+                    <li style="margin-bottom: 1rem;">
+                        <a href="https://eresources.nlb.gov.sg/printheritage/detail/90d85fba-f1a9-4456-b675-37335ddf7865.aspx?s=Mapping%20the%20world" style="color:#E21216;">Mapping the world : perspectives from Asian cartography e-publication</a>
+                    </li>
+                </ul>
         </div>
     </div>
 </div>

@@ -74,10 +74,20 @@ third_nav_title: 'On Paper: Singapore Before 1867'
                         <li style="margin-bottom: 1rem;">
                             <a href="/files/onpaper/NLB-On-Paper-exhibition-guide_TA.pdf" style="color:#E21216;">Tamil exhibition guide (834kb)</a>
                         </li>
-                        <li style="margin-bottom: 1rem;">
-                            <a href="https://eresources.nlb.gov.sg/printheritage/detail/594f089e-283a-4386-b865-7c4b9e359ff3.aspx?s=on%20paper" style="color:#E21216;">E-publication</a>
-                        </li>  
                     </ul>
+        </div>
+    </div>
+</div>
+
+<div class="container__publications">
+    <div class="row">
+        <div class="col is-full">
+            <h4>Publication</h4>
+                <ul style="color: #E21216">
+                    <li style="margin-bottom: 1rem;">
+                        <a href="https://eresources.nlb.gov.sg/printheritage/detail/90d85fba-f1a9-4456-b675-37335ddf7865.aspx?s=Mapping%20the%20world" style="color:#E21216;">On Paper: Singapore Before 1867 e-publication</a>
+                    </li>
+                </ul>
         </div>
     </div>
 </div>
