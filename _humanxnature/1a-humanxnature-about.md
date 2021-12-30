@@ -51,7 +51,7 @@ third_nav_title: 'Human x Nature'
 
         <p>Modelled after our changing natural landscapes, the exhibition features a dazzling array of natural history books, botanical prints, plantation photographs and maps from the collections of the National Library and National Archives, together with herbarium and natural history specimens on loan from the Lee Kong Chian Natural History Museum, Singapore Botanic Gardens and Urban Redevelopment Authority. Visitors will learn about various understandings of the natural world, and how they shaped the different ways local, colonial, and migrant communities lived within and transformed the natural landscape.</p>
 
-        <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe title="Human x Nature promotional video" src='https://www.youtube.com/embed/9E-hSuOUnvY' frameborder='0' allowfullscreen></iframe></div>
+        <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe title="Human x Nature promotional video" src='https://www.youtube.com/embed/TZDunrYVwGM' frameborder='0' allowfullscreen></iframe></div>
         </div>
     </div>
 </div>
