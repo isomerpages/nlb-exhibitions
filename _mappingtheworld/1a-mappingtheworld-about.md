@@ -148,7 +148,7 @@ third_nav_title: 'Mapping the World'
                     </li> 
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Ang Moh Kio Public Library, Level 1 Foyer</strong> &#124; 20 December 2021 - 25 January 2022</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Ang Mo Kio Public Library, Level 1 Foyer</strong> &#124; 20 December 2021 - 25 January 2022</div>
                     </li>                    
                     <li style="margin-bottom: 1rem;">
                         <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Cheng San Public Library, Foyer</strong> &#124; 26 January - 31 March 2022</div>
