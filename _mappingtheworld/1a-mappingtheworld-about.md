@@ -175,7 +175,7 @@ third_nav_title: 'Mapping the World'
 <div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
-            <p>Throughout history, different cultures have used maps to navigate, outline the location of kingdoms, and even to tell stories. <strong><em>Story of A Map</em></strong> is an interactive display which explores a unique Thai historical map that tells the story of Prince Siddhartha Gautama and his journey to becoming the Buddha.</p>
+            <p>Throughout history, different cultures have used maps to navigate, outline the location of kingdoms, and even to tell stories. <strong><em>Story of A Map</em></strong> is an interactive display which explores a unique Thai historical map that tells the story of Prince Siddhartha Gautama and his journey to becoming Buddha.</p>
         </div>
     </div>
 </div>
