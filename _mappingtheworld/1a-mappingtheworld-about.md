@@ -191,7 +191,7 @@ third_nav_title: 'Mapping the World'
     <div class="row">
         <div class="col is-full">
             <h3>Private Tours</h3>
-            <p style="margin-top: 10px;">For enquiries on exhibition tours, please email visitnls@nlb.gov.sg.</p>
+            <p style="margin-top: 10px;">For enquiries on group exhibition tours, please email visitnls@nlb.gov.sg.</p>
         </div>
     </div>
 </div>
