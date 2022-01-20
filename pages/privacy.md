@@ -22,13 +22,13 @@ breadcrumb: Privacy
 
 <p>3. If you provide us with personal data:</p>
 
-</p>a. We may use the data (such as to process, store and retain it) so as to improve the performance of our functions and to serve you in the most efficient and effective way. This includes providing updates and recommendations on NLB content and services or personalising services for you.</p>
+<p>a. We may use the data (such as to process, store and retain it) so as to improve the performance of our functions and to serve you in the most efficient and effective way. This includes providing updates and recommendations on NLB content and services or personalising services for you.</p>
 
-</p>b. Where appropriate, we may share necessary data with other Government Agencies, so as to improve the wider performance of public functions and to serve you in the most efficient and effective way unless such sharing is prohibited by law</p>
+<p>b. Where appropriate, we may share necessary data with other Government Agencies, so as to improve the wider performance of public functions and to serve you in the most efficient and effective way unless such sharing is prohibited by law</p>
 
-</p>c. We may share your personal data with non-Government entities that have been authorised to carry out specific Government Agency services. We will not share your personal data with other non-Government entities without your consent except where such sharing complies with the law.</p>
+<p>c. We may share your personal data with non-Government entities that have been authorised to carry out specific Government Agency services. We will not share your personal data with other non-Government entities without your consent except where such sharing complies with the law.</p>
 
-</p>d. For your convenience, we may also display to you data that you had previously supplied us or other Government Agencies. This will speed up transactions and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data.</p>
+<p>d. For your convenience, we may also display to you data that you had previously supplied us or other Government Agencies. This will speed up transactions and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data.</p>
 
 #### Protection of Data
 
