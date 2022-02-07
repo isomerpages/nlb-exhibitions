@@ -58,11 +58,14 @@ third_nav_title: 'Mapping the World'
 <div class="container__downloads">
     <div class="row">
         <div class="col is-full padding--top--lg">
-            <h4>Brochure</h4>
-            <p style="margin-top: 5px;">Download the brochure below:</p>
+            <h4>Brochure & Exhibition guide</h4>
+            <p style="margin-top: 5px;">Download the brochure and exhibition guide below:</p>
                     <ul style="list-style: none; margin-left: 5px; color: #E21216">
                         <li style="margin-bottom: 1rem;">
                             <a href="/files/mappingtheworld/NLB Mapping The World_Brochure_web.pdf" style="color:#E21216;">English exhibition brochure (1.68mb)</a>
+                        </li>
+                        <li style="margin-bottom: 1rem;">
+                            <a href="/files/mappingtheworld/NLB Mapping The World_Exhibition guide_EN_web.pdf" style="color:#E21216;">English exhibition guide (1.61mb)</a>
                         </li>                        
                     </ul>
         </div>
