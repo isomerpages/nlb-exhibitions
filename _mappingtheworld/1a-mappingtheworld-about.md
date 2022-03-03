@@ -35,7 +35,7 @@ third_nav_title: 'Mapping the World'
                     </li>
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-triangle-warning" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle; color: #E21216"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem; color: #E21216">Mapping the World: Perspectives from Asian Cartography” will be closed on 9 March, 10am-3pm, for maintenance works. We apologise for any inconvenience. Thank you for your understanding.</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem; color: #E21216">"Mapping the World: Perspectives from Asian Cartography” will be closed on 9 March, 10am-3pm, for maintenance works. We apologise for any inconvenience. Thank you for your understanding.</div>
                     </li>                    
                     </ul>
             </div>

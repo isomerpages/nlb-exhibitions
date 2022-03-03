@@ -51,7 +51,7 @@ sections:
           image: /images/event-images/newsgallery-virtual/frontpage.jpg
           alt: 'A photo of a video wall from the News Gallery'
           button: 'Enter the Virtual News Gallery'
-notification: "\nMapping the World: Perspectives from Asian Cartography” will be closed on 9 March, 10am-3pm, for maintenance works. We apologise for any inconvenience. Thank you for your understanding.\n"
+notification: "\n'Mapping the World: Perspectives from Asian Cartography' will be closed on 9 March, 10am-3pm, for maintenance works. We apologise for any inconvenience. Thank you for your understanding.\n"
 
 ---
 
