@@ -51,7 +51,7 @@ sections:
           image: /images/event-images/newsgallery-virtual/frontpage.jpg
           alt: 'A photo of a video wall from the News Gallery'
           button: 'Enter the Virtual News Gallery'
-notification: "\nThe exhibitions at the National Library building have re-opened. We have implemented enhanced measures for the safety of our visitors. Our opening hours are 10am - 9pm. Thank you for your understanding and cooperation. <a href=\"https://www.nlb.gov.sg/\" target=\"_blank\">MORE INFORMATION</a>.\n"
+notification: "\nMapping the World: Perspectives from Asian Cartography” will be closed on 9 March, 10am-3pm, for maintenance works. We apologise for any inconvenience. Thank you for your understanding.\n"
 
 ---
 
