@@ -35,7 +35,7 @@ third_nav_title: 'Mapping the World'
                     </li>
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-triangle-warning" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle; color: #E21216"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem; color: #E21216"><em>Mapping the World: Perspectives from Asian Cartography</em> will be closed on 9 March, 10am-3pm, for maintenance works. We apologise for any inconvenience. Thank you for your understanding.</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem; color: #E21216">The exhibition will be <strong>closed on 9 March, 10am-3pm</strong>, for maintenance works. We apologise for any inconvenience. Thank you for your understanding.</div>
                     </li>                    
                     </ul>
             </div>
@@ -62,10 +62,10 @@ third_nav_title: 'Mapping the World'
             <p style="margin-top: 5px;">Download the brochure and exhibition guide below:</p>
                     <ul style="list-style: none; margin-left: 5px; color: #E21216">
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/mappingtheworld/NLB Mapping The World_Brochure_web.pdf" style="color:#E21216;">English exhibition brochure (Dec - Mar) (1.68mb)</a>
+                            <a href="/files/mappingtheworld/NLB Mapping The World_Brochure_web.pdf" style="color:#E21216;">English exhibition brochure (Dec - Feb) (1.68mb)</a>
                         </li>
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/mappingtheworld/NLB Mapping The World_Brochure_web_2.pdf" style="color:#E21216;">English exhibition brochure (Apr - May) (577kb)</a>
+                            <a href="/files/mappingtheworld/NLB Mapping The World_Brochure_web_2.pdf" style="color:#E21216;">English exhibition brochure (Mar - May) (577kb)</a>
                         </li>
                         <li style="margin-bottom: 1rem;">
                             <a href="/files/mappingtheworld/NLB Mapping The World_Exhibition guide_EN_web.pdf" style="color:#E21216;">English exhibition guide (1.61mb)</a>
