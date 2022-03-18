@@ -59,7 +59,7 @@ third_nav_title: 'Mapping the World'
     <div class="row">
         <div class="col is-full padding--top--lg">
             <h4>Brochure & Exhibition guide</h4>
-            <p style="margin-top: 5px;">Download the brochure and exhibition guide below:</p>
+            <p style="margin-top: 5px;">Download the brochure and exhibition guides below:</p>
                     <ul style="list-style: none; margin-left: 5px; color: #E21216">
                         <li style="margin-bottom: 1rem;">
                             <a href="/files/mappingtheworld/NLB Mapping The World_Brochure_web.pdf" style="color:#E21216;">English exhibition brochure (Dec - Feb) (1.68mb)</a>
@@ -69,6 +69,15 @@ third_nav_title: 'Mapping the World'
                         </li>
                         <li style="margin-bottom: 1rem;">
                             <a href="/files/mappingtheworld/NLB Mapping The World_Exhibition guide_EN_web.pdf" style="color:#E21216;">English exhibition guide (1.61mb)</a>
+                        </li>
+                        <li style="margin-bottom: 1rem;">
+                            <a href="/files/mappingtheworld/NLB_Mapping The World_Exhibition Guide_Chinese_Web.pdf" style="color:#E21216;">Chinese exhibition guide (2.2mb)</a>
+                        </li>
+                        <li style="margin-bottom: 1rem;">
+                            <a href="/files/mappingtheworld/NLB_Mapping The World_Exhibition Guide_Malay_Web.pdf" style="color:#E21216;">Malay exhibition guide (1.91mb)</a>
+                        </li>
+                        <li style="margin-bottom: 1rem;">
+                            <a href="/files/mappingtheworld/NLB_Mapping The World_Exhibition Guide_Tamil_Web.pdf" style="color:#E21216;">Tamil exhibition guide (2.12mb)</a>
                         </li>                        
                     </ul>
         </div>
@@ -171,7 +180,7 @@ third_nav_title: 'Mapping the World'
                         <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Cheng San Public Library, Foyer</strong> &#124; 26 January - 31 March 2022</div>
                     </li>                    
                     <li style="margin-bottom: 1rem;">
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Jurong West Public Library, Level 1 Exhibition area</strong> &#124; 1 April - 1 May 2022</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Jurong West Public Library, Level 1 Exhibition area</strong> &#124; 1 April - 31 May 2022</div>
                     </li>                       
                 </ul>
             </div>
