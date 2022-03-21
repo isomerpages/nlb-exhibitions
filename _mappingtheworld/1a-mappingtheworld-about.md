@@ -108,10 +108,17 @@ third_nav_title: 'Mapping the World'
     <div class="row">
         <div class="col is-full">
             <h4>Curators' tour</h4>
-                <iframe src='https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=e273cba3-b2f7-4bb0-93ce-ae54013638cb&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all' height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
                 <!--
-                <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe title="Human x Nature promotional video" src='https://www.youtube.com/embed/TZDunrYVwGM' frameborder='0' allowfullscreen></iframe></div>
+                <iframe src='https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=e273cba3-b2f7-4bb0-93ce-ae54013638cb&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all' height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
                 -->
+                <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe title="Mapping the World: Perspectives from Asian Cartography curators' tour video" src='https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=e273cba3-b2f7-4bb0-93ce-ae54013638cb&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all' frameborder='0' allowfullscreen></iframe></div>
+        </div>
+    </div>
+</div>
+
+<div class="container__line padding--lg">
+    <div class="row">
+        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
         </div>
     </div>
 </div>
