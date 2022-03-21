@@ -108,7 +108,7 @@ third_nav_title: 'Mapping the World'
     <div class="row">
         <div class="col is-full">
             <h4>Curators' tour</h4>
-                <<iframe src=https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=e273cba3-b2f7-4bb0-93ce-ae54013638cb&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+                <iframe src=https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=e273cba3-b2f7-4bb0-93ce-ae54013638cb&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
         </div>
     </div>
 </div>
