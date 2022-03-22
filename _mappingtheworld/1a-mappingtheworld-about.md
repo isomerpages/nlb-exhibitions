@@ -107,20 +107,8 @@ third_nav_title: 'Mapping the World'
 <div class="container__videos">
     <div class="row">
         <div class="col is-full">
-            <h4>Video</h4>
-            <ul style="color: #E21216">
-                <li style="margin-bottom: 1rem;">
-                    <a href="https://nlb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=e273cba3-b2f7-4bb0-93ce-ae54013638cb" style="color:#E21216;">Curators' tour</a>
-                </li>
-            </ul>
-
-                <!--
-                <iframe src='https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=e273cba3-b2f7-4bb0-93ce-ae54013638cb&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all' height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
-                
-                <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe title="Mapping the World: Perspectives from Asian Cartography curators' tour video" src='https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=e273cba3-b2f7-4bb0-93ce-ae54013638cb&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all' frameborder='0' allowfullscreen></iframe></div>
-                -->
-                <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=e273cba3-b2f7-4bb0-93ce-ae54013638cb&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
-                <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=461865bf-3321-4156-b075-ad2c004465ed&autoplay=false&offerviewer=false&showtitle=true&showbrand=true&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+            <h4>Curator's tour</h4>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/3RVkATpDEfc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
     </div>
 </div>
