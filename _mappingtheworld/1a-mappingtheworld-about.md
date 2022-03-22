@@ -104,6 +104,22 @@ third_nav_title: 'Mapping the World'
     </div>
 </div>
 
+<div class="container__videos">
+    <div class="row">
+        <div class="col is-full">
+            <h4>Curator's tour</h4>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/3RVkATpDEfc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="container__line padding--lg">
+    <div class="row">
+        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
+        </div>
+    </div>
+</div>
+
 <div class="container__card">
     <!--
     <div class="row">
