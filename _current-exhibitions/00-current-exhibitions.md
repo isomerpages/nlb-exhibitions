@@ -13,8 +13,9 @@ breadcrumb: 'Current Exhibitions'
     <div class="row">
         <div class="col is-full" style="background-color: #E21216;">
             <span class="sgds-icon sgds-icon-triangle-warning" style="font-size: 150%; display: inline-block; float: left; color: #ffffff"></span>
-            <div style="line-height: 150%; padding-left: 2.3rem; color: #ffffff"><strong>Change in Opening Hours:</strong> Our libraries, archives and study lounge will be closed on the morning of Tuesday, 29 March 2022 for a staff event.<br>
-            We will open at 1pm on that day. Thank you for your understanding.</br> <a href="https://www.nlb.gov.sg/" target="_blank" rel="noopener" style="color: #ffffff;">VIEW CURRENT MEASURES AT NLB</a>.</div>
+            <div style="line-height: 150%; padding-left: 2.3rem; color: #ffffff">Change in Opening Hours: Our libraries, archives and study lounge will be closed on the morning of Tuesday, 29 March 2022 for a staff event.<br>
+            We will open at 1pm on that day. Thank you for your understanding.<br>
+            <a href="https://www.nlb.gov.sg/" target="_blank" rel="noopener" style="color: #ffffff;">VIEW CURRENT MEASURES AT NLB</a>.</div>
         </div>
     </div>
 </div>
