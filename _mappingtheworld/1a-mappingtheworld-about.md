@@ -35,9 +35,8 @@ third_nav_title: 'Mapping the World'
                     </li>
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-triangle-warning" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle; color: #E21216"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem; color: #E21216">Change in Opening Hours: Our libraries, archives and study lounge will be closed on the morning of Tuesday, 29 March 2022 for a staff event.<br>
-                        We will open at 1pm on that day. Thank you for your understanding.<br> 
-                        <a href="https://www.nlb.gov.sg/" target="_blank" rel="noopener">VIEW CURRENT MEASURES AT NLB</a>.</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem; color: #E21216">The exhibitions at the National Library building have re-opened. We have implemented enhanced measures for the safety of our visitors. Thank you for your understanding and cooperation. <br> 
+                        <a href="https://www.nlb.gov.sg/" target="_blank" rel="noopener">VIEW CURRENT MEASURES AT NLB</a></div>
                     </li>                    
                     </ul>
             </div>
