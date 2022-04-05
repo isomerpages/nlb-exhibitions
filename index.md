@@ -51,7 +51,7 @@ sections:
           image: /images/event-images/newsgallery-virtual/frontpage.jpg
           alt: 'A photo of a video wall from the News Gallery'
           button: 'Enter the Virtual News Gallery'
-notification: "Change in Opening Hours: Our libraries, archives and study lounge will be closed on the morning of Tuesday, 29 March 2022 for a staff event. We will open at 1pm on that day. Thank you for your understanding. <a href=\"https://www.nlb.gov.sg/\" target=\"_blank\">MORE INFORMATION</a>."
+notification: "The exhibitions at the National Library building have re-opened. We have implemented enhanced measures for the safety of our visitors. Our opening hours are 10am - 9pm. Thank you for your understanding and cooperation. <a href=\"https://www.nlb.gov.sg/\" target=\"_blank\">MORE INFORMATION</a>."
 
 ---
 
