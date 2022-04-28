@@ -5,23 +5,6 @@ breadcrumb: 'Current Exhibitions'
 
 ---
 
-
-<!-- COVID advisory -->
-
-<section class="section__notice">
-<div class="container" style="padding: 0 0 32px 0;">
-    <div class="row">
-        <div class="col is-full" style="background-color: #E21216;">
-            <span class="sgds-icon sgds-icon-triangle-warning" style="font-size: 150%; display: inline-block; float: left; color: #ffffff"></span>
-            <div style="line-height: 150%; padding-left: 2.3rem; color: #ffffff">The exhibitions at the National Library building have re-opened. We have implemented enhanced measures for the safety of our visitors. Thank you for your understanding and cooperation. <br>
-            <a href="https://www.nlb.gov.sg/" target="_blank" rel="noopener" style="color: #ffffff;">VIEW CURRENT MEASURES AT NLB</a>.</div>
-        </div>
-    </div>
-</div>
-</section>
-
-<!-- End of COVID advisory -->
-
 <section class="section__exhibitions">
 <!-- Mapping -->
 
