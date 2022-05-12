@@ -32,7 +32,11 @@ third_nav_title: 'Mapping the World'
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
                         <div style="line-height: 150%; padding-left: 2.3rem;">Level 10, Gallery, National Library Building</div>
-                    </li>                    
+                    </li>
+                    <li style="margin-bottom: 1rem;">
+                        <span class="sgds-icon sgds-icon-circle-info" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">While the main exhibition is over, do check out our ongoing teaser and roving showcases at the NL Building lobby and public libraries respectively.</div>
+                    </li>                     
                     </ul>
             </div>
         </div>
@@ -117,13 +121,11 @@ third_nav_title: 'Mapping the World'
 </div>
 
 <div class="container__card">
-    <!--
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img srcset="/images/event-images/humanxnature/HxN_Photo_11_400w.jpg 400w, /images/event-images/humanxnature/HxN_Photo_11_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/humanxnature/HxN_Photo_11_400w.jpg" alt="A photo of the Library of Life exhibition. A small tilted caption stand is placed in the middle. Three multimedia screens line the back wall. The left and right walls are lightboxes featuring various biodiversity illustrations, along with a showcase and multimedia screen.">
+            <img srcset="/images/event-images/mappingtheworld/009_400w.jpg 400w, /images/event-images/mappingtheworld/009_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/mappingtheworld/008_400w.jpg" alt="A photo of the teaser exhibition, which is a horizontally curved lightbox panel.">
         </div>
     </div>
-    -->
     
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
@@ -135,7 +137,7 @@ third_nav_title: 'Mapping the World'
                 <ul style="list-style: none; margin-left: 0px;">
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem;">11 December 2021 – 8 May 2022</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">11 December 2021 – 31 July 2022</div>
                     </li> 
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-clock" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
@@ -182,7 +184,7 @@ third_nav_title: 'Mapping the World'
                 <ul style="list-style: none; margin-left: 0px;">
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem;">20 December 2021 – 31 May 2022</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">20 December 2021 – 31 July 2022</div>
                     </li> 
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
