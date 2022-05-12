@@ -6,6 +6,8 @@ third_nav_title: 'Mapping the World'
 
 ---
 
-## Upcoming programmes
+## Past programmes
 
-For information on Mapping the World programmes, please visit the [Eventbrite page](https://www.go.gov.sg/mtwprogs/).
+<blockquote style="color: #E21216; font-size: 150%;">All events are over.</blockquote>
+
+For information on past Mapping the World programmes, please visit the [Eventbrite page](https://www.go.gov.sg/mtwprogs/).
