@@ -34,7 +34,7 @@ third_nav_title: 'Mapping the World'
                         <div style="line-height: 150%; padding-left: 2.3rem;">Level 10, Gallery, National Library Building</div>
                     </li>
                     <li style="margin-bottom: 1rem;">
-                        <span class="sgds-icon-circle-info" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                        <span class="sgds-icon sgds-icon-circle-info" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
                         <div style="line-height: 150%; padding-left: 2.3rem;">The main exhibition is over, but the exhibition at the NL Building lobby and public libraries are still ongoing.</div>
                     </li>                     
                     </ul>
