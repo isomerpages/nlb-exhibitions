@@ -16,13 +16,6 @@ third_nav_title: 'Script &amp; Stage: Theatre in Singapore from the 50s to 80s'
                     </div>
                 </div>
             </div>
-    <div class="container__exh__feedback">
-        <div class="row" style="margin: 20px 0 0 0;">
-            <div class="col is-full" style="background-color: #E21216;">
-                <p><a href="https://efm.jusfeedback.com/Community/se/705E3ED978D738BB" target="_blank" rel="noopener" style="color:#fff;">Leave us your feedback here &#187;</a></p>
-            </div>
-        </div>
-    </div>
 </div>
 
 
