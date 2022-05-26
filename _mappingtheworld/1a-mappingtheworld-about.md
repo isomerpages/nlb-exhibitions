@@ -194,10 +194,10 @@ third_nav_title: 'Mapping the World'
                         <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Cheng San Public Library, Foyer</strong> &#124; 26 January - 31 March 2022</div>
                     </li>                    
                     <li style="margin-bottom: 1rem;">
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Jurong West Public Library, Level 1 Exhibition area</strong> &#124; 1 April - 31 May 2022</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Jurong West Public Library, Level 1 Exhibition area</strong> &#124; 1 April - 29 May 2022</div>
                     </li>
                     <li style="margin-bottom: 1rem;">
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Jurong Regional Library, Level 2</strong> &#124; 1 June - 31 July 2022</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Jurong Regional Library, Level 2</strong> &#124; 30 May - 31 July 2022</div>
                     </li>                        
                 </ul>
             </div>
