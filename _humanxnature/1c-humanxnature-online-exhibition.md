@@ -1,5 +1,5 @@
 ---
-title: Programmes
+title: Online Exhibition
 permalink: /exhibitions/past-exhibitions/humanxnature/online-exhibition/
 breadcrumb: Online Exhibition
 third_nav_title: 'Human x Nature'
