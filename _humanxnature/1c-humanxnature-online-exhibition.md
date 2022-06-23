@@ -10,7 +10,7 @@ third_nav_title: 'Human x Nature'
              <div class="container__exh__description">
                 <div class="row">
                     <div class="col">
-                        <p style="padding: 0 20px; margin-bottom: 0px;">Singapore's natural environment, as we know and experience today, is the result of a long history of knowledge gathering, plantation agriculture and attempts at rehabilitation. This online exhibition explores our relationships with the natural world from cultural understandings and scientific study to commercial and urban land use, as well as conservation and restoration.
+                        <p style="padding: 0 20px; margin-bottom: 0px;">This online exhibition explores our relationships with the natural world from cultural understandings and scientific study to commercial and urban land use, as well as conservation and restoration.
                         </p>
                         <h5 style="padding: 0 20px; margin-top: 20px;"><a href="https://www.nlb.gov.sg/staticassets/exhibitions/virtual/humanxnature/virtualtour/index.htm" target="_blank" rel="noopener" style="color:#E21216;">VISIT THE ONLINE EXHIBITION &#187;</a></h5>
                         <img srcset="/images/event-images/humanxnature/HxN_Photo_01_400w.jpg 400w, /images/event-images/humanxnature/HxN_Photo_01_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/humanxnature/HxN_Photo_01_400w.jpg" alt="A photo of the gallery entrance and logo, brightly lit as a lightbox featuring a photo of Chek Jawa.">

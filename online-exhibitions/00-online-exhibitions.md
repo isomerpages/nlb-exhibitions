@@ -22,7 +22,7 @@ breadcrumb: 'Online Exhibitions'
         </div>
         <div class="col is-two-thirds">
             <div class="row">
-                <p style="padding: 0 20px;">Singapore’s natural environment, as we know and experience today, is the result of a long history of knowledge gathering, plantation agriculture and attempts at rehabilitation. This exhibition explores our relationships with the natural world from cultural understandings and scientific study to commercial and urban land use, as well as conservation and restoration.
+                <p style="padding: 0 20px;">This exhibition explores our relationships with the natural world from cultural understandings and scientific study to commercial and urban land use, as well as conservation and restoration.
                 </p>
             </div>
             <div class="container__exh__break padding">
