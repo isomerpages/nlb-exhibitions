@@ -8,6 +8,42 @@ breadcrumb: 'Online Exhibitions'
 
 <section class="section__online">
 
+<!-- HxN -->
+    
+<div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+    <div class="row">
+        <div class="col padding--bottom--xs">
+            <h3 style="margin-bottom: 0px;"><strong>Human x Nature: Enviromental Histories of Singapore</strong></h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <img src="/images/event-images/humanxnature/HxN_thumbnail_dark_500x500.jpg" alt="Human x Nature thumbnail" height="500" width="500" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
+        </div>
+        <div class="col is-two-thirds">
+            <div class="row">
+                <p style="padding: 0 20px;">Singapore’s natural environment, as we know and experience today, is the result of a long history of knowledge gathering, plantation agriculture and attempts at rehabilitation. This exhibition explores our relationships with the natural world from cultural understandings and scientific study to commercial and urban land use, as well as conservation and restoration.
+                </p>
+            </div>
+            <div class="container__exh__break padding">
+                <div class="row">
+                    <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #efefef;">
+                    </div>
+                </div>
+            </div>
+            <div class="container__exh__description">
+                <div class="row">
+                    <div class="col">
+                        <h5><a href="https://www.nlb.gov.sg/staticassets/exhibitions/virtual/humanxnature/virtualtour/index.htm" target="_blank" rel="noopener" style="color:#E21216;">VISIT THE ONLINE EXHIBITION &#187;</a></h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<hr class="margin--top margin--bottom--lg">
+
 <!-- SEAD -->
     
 <div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
