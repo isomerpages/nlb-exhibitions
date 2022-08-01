@@ -1,6 +1,6 @@
 ---
 title: Programmes
-permalink: /exhibitions/current-exhibitions/mappingtheworld/programmes/
+permalink: /exhibitions/past-exhibitions/mappingtheworld/programmes/
 breadcrumb: Programmes
 third_nav_title: 'Mapping the World'
 
