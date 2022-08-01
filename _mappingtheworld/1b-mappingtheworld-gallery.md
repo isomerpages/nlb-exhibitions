@@ -1,6 +1,6 @@
 ---
 title: Gallery
-permalink: /exhibitions/current-exhibitions/mappingtheworld/gallery/
+permalink: /exhibitions/past-exhibitions/mappingtheworld/gallery/
 breadcrumb: Gallery
 third_nav_title: 'Mapping the World'
 
