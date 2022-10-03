@@ -23,7 +23,7 @@ breadcrumb: 'Current Exhibitions'
                     <ul style="list-style: none; margin-left: 5px;">
                         <li style="margin-bottom: 1rem;">
                             <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                            <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">10 April 2021 – 9 October 2022</div>
+                            <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">10 April 2021 – 5 March 2023</div>
                         </li> 
                         <li style="margin-bottom: 1rem;">
                             <span class="sgds-icon sgds-icon-clock" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>

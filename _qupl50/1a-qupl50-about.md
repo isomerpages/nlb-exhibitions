@@ -25,7 +25,7 @@ third_nav_title: 'Libraries Transforming: Our Journey from Past to Future'
                 <ul style="list-style: none; margin-left: 0px;">
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem;">10 April 2021 – 9 October 2022</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">10 April 2021 – 5 March 2023</div>
                     </li> 
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-clock" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
