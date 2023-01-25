@@ -18,12 +18,7 @@ permalink: /exhibitions/current-exhibitions/punggolstories/credits/
     </div>
 </div>
 
-<div class="container__exh__break padding">
-    <div class="row">
-        <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #c7c7c7;">
-        </div>
-    </div>
-</div>
+<hr style="margin: 40px 0 20px 0;">
 
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
@@ -38,12 +33,7 @@ permalink: /exhibitions/current-exhibitions/punggolstories/credits/
     </div>
 </div>
 
-<div class="container__exh__break padding">
-    <div class="row">
-        <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #c7c7c7;">
-        </div>
-    </div>
-</div>
+<hr style="margin: 40px 0 20px 0;">
 
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
@@ -58,12 +48,7 @@ permalink: /exhibitions/current-exhibitions/punggolstories/credits/
     </div>
 </div>
 
-<div class="container__exh__break padding">
-    <div class="row">
-        <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #c7c7c7;">
-        </div>
-    </div>
-</div>
+<hr style="margin: 40px 0 20px 0;">
 
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
@@ -80,12 +65,7 @@ permalink: /exhibitions/current-exhibitions/punggolstories/credits/
     </div>
 </div>
 
-<div class="container__exh__break padding">
-    <div class="row">
-        <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #c7c7c7;">
-        </div>
-    </div>
-</div>
+<hr style="margin: 40px 0 20px 0;">
 
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
@@ -101,12 +81,7 @@ permalink: /exhibitions/current-exhibitions/punggolstories/credits/
     </div>
 </div>
 
-<div class="container__exh__break padding">
-    <div class="row">
-        <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #c7c7c7;">
-        </div>
-    </div>
-</div>
+<hr style="margin: 40px 0 20px 0;">
 
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
@@ -121,12 +96,7 @@ permalink: /exhibitions/current-exhibitions/punggolstories/credits/
     </div>
 </div>
 
-<div class="container__exh__break padding">
-    <div class="row">
-        <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #c7c7c7;">
-        </div>
-    </div>
-</div>
+<hr style="margin: 40px 0 20px 0;">
 
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
@@ -142,12 +112,7 @@ permalink: /exhibitions/current-exhibitions/punggolstories/credits/
     </div>
 </div>
 
-<div class="container__exh__break padding">
-    <div class="row">
-        <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #c7c7c7;">
-        </div>
-    </div>
-</div>
+<hr style="margin: 40px 0 20px 0;">
 
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
@@ -162,12 +127,7 @@ permalink: /exhibitions/current-exhibitions/punggolstories/credits/
     </div>
 </div>
 
-<div class="container__exh__break padding">
-    <div class="row">
-        <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #c7c7c7;">
-        </div>
-    </div>
-</div>
+<hr style="margin: 40px 0 20px 0;">
 
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
@@ -182,12 +142,7 @@ permalink: /exhibitions/current-exhibitions/punggolstories/credits/
     </div>
 </div>
 
-<div class="container__exh__break padding">
-    <div class="row">
-        <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #c7c7c7;">
-        </div>
-    </div>
-</div>
+<hr style="margin: 40px 0 20px 0;">
 
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
@@ -202,32 +157,7 @@ permalink: /exhibitions/current-exhibitions/punggolstories/credits/
     </div>
 </div>
 
-<div class="container__exh__break padding">
-    <div class="row">
-        <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #c7c7c7;">
-        </div>
-    </div>
-</div>
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories/3d_400w.jpg 400w, /images/event-images/punggol-stories/3d_650w.jpg 650w" sizes="(max-width: 500px) 40vw, 65vw" height="487" width="650" src="/images/event-images/punggol-stories/3d_400w.jpg" style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Sarongs drying on a line outside a house in Kampong Lorong Buangkok, 2007<br>
-                National Library Board, Singapore
-            </p>
-        </div>
-    </div>
-</div>
-
-<div class="container__exh__break padding">
-    <div class="row">
-        <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #c7c7c7;">
-        </div>
-    </div>
-</div>
+<hr style="margin: 40px 0 20px 0;">
 
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
@@ -242,12 +172,7 @@ permalink: /exhibitions/current-exhibitions/punggolstories/credits/
     </div>
 </div>
 
-<div class="container__exh__break padding">
-    <div class="row">
-        <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #c7c7c7;">
-        </div>
-    </div>
-</div>
+<hr style="margin: 40px 0 20px 0;">
 
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
@@ -262,12 +187,7 @@ permalink: /exhibitions/current-exhibitions/punggolstories/credits/
     </div>
 </div>
 
-<div class="container__exh__break padding">
-    <div class="row">
-        <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #c7c7c7;">
-        </div>
-    </div>
-</div>
+<hr style="margin: 40px 0 20px 0;">
 
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
@@ -282,12 +202,7 @@ permalink: /exhibitions/current-exhibitions/punggolstories/credits/
     </div>
 </div>
 
-<div class="container__exh__break padding">
-    <div class="row">
-        <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #c7c7c7;">
-        </div>
-    </div>
-</div>
+<hr style="margin: 40px 0 20px 0;">
 
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
@@ -302,12 +217,7 @@ permalink: /exhibitions/current-exhibitions/punggolstories/credits/
     </div>
 </div>
 
-<div class="container__exh__break padding">
-    <div class="row">
-        <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #c7c7c7;">
-        </div>
-    </div>
-</div>
+<hr style="margin: 40px 0 20px 0;">
 
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
@@ -323,33 +233,7 @@ permalink: /exhibitions/current-exhibitions/punggolstories/credits/
     </div>
 </div>
 
-<div class="container__exh__break padding">
-    <div class="row">
-        <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #c7c7c7;">
-        </div>
-    </div>
-</div>
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories/5b_400w.jpg 400w, /images/event-images/punggol-stories/5b_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="598" width="1000" src="/images/event-images/punggol-stories/5b_400w.jpg" style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Imperial guards of the Japanese Army crossing the Johor Causeway, 1942<br>
-                Lim Kheng Chye Collection, National Archives of Singapore<br>
-                20060000785 - 0012               
-            </p>
-        </div>
-    </div>
-</div>
-
-<div class="container__exh__break padding">
-    <div class="row">
-        <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #c7c7c7;">
-        </div>
-    </div>
-</div>
+<hr style="margin: 40px 0 20px 0;">
 
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
@@ -364,12 +248,7 @@ permalink: /exhibitions/current-exhibitions/punggolstories/credits/
     </div>
 </div>
 
-<div class="container__exh__break padding">
-    <div class="row">
-        <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #c7c7c7;">
-        </div>
-    </div>
-</div>
+<hr style="margin: 40px 0 20px 0;">
 
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
@@ -384,12 +263,7 @@ permalink: /exhibitions/current-exhibitions/punggolstories/credits/
     </div>
 </div>
 
-<div class="container__exh__break padding">
-    <div class="row">
-        <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #c7c7c7;">
-        </div>
-    </div>
-</div>
+<hr style="margin: 40px 0 20px 0;">
 
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
@@ -404,12 +278,7 @@ permalink: /exhibitions/current-exhibitions/punggolstories/credits/
     </div>
 </div>
 
-<div class="container__exh__break padding">
-    <div class="row">
-        <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #c7c7c7;">
-        </div>
-    </div>
-</div>
+<hr style="margin: 40px 0 20px 0;">
 
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
