@@ -75,6 +75,8 @@ collections:
         output: true
     mappingtheworld:
         output: true
+    punggolstories:
+        output: false
 favicon: /images/cropped-nlb-favicon_192.png
 permalink: none
 baseurl: ""
