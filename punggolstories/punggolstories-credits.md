@@ -287,7 +287,7 @@ permalink: /exhibitions/current-exhibitions/punggolstories/credits/
         </div>
         <div class="col is-two-thirds">
             <p>Punggol Point, 1993<br>
-                Lee Kip Lin Collection, National Library, Singapore
+                Lee Kip Lin Collection, National Library, Singapore 
             </p>
         </div>
     </div>
