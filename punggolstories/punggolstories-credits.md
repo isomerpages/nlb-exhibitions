@@ -207,21 +207,6 @@ permalink: /exhibitions/current-exhibitions/punggolstories/credits/
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories/5a_400w.jpg 400w, /images/event-images/punggol-stories/5a_848w.jpg 848w" sizes="(max-width: 500px) 40vw, 84vw" height="601" width="848" src="/images/event-images/punggol-stories/5a_400w.jpg" style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Japanese soldiers cycling through Malaya, 1942<br>
-                Imperial War Museum                              
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
             <img srcset="/images/event-images/punggol-stories/5b_400w.jpg 400w, /images/event-images/punggol-stories/5b_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="598" width="1000" src="/images/event-images/punggol-stories/5b_400w.jpg" style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
