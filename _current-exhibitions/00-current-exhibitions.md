@@ -240,7 +240,7 @@ breadcrumb: 'Current Exhibitions'
                     <ul style="list-style: none; margin-left: 5px;">
                         <li style="margin-bottom: 1rem; padding-right: 20px;">
                             <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                            <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">This gallery is currently closed to public.</div>
+                            <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">The gallery is open for organised public tours only from 15 Feb &ndash; 30 July 2023. <a href="https://www.eventbrite.sg/e/light-amidst-adversity-gallery-tour-tickets-525385491147" target="_blank" style="color:#E21216;">Book a visit here.</a></div>
                         </li> 
                         <li style="margin-bottom: 1rem;">
                             <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
@@ -262,7 +262,7 @@ breadcrumb: 'Current Exhibitions'
 <div class="container__exh__description">
     <div class="row is-multiline">
         <div class="col">
-            <p>The Rare Collection Gallery showcases treasures from the National Library’s Rare Materials Collection of valuable research materials on Singapore and Southeast Asia. Comprising over 15,000 books, journals, manuscripts, maps, photographs and ephemera, many of the items in the collection were inherited from the National Library’s predecessors – the Singapore Library (1844–1874) and the Raffles Museum and Library (1874–1960). The collection is also further enhanced by recent donations from institutions and individuals.
+            <p>The Rare Collection Gallery showcases treasures from the National Library's Rare Materials Collection of valuable research materials on Singapore and Southeast Asia. Comprising over 15,000 books, journals, manuscripts, maps, photographs and ephemera, many of the items in the collection were inherited from the National Library's predecessors &mdash; the Singapore Library (1844 &ndash; 1874) and the Raffles Museum and Library (1874 &ndash; 1960). The collection is also further enhanced by recent donations from institutions and individuals. The items on display are regularly refreshed to highlight the various interesting artefacts from the Rare Materials Collection, and is open for viewing during organised public tours.
             </p>
             <a href="/exhibitions/current-exhibitions/raregallery/" style="color:#E21216;"><h5>EXHIBITION INFORMATION &#187;</h5></a>
         </div>
