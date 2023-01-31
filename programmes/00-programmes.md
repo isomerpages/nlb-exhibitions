@@ -31,8 +31,8 @@ Past: #c1c1c1
 ## Upcoming programmes
 
 <p><strong><em>Light Amidst Adversity</em></strong><br>
-                15 Feb 2023 &ndash; 30 July 2023</p>
+15 Feb 2023 &ndash; 30 July 2023</p>
 
-            <p style="margin-top: 5px;">Using historical and archival materials from the collections of the National Library and the National Archives, <em>Light Amidst Adversity</em> seeks to explore the themes of resistance and resilience during World War II as well as post-war remembrance in Singapore. The display features a selection of rare books, photographs, artworks, personal documents, and ephemera that record local war preparations and poignant stories in a time of adversity.</p>
+<p style="margin-top: 5px;">Using historical and archival materials from the collections of the National Library and the National Archives, <em>Light Amidst Adversity</em> seeks to explore the themes of resistance and resilience during World War II as well as post-war remembrance in Singapore. The display features a selection of rare books, photographs, artworks, personal documents, and ephemera that record local war preparations and poignant stories in a time of adversity.</p>
 
-            <p><a href="https://www.eventbrite.sg/e/light-amidst-adversity-gallery-tour-tickets-525385491147" target="_blank" style="color:#E21216;">Book a visit here.</a></p>
+<p><a href="https://www.eventbrite.sg/e/light-amidst-adversity-gallery-tour-tickets-525385491147" target="_blank" style="color:#E21216;">Book a visit here.</a></p>
