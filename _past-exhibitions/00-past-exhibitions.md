@@ -89,10 +89,6 @@ breadcrumb: 'Past Exhibitions'
                             <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
                             <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">Level 10, Gallery, National Library Building</div>
                         </li>
-                        <li style="margin-bottom: 1rem;">
-                        <span class="sgds-icon sgds-icon-circle-info" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">While the main exhibition is over, do check out our ongoing teaser and roving showcases at the NL Building lobby and public libraries respectively.</div>
-                    </li> 
                     </ul>
             </div>
         </div>
