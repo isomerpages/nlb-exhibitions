@@ -1,6 +1,6 @@
 ---
 title: Gallery
-permalink: /exhibitions/current-exhibitions/qupl50/gallery/
+permalink: /exhibitions/past-exhibitions/qupl50/gallery/
 breadcrumb: Gallery
 third_nav_title: 'Libraries Transforming: Our Journey from Past to Future'
 
