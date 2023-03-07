@@ -1,7 +1,8 @@
 ---
 title: 'Libraries Transforming: Our Journey from Past to Future'
-permalink: /exhibitions/current-exhibitions/qupl50/
+permalink: /exhibitions/past-exhibitions/qupl50/
 breadcrumb: 'Libraries Transforming: Our Journey from Past to Future'
+third_nav_title: '2021'
 
 ---
 
