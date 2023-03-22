@@ -1,12 +1,12 @@
 ---
-title: Punggol Stories credits - Words That Move
+title: Words That Move
 permalink: /exhibitions/current-exhibitions/punggolstories/credits/wtm/
-breadcrumb: Punggol Stories credits - Words That Move
+breadcrumb: Words That Move
 third_nav_title: 'Punggol Stories - Credits'
 
 ---
 
-Suggestion to link back to PRL page at the top here apart from the index.
+[This is a linkback to the PRL page.](https://nlb-exhibitions-staging.netlify.app/exhibitions/current-exhibitions/punggolstories/)
 
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
