@@ -2,6 +2,7 @@
 title: About
 permalink: /exhibitions/current-exhibitions/punggolstories/
 breadcrumb: About
+third_nav_title: 'Punggol Stories'
 
 ---
 
