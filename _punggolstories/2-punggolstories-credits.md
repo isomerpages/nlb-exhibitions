@@ -1,7 +1,7 @@
 ---
 title: Credits
 permalink: /exhibitions/current-exhibitions/punggolstories/credits/
-
+breadcrumb: Credits
 ---
 
 <div class="container__credits" style="margin-bottom: 10px;">
