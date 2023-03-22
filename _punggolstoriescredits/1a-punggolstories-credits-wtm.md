@@ -6,7 +6,18 @@ third_nav_title: 'Punggol Stories - Credits'
 
 ---
 
-[This is a linkback to the PRL page.](https://nlb-exhibitions-staging.netlify.app/exhibitions/current-exhibitions/punggolstories/)
+Click the link below for the respective poem.
+
+* [English poem](#english-poem)
+* Chinese poem
+* Malay poem
+* Tamil poem
+
+[Return back to Punggol Stories main page.](https://nlb-exhibitions-staging.netlify.app/exhibitions/current-exhibitions/punggolstories/)
+
+<hr style="margin: 40px 0 20px 0;">
+
+### English poem
 
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
