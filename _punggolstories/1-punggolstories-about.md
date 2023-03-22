@@ -1,8 +1,7 @@
 ---
 title: About
-permalink: /exhibitions/past-exhibitions/poetryonplatforms/
+permalink: /exhibitions/current-exhibitions/punggolstories/
 breadcrumb: About
-third_nav_title: 'Poetry on Platforms: Poems on Singapore'
 
 ---
 
