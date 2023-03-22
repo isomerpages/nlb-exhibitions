@@ -1,8 +1,8 @@
 ---
-title: Credits
+title: Credits - Words That Move
 permalink: /exhibitions/current-exhibitions/punggolstories/credits/wtm/
-breadcrumb: Credits: Words That Move
-third_nav_title: 'Poetry on Platforms: Poems on Singapore'
+breadcrumb: Credits - Words That Move
+third_nav_title: 'Credits'
 
 ---
 
