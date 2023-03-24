@@ -10,17 +10,20 @@ third_nav_title: 'Punggol Stories - Credits'
 
 Click the links below for the respective image credits.
 
-* [English poem](#english-poem) *Punggol* by Ronald JJ Wong
-* [Chinese poem](#chinese-poem) 组屋族 (The HDB Tribe) by 梁文福 (Liang Wern Fook)
-* [Malay poem](#malay-poem) *Kenangan Tinggal Di Rumah Deret* (Memories of Living in a Rowhouse) by Norisah A Bakar
-* [Tamil poem](#tamil-poem) நகர்வளம் (Urban Riches) by அமீருத்தீன் (Amiroudine)
+* <a href="#english-poem">English poem</a> *Punggol* by Ronald JJ Wong
+* <a href="chinese-poem">Chinese poem</a> 组屋族 (The HDB Tribe) by 梁文福 (Liang Wern Fook)
+* <a href="#malay-poem">Malay poem *Kenangan Tinggal Di Rumah Deret* (Memories of Living in a Rowhouse) by Norisah A Bakar
+* <a href="tamil-poem">Tamil poem</a> நகர்வளம் (Urban Riches) by அமீருத்தீன் (Amiroudine)
 
 [Return back to Punggol Stories main page.](https://nlb-exhibitions-staging.netlify.app/exhibitions/current-exhibitions/punggolstories/credits/)
 
 <hr style="margin: 40px 0 20px 0;">
 
-#### English poem
-##### Image credits for *Punggol* by Ronald JJ Wong 
+<section>
+
+<h4 id="english-poem" style="margin-top: 30px;">English poem</h4>
+
+<h5 style="margin: 30 0 30 0px; color: #000;">Image credits for *Punggol* by Ronald JJ Wong</h5>
 
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
@@ -299,9 +302,13 @@ Click the links below for the respective image credits.
 
 <hr style="margin: 40px 0 20px 0;">
 
-### Chinese poem
+</section>
 
-#### Image credits for 组屋族 (The HDB Tribe) by 梁文福 (Liang Wern Fook)
+<section>
+
+<h4 id="chinese-poem" style="margin-top: 30px;">Chinese poem</h4>
+
+<h5 style="margin: 30 0 30 0px; color: #000;">Image credits for 组屋族 (The HDB Tribe) by 梁文福 (Liang Wern Fook)</h5>
 
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
@@ -595,9 +602,13 @@ Click the links below for the respective image credits.
 
 <hr style="margin: 40px 0 20px 0;">
 
-### Malay poem
+</section>
 
-#### Image credits for *Kenangan Tinggal Di Rumah Deret* (Memories of Living in a Rowhouse) by Norisah A Bakar
+<section>
+
+<h4 id="malay-poem" style="margin-top: 30px;">Malay poem</h4>
+
+<h5 style="margin: 30 0 30 0px; color: #000;">Image credits for <em>Kenangan Tinggal Di Rumah Deret</em> (Memories of Living in a Rowhouse) by Norisah A Bakar</h5>
 
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
@@ -899,9 +910,13 @@ Click the links below for the respective image credits.
 
 <hr style="margin: 40px 0 20px 0;">
 
-### Tamil poem
+</section>
 
-#### Image credits for நகர்வளம் (Urban Riches) by அமீருத்தீன் (Amiroudine)
+<section>
+
+<h4 id="chinese-poem" style="margin-top: 30px;">Tamil poem</h4>
+
+<h5 style="margin: 30 0 30 0px; color: #000;">Image credits for நகர்வளம் (Urban Riches) by அமீருத்தீன் (Amiroudine)</h5>
 
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
@@ -1134,3 +1149,5 @@ Click the links below for the respective image credits.
 </div>
 
 [Return back to Index](#index)
+
+</section>
