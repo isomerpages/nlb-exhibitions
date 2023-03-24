@@ -18,7 +18,6 @@ Click the links below for the respective image credits.
 [Return back to Punggol Stories main page.](https://nlb-exhibitions-staging.netlify.app/exhibitions/current-exhibitions/punggolstories/credits/)
 
 <hr style="margin: 40px 0 20px 0;">
-<section>
 
 ### English poem
 
@@ -300,8 +299,6 @@ Click the links below for the respective image credits.
 [Return back to Index](#index)
 
 <hr style="margin: 40px 0 20px 0;">
-</section>
-<section>
 
 ### Chinese poem
 
@@ -598,8 +595,6 @@ Click the links below for the respective image credits.
 [Return back to Index](#index)
 
 <hr style="margin: 40px 0 20px 0;">
-</section>
-<section>
 
 ### Malay poem
 
@@ -905,9 +900,6 @@ Click the links below for the respective image credits.
 
 <hr style="margin: 40px 0 20px 0;">
 
-</section>
-<section>
-
 ### Tamil poem
 
 #### Image credits for நகர்வளம் (Urban Riches) by அமீருத்தீன் (Amiroudine)
@@ -1143,7 +1135,3 @@ Click the links below for the respective image credits.
 </div>
 
 [Return back to Index](#index)
-
-<hr style="margin: 40px 0 20px 0;">
-
-</section>
