@@ -2,7 +2,7 @@
 title: Words That Move
 permalink: /exhibitions/current-exhibitions/punggolstories/credits/wtm/
 breadcrumb: Words That Move
-third_nav_title: 'Punggol Stories - Credits'
+third_nav_title: 'Punggol Stories Credits'
 
 ---
 
@@ -12,7 +12,7 @@ Click the links below for the respective image credits.
 
 * <a href="#english-poem">English poem</a> *Punggol* by Ronald JJ Wong
 * <a href="#chinese-poem">Chinese poem</a> 组屋族 (The HDB Tribe) by 梁文福 (Liang Wern Fook)
-* <a href="#malay-poem">Malay poem *Kenangan Tinggal Di Rumah Deret* (Memories of Living in a Rowhouse) by Norisah A Bakar
+* <a href="#malay-poem">Malay poem</a> *Kenangan Tinggal Di Rumah Deret* (Memories of Living in a Rowhouse) by Norisah A Bakar
 * <a href="#tamil-poem">Tamil poem</a> நகர்வளம் (Urban Riches) by அமீருத்தீன் (Amiroudine)
 
 [Return back to Punggol Stories main page.](https://nlb-exhibitions-staging.netlify.app/exhibitions/current-exhibitions/punggolstories/credits/)
@@ -306,7 +306,7 @@ Click the links below for the respective image credits.
 
 <section>
 
-<h3 id="#chinese-poem" style="margin-top: 30px;">Chinese poem</h3>
+<h3 id="chinese-poem" style="margin-top: 30px;">Chinese poem</h3>
 
 <h5 style="margin: 30px 0 30px 0; color: #000;">Image credits for 组屋族 (The HDB Tribe) by 梁文福 (Liang Wern Fook)</h5>
 
@@ -606,7 +606,7 @@ Click the links below for the respective image credits.
 
 <section>
 
-<h3 id="#malay-poem" style="margin-top: 30px;">Malay poem</h3>
+<h3 id="malay-poem" style="margin-top: 30px;">Malay poem</h3>
 
 <h5 style="margin: 30px 0 30px 0; color: #000;">Image credits for <em>Kenangan Tinggal Di Rumah Deret</em> (Memories of Living in a Rowhouse) by Norisah A Bakar</h5>
 
@@ -914,7 +914,7 @@ Click the links below for the respective image credits.
 
 <section>
 
-<h3 id="#tamil-poem" style="margin-top: 30px;">Tamil poem</h3>
+<h3 id="tamil-poem" style="margin-top: 30px;">Tamil poem</h3>
 
 <h5 style="margin: 30px 0 30px 0; color: #000;">Image credits for நகர்வளம் (Urban Riches) by அமீருத்தீன் (Amiroudine)</h5>
 
