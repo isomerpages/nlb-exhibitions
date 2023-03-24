@@ -19,9 +19,8 @@ Click the links below for the respective image credits.
 
 <hr style="margin: 40px 0 20px 0;">
 
-### English poem
-
-#### Image credits for *Punggol* by Ronald JJ Wong 
+#### English poem
+##### Image credits for *Punggol* by Ronald JJ Wong 
 
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
