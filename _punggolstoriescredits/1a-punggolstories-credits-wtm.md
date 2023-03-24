@@ -6,7 +6,7 @@ third_nav_title: 'Punggol Stories - Credits'
 
 ---
 
-### Index
+<h3 id="index">Index</h3>
 
 Click the links below for the respective image credits.
 
@@ -298,7 +298,7 @@ Click the links below for the respective image credits.
     </div>
 </div>
 
-[Return back to Index](#index)
+<a href="#index">Return back to Index</a>
 
 <hr style="margin: 40px 0 20px 0;">
 
@@ -598,7 +598,7 @@ Click the links below for the respective image credits.
     </div>
 </div>
 
-[Return back to Index](#index)
+<a href="#index">Return back to Index</a>
 
 <hr style="margin: 40px 0 20px 0;">
 
@@ -906,7 +906,7 @@ Click the links below for the respective image credits.
     </div>
 </div>
 
-[Return back to Index](#index)
+<a href="#index">Return back to Index</a>
 
 <hr style="margin: 40px 0 20px 0;">
 
@@ -1148,6 +1148,6 @@ Click the links below for the respective image credits.
     </div>
 </div>
 
-[Return back to Index](#index)
+<a href="#index">Return back to Index</a>
 
 </section>
