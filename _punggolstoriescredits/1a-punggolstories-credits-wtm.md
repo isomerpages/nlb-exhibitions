@@ -598,9 +598,9 @@ Click the links below for the respective image credits.
     </div>
 </div>
 
-<hr style="margin: 40px 0 20px 0;">
-
 <p><a href="#index">Return back to Index</a></p>
+
+<hr style="margin: 40px 0 20px 0; height: 10px;">
 
 </section>
 
@@ -906,9 +906,9 @@ Click the links below for the respective image credits.
     </div>
 </div>
 
-<hr style="margin: 40px 0 20px 0;">
-
 <p><a href="#index">Return back to Index</a></p>
+
+<hr style="margin: 40px 0 20px 0; height: 10px;">
 
 </section>
 
@@ -1148,6 +1148,7 @@ Click the links below for the respective image credits.
     </div>
 </div>
 
+<p><a href="#index">Return back to Index</a></p>
+
 </section>
 
-<p><a href="#index">Return back to Index</a></p>
