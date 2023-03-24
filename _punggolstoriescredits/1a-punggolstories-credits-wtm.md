@@ -11,8 +11,8 @@ third_nav_title: 'Punggol Stories - Credits'
 Click the links below for the respective image credits.
 
 * [English poem](#english-poem) *Punggol* by Ronald JJ Wong
-* [Chinese poem(#chinese-poem) 组屋族 (The HDB Tribe) by 梁文福 (Liang Wern Fook)
-* [Malay poem (#malay-poem) *Kenangan Tinggal Di Rumah Deret* (Memories of Living in a Rowhouse) by Norisah A Bakar
+* [Chinese poem](#chinese-poem) 组屋族 (The HDB Tribe) by 梁文福 (Liang Wern Fook)
+* [Malay poem](#malay-poem) *Kenangan Tinggal Di Rumah Deret* (Memories of Living in a Rowhouse) by Norisah A Bakar
 * [Tamil poem](#tamil-poem) நகர்வளம் (Urban Riches) by அமீருத்தீன் (Amiroudine)
 
 [Return back to Punggol Stories main page.](https://nlb-exhibitions-staging.netlify.app/exhibitions/current-exhibitions/punggolstories/credits/)
