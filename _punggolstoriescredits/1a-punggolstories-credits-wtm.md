@@ -8,17 +8,18 @@ third_nav_title: 'Punggol Stories - Credits'
 
 ### Index
 
-Click the link below for the respective poem.
+Click the links below for the respective image credits.
 
-* [English poem (*Punggol* by Ronald JJ Wong)](#english-poem)
-* [Chinese poem (组屋族 (The HDB Tribe) by 梁文福 (Liang Wern Fook))](#chinese-poem)
-* [Malay poem (*Kenangan Tinggal Di Rumah Deret* (Memories of Living in a Rowhouse) by Norisah A Bakar)](#malay-poem)
-* [Tamil poem (Image credits for நகர்வளம் (Urban Riches) by அமீருத்தீன் (Amiroudine))](#tamil-poem)
+* [English poem](#english-poem) *Punggol* by Ronald JJ Wong
+* [Chinese poem(#chinese-poem) 组屋族 (The HDB Tribe) by 梁文福 (Liang Wern Fook)
+* [Malay poem (#malay-poem) *Kenangan Tinggal Di Rumah Deret* (Memories of Living in a Rowhouse) by Norisah A Bakar
+* [Tamil poem](#tamil-poem) நகர்வளம் (Urban Riches) by அமீருத்தீன் (Amiroudine)
 
 [Return back to Punggol Stories main page.](https://nlb-exhibitions-staging.netlify.app/exhibitions/current-exhibitions/punggolstories/credits/)
 
 <hr style="margin: 40px 0 20px 0;">
 <section>
+
 ### English poem
 
 #### Image credits for *Punggol* by Ronald JJ Wong 
@@ -301,6 +302,7 @@ Click the link below for the respective poem.
 <hr style="margin: 40px 0 20px 0;">
 </section>
 <section>
+
 ### Chinese poem
 
 #### Image credits for 组屋族 (The HDB Tribe) by 梁文福 (Liang Wern Fook)
@@ -1051,7 +1053,7 @@ Click the link below for the respective poem.
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/TA/5a_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/TA/5a_1000w.jpg 650w" sizes="(max-width: 500px) 40vw, 65vw" height="433" width="650" src="/images/event-images/punggol-stories-credits/wtm/TA/5a_400w.jpg" alt="A long row of various potted plants line a residential corridor of block 6C, Margaret Drive." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/punggol-stories-credits/wtm/TA/5a_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/TA/5a_650w.jpg 650w" sizes="(max-width: 500px) 40vw, 65vw" height="433" width="650" src="/images/event-images/punggol-stories-credits/wtm/TA/5a_400w.jpg" alt="A long row of various potted plants line a residential corridor of block 6C, Margaret Drive." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
             <p>Margaret Drive flat at block 6C, 2010<br>
