@@ -174,12 +174,13 @@ __Winding Waterways__
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/ww/09_400w.jpg 400w, /images/event-images/punggol-stories-credits/ww/09_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="1545" width="1000" src="/images/event-images/punggol-stories-credits/ww/09_400w.jpg" alt="A black and white headshot of MP Ng Kah Ting, when he was in his early twenties." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/punggol-stories-credits/ww/09_400w.jpg 400w, /images/event-images/punggol-stories-credits/ww/09_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="1545" width="1000" src="/images/event-images/punggol-stories-credits/ww/09_400w.jpg" alt="A black and white headshot of MP Ng Kah Ting, when he was in his early thirties." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>Portrait of Ng Kah Ting, 1960s<br>
-                Reproduced from Punggol Community Club Official Opening 13th March 1993 Souvenir Magazine Singapore: Mandarin Art Printing Pte. Ltd., 1993<br>
-                National Library, Singapore, Call no. English 307.095957 PUN
+            <p>Portrait of Ng Kah Ting, 1970s<br>
+                Reproduced from <em>Punggol Point Community Centre Regatta</em><br>                
+                Singapore: Ponggol Boatel Pte. Ltd.,1974<br>                
+                National Library, Singapore, BRN B21163060H
             </p>
         </div>
     </div>
