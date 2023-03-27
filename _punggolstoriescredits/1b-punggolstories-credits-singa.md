@@ -558,7 +558,8 @@ __Winding Waterways__
             <img srcset="/images/event-images/punggol-stories-credits/ww/29a_400w.jpg 400w, /images/event-images/punggol-stories-credits/ww/29a_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/punggol-stories-credits/ww/29a_400w.jpg" alt="A photograph of Northshore Plaza, a three-story shopping mall in Punggol. Its façade is painted brown and beige." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>Northshore Plaza, the first seafront New Generation Neighbourhood Centre to be built in an HDB estate, 2021
+            <p>Northshore Plaza, the first seafront New Generation Neighbourhood Centre to be built in an HDB estate, 2021<br>
+                Courtesy of Housing &#38; Development Board
             </p>
         </div>
     </div>
