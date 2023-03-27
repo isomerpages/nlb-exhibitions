@@ -28,7 +28,7 @@ __Winding Waterways__
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/ww/1_400w.jpg 400w, /images/event-images/punggol-stories-credits/ww/1_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="995" width="1000" src="/images/event-images/punggol-stories-credits/ww/1_400w.jpg" alt="A black and white photograph of a minibus and a car on the paved Punggol Road in 1955. A forest of tall coconut trees lean over the right side of the road." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/punggol-stories-credits/ww/01_400w.jpg 400w, /images/event-images/punggol-stories-credits/ww/01_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="995" width="1000" src="/images/event-images/punggol-stories-credits/ww/01_400w.jpg" alt="A black and white photograph of a minibus and a car on the paved Punggol Road in 1955. A forest of tall coconut trees lean over the right side of the road." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
             <p>Punggol Road 10 milestone, 1955<br>
@@ -125,6 +125,8 @@ __Winding Waterways__
 <section>
 
 <h3 id="1950" style="margin-top: 30px;">Changing Communities 1950s-80s</h3>
+
+<hr style="margin: 40px 0 20px 0;">
 
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
