@@ -191,7 +191,7 @@ __Winding Waterways__
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/ww/10a_400w.jpg 400w, /images/event-images/punggol-stories-credits/ww/10a_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/ww/10a_400w.jpg" alt="A black and white photo of three power boats racing in the waters while a crowd watches on from behind the railings of Punggol Point jetty. This race took place during a regatta organised by Ponggol Point Community Centre in 1966." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/punggol-stories-credits/ww/10b_400w.jpg 400w, /images/event-images/punggol-stories-credits/ww/10b_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/ww/10b_400w.jpg" alt="A black and white photograph of a crowd surrounding a stage outside Punggol Community Centre to celebrate Singapore's first National Day. Banners in traditional Chinese characters proclaim the celebration and frame the stage. Then Prime Minister Lee Kuan Yew and other political leaders stand onstage." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
             <p>Regatta organised by Ponggol Point Community Centre, 1966<br>
@@ -207,7 +207,7 @@ __Winding Waterways__
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/ww/10b_400w.jpg 400w, /images/event-images/punggol-stories-credits/ww/10b_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/ww/10b_400w.jpg" alt="A black and white photograph of a crowd surrounding a stage outside Punggol Community Centre to celebrate Singapore's first National Day. Banners in traditional Chinese characters proclaim the celebration and frame the stage. Then Prime Minister Lee Kuan Yew and other political leaders stand onstage." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/punggol-stories-credits/ww/10a_400w.jpg 400w, /images/event-images/punggol-stories-credits/ww/10a_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/ww/10a_400w.jpg" alt="A black and white photo of three power boats racing in the waters while a crowd watches on from behind the railings of Punggol Point jetty. This race took place during a regatta organised by Ponggol Point Community Centre in 1966." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
             <p>Prime Minister Lee Kuan Yew at Punggol Community Centre's National Day Celebration Dinner, 1966<br>
