@@ -18,9 +18,9 @@ __Winding Waterways__
 
 __Punggol Stories video__
 * <a href="#intro">Introduction</a>
-* <a href="farms">What would you find in the farms of Punggol Past?</a>
-* <a href="oldpunggol">What was life like in Old Punggol?</a>
-* <a href="landmarks">What are some old and new Punggol landmarks?</a>
+* <a href="#farms">What would you find in the farms of Punggol Past?</a>
+* <a href="#oldpunggol">What was life like in Old Punggol?</a>
+* <a href="#landmarks">What are some old and new Punggol landmarks?</a>
 
 
 [Return back to Punggol Stories main page.](/exhibitions/current-exhibitions/punggolstories/credits/)
