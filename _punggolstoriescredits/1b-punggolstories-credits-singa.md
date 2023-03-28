@@ -1031,7 +1031,7 @@ __Punggol Stories video__
     <div class="container__credits" style="margin-bottom: 10px;">
         <div class="row">
             <div class="col is-one-thirds">
-                <img srcset="/images/event-images/punggol-stories-credits/vid/4d_400w.jpg 400w, /images/event-images/punggol-stories-credits/vid/4d_746w.jpg 1000w" sizes="(max-width: 500px) 40vw, 74vw" height="667" width="746" src="/images/event-images/punggol-stories-credits/vid/4d_400w.jpg" alt="An aerial view of the Church of the Nativity of the Blessed Virgin Mary. Blocks of HDB flats can be seen in the background." style="border: 1px solid #000;">
+                <img srcset="/images/event-images/punggol-stories-credits/vid/4d_400w.jpg 400w, /images/event-images/punggol-stories-credits/vid/4d_746w.jpg 746w" sizes="(max-width: 500px) 40vw, 74vw" height="667" width="746" src="/images/event-images/punggol-stories-credits/vid/4d_400w.jpg" alt="An aerial view of the Church of the Nativity of the Blessed Virgin Mary. Blocks of HDB flats can be seen in the background." style="border: 1px solid #000;">
             </div>
             <div class="col is-two-thirds">
                 <p>The Church of the Nativity of the Blessed Virgin Mary, 2022<br>
