@@ -33,7 +33,7 @@ Click the links below for the respective image credits.
         <div class="col is-two-thirds">
             <p>Regatta organised by Ponggol Point Community Centre, 1966<br>
                 Ministry of Information and the Arts Collection, National Archives of Singapore<br>
-                19980005250 - 0045
+                19980005250-0045
             </p>
         </div>
     </div>
@@ -63,7 +63,7 @@ Click the links below for the respective image credits.
         </div>
         <div class="col is-two-thirds">
             <p>Artist's impression of the fishing village at Kangkar, 2020<br>
-                From Shawn Seah, <em>My Father's Kampung: A History Of Aukang And Punggol</em>
+                From <em>My Father's Kampung: A History Of Aukang And Punggol</em> by Shawn Seah
             </p>
         </div>
     </div>
@@ -79,7 +79,7 @@ Click the links below for the respective image credits.
         <div class="col is-two-thirds">
             <p>Pig farm in Singapore, 1960s<br>
                 Primary Production Department Collection, National Archives of Singapore<br>
-                20060000818 - 0060<br>
+                20060000818-0060<br>
             </p>
         </div>
     </div>
@@ -95,7 +95,7 @@ Click the links below for the respective image credits.
         <div class="col is-two-thirds">
             <p>Fisherman unloading <em>kupang</em> (sea mussels) from a sampan at Punggol Point, 1985<br>
                 National Archives of Singapore<br>
-                19980005035 - 0106
+                19980005035-0106
             </p>
         </div>
     </div>
@@ -110,7 +110,7 @@ Click the links below for the respective image credits.
         </div>
         <div class="col is-two-thirds">
             <p>Kelong, 1950s<br>
-                Sons of David “Danny” Daniel, National Library, Singapore                
+                Courtesy of Sons of David “Danny” Daniel, National Library, Singapore                
             </p>
         </div>
     </div>
@@ -126,7 +126,7 @@ Click the links below for the respective image credits.
         <div class="col is-two-thirds">
             <p>Church of The Nativity of the Blessed Virgin Mary, Upper Serangoon Road, 1976<br>
                 National Archives of Singapore<br>
-                19980006212 - 0045
+                19980006212-0045
             </p>
         </div>
     </div>
@@ -141,7 +141,7 @@ Click the links below for the respective image credits.
         </div>
         <div class="col is-two-thirds">
             <p>Artist's impression of the aerial view of Montfort School and the Church of the Nativity in the 1960s, 2020<br>
-                From Shawn Seah, <em>My Father's Kampung: A History Of Aukang And Punggol</em>
+                From <em>My Father's Kampung: A History Of Aukang And Punggol</em> by Shawn Seah
             </p>
         </div>
     </div>
@@ -185,7 +185,7 @@ Click the links below for the respective image credits.
             <img srcset="/images/event-images/punggol-stories-credits/wtm/EN/4a_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/EN/4a_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="726" width="1000" src="/images/event-images/punggol-stories-credits/wtm/EN/4a_400w.jpg" alt="A black and white photo of Mr William Lawrence Soma Basapa in a suit and tie standing behind Apay, his pet Bengal Tiger." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>William Lawrence Soma Basapa (1893-1943) and his favourite pet, Apay, c. 1930s<br>
+            <p>William Lawrence Soma Basapa and his favourite pet Bengal Tiger, Apay, c. 1930s<br>
                 Courtesy of Mr Lawrence Basapa                
             </p>
         </div>
@@ -200,8 +200,8 @@ Click the links below for the respective image credits.
             <img srcset="/images/event-images/punggol-stories-credits/wtm/EN/4c_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/EN/4c_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="750" width="1000" src="/images/event-images/punggol-stories-credits/wtm/EN/4c_400w.jpg" alt="A black and white photo of six men and a boy holding up a 30-foot-long python at the Punggol Zoo." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>Measuring a 30 foot python at the Punggol Zoo, c. 1930s<br>
-                Courtesy of Mr Lawrence Basapa
+            <p>Measuring a 30-foot python at the Punggol Zoo, c. 1930s<br>
+                Courtesy of Lawrence Basapa
             </p>
         </div>
     </div>
@@ -216,7 +216,7 @@ Click the links below for the respective image credits.
         </div>
         <div class="col is-two-thirds">
             <p>Flamingos and waterfowls at the Punggol Zoo, c. 1930s<br>
-                Courtesy of Mr Lawrence Basapa                
+                Courtesy of Lawrence Basapa                
             </p>
         </div>
     </div>
@@ -232,7 +232,7 @@ Click the links below for the respective image credits.
         <div class="col is-two-thirds">
             <p>Imperial guards of the Japanese Army crossing the Johor Causeway, 1942<br>
                 Lim Kheng Chye Collection, National Archives of Singapore<br>
-                20060000785 - 0012               
+                20060000785-0012               
             </p>
         </div>
     </div>
@@ -316,7 +316,7 @@ Click the links below for the respective image credits.
             <img srcset="/images/event-images/punggol-stories-credits/wtm/ZH/1_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/ZH/1_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="780" width="1000" src="/images/event-images/punggol-stories-credits/wtm/ZH/1_400w.jpg" alt="A black and white photo of a family of five resting in the living room of their five-room HDB flat." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>L-shaped living room in a typical five-room flat<br>
+            <p>L-shaped living room in a typical five-room flat, 1975<br>
                 Courtesy of Housing and Development Board
             </p>
         </div>
@@ -438,7 +438,7 @@ Click the links below for the respective image credits.
         <div class="col is-two-thirds">
             <p>A calendar on the wall of an evacuated house in Kampong House in Kampong River Valley, 1985<br>
                 Ronni Pinsler Collection, National Archives of Singapore<br>
-                19990007096 - 026
+                19990007096-026
             </p>
         </div>
     </div>
@@ -454,7 +454,7 @@ Click the links below for the respective image credits.
         <div class="col is-two-thirds">
             <p>A staff using the telephone in his office, 1964<br>
                 Ministry of Information and the Arts Collection, National Archives of Singapore<br>
-                19980000357 - 0035
+                19980000357-0035
             </p>
         </div>
     </div>
@@ -500,7 +500,7 @@ Click the links below for the respective image credits.
         <div class="col is-two-thirds">
             <p>Office of Messrs Quek Hwa Heng Engineering works at 168 Jalan Lam Sam, 1986<br>
                 Housing and Development Board Collection, National Archives of Singapore<br>
-                20150000008 - 0017
+                20150000008-0017
             </p>
         </div>
     </div>
@@ -592,7 +592,7 @@ Click the links below for the respective image credits.
         <div class="col is-two-thirds">
             <p>A block of Housing Development Board flat at Ghim Moh estate, 1989<br>
                 Ministry of Information and the Arts Collection, National Archives of Singapore<br>
-                19980007516 - 0028
+                19980007516-0028
             </p>
         </div>
     </div>
@@ -618,7 +618,7 @@ Click the links below for the respective image credits.
         <div class="col is-two-thirds">
             <p>Jalan Nanas, off Jalan Eunos, opened by Assemblyman for Geylang Serai Rahamat bin Kenap, 1965<br>
                 Ministry of Information and the Arts Collection, National Archives of Singapore<br>
-                19980000740 - 0064
+                19980000740-0064
             </p>
         </div>
     </div>
@@ -647,7 +647,7 @@ Click the links below for the respective image credits.
             <img srcset="/images/event-images/punggol-stories-credits/wtm/MA/1c_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/MA/1c_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="600" width="1000" src="/images/event-images/punggol-stories-credits/wtm/MA/1c_400w.jpg" alt="A group of children and a man pose outside a row house at Jalan Nanas." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>A group of children gathered outside the row house at Jalan Nanas, 1968<br>
+            <p>Children gathered outside a row house at Jalan Nanas, 1968<br>
                 Courtesy of Norisah A. Bakar
             </p>
         </div>
@@ -677,9 +677,9 @@ Click the links below for the respective image credits.
             <img srcset="/images/event-images/punggol-stories-credits/wtm/MA/2b_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/MA/2b_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/wtm/MA/2b_400w.jpg" alt="Two Malay girls dressed in their baju kurung (a traditional Malay costume worn by women) play a game of congkak (a traditional Malay two player game in which seeds or marbles are dropped into carved holes in a wooden board) on the floor." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>Malay children playing congkak game, 1980-1985<br>
+            <p>Malay children playing congkak game, 1980s<br>
                 Ministry of Information and the Arts Collection, National Archives of Singapore<br>
-                19980002915 - 0019
+                19980002915-0019
             </p>
         </div>
     </div>
@@ -695,7 +695,7 @@ Click the links below for the respective image credits.
         <div class="col is-two-thirds">
             <p>Malay House at Lorong Engku Aman, Geylang Serai, 1980<br>
                 Maznah Collection, National Archives of Singapore<br>
-                19980006536 - 0078
+                19980006536-0078
             </p>
         </div>
     </div>
@@ -709,9 +709,9 @@ Click the links below for the respective image credits.
             <img srcset="/images/event-images/punggol-stories-credits/wtm/MA/2d_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/MA/2d_512w.jpg 1000w" sizes="(max-width: 500px) 40vw, 51vw" height="680" width="512" src="/images/event-images/punggol-stories-credits/wtm/MA/2d_400w.jpg" alt="A boy plays hopscotch in a corridor while several other children look on from behind him. The hopscotch tiles have been drawn on the floor in chalk." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>A boy is playing Chinese hopscotch, 1960-1980<br>
+            <p>Children playing Chinese hopscotch, 1960-1980<br>
                 Singapore Sports Council, National Archives of Singapore<br>
-                19980005606 - 0090
+                19980005606-0090
             </p>
         </div>
     </div>
@@ -725,9 +725,9 @@ Click the links below for the respective image credits.
             <img srcset="/images/event-images/punggol-stories-credits/wtm/MA/3a_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/MA/3a_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/wtm/MA/3a_400w.jpg" alt="A man stands among some furniture in the living room of his house in Kampong Wak Selat." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>Interior view of Malay house in Kampong Wak Selat, 1993<br>
+            <p>Interior view of a Malay house in Kampong Wak Selat, 1993<br>
                 National Archives of Singapore<br>
-                19980005752 - 0084
+                19980005752-0084
             </p>
         </div>
     </div>
@@ -741,9 +741,9 @@ Click the links below for the respective image credits.
             <img srcset="/images/event-images/punggol-stories-credits/wtm/MA/3b_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/MA/3b_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/wtm/MA/3b_400w.jpg" alt="A sagging mattress covered by a translucent netting, inside a bedroom at Kampong Bugis." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>The interior of a house in Kampong Bugis, 1986<br>
+            <p>Bedroom in a house at Kampong Bugis, 1986<br>
                 National Archives of Singapore<br>
-                19980006064 - 0003
+                19980006064-0003
             </p>
         </div>
     </div>
@@ -759,7 +759,7 @@ Click the links below for the respective image credits.
         <div class="col is-two-thirds">
             <p>A housewife in a kampong kitchen, 1960s<br>
                 Ministry of Information and the Arts Collection, National Archives of Singapore<br>
-                19980007374 - 0066
+                19980007374-0066
             </p>
         </div>
     </div>
@@ -774,7 +774,7 @@ Click the links below for the respective image credits.
         </div>
         <div class="col is-two-thirds">
             <p>Children playing with water from a standpipe in Geylang Serai, 1960s<br>
-                Wong Ken Foo (K F Wong), National Archives of Singapore<br>
+                K. F. Wong Collection,, National Archives of Singapore<br>
                 2005-007817-KFW
             </p>
         </div>
@@ -789,9 +789,9 @@ Click the links below for the respective image credits.
             <img srcset="/images/event-images/punggol-stories-credits/wtm/MA/4c_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/MA/4c_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/wtm/MA/4c_400w.jpg" alt="A row of outhouse toilets in Kampong Marang." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>Toilet in Kampong Marang, 1986<br>
+            <p>Toilets in Kampong Marang, 1986<br>
                 National Archives of Singapore<br>
-                19980006560 - 0110
+                19980006560-0110
             </p>
         </div>
     </div>
@@ -820,9 +820,9 @@ Click the links below for the respective image credits.
             <img srcset="/images/event-images/punggol-stories-credits/wtm/MA/5b_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/MA/5b_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="779" width="1000" src="/images/event-images/punggol-stories-credits/wtm/MA/5b_400w.jpg" alt="Three individuals stand in floodwater at the doorway of their kampong home." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>Dweller waiting for the flood to subside at Bedok, 1954<br>
+            <p>Dwellers waiting for the flood to subside at Bedok, 1954<br>
                 Ministry of Information and the Arts Collection, National Archives of Singapore<br>
-                19980001092 - 0009 
+                19980001092-0009 
             </p>
         </div>
     </div>
@@ -838,7 +838,7 @@ Click the links below for the respective image credits.
         <div class="col is-two-thirds">
             <p>Hari Raya Haji celebration at Kampong Sarhad, 1986<br>
                 National Archives of Singapore<br>
-                19980006542 - 0009 
+                19980006542-0009 
             </p>
         </div>
     </div>
@@ -853,7 +853,7 @@ Click the links below for the respective image credits.
         </div>
         <div class="col is-two-thirds">
             <p>Crowd watching a Chinese opera performance at Clive Street, 1960s<br>
-                Sons of David “Danny” Daniel, National Library, Singapore
+                Courtesy of Sons of David “Danny” Daniel, National Library, Singapore
             </p>
         </div>
     </div>
@@ -884,7 +884,7 @@ Click the links below for the respective image credits.
         <div class="col is-two-thirds">
             <p>Kampong folks moving to high rise living, 1963<br>
                 Ministry of Information and the Arts Collection, National Archives of Singapore<br>
-                19980007373 - 0049
+                19980007373-0049
             </p>
         </div>
     </div>
@@ -898,7 +898,7 @@ Click the links below for the respective image credits.
             <img srcset="/images/event-images/punggol-stories-credits/wtm/MA/6e_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/MA/6e_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="611" width="1000" src="/images/event-images/punggol-stories-credits/wtm/MA/6e_400w.jpg" alt="Several people work to carry their possessions onto a lorry during their move to new HDB flats." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>Neighbours helping in moving belongings during the move from the row house to high rise flats, 1968<br>
+            <p>Neighbours helping during the move from a kampong to high rise flats, 1968<br>
                 Courtesy of Norisah A. Bakar
                 
             </p>
@@ -971,7 +971,7 @@ Click the links below for the respective image credits.
         <div class="col is-two-thirds">
             <p>Demolition and land clearing of a Kampong at River Valley Close, 1989<br>
                 Ronni Pinsler Collection, National Archives of Singapore<br>
-                19990007096 - 089
+                19990007096-089
             </p>
         </div>
     </div>
@@ -1000,7 +1000,7 @@ Click the links below for the respective image credits.
             <img srcset="/images/event-images/punggol-stories-credits/wtm/TA/3b_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/TA/3b_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="675" width="1000" src="/images/event-images/punggol-stories-credits/wtm/TA/3b_400w.jpg" alt="Several chickens on a grassy clearing at Kampong Lorong Buangkok." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>Kampung Lorong Buangkok, 2000<br>
+            <p>Kampong Lorong Buangkok, 2000<br>
                 Liesel Strauss Collection, National Library Board, Singapore
             </p>
         </div>
@@ -1017,7 +1017,7 @@ Click the links below for the respective image credits.
         <div class="col is-two-thirds">
             <p>Frozen chicken stall in Tanjong Pagar wet market, 1989<br>
                 National Archives of Singapore<br>
-                19980007362 - 0060
+                19980007362-0060
             </p>
         </div>
     </div>
@@ -1048,7 +1048,7 @@ Click the links below for the respective image credits.
         <div class="col is-two-thirds">
             <p>View of Kallang Basin after reclamation with few blocks of Housing and Development Board flats, 1970<br>
                 Housing and Development Board Collection, National Archives of Singapore<br>
-                19980005147 - 0030
+                19980005147-0030
             </p>
         </div>
     </div>
@@ -1094,7 +1094,7 @@ Click the links below for the respective image credits.
         <div class="col is-two-thirds">
             <p>View of an expressway, 1985-1999<br>
                 G. P. Reichelt Collection, National Archives of Singapore<br>
-                20130000074 - 0017
+                20130000074-0017
             </p>
         </div>
     </div>
@@ -1110,7 +1110,7 @@ Click the links below for the respective image credits.
         <div class="col is-two-thirds">
             <p>Upgraded Housing and Development Board flat on Selegie Road, c. 2000s<br>
                 Peter Lamb Collection, National Archives of Singapore<br>
-                20100000052 - 0017
+                20100000052-0017
             </p>
         </div>
     </div>
@@ -1126,7 +1126,7 @@ Click the links below for the respective image credits.
         <div class="col is-two-thirds">
             <p>Kampong folks moving to high rise living in Housing And Development Board flats, 1963<br>
                 Ministry of Information and the Arts Collection, National Archives of Singapore<br>
-                19980007373 - 0053
+                19980007373-0053
             </p>
         </div>
     </div>
@@ -1142,7 +1142,7 @@ Click the links below for the respective image credits.
         <div class="col is-two-thirds">
             <p>New homes for old interior view of a flat, c.  1960<br>
                 Ministry of Information and the Arts Collection, National Archives of Singapore<br>
-                19980007373 - 0051
+                19980007373-0051
             </p>
         </div>
     </div>
