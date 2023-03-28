@@ -16,8 +16,14 @@ __Winding Waterways__
 * <a href="#1990">Punggol 21 1990s-2006</a>
 * <a href="#2007">Developing a Waterfront Town 2007-Present</a>
 
+__Punggol Stories video__
+* <a href="#intro">Introduction</a>
+* <a href="farms">What would you find in the farms of Punggol Past?</a>
+* <a href="oldpunggol">What was life like in Old Punggol?</a>
+* <a href="landmarks">What are some old and new Punggol landmarks?</a>
 
-[Return back to Punggol Stories main page.](https://nlb-exhibitions-staging.netlify.app/exhibitions/current-exhibitions/punggolstories/credits/)
+
+[Return back to Punggol Stories main page.](/exhibitions/current-exhibitions/punggolstories/credits/)
 
 <hr style="margin: 40px 0 20px 0;">
 
@@ -596,5 +602,460 @@ __Winding Waterways__
 </div>
 
 <p><a href="#index">Return back to Index</a></p>
+
+<hr style="margin: 40px 0 20px 0; height: 10px;">
+
+</section>
+
+<section>
+    <h3>Punggol Stories video</h3>
+
+    <h3 id="intro" style="margin-top: 30px;">Introduction</h3>
+    
+    <div class="container__credits" style="margin-bottom: 10px;">
+        <div class="row">
+            <div class="col is-one-thirds">
+                <img srcset="/images/event-images/punggol-stories-credits/vid/1a_400w.jpg 400w, /images/event-images/punggol-stories-credits/vid/1a_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="839" width="1000" src="/images/event-images/punggol-stories-credits/vid/1a_400w.jpg" alt="Punggol Arc Bridge pictured over the Punggol Waterway beneath a bright blue sky. The Waterway Terraces HDB flats can be seen behind the bridge in the background." style="border: 1px solid #000;">
+            </div>
+            <div class="col is-two-thirds">
+                <p>Punggol Arc Bridge and Waterway Terraces, 2020<br>
+                    Courtesy of Housing & Development Board
+                </p>
+            </div>
+        </div>
+    </div>
+    
+    <hr style="margin: 40px 0 20px 0;">
+
+    <div class="container__credits" style="margin-bottom: 10px;">
+        <div class="row">
+            <div class="col is-one-thirds">
+                <img srcset="/images/event-images/punggol-stories-credits/vid/1b_400w.jpg 400w, /images/event-images/punggol-stories-credits/vid/1b_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/vid/1b_400w.jpg" alt="The Jewel Bridge photographed as the sun is setting. The pedestrian bridge pictured over the waterway consists of a dome shaped rest area. A few individuals can be seen on the bridge." style="border: 1px solid #000;">
+            </div>
+            <div class="col is-two-thirds">
+                <p>The Jewel Bridge at Punggol Waterway, 2015<br>
+                    Courtesy of Housing & Development Board
+                </p>
+            </div>
+        </div>
+    </div>
+    
+    <hr style="margin: 40px 0 20px 0;">
+
+    <div class="container__credits" style="margin-bottom: 10px;">
+        <div class="row">
+            <div class="col is-one-thirds">
+                <img srcset="/images/event-images/punggol-stories-credits/vid/1c_400w.jpg 400w, /images/event-images/punggol-stories-credits/vid/1c_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="691" width="1000" src="/images/event-images/punggol-stories-credits/vid/1c_400w.jpg" alt="A view of the Punggol Jetty, a long platform leading out to the sea. A stationary boat is on the waters next to the platform on the right while another is pictured in front of it. There are big cargo ships visible in the distance." style="border: 1px solid #000;">
+            </div>
+            <div class="col is-two-thirds">
+                <p>Punggol Jetty, 1994<br>
+                    Courtesy of Anthony Ting
+                </p>
+            </div>
+        </div>
+    </div>
+    
+    <hr style="margin: 40px 0 20px 0;">
+
+    <div class="container__credits" style="margin-bottom: 10px;">
+        <div class="row">
+            <div class="col is-one-thirds">
+                <img srcset="/images/event-images/punggol-stories-credits/vid/1d_400w.jpg 400w, /images/event-images/punggol-stories-credits/vid/1d_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/vid/1d_400w.jpg" alt="A black and white photo of fishing boats docked closely in a harbour in Kangkar. A row of sheds lie across from the boats, built on a wooden platform standing on stilts." style="border: 1px solid #000;">
+            </div>
+            <div class="col is-two-thirds">
+                <p>Boats at Kangkar Village, 1982<br>
+                    Lee Kip Lin Collection, National Library, Singapore
+                </p>
+            </div>
+        </div>
+    </div>
+    
+    <hr style="margin: 40px 0 20px 0;">
+
+    <div class="container__credits" style="margin-bottom: 10px;">
+        <div class="row">
+            <div class="col is-one-thirds">
+                <img srcset="/images/event-images/punggol-stories-credits/vid/1e_400w.jpg 400w, /images/event-images/punggol-stories-credits/vid/1e_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/vid/1e_400w.jpg" alt="A black and white group photo of ten Malay men, likely community leaders, standing outside the Punggol Malay School during its official opening. Most are dressed in baju Melayu (traditional Malay costume) and songkoks (traditional Malay headgear)." style="border: 1px solid #000;">
+            </div>
+            <div class="col is-two-thirds">
+                <p>Group photograph of the inaugural opening of Punggol Malay School at Kampong Punggol, 1955<br>
+                    Registry of Co-operative Societies Collection, National Archives of Singapore<br>
+                    19980005790-0017
+                </p>
+            </div>
+        </div>
+    </div>
+    
+    <hr style="margin: 40px 0 20px 0;">
+
+    <div class="container__credits" style="margin-bottom: 10px;">
+        <div class="row">
+            <div class="col is-one-thirds">
+                <img srcset="/images/event-images/punggol-stories-credits/vid/1f_400w.jpg 400w, /images/event-images/punggol-stories-credits/vid/1f_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="992" width="1000" src="/images/event-images/punggol-stories-credits/vid/1f_400w.jpg" alt="A black and white photo of a single decker bus belonging to the Ponggol Bus Service driving past the Church of The Nativity of the Blessed Virgin Mary at Upper Serangoon Road." style="border: 1px solid #000;">
+            </div>
+            <div class="col is-two-thirds">
+                <p>The Ponggol Bus Service's Vulcan bus at Upper Serangoon Road 9 milestone, 1955<br>
+                    F. W. York Collection, National Archives of Singapore<br>
+                    20090000069-0002
+                </p>
+            </div>
+        </div>
+    </div>
+    
+    <hr style="margin: 40px 0 20px 0;">
+
+    <div class="container__credits" style="margin-bottom: 10px;">
+        <div class="row">
+            <div class="col is-one-thirds">
+                <img srcset="/images/event-images/punggol-stories-credits/vid/1g_400w.jpg 400w, /images/event-images/punggol-stories-credits/vid/1g_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="1500" width="1000" src="/images/event-images/punggol-stories-credits/vid/1g_400w.jpg" alt="A black and white photo of a female rubber tapper working on a rubber plantation, using a tool to tap the tree for its rubber latex. Next to her, a young boy, likely her son, bends down to carry two buckets of the collected rubber latex." style="border: 1px solid #000;">
+            </div>
+            <div class="col is-two-thirds">
+                <p>Rubber tapping, Singapore, 1920s<br>
+                    National Archives of Singapore<br>
+                    19980005768-0004
+                </p>
+            </div>
+        </div>
+    </div>
+    
+    <hr style="margin: 40px 0 20px 0;">
+
+    <div class="container__credits" style="margin-bottom: 10px;">
+        <div class="row">
+            <div class="col is-one-thirds">
+                <img srcset="/images/event-images/punggol-stories-credits/vid/1h_400w.jpg 400w, /images/event-images/punggol-stories-credits/vid/1h_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="654" width="1000" src="/images/event-images/punggol-stories-credits/vid/1h_400w.jpg" alt="A sepia photo of the Punggol seashore in the 1890s. A row of four palm trees line the shore on the left side of the image. Two Chinese junks are seen in the distance on calm sea waters." style="border: 1px solid #000;">
+            </div>
+            <div class="col is-two-thirds">
+                <p>Punggol Seashore, Singapore, 1890s<br>
+                    Lim Kheng Chye Collection, National Archives of Singapore<br>
+                    19980006559-0101
+                </p>
+            </div>
+        </div>
+    </div>
+    
+    <p><a href="#index">Return back to Index</a></p>
+
+    <hr style="margin: 40px 0 20px 0; height: 10px;">
+    
+    </section>
+    
+    <section>
+    
+    <h3 id="farms" style="margin-top: 30px;">What would you find in the farms of Punggol Past?</h3>
+
+    <div class="container__credits" style="margin-bottom: 10px;">
+        <div class="row">
+            <div class="col is-one-thirds">
+                <img srcset="/images/event-images/punggol-stories-credits/vid/2a_400w.jpg 400w, /images/event-images/punggol-stories-credits/vid/2a_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="732" width="1000" src="/images/event-images/punggol-stories-credits/vid/2a_400w.jpg" alt="A black and white photo of at least twenty labourers working in a field of Tapioca. A Caucasian man stands at the centre of the field looking on." style="border: 1px solid #000;">
+            </div>
+            <div class="col is-two-thirds">
+                <p>Tapioca plantation at Trafalgar Estate<br>
+                    Singapore, c. 1880<br>
+                    Collection of the National Museum of Singapore, National Heritage Board<br>
+                    1991-00800
+                </p>
+            </div>
+        </div>
+    </div>
+    
+    <hr style="margin: 40px 0 20px 0;">
+
+    <div class="container__credits" style="margin-bottom: 10px;">
+        <div class="row">
+            <div class="col is-one-thirds">
+                <img srcset="/images/event-images/punggol-stories-credits/vid/2b_400w.jpg 400w, /images/event-images/punggol-stories-credits/vid/2b_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="640" width="1000" src="/images/event-images/punggol-stories-credits/vid/2b_400w.jpg" alt="A black and white photo of a male rubber tapper at a rubber plantation. In what appears to be a posed photo, he stands next to a rubber tree carrying two buckets." style="border: 1px solid #000;">
+            </div>
+            <div class="col is-two-thirds">
+                <p>A tapper in a rubber estate, c. 1920s-1930s<br>
+                    The Hebblewhite Collection, National Archives of Singapore<br>
+                    20150000118-0083
+                </p>
+            </div>
+        </div>
+    </div>
+    
+    <hr style="margin: 40px 0 20px 0;">
+
+    <div class="container__credits" style="margin-bottom: 10px;">
+        <div class="row">
+            <div class="col is-one-thirds">
+                <img srcset="/images/event-images/punggol-stories-credits/vid/2c_400w.jpg 400w, /images/event-images/punggol-stories-credits/vid/2c_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="718" width="1000" src="/images/event-images/punggol-stories-credits/vid/2c_400w.jpg" alt="A postcard of vast fields of green vegetables in Punggol, with a few thatched kampong houses in the background. In the foreground, three boys squat on a bamboo bridge built over a stream of muddy water in between the fields." style="border: 1px solid #000;">
+            </div>
+            <div class="col is-two-thirds">
+                <p>A vegetable farm in Punggol, c.1970s<br>
+                    Collection of the National Museum of Singapore, National Heritage Board<br>
+                    2008-04942
+                </p>
+            </div>
+        </div>
+    </div>
+    
+    <hr style="margin: 40px 0 20px 0;">
+
+    <div class="container__credits" style="margin-bottom: 10px;">
+        <div class="row">
+            <div class="col is-one-thirds">
+                <img srcset="/images/event-images/punggol-stories-credits/vid/2d_400w.jpg 400w, /images/event-images/punggol-stories-credits/vid/2d_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/vid/2d_400w.jpg" alt="A black and white photo of several pigs roaming around their pen in a pig farm at Punggol." style="border: 1px solid #000;">
+            </div>
+            <div class="col is-two-thirds">
+                <p>A pig farm in Punggol, 1983<br>
+                    Ministry of Information and the Arts Collection, National Archives of Singapore<br>
+                    19980001380-0110
+                </p>
+            </div>
+        </div>
+    </div>
+    
+    <hr style="margin: 40px 0 20px 0;">
+
+    <div class="container__credits" style="margin-bottom: 10px;">
+        <div class="row">
+            <div class="col is-one-thirds">
+                <img srcset="/images/event-images/punggol-stories-credits/vid/2e_400w.jpg 400w, /images/event-images/punggol-stories-credits/vid/2e_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/vid/2e_400w.jpg" alt="Minister without Portfolio in the Prime Minister’s Office Lim Chee Onn visiting a pig farm at Buangkok South Farmway 1. He walksin front of an entourage between rows of pig pens." style="border: 1px solid #000;">
+            </div>
+            <div class="col is-two-thirds">
+                <p>Minister Lim Chee Onn on a walkabout of the Punggol constituency, 1983<br>
+                    Ministry of Information and the Arts Collection, National Archives of Singapore<br>
+                    19980006760-0070
+                </p>
+            </div>
+        </div>
+    </div>
+    
+    <p><a href="#index">Return back to Index</a></p>
+
+    <hr style="margin: 40px 0 20px 0; height: 10px;">
+    
+</section>
+    
+<section>
+        
+    <h3 id="oldpunggol" style="margin-top: 30px;">What was life like in Old Punggol?</h3>
+
+    <div class="container__credits" style="margin-bottom: 10px;">
+        <div class="row">
+            <div class="col is-one-thirds">
+                <img srcset="/images/event-images/punggol-stories-credits/vid/3a_400w.jpg 400w, /images/event-images/punggol-stories-credits/vid/3a_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="640" width="1000" src="/images/event-images/punggol-stories-credits/vid/3a_400w.jpg" alt="A black and white photo of six men and a boy holding up a 30-foot-long python at the Punggol Zoo." style="border: 1px solid #000;">
+            </div>
+            <div class="col is-two-thirds">
+                <p>Measuring a 30-foot python at the Punggol Zoo, c. 1930s<br>
+                    Courtesy of Lawrence Basapa
+                </p>
+            </div>
+        </div>
+    </div>
+    
+    <hr style="margin: 40px 0 20px 0;">
+
+    <div class="container__credits" style="margin-bottom: 10px;">
+        <div class="row">
+            <div class="col is-one-thirds">
+                <img srcset="/images/event-images/punggol-stories-credits/vid/3b_400w.jpg 400w, /images/event-images/punggol-stories-credits/vid/3b_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="750" width="1000" src="/images/event-images/punggol-stories-credits/vid/3b_400w.jpg" alt="A black and white photo of Mr William Basapa and Mdm Alberta Maddox posing next to several zebras at the Punggol Zoo." style="border: 1px solid #000;">
+            </div>
+            <div class="col is-two-thirds">
+                <p>William Lawrence Soma Basapa and Mdm Alberta Maddox among zebras at the Singapore Zoo, c.1930s<br>
+                    Courtesy of Lawrence Basapa
+                </p>
+            </div>
+        </div>
+    </div>
+    
+    <hr style="margin: 40px 0 20px 0;">
+
+    <div class="container__credits" style="margin-bottom: 10px;">
+        <div class="row">
+            <div class="col is-one-thirds">
+                <img srcset="/images/event-images/punggol-stories-credits/vid/3c_400w.jpg 400w, /images/event-images/punggol-stories-credits/vid/3c_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="783" width="1000" src="/images/event-images/punggol-stories-credits/vid/3c_400w.jpg" alt="A black and white photo of leader Dato Paglar stepping from a half cabin boat into a slightly larger open boat that has been moored to a pole in the waters of Punggol. A Caucasian man helps him into the second boat, which also holds a group of onlookers." style="border: 1px solid #000;">
+            </div>
+            <div class="col is-two-thirds">
+                <p>Charles Joseph Pemberton Paglar (Dato Paglar) hands over a motorboat to the representative of the youth council, 1950<br>
+                    Ministry of Information and the Arts Collection, National Archives of Singapore<br>
+                    19980000814-0028
+                </p>
+            </div>
+        </div>
+    </div>
+    
+    <hr style="margin: 40px 0 20px 0;">
+
+    <div class="container__credits" style="margin-bottom: 10px;">
+        <div class="row">
+            <div class="col is-one-thirds">
+                <img srcset="/images/event-images/punggol-stories-credits/vid/3d_400w.jpg 400w, /images/event-images/punggol-stories-credits/vid/3d_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="688" width="1000" src="/images/event-images/punggol-stories-credits/vid/3d_400w.jpg" alt="Two speedboats race across the waters at Punggol. A shoreline of dense trees is pictured in the background." style="border: 1px solid #000;">
+            </div>
+            <div class="col is-two-thirds">
+                <p>Water sports at Punggol, 1972<br>
+                    Courtesy of Ron Yap
+                </p>
+            </div>
+        </div>
+    </div>
+    
+    <hr style="margin: 40px 0 20px 0;">
+
+    <div class="container__credits" style="margin-bottom: 10px;">
+        <div class="row">
+            <div class="col is-one-thirds">
+                <img srcset="/images/event-images/punggol-stories-credits/vid/3e_400w.jpg 400w, /images/event-images/punggol-stories-credits/vid/3e_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/vid/3e_400w.jpg" alt="A fisherman offloading kupang (sea mussels) from a sampan onto shore." style="border: 1px solid #000;">
+            </div>
+            <div class="col is-two-thirds">
+                <p>Fishermen unloading kupang (mussels) from a sampan in Punggol, 1985<br>
+                    National Archives of Singapore<br>
+                    19980005035-0106
+                </p>
+            </div>
+        </div>
+    </div>
+    
+    <hr style="margin: 40px 0 20px 0;">
+
+    <div class="container__credits" style="margin-bottom: 10px;">
+        <div class="row">
+            <div class="col is-one-thirds">
+                <img srcset="/images/event-images/punggol-stories-credits/vid/3f_400w.jpg 400w, /images/event-images/punggol-stories-credits/vid/3f_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/vid/3f_400w.jpg" alt="Fish for sale at the Punggol Fish Market. Fishes are placed in baskets on the floor in a large warehouse. Crowds of men inspect the fish as they buy and sell them." style="border: 1px solid #000;">
+            </div>
+            <div class="col is-two-thirds">
+                <p>Punggol Fish Market, 1985<br>
+                    National Archives of Singapore<br>
+                    19980005045-0098
+                </p>
+            </div>
+        </div>
+    </div>
+    
+    <hr style="margin: 40px 0 20px 0;">
+
+    <div class="container__credits" style="margin-bottom: 10px;">
+        <div class="row">
+            <div class="col is-one-thirds">
+                <img srcset="/images/event-images/punggol-stories-credits/vid/3g_400w.jpg 400w, /images/event-images/punggol-stories-credits/vid/3g_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/vid/3g_400w.jpg" alt="A female worker squatting down to deshell kupang (mussels) in a village house. A large cluster of kupang lies at her feet." style="border: 1px solid #000;">
+            </div>
+            <div class="col is-two-thirds">
+                <p>A worker deshelling <em>kupang</em> (mussels) in Punggol, 1985<br>
+                    National Archives of Singapore<br>
+                    19980005127-0066
+                </p>
+            </div>
+        </div>
+    </div>
+    
+    <hr style="margin: 40px 0 20px 0;">
+
+    <div class="container__credits" style="margin-bottom: 10px;">
+        <div class="row">
+            <div class="col is-one-thirds">
+                <img srcset="/images/event-images/punggol-stories-credits/vid/3h_400w.jpg 400w, /images/event-images/punggol-stories-credits/vid/3h_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/vid/3h_400w.jpg" alt="A black and white photo of Ponggol (Hock Kee) Seafood Restaurant, showing an outdoor dining area facing the sea. The coffee shop-style tables closest to the beach seafront are occupied by diners." style="border: 1px solid #000;">
+            </div>
+            <div class="col is-two-thirds">
+                <p>Ponggol (Hock Kee) Seafood Restaurant, 1993<br>
+                    Lee Kip Lin Collection, National Library, Singapore
+                </p>
+            </div>
+        </div>
+    </div>
+    
+    <hr style="margin: 40px 0 20px 0;">
+
+    <div class="container__credits" style="margin-bottom: 10px;">
+        <div class="row">
+            <div class="col is-one-thirds">
+                <img srcset="/images/event-images/punggol-stories-credits/vid/3i_400w.jpg 400w, /images/event-images/punggol-stories-credits/vid/3i_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="1448" width="1000" src="/images/event-images/punggol-stories-credits/vid/3i_400w.jpg" alt="A family carries furniture out of their thatched kampong house as they prepare to move to urban housing." style="border: 1px solid #000;">
+            </div>
+            <div class="col is-two-thirds">
+                <p>Moving to high rise flats from kampongs, 1963<br>
+                    Ministry of Information and the Arts Collection, National Archives of Singapore<br>
+                    19980007373-0049
+                </p>
+            </div>
+        </div>
+    </div>
+    
+    <p><a href="#index">Return back to Index</a></p>
+
+    <hr style="margin: 40px 0 20px 0; height: 10px;">
+    
+</section>
+    
+<section>
+        
+    <h3 id="landmarks" style="margin-top: 30px;">What are some old and new Punggol landmarks?</h3>
+
+    <div class="container__credits" style="margin-bottom: 10px;">
+        <div class="row">
+            <div class="col is-one-thirds">
+                <img srcset="/images/event-images/punggol-stories-credits/vid/4a_400w.jpg 400w, /images/event-images/punggol-stories-credits/vid/4a_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="702" width="1000" src="/images/event-images/punggol-stories-credits/vid/4a_400w.jpg" alt="A black and white photo of nine schoolboys sitting on the sand at Punggol Beach close to the waters. Gentle waves lap their legs as they pose for the camera." style="border: 1px solid #000;">
+            </div>
+            <div class="col is-two-thirds">
+                <p>Nee Soon School camp at Punggol Beach,1983<br>
+                    Nee Soon School Collection, National Archives of Singapore<br>
+                    19980005765-0088
+                </p>
+            </div>
+        </div>
+    </div>
+    
+    <hr style="margin: 40px 0 20px 0;">
+
+    <div class="container__credits" style="margin-bottom: 10px;">
+        <div class="row">
+            <div class="col is-one-thirds">
+                <img srcset="/images/event-images/punggol-stories-credits/vid/4b_400w.jpg 400w, /images/event-images/punggol-stories-credits/vid/4b_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/vid/4b_400w.jpg" alt="A black and white photo where a handful of visitors explore the Punggol jetty while some boats lie on the water a short distance away to the right." style="border: 1px solid #000;">
+            </div>
+            <div class="col is-two-thirds">
+                <p>Punggol Point Jetty, 1993<br>
+                    Lee Kip Lin Collection, National Library, Singapore
+                </p>
+            </div>
+        </div>
+    </div>
+    
+    <hr style="margin: 40px 0 20px 0;">
+
+    <div class="container__credits" style="margin-bottom: 10px;">
+        <div class="row">
+            <div class="col is-one-thirds">
+                <img srcset="/images/event-images/punggol-stories-credits/vid/4c_400w.jpg 400w, /images/event-images/punggol-stories-credits/vid/4c_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/vid/4c_400w.jpg" alt="A photo of Masjid Wak Sumang showing its view from Punggol Road. The mosque has a hip roof and a cylindrical minaret extension topped with the star and crescent symbol of Islam. A low wall in front of the mosque separates it from the road." style="border: 1px solid #000;">
+            </div>
+            <div class="col is-two-thirds">
+                <p>Masjid Wak Sumang, 1985<br>
+                    National Archives of Singapore<br>
+                    19980005036-0003
+                </p>
+            </div>
+        </div>
+    </div>
+    
+    <hr style="margin: 40px 0 20px 0;">
+
+    <div class="container__credits" style="margin-bottom: 10px;">
+        <div class="row">
+            <div class="col is-one-thirds">
+                <img srcset="/images/event-images/punggol-stories-credits/vid/4d_400w.jpg 400w, /images/event-images/punggol-stories-credits/vid/4d_746w.jpg 1000w" sizes="(max-width: 500px) 40vw, 74vw" height="667" width="746" src="/images/event-images/punggol-stories-credits/vid/4d_400w.jpg" alt="An aerial view of the Church of the Nativity of the Blessed Virgin Mary. Blocks of HDB flats can be seen in the background." style="border: 1px solid #000;">
+            </div>
+            <div class="col is-two-thirds">
+                <p>The Church of the Nativity of the Blessed Virgin Mary, 2022<br>
+                    Courtesy of the Church of the Nativity of the Blessed Virgin Mary
+                </p>
+            </div>
+        </div>
+    </div>
+    
+    <hr style="margin: 40px 0 20px 0;">
+
+    <div class="container__credits" style="margin-bottom: 10px;">
+        <div class="row">
+            <div class="col is-one-thirds">
+                <img srcset="/images/event-images/punggol-stories-credits/vid/4e_400w.jpg 400w, /images/event-images/punggol-stories-credits/vid/4e_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/vid/4e_400w.jpg" alt="Matilda House, a single-storey colonial bungalow with a red roof and a black-and-white façade, stands amidst a construction site. A row of HDB flats stand behind it in the background." style="border: 1px solid #000;">
+            </div>
+            <div class="col is-two-thirds">
+                <p>Matilda House, 2013<br>
+                    Image by Darren Soh
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <p><a href="#index">Return back to Index</a></p>
 
 </section>

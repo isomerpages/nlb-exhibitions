@@ -15,7 +15,7 @@ Click the links below for the respective image credits.
 * <a href="#malay-poem">Malay poem</a> *Kenangan Tinggal Di Rumah Deret* (Memories of Living in a Rowhouse) by Norisah A Bakar
 * <a href="#tamil-poem">Tamil poem</a> நகர்வளம் (Urban Riches) by அமீருத்தீன் (Amiroudine)
 
-[Return back to Punggol Stories main page.](https://nlb-exhibitions-staging.netlify.app/exhibitions/current-exhibitions/punggolstories/credits/)
+[Return back to Punggol Stories main page.](/exhibitions/current-exhibitions/punggolstories/credits/)
 
 <hr style="margin: 40px 0 20px 0;">
 
