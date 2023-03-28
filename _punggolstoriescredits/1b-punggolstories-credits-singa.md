@@ -738,9 +738,9 @@ __Punggol Stories video__
 
     <hr style="margin: 40px 0 20px 0; height: 10px;">
     
-    </section>
+</section>
     
-    <section>
+<section>
     
     <h3 id="farms" style="margin-top: 30px;">What would you find in the farms of Punggol Past?</h3>
 
