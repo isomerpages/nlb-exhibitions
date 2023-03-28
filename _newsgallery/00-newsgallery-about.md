@@ -64,8 +64,8 @@ third_nav_title: 'The News Gallery: Beyond Headlines'
                 <li style="margin-bottom: 1rem;">
                     <a href="/files/newsgallery/The%20News%20Gallery_DL%20Brochure_EN.pdf" style="color:#E21216;">English brochure (1.7mb)</a>
                 </li>
-                <li style="margin-bottom: 1rem;">
-                    <a href="/files/newsgallery/NLB_Exhibition_Guide_ENGLISH.pdf" style="color:#E21216;">English guide (2.6mb)</a>
+                <li style="margin-bottom: 1rem;" id="en-guide">
+                    <a href="/files/newsgallery/NLB_Exhibition_Guide_ENGLISH_r202303.pdf" style="color:#E21216;">English guide (4.4mb)</a>
                 </li>                
                 <li style="margin-bottom: 1rem;">
                     <a href="/files/newsgallery/NLB_Exhibition_Guide_CHINESE.pdf" style="color:#E21216;">Chinese guide (2.6mb)</a>
