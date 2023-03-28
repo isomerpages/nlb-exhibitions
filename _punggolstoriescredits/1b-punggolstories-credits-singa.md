@@ -619,7 +619,7 @@ __Punggol Stories video__
             </div>
             <div class="col is-two-thirds">
                 <p>Punggol Arc Bridge and Waterway Terraces, 2020<br>
-                    Courtesy of Housing & Development Board
+                    Courtesy of Housing &amp; Development Board
                 </p>
             </div>
         </div>
@@ -634,7 +634,7 @@ __Punggol Stories video__
             </div>
             <div class="col is-two-thirds">
                 <p>The Jewel Bridge at Punggol Waterway, 2015<br>
-                    Courtesy of Housing & Development Board
+                    Courtesy of Housing &amp; Development Board
                 </p>
             </div>
         </div>
