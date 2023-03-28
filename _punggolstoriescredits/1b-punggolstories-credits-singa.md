@@ -900,7 +900,7 @@ __Punggol Stories video__
                 <img srcset="/images/event-images/punggol-stories-credits/vid/3e_400w.jpg 400w, /images/event-images/punggol-stories-credits/vid/3e_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/vid/3e_400w.jpg" alt="A fisherman offloading kupang (sea mussels) from a sampan onto shore." style="border: 1px solid #000;">
             </div>
             <div class="col is-two-thirds">
-                <p>Fishermen unloading kupang (mussels) from a sampan in Punggol, 1985<br>
+                <p>Fishermen unloading <em>kupang</em> (mussels) from a sampan in Punggol, 1985<br>
                     National Archives of Singapore<br>
                     19980005035-0106
                 </p>
