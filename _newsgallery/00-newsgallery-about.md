@@ -61,20 +61,20 @@ third_nav_title: 'The News Gallery: Beyond Headlines'
             <h4>Brochures</h4>
             <p style="margin-top: 5px;">Download the exhibition brochure and guides below:</p>
             <ul style="list-style: none; margin-left: 0px;">
-                <li style="margin-bottom: 1rem;">
+                <li style="margin-bottom: 1rem;" id="en-brochure">
                     <a href="/files/newsgallery/The%20News%20Gallery_DL%20Brochure_EN.pdf" style="color:#E21216;">English brochure (1.7mb)</a>
                 </li>
-                <li style="margin-bottom: 1rem;">
-                    <a href="/files/newsgallery/NLB_Exhibition_Guide_ENGLISH.pdf" style="color:#E21216;">English guide (2.6mb)</a>
+                <li style="margin-bottom: 1rem;" id="en-guide">
+                    <a href="/files/newsgallery/NLB_Exhibition_Guide_ENGLISH_r202303.pdf" style="color:#E21216;">English guide (4.4mb)</a>
                 </li>                
-                <li style="margin-bottom: 1rem;">
-                    <a href="/files/newsgallery/NLB_Exhibition_Guide_CHINESE.pdf" style="color:#E21216;">Chinese guide (2.6mb)</a>
+                <li style="margin-bottom: 1rem;" id="ch-guide">
+                    <a href="/files/newsgallery/NLB_Exhibition_Guide_CHINESE_r202303.pdf" style="color:#E21216;">Chinese guide (4.4mb)</a>
                 </li>                 
-                <li style="margin-bottom: 1rem;">
-                    <a href="/files/newsgallery/NLB_Exhibition_Guide_MALAY.pdf" style="color:#E21216;">Malay guide (2.6mb)</a>
+                <li style="margin-bottom: 1rem;" id="ma-guide">
+                    <a href="/files/newsgallery/NLB_Exhibition_Guide_MALAY_r202303.pdf" style="color:#E21216;">Malay guide (4.5mb)</a>
                 </li>                
-                <li style="margin-bottom: 1rem;">
-                    <a href="/files/newsgallery/NLB_Exhibition_Guide_TAMIL.pdf" style="color:#E21216;">Tamil guide (2.8mb)</a>
+                <li style="margin-bottom: 1rem;" id="ta-guide">
+                    <a href="/files/newsgallery/NLB_Exhibition_Guide_TAMIL_r202303.pdf" style="color:#E21216;">Tamil guide (4.6mb)</a>
                 </li> 
             </ul>
         </div>
