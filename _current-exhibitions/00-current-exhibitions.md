@@ -21,20 +21,20 @@ breadcrumb: 'Current Exhibitions'
         </div>
         <div class="col is-two-thirds">
             <div class="row">
-                    <ul style="list-style: none; margin-left: 5px;">
-                        <li style="margin-bottom: 1rem;">
-                            <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                <ul style="list-style: none; margin-left: 5px;">
+                    <li style="margin-bottom: 1rem;">
+                        <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
                             <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">Permanent exhibition</div>
-                        </li> 
-                        <li style="margin-bottom: 1rem;">
-                            <span class="sgds-icon sgds-icon-clock" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                    </li> 
+                    <li style="margin-bottom: 1rem;">
+                        <span class="sgds-icon sgds-icon-clock" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
                             <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">10:00am – 9:00pm</div>
-                        </li>          
-                        <li style="margin-bottom: 1rem;">
-                            <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                    </li>          
+                    <li style="margin-bottom: 1rem;">
+                        <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
                             <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">Level 1, 3, 4, Punggol Regional Library</div>
-                        </li>
-                    </ul>
+                    </li>
+                </ul>
             </div>
         </div>
     </div>
@@ -50,15 +50,17 @@ breadcrumb: 'Current Exhibitions'
 <div class="container__exh__description">
     <div class="row is-multiline">
         <div class="col">
-            <p>Imagine Punggol when it was home to many kampongs, pig farms and a thriving seafood scene at Punggol Stories.<p>
+            <p>Imagine Punggol when it was home to many kampongs, pig farms and a thriving seafood scene at <em>Punggol Stories</em>.<p>
 
-            <p>Punggol Stories comprises Words That Move (Level 1 Stories Come Alive Room), The Lens of Literature (Level 3 Sing Lit) and an exhibition at Singaporium (Level 4) of the Punggol Regional Library.</p>
+            <p><em>Punggol Stories</em> comprises Words That Move (Level 1 Stories Come Alive Room), The Lens of Literature (Level 3 Sing Lit) and an exhibition at Singaporium (Level 4) of the Punggol Regional Library.</p>
             <a href="/exhibitions/current-exhibitions/punggolstories/" style="color:#E21216;"><h5>EXHIBITION INFORMATION &#187;</h5></a>
         </div>
     </div>
 </div>
 
 <!-- End of PRL -->
+
+<hr class="margin--top margin--bottom--lg">
 
 <!-- News Gallery -->
 

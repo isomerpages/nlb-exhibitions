@@ -1,6 +1,6 @@
 ---
 title: About
-permalink: /exhibitions/current-exhibitions/punggolstories/about/
+permalink: /exhibitions/current-exhibitions/punggolstories/
 breadcrumb: About
 third_nav_title: 'Punggol Stories'
 
@@ -265,7 +265,7 @@ third_nav_title: 'Punggol Stories'
                 </ul>
             </p>
             <p>In the middle of the exhibition is a <strong>Memory Map</strong>, an interactive installation that features memories of historical Punggol.</p>
-            
+
             <p><a href="/exhibitions/current-exhibitions/punggolstories/credits/">Link to image credits for Words That Move</a></p>
         </div>
     </div>
