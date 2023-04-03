@@ -10,7 +10,7 @@ third_nav_title: 'Punggol Stories'
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
-            <img srcset="/images/event-images/punggol-stories/400x200w.jpg 400w, /images/event-images/punggol-stories/1000x400w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="356" width="1201" src="/images/event-images/punggol-stories/400x200w.jpg" alt="A title card labelled Punggol Stories.">
+            <img srcset="/images/event-images/punggol-stories/400x160w.jpg 400w, /images/event-images/punggol-stories/1000x400w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="400" width="1000" src="/images/event-images/punggol-stories/400x160w.jpg" alt="A title card labelled Punggol Stories.">
         </div>
     </div>  
     <div class="row">
@@ -138,7 +138,7 @@ third_nav_title: 'Punggol Stories'
             <li>நகர்வளம் (Urban Riches) by அமீருத்தீன் (Amiroudine)</li>
         </ul>
         </p>
-        <p><a href="/exhibitions/current-exhibitions/punggolstories/credits/">Link to image credits for Words That Move</a></p>
+        <p><a href="/exhibitions/current-exhibitions/punggolstories/credits/">Link to image credits</a></p>
         </div>
     </div>
 </div>
@@ -266,7 +266,7 @@ third_nav_title: 'Punggol Stories'
             </p>
             <p>In the middle of the exhibition is a <strong>Memory Map</strong>, an interactive installation that features memories of historical Punggol.</p>
 
-            <p><a href="/exhibitions/current-exhibitions/punggolstories/credits/">Link to image credits for Words That Move</a></p>
+            <p><a href="/exhibitions/current-exhibitions/punggolstories/credits/">Link to image credits</a></p>
         </div>
     </div>
 </div>
