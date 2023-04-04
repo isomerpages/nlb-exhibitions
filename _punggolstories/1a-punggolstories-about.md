@@ -219,7 +219,7 @@ third_nav_title: 'Punggol Stories'
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
             
-            <img srcset="/images/event-images/punggol-stories/SING_400w.jpg 400w, /images/event-images/punggol-stories/SING_400w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/punggol-stories/SING_400w.jpg" alt="A photo of the Singaporium exhibition. Walls feature reproductions of books and photos. In the foreground, there is a sculpture of frosted acrylic tubes that light up.">
+            <img srcset="/images/event-images/punggol-stories/SING_400w.jpg 400w, /images/event-images/punggol-stories/SING_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/punggol-stories/SING_400w.jpg" alt="A photo of the Singaporium exhibition. Walls feature reproductions of books and photos. In the foreground, there is a sculpture of frosted acrylic tubes that light up.">
         </div>
     </div>
 
