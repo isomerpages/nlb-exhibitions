@@ -15,7 +15,7 @@ third_nav_title: 'Punggol Stories'
     </div>  
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img srcset="/images/event-images/punggol-stories/WTM01_400w.jpg 400w, /images/event-imagespunggol-stories/WTM01_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories/WTM01_400w.jpg" alt="A photo of the Words That Move exhibition. Graphics of colourful bubbles, with the title 'Words That Move' on three individual bubbles, are projected onto the walls. Children are either touching the walls or running around.">
+            <img srcset="/images/event-images/punggol-stories/WTM01_400w.jpg 400w, /images/event-images/Spunggol-stories/WTM01_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories/WTM01_400w.jpg" alt="A photo of the Words That Move exhibition. Graphics of colourful bubbles, with the title 'Words That Move' on three individual bubbles, are projected onto the walls. Children are either touching the walls or running around.">
         </div>
     </div>
         <div class="row">
