@@ -151,14 +151,12 @@ third_nav_title: 'Punggol Stories'
 </div>
 
 <div class="container__card">
-    <!--
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
             
-            <img srcset="/images/event-images/mappingtheworld/008_400w.jpg 400w, /images/event-images/mappingtheworld/008_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/mappingtheworld/008_400w.jpg" alt="A photo of the roving exhibition.">
+            <img srcset="/images/event-images/punggol-stories/LENS_400w.jpg 400w, /images/event-images/punggol-stories/LENS_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/punggol-stories/LENS_400w.jpg" alt="A photo of the Lens of Literature exhibition. It features an interactive multimedia table with an adjacent screen.">
         </div>
     </div>
-    -->
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
             <h3><strong>The Lens of Literature</strong></h3>
@@ -217,14 +215,14 @@ third_nav_title: 'Punggol Stories'
 
 
 <div class="container__card">
-    <!--
+
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
             
-            <img srcset="/images/event-images/mappingtheworld/008_400w.jpg 400w, /images/event-images/mappingtheworld/008_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/mappingtheworld/008_400w.jpg" alt="A photo of the roving exhibition.">
+            <img srcset="/images/event-images/punggol-stories/SING_400w.jpg 400w, /images/event-images/punggol-stories/SING_400w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/punggol-stories/SING_400w.jpg" alt="A photo of the Singaporium exhibition. Walls feature reproductions of books and photos. In the foreground, there is a sculpture of frosted acrylic tubes that light up.">
         </div>
     </div>
-    -->
+
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
             <h3><strong>Singaporium</strong></h3>
