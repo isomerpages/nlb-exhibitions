@@ -15,7 +15,7 @@ third_nav_title: 'Punggol Stories'
     </div>  
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img srcset="/images/event-images/mappingtheworld/001_400w.jpg 400w, /images/event-images/mappingtheworld/001_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/mappingtheworld/001_400w.jpg" alt="A photo of the gallery entrance.">
+            <img srcset="/images/event-images/punggol-stories/WTM01_400w.jpg 400w, /images/event-imagespunggol-stories/WTM01_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories/WTM01_400w.jpg" alt="A photo of the Words That Move exhibition. Graphics of colourful bubbles, with the title 'Words That Move' on three individual bubbles, are projected onto the walls. Children are either touching the walls or running around.">
         </div>
     </div>
         <div class="row">
@@ -91,7 +91,7 @@ third_nav_title: 'Punggol Stories'
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img srcset="/images/event-images/mappingtheworld/009_400w.jpg 400w, /images/event-images/mappingtheworld/009_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/mappingtheworld/008_400w.jpg" alt="A photo of the teaser exhibition, which is a horizontally curved lightbox panel.">
+            <img srcset="/images/event-images/punggol-stories/WTM02_400w.jpg 400w, /images/event-images/punggol-stories/WTM01_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/punggol-stories/WTM01_400w.jpg" alt="A poem is projected onto a wall with a blue ocean and yellow sun background. A young girl is touching white highlighted words in the poem.">
         </div>
     </div>
     
@@ -151,12 +151,14 @@ third_nav_title: 'Punggol Stories'
 </div>
 
 <div class="container__card">
+    <!--
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
             
             <img srcset="/images/event-images/mappingtheworld/008_400w.jpg 400w, /images/event-images/mappingtheworld/008_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/mappingtheworld/008_400w.jpg" alt="A photo of the roving exhibition.">
         </div>
     </div>
+    -->
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
             <h3><strong>The Lens of Literature</strong></h3>
@@ -215,12 +217,14 @@ third_nav_title: 'Punggol Stories'
 
 
 <div class="container__card">
+    <!--
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
             
             <img srcset="/images/event-images/mappingtheworld/008_400w.jpg 400w, /images/event-images/mappingtheworld/008_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/mappingtheworld/008_400w.jpg" alt="A photo of the roving exhibition.">
         </div>
     </div>
+    -->
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
             <h3><strong>Singaporium</strong></h3>
