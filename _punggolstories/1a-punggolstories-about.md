@@ -46,7 +46,7 @@ third_nav_title: 'Punggol Stories'
         <p>The <em>Punggol Stories</em> trail comprises Words That Move (Level 1 Stories Come Alive Room), The Lens of Literature (Level 3 Sing Lit) and an exhibition at Singaporium (Level 4) of the Punggol Regional Library.</p>
             
         <p style="border-width:3px; border-style:solid; border-color:#000000; padding: 1em;">Do you have a Punggol story to tell? Post them on social media using the hashtag #PunggolStories<br><br>
-        You can also volunteer as a library guide to lead" tours of the Punggol Stories trail. Sign up at <a href="https://www.nlb.gov.sg/volunteers/">www.nlb.gov.sg/volunteers/</a> (choose 'Punggol Regional Library' as the venue)</p>
+        You can also volunteer as a library guide to lead tours of the Punggol Stories trail. Sign up at <a href="https://www.nlb.gov.sg/volunteers/">www.nlb.gov.sg/volunteers/</a> (choose 'Punggol Regional Library' as the venue)</p>
 
         </div>
     </div>
@@ -155,7 +155,7 @@ third_nav_title: 'Punggol Stories'
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
             
-            <img srcset="/images/event-images/punggol-stories/LENS_400w.jpg 400w, /images/event-images/punggol-stories/LENS_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/punggol-stories/LENS_400w.jpg" alt="A photo of the Lens of Literature exhibition. It features an interactive multimedia table with an adjacent screen.">
+            <img srcset="/images/event-images/punggol-stories/LENS_400w.jpg 400w, /images/event-images/punggol-stories/LENS_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/punggol-stories/LENS_400w.jpg" alt="A photo of the Lens of Literature exhibition. It features an interactive multimedia table with an adjacent screen. Visitors are exploring the content displayed on the multimedia table while holding its sound handsets to their ears.">
         </div>
     </div>
     <div class="row margin--bottom--xs">
@@ -220,7 +220,7 @@ third_nav_title: 'Punggol Stories'
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
             
-            <img srcset="/images/event-images/punggol-stories/SING_400w.jpg 400w, /images/event-images/punggol-stories/SING_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/punggol-stories/SING_400w.jpg" alt="A photo of the Singaporium exhibition. Walls feature reproductions of books and photos. In the foreground, there is a sculpture of frosted acrylic tubes that light up.">
+            <img srcset="/images/event-images/punggol-stories/SING_400w.jpg 400w, /images/event-images/punggol-stories/SING_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/punggol-stories/SING_400w.jpg" alt="A photo of the Singaporium exhibition. Walls feature reproductions of books and photos. In the foreground, there is a sculpture of frosted acrylic tubes that light up. Visitors are exploring the content and the sculpture.">
         </div>
     </div>
 
