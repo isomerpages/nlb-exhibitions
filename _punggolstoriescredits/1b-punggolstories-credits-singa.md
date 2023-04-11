@@ -23,7 +23,7 @@ __Punggol Stories video__
 * <a href="#landmarks">What are some old and new Punggol landmarks?</a>
 
 
-[Return back to Punggol Stories main page.](/exhibitions/current-exhibitions/punggolstories/credits/)
+[Return back to Punggol Stories main page.](/exhibitions/current-exhibitions/punggolstories/)
 
 <hr style="margin: 40px 0 20px 0;">
 

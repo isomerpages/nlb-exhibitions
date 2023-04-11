@@ -5,7 +5,61 @@ breadcrumb: 'Current Exhibitions'
 
 ---
 
-<section class="section__exhibitions">
+<!-- PRL -->
+
+<div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+    <div class="row">
+        <div class="col padding--bottom--xs">
+            <h3 style="margin-bottom: 0px;"><strong>Punggol Stories</strong></h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <img src="/images/event-images/punggol-stories/500x500w.png" alt="Punggol Stories thumbnail" height="500" width="500" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
+        </div>
+        <div class="col is-two-thirds">
+            <div class="row">
+                <ul style="list-style: none; margin-left: 5px;">
+                    <li style="margin-bottom: 1rem;">
+                        <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                            <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">Permanent exhibition</div>
+                    </li> 
+                    <li style="margin-bottom: 1rem;">
+                        <span class="sgds-icon sgds-icon-clock" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                            <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">10:00am - 9:00pm</div>
+                    </li>          
+                    <li style="margin-bottom: 1rem;">
+                        <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                            <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">Level 1, 3, 4, Punggol Regional Library</div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container__exh__break padding">
+    <div class="row">
+        <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #efefef;">
+        </div>
+    </div>
+</div>
+
+<div class="container__exh__description">
+    <div class="row is-multiline">
+        <div class="col">
+            <p>Imagine Punggol when it was home to many kampongs, pig farms and a thriving seafood scene at <em>Punggol Stories</em>. Discover the rich tapestry of Punggol's history from the National Library Board's collections.</p>
+
+            <p>The <em>Punggol Stories</em> trail comprises Words That Move (Level 1 Stories Come Alive Room), The Lens of Literature (Level 3 Sing Lit) and an exhibition at Singaporium (Level 4) of the Punggol Regional Library.</p>
+
+            <a href="/exhibitions/current-exhibitions/punggolstories/" style="color:#E21216;"><h5>EXHIBITION INFORMATION &#187;</h5></a>
+        </div>
+    </div>
+</div>
+
+<!-- End of PRL -->
+
+<hr class="margin--top margin--bottom--lg">
 
 <!-- News Gallery -->
 
@@ -28,7 +82,7 @@ breadcrumb: 'Current Exhibitions'
                         </li> 
                         <li style="margin-bottom: 1rem;">
                             <span class="sgds-icon sgds-icon-clock" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                            <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">10:00am – 9:00pm</div>
+                            <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">10:00am - 9:00pm</div>
                         </li>          
                         <li style="margin-bottom: 1rem;">
                             <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
@@ -50,7 +104,7 @@ breadcrumb: 'Current Exhibitions'
 <div class="container__exh__description">
     <div class="row is-multiline">
         <div class="col">
-            <p>Discover stories of Singapore newspapers in the National Library’s collection dating from the 1820s and learn about significant episodes from Singapore’s history through the perspectives of different media. Gain insights into fake news, and learn how you can be more discerning about information and media, through our rich resources on newspapers.
+            <p>Discover stories of Singapore newspapers in the National Library's collection dating from the 1820s and learn about significant episodes from Singapore's history through the perspectives of different media. Gain insights into fake news, and learn how you can be more discerning about information and media, through our rich resources on newspapers.
             </p>
             <a href="/exhibitions/current-exhibitions/newsgallery/" style="color:#E21216;"><h5>EXHIBITION INFORMATION &#187;</h5></a>
             <a href="/exhibitions/current-exhibitions/newsgallery/virtual-gallery/" style="color:#E21216;"><h5 style="margin-top: 20px;">VIRTUAL NEWS GALLERY &#187;</h5></a>
@@ -105,7 +159,7 @@ breadcrumb: 'Current Exhibitions'
 <div class="container__exh__description">
     <div class="row is-multiline">
         <div class="col">
-            <p>Throughout our history, the library has been an integral part of Singapore’s cultural and social fabric as well as its residents. The exhibition traces the founding, development and growth of the National Library, Singapore from 1823 till present.
+            <p>Throughout our history, the library has been an integral part of Singapore's cultural and social fabric as well as its residents. The exhibition traces the founding, development and growth of the National Library, Singapore from 1823 till present.
             </p>
             <a href="/exhibitions/current-exhibitions/bookstobytes/" style="color:#E21216;"><h5>EXHIBITION INFORMATION &#187;</h5></a>
         </div>
@@ -217,5 +271,3 @@ breadcrumb: 'Current Exhibitions'
 </div>
 
 <!-- End of Rare Gallery -->
-    
-</section>
