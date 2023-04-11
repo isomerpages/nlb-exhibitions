@@ -48,9 +48,9 @@ breadcrumb: 'Current Exhibitions'
 <div class="container__exh__description">
     <div class="row is-multiline">
         <div class="col">
-            <p>Imagine Punggol when it was home to many kampongs, pig farms and a thriving seafood scene at <em>Punggol Stories</em>.</p>
+            <p>Imagine Punggol when it was home to many kampongs, pig farms and a thriving seafood scene at <em>Punggol Stories</em>. Discover the rich tapestry of Punggol's history from the National Library Board's collections.</p>
 
-            <p><em>Punggol Stories</em> comprises Words That Move (Level 1 Stories Come Alive Room), The Lens of Literature (Level 3 Sing Lit) and an exhibition at Singaporium (Level 4) of the Punggol Regional Library.</p>
+            <p>The <em>Punggol Stories</em> trail comprises Words That Move (Level 1 Stories Come Alive Room), The Lens of Literature (Level 3 Sing Lit) and an exhibition at Singaporium (Level 4) of the Punggol Regional Library.</p>
 
             <a href="/exhibitions/current-exhibitions/punggolstories/" style="color:#E21216;"><h5>EXHIBITION INFORMATION &#187;</h5></a>
         </div>

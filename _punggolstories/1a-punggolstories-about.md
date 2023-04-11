@@ -41,11 +41,12 @@ third_nav_title: 'Punggol Stories'
 <div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
-        <p>Imagine Punggol when it was home to many kampongs, pig farms and a thriving seafood scene at <em>Punggol Stories</em>.</p>
+        <p>Imagine Punggol when it was home to many kampongs, pig farms and a thriving seafood scene at <em>Punggol Stories</em>. Discover the rich tapestry of Punggol's history from the National Library Board's collections.</p>
 
-        <p><em>Punggol Stories</em> comprises Words That Move (Level 1 Stories Come Alive Room), The Lens of Literature (Level 3 Singapore Literature) and an exhibition at Singaporium (Level 4) of the Punggol Regional Library.</p>
+        <p>The <em>Punggol Stories</em> trail comprises Words That Move (Level 1 Stories Come Alive Room), The Lens of Literature (Level 3 Sing Lit) and an exhibition at Singaporium (Level 4) of the Punggol Regional Library.</p>
             
-        <p>Discover the rich tapestry of Punggol's history from the National Library Board's collections.</p>
+        <p style="border-width:3px; border-style:solid; border-color:#000000; padding: 1em;">Do you have a Punggol story to tell? Post them on social media using the hashtag #PunggolStories<br><br>
+        You can also volunteer as a library guide to lead" tours of the Punggol Stories trail. Sign up at <a href="https://www.nlb.gov.sg/volunteers/">www.nlb.gov.sg/volunteers/</a> (choose 'Punggol Regional Library' as the venue)</p>
 
         </div>
     </div>
@@ -125,9 +126,9 @@ third_nav_title: 'Punggol Stories'
         <div class="col is-full padding--top--lg">
         <p>Words That Move brings Sing Lit poems to life through beautiful animation and fun interactivity. It is a new feature unique to Punggol Regional Library's Stories Come Alive Room.</p>
 
-        <p>Poems in English, Chinese, Malay and Tamil are projected onto the walls of the Stories Come Alive Room with animation, light and sound effects to create an immersive experience. Patrons can tap on the poems to unlock related images.</p>
+        <p>Poems in English, Chinese, Malay and Tamil are projected onto the walls with animation, light and sound effects to create an immersive experience. Visitors can tap on the poems to unlock related images.</p>
             
-        <p><em>Punggol Stories</em> at Words That Move features poems that highlight the experience of moving from kampongs to HDB estates:
+        <p><em>Punggol Stories</em> at Words That Move features four poems that highlight the experience of moving from kampongs to HDB estates:
         <ul>
             <li><em>Punggol</em> by Ronald JJ Wong</li>
             
@@ -189,7 +190,7 @@ third_nav_title: 'Punggol Stories'
 
             <p>Explore The Lens of Literature, an interactive table of curated poems, novels and short story excerpts by Singapore writers. Get creative, compose your own poem, and take it home as a digital souvenir!</p>
                 
-            <p><em>Punggol Stories</em> at The Lens of Literature looks at the changes in heartland areas like Punggol. It features 16 literary works covering four themes:</p>
+            <p><em>Punggol Stories</em> at The Lens of Literature looks at the changes in heartland areas like Punggol. It features literary works in English, Chinese, Malay and Tamil covering four themes:</p>
 
             <p>
                 <ul>
@@ -251,7 +252,7 @@ third_nav_title: 'Punggol Stories'
 <div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
-            <p>Singaporium is a permanent exhibition space that brings the National Library's heritage collections into the heartlands. The inaugural exhibition, <em>Punggol Stories</em>, presents selected stories and histories of Punggol.</p>
+            <p>Singaporium is a permanent exhibition space that enables NLB to bring its heritage collections closer to the community. The inaugural exhibition, <em>Punggol Stories</em>, presents selected stories and histories of Punggol.</p>
 
             <p><em>Punggol Stories</em> at Singaporium has four sections: </p>
 
