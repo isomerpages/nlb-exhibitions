@@ -15,7 +15,7 @@ third_nav_title: 'Punggol Stories'
     </div>  
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img srcset="/images/event-images/punggol-stories/WTM01_400w.jpg 400w, /images/event-images/punggol-stories/WTM01_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories/WTM01_400w.jpg" alt="A photo of the Words That Move exhibition. Graphics of colourful bubbles, with the title 'Words That Move' on three individual bubbles, are projected onto the walls. Children are either touching the walls or running around.">
+            <img srcset="/images/event-images/punggol-stories/SING_01_400w.jpg 400w, /images/event-images/punggol-stories/SING_01_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="675" width="1000" src="/images/event-images/punggol-stories/SING_01_400w.jpg" alt="A photo of the Singaporium exhibition. Walls feature reproductions of books and photos. In the foreground, there is a sculpture of frosted acrylic tubes that light up. Visitors are exploring the content and the sculpture.">
         </div>
     </div>
         <div class="row">
@@ -82,23 +82,19 @@ third_nav_title: 'Punggol Stories'
 </div>
 -->
 
-<div class="container__line padding--lg">
-    <div class="row">
-        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
-        </div>
-    </div>
-</div>
 
 <div class="container__card">
+
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img srcset="/images/event-images/punggol-stories/WTM02_400w.jpg 400w, /images/event-images/punggol-stories/WTM02_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/punggol-stories/WTM02_400w.jpg" alt="A poem is projected onto a wall with a blue ocean and yellow sun background. A young girl is touching white highlighted words in the poem.">
+            
+            <img srcset="/images/event-images/punggol-stories/SING_02_400w.jpg 400w, /images/event-images/punggol-stories/SING_02_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="675" width="1000" src="/images/event-images/punggol-stories/SING_02_400w.jpg" alt="A photo of the Singaporium space. An introduction panel is on the left, and showcases and multimedia screens are on its right. A visitor is looking at the displayed items in a showcase, and another visitor is browsing the multimedia screen while holding its sound handset.">
         </div>
     </div>
-    
+
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
-            <h3><strong>Words That Move</strong></h3>
+            <h3><strong>Singaporium</strong></h3>
         </div>
     </div>
         <div class="row">
@@ -110,36 +106,38 @@ third_nav_title: 'Punggol Stories'
                     </li> 
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-clock" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem;">5:00pm - 7:00pm</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">10:00 - 9:00pm</div>
                     </li>          
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem;">Level 1, Stories Come Alive Room, Punggol Regional Library</div>
-                    </li>                    
+                        <div style="line-height: 150%; padding-left: 2.3rem;">Level 4, Singaporium, Punggol Regional Library</div>
+                    </li>                        
                 </ul>
             </div>
         </div>
 </div>
-
+    
 <div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
-        <p>Words That Move brings Sing Lit poems to life through beautiful animation and fun interactivity. It is a new feature unique to Punggol Regional Library's Stories Come Alive Room.</p>
+            <p>Singaporium is a permanent exhibition space that enables NLB to bring its heritage collections closer to the community. The inaugural exhibition, <em>Punggol Stories</em>, presents selected stories and histories of Punggol.</p>
 
-        <p>Poems in English, Chinese, Malay and Tamil are projected onto the walls with animation, light and sound effects to create an immersive experience. Visitors can tap on the poems to unlock related images.</p>
-            
-        <p><em>Punggol Stories</em> at Words That Move features four poems that highlight the experience of moving from kampongs to HDB estates:
-        <ul>
-            <li><em>Punggol</em> by Ronald JJ Wong</li>
-            
-            <li>《组屋族》(The HDB Tribe) by 梁文福 (Liang Wern Fook)</li>
-             
-            <li><em>Kenangan Tinggal Di Rumah Deret</em> (Memories of Living in a Rowhouse) by Norisah A Bakar</li>
-            
-            <li>நகர்வளம் (Urban Riches) by அமீருத்தீன் (Amiroudine)</li>
-        </ul>
-        </p>
-        <p><a href="/exhibitions/current-exhibitions/punggolstories/credits/">Link to image credits</a></p>
+            <p><em>Punggol Stories</em> at Singaporium has four sections: </p>
+
+            <p>
+                <ul>
+                <li><strong>Punggol Pioneers</strong> features the start of early Punggol, from its first kampongs and plantations in the mid-1800s, to the communities that made it their home.</li>
+
+                <li><strong>Seaside Solace</strong> celebrates the leisure activities that drew people to Punggol, especially the seafood and water sports scene that blossomed in the 1960s.</li>
+                 
+                <li><strong>Farm to Fable</strong> pays tribute to Punggol's agricultural heritage, notably as the primary site of Singapore's industrialised pig farms in the 1970s and 1980s.</li>
+                 
+                <li><strong>Winding Waterways</strong> charts the ebb and flow of Punggol's development, connecting it to the present day.</li> 
+                </ul>
+            </p>
+            <p>In the middle of the exhibition is a <strong>Memory Map</strong>, an interactive installation that features memories of historical Punggol.</p>
+
+            <p><a href="/exhibitions/current-exhibitions/punggolstories/credits/">Link to image credits</a></p>
         </div>
     </div>
 </div>
@@ -214,19 +212,16 @@ third_nav_title: 'Punggol Stories'
     </div>
 </div>
 
-
 <div class="container__card">
-
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            
-            <img srcset="/images/event-images/punggol-stories/SING_400w.jpg 400w, /images/event-images/punggol-stories/SING_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/punggol-stories/SING_400w.jpg" alt="A photo of the Singaporium exhibition. Walls feature reproductions of books and photos. In the foreground, there is a sculpture of frosted acrylic tubes that light up. Visitors are exploring the content and the sculpture.">
+            <img srcset="/images/event-images/punggol-stories/WTM01_400w.jpg 400w, /images/event-images/punggol-stories/WTM01_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories/WTM01_400w.jpg" alt="A poem is projected onto a wall with a blue ocean and yellow sun background. A young girl is touching white highlighted words in the poem.">
         </div>
     </div>
-
+    
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
-            <h3><strong>Singaporium</strong></h3>
+            <h3><strong>Words That Move</strong></h3>
         </div>
     </div>
         <div class="row">
@@ -238,42 +233,39 @@ third_nav_title: 'Punggol Stories'
                     </li> 
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-clock" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem;">10:00 - 9:00pm</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">5:00pm - 7:00pm</div>
                     </li>          
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem;">Level 4, Singaporium, Punggol Regional Library</div>
-                    </li>                        
+                        <div style="line-height: 150%; padding-left: 2.3rem;">Level 1, Stories Come Alive Room, Punggol Regional Library</div>
+                    </li>                    
                 </ul>
             </div>
         </div>
 </div>
-    
+
 <div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
-            <p>Singaporium is a permanent exhibition space that enables NLB to bring its heritage collections closer to the community. The inaugural exhibition, <em>Punggol Stories</em>, presents selected stories and histories of Punggol.</p>
+        <p>Words That Move brings Sing Lit poems to life through beautiful animation and fun interactivity. It is a new feature unique to Punggol Regional Library's Stories Come Alive Room.</p>
 
-            <p><em>Punggol Stories</em> at Singaporium has four sections: </p>
-
-            <p>
-                <ul>
-                <li><strong>Punggol Pioneers</strong> features the start of early Punggol, from its first kampongs and plantations in the mid-1800s, to the communities that made it their home.</li>
-
-                <li><strong>Seaside Solace</strong> celebrates the leisure activities that drew people to Punggol, especially the seafood and water sports scene that blossomed in the 1960s.</li>
-                 
-                <li><strong>Farm to Fable</strong> pays tribute to Punggol’s agricultural heritage, notably as the primary site of Singapore’s industrialised pig farms in the 1970s and 1980s.</li>
-                 
-                <li><strong>Winding Waterways</strong> charts the ebb and flow of Punggol’s development, connecting it to the present day.</li> 
-                </ul>
-            </p>
-            <p>In the middle of the exhibition is a <strong>Memory Map</strong>, an interactive installation that features memories of historical Punggol.</p>
-
-            <p><a href="/exhibitions/current-exhibitions/punggolstories/credits/">Link to image credits</a></p>
+        <p>Poems in English, Chinese, Malay and Tamil are projected onto the walls with animation, light and sound effects to create an immersive experience. Visitors can tap on the poems to unlock related images.</p>
+            
+        <p><em>Punggol Stories</em> at Words That Move features four poems that highlight the experience of moving from kampongs to HDB estates:
+        <ul>
+            <li><em>Punggol</em> by Ronald JJ Wong</li>
+            
+            <li>《组屋族》(The HDB Tribe) by 梁文福 (Liang Wern Fook)</li>
+             
+            <li><em>Kenangan Tinggal Di Rumah Deret</em> (Memories of Living in a Rowhouse) by Norisah A Bakar</li>
+            
+            <li>நகர்வளம் (Urban Riches) by அமீருத்தீன் (Amiroudine)</li>
+        </ul>
+        </p>
+        <p><a href="/exhibitions/current-exhibitions/punggolstories/credits/">Link to image credits</a></p>
         </div>
     </div>
 </div>
-
 
 </section>
 
