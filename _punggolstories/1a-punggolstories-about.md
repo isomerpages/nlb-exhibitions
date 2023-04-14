@@ -82,6 +82,12 @@ third_nav_title: 'Punggol Stories'
 </div>
 -->
 
+<div class="container__line padding--lg">
+    <div class="row">
+        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
+        </div>
+    </div>
+</div>
 
 <div class="container__card">
 
