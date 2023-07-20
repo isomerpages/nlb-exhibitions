@@ -1,6 +1,6 @@
 ---
 title: About
-permalink: /exhibitions/past-exhibitions/raregallery/
+permalink: /exhibitions/current-exhibitions/raregallery/
 breadcrumb: About
 third_nav_title: 'The Rare Collection Gallery'
 
