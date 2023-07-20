@@ -28,6 +28,14 @@ sections:
           alt: 'Photos of exhibitions'
           button: null
     - infopic:
+          title: 'Architecture'
+          subtitle: null
+          description: "Test text"
+          url: /exhibitions/current-exhibitions/architecture
+          image: /images/event-images/newsgallery/Homepage_exh-highlight_NG.jpg
+          alt: 'A photo of the News Gallery'
+          button: 'Architecture Exhibition Information'
+    - infopic:
           title: 'The News Gallery: Beyond Headlines'
           subtitle: null
           description: "Explore the fascinating yet bewildering world of news media at our permanent exhibition The News Gallery: Beyond Headlines.\n<p>&nbsp;</p>\n<p>Discover stories of Singapore newspapers in the National Library’s collection dating from the 1820s and learn about significant episodes from Singapore’s history through the perspectives of different media. Gain insights into fake news, and learn how you can be more discerning about information and media, through our rich resources on newspapers.</p>\n"
