@@ -44,30 +44,3 @@ third_nav_title: 'The Rare Collection Gallery'
 </div>
 </section>
 
-<section class="section__additionalInfo">
-<div class="container__description">
-    <div class="row">
-        <div class="col is-full padding--top--lg">
-            <h4>Current display:</h4>
-            <p><strong><em>Light Amidst Adversity</em></strong><br>
-                15 Feb 2023 &ndash; 30 July 2023</p>
-
-            <p style="margin-top: 5px;">Using historical and archival materials from the collections of the National Library and the National Archives, <em>Light Amidst Adversity</em> seeks to explore the themes of resistance and resilience during World War II as well as post-war remembrance in Singapore. The display features a selection of rare books, photographs, artworks, personal documents, and ephemera that record local war preparations and poignant stories in a time of adversity.</p>
-
-            <p><a href="https://www.eventbrite.sg/e/light-amidst-adversity-gallery-tour-tickets-525385491147" target="_blank" style="color:#E21216;">Book a visit here.</a></p>
-        </div>
-    </div>
-</div>
-
-<div class="container__description">
-    <div class="row">
-        <div class="col is-full padding--top--lg">
-            <h4>Current Programme</h4>
-            <p><strong>&ldquo;Defending the Little Red Dot&rdquo;</strong></p>
-
-            <p style="margin-top: 5px;">The responsibility of defending a nation rests on its people. Every year, Singapore commemorates Total Defence Day on 15 February, which marks the fall of Singapore in 1942. For this year's Total Defence Day, the National Library Board presents Defending the Little Red Dot, a campaign packed with talks, book displays and film screenings, highlighting stories of resistance and resilience during the Japanese Occupation, and the importance of preparedness in the digital age.</p>
-        </div>
-    </div>
-</div>
-
-</section>
