@@ -80,6 +80,8 @@ collections:
         output: true
     punggolstoriescredits:
         output: true
+    architecture:
+        output: true
 favicon: /images/cropped-nlb-favicon_192.png
 permalink: none
 baseurl: ""
