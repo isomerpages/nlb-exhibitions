@@ -25,8 +25,6 @@ Past: #c1c1c1
 
 <blockquote style="color: #E21216; font-size: 150%;">All events are over.</blockquote>
 
-<p>Admission to programmes is free and open to all unless otherwise stated. Seats are limited, on a first-come first-served basis. Please register at library eKiosks or <a href="www.nlb.gov.sg/golibrary">GoLibrary</a>. All programmes will be held at the National Library Building (100 Victoria Street, Singapore 188064).</p>
-
 <table class="table table-v">
     <tr>
         <td style="background-color: #c1c1c1;">Various dates<br>
