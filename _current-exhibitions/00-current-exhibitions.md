@@ -88,11 +88,6 @@ breadcrumb: 'Current Exhibitions'
                             <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
                             <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">Level 11, Promenade, National Library Building</div>
                         </li>
-                        <li style="margin-bottom: 1rem;">
-                            <span class="sgds-icon sgds-icon-triangle-warning" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle; color: #E21216"></span>
-                            <div style="line-height: 150%; padding-left: 2.3rem; color: #E21216">The News Gallery will be closed for maintainence on 28th June 2023. Thank you for your understanding and cooperation.<br> 
-                            </div>
-                        </li>
                     </ul>
             </div>
         </div>
@@ -246,7 +241,7 @@ breadcrumb: 'Current Exhibitions'
                     <ul style="list-style: none; margin-left: 5px;">
                         <li style="margin-bottom: 1rem; padding-right: 20px;">
                             <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                            <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">The gallery is open for organised public tours only from 15 Feb &ndash; 30 July 2023. <a href="https://www.eventbrite.sg/e/light-amidst-adversity-gallery-tour-tickets-525385491147" target="_blank" style="color:#E21216;">Book a visit here.</a></div>
+                            <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">The gallery is open for organised public tours only.</div>
                         </li> 
                         <li style="margin-bottom: 1rem;">
                             <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>

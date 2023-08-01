@@ -24,7 +24,7 @@ third_nav_title: 'The Rare Collection Gallery'
                 <ul style="list-style: none; margin-left: 5px;">
                         <li style="margin-bottom: 1rem; padding-right: 20px;">
                             <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                            <div style="line-height: 150%; padding-left: 2.3rem;">The gallery is open for organised public tours only from 15 Feb &ndash; 30 July 2023. <a href="https://www.eventbrite.sg/e/light-amidst-adversity-gallery-tour-tickets-525385491147" target="_blank" style="color:#E21216;">Book a visit here.</a></div>
+                            <div style="line-height: 150%; padding-left: 2.3rem;">The gallery is open for organised public tours only.</div>
                         </li> 
                         <li style="margin-bottom: 1rem;">
                             <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
@@ -44,30 +44,3 @@ third_nav_title: 'The Rare Collection Gallery'
 </div>
 </section>
 
-<section class="section__additionalInfo">
-<div class="container__description">
-    <div class="row">
-        <div class="col is-full padding--top--lg">
-            <h4>Current display:</h4>
-            <p><strong><em>Light Amidst Adversity</em></strong><br>
-                15 Feb 2023 &ndash; 30 July 2023</p>
-
-            <p style="margin-top: 5px;">Using historical and archival materials from the collections of the National Library and the National Archives, <em>Light Amidst Adversity</em> seeks to explore the themes of resistance and resilience during World War II as well as post-war remembrance in Singapore. The display features a selection of rare books, photographs, artworks, personal documents, and ephemera that record local war preparations and poignant stories in a time of adversity.</p>
-
-            <p><a href="https://www.eventbrite.sg/e/light-amidst-adversity-gallery-tour-tickets-525385491147" target="_blank" style="color:#E21216;">Book a visit here.</a></p>
-        </div>
-    </div>
-</div>
-
-<div class="container__description">
-    <div class="row">
-        <div class="col is-full padding--top--lg">
-            <h4>Current Programme</h4>
-            <p><strong>&ldquo;Defending the Little Red Dot&rdquo;</strong></p>
-
-            <p style="margin-top: 5px;">The responsibility of defending a nation rests on its people. Every year, Singapore commemorates Total Defence Day on 15 February, which marks the fall of Singapore in 1942. For this year's Total Defence Day, the National Library Board presents Defending the Little Red Dot, a campaign packed with talks, book displays and film screenings, highlighting stories of resistance and resilience during the Japanese Occupation, and the importance of preparedness in the digital age.</p>
-        </div>
-    </div>
-</div>
-
-</section>
