@@ -1,0 +1,8 @@
+collections:
+  slpioneers:
+    output: true
+    order:
+      - Singapore Literary Pioneers/.keep
+      - Singapore Literary Pioneers/about.md
+      - Singapore Literary Pioneers/gallery.md
+      - Singapore Literary Pioneers/exhibition-microsite.md

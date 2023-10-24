@@ -1,0 +1,9 @@
+collections:
+  onpaper:
+    output: true
+    order:
+      - Singapore Before 1867/.keep
+      - Singapore Before 1867/about.md
+      - Singapore Before 1867/gallery.md
+      - Singapore Before 1867/exhibition-highlights.md
+      - Singapore Before 1867/programmes.md
