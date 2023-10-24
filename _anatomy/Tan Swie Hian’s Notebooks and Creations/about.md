@@ -66,7 +66,7 @@ third_nav_title: 'Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creati
             <p style="margin-top: 5px;">Download the brochure below:</p>
                     <ul style="list-style: none; margin-left: 5px; color: #E21216">
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/aof/AOFM-A5-brochure-2-17012017.pdf" style="color:#E21216;">English and Chinese exhibition brochure (1.32mb)</a>
+                            <a href="/files/aof/aofm-a5-brochure-2-17012017.pdf" style="color:#E21216;">English and Chinese exhibition brochure (1.32mb)</a>
                         </li>                         
                     </ul>
         </div>
@@ -151,11 +151,11 @@ third_nav_title: 'Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creati
 
             <p>为了配合在国家图书馆大厦举办的“解析自由心：陈瑞献稿本与创作”特展（2016年11月22日至2017年4月23日），本巡回展将着重介绍陈瑞献的多种文艺作品，如诗作、散文、小说、寓言、译作以及他所编辑的刊物。欲一览陈瑞献当年在文坛备受瞩目的作品，请于举办期间到上述图书馆参观展览。</p>
             
-            <img srcset="/images/event-images/aof/AOFM06_400w.jpg 400w, /images/event-images/aof/AOFM06.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="616" width="1000" src="/images/event-images/aof/AOFM06_400w.jpg" alt="A photo of the roving exhibition. An information wall in the middle is surrounded by showcases and a wall with books.">
+            <img srcset="/images/event-images/aof/aofm06_400w.jpg 400w, /images/event-images/aof/AOFM06.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="616" width="1000" src="/images/event-images/aof/AOFM06_400w.jpg" alt="A photo of the roving exhibition. An information wall in the middle is surrounded by showcases and a wall with books.">
             
-            <img srcset="/images/event-images/aof/AOFM07_400w.jpg 400w, /images/event-images/aof/AOFM07.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="602" width="1000" src="/images/event-images/aof/AOFM07_400w.jpg" alt="A photo of the roving exhibition. An information wall in the middle is surrounded by showcases and a wall with books.">
+            <img srcset="/images/event-images/aof/aofm07_400w.jpg 400w, /images/event-images/aof/AOFM07.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="602" width="1000" src="/images/event-images/aof/AOFM07_400w.jpg" alt="A photo of the roving exhibition. An information wall in the middle is surrounded by showcases and a wall with books.">
             
-            <img srcset="/images/event-images/aof/AOFM08_400w.jpg 400w, /images/event-images/aof/AOFM08.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="614" width="1000" src="/images/event-images/aof/AOFM08_400w.jpg" alt="A photo of the roving exhibition. An information wall in the middle is surrounded by showcases and a wall with books.">
+            <img srcset="/images/event-images/aof/aofm08_400w.jpg 400w, /images/event-images/aof/AOFM08.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="614" width="1000" src="/images/event-images/aof/AOFM08_400w.jpg" alt="A photo of the roving exhibition. An information wall in the middle is surrounded by showcases and a wall with books.">
         </div>
     </div>
 </div>

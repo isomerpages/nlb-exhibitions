@@ -57,7 +57,7 @@ third_nav_title: 'Script &amp; Stage: Theatre in Singapore from the 50s to 80s'
             <p style="margin-top: 5px;">Download the brochure below:</p>
                     <ul style="list-style: none; margin-left: 5px; color: #E21216">
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/script-and-stage-onsite/Script-Stage-Exhibition-Brochure-Resized.pdf" style="color:#E21216;">English exhibition brochure (897kb)</a>
+                            <a href="/files/script-and-stage-onsite/script-stage-exhibition-brochure-resized.pdf" style="color:#E21216;">English exhibition brochure (897kb)</a>
                         </li>                         
                     </ul>
         </div>
@@ -129,9 +129,9 @@ third_nav_title: 'Script &amp; Stage: Theatre in Singapore from the 50s to 80s'
             
             <blockquote style="color: #E21216; font-size: 150%;">Programme has ended, registration is closed.</blockquote>
             
-            <img srcset="/images/event-images/script-and-stage-onsite/SS10_400w.jpg 400w, /images/event-images/script-and-stage-onsite/SS10_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="711" width="1000" src="/images/event-images/script-and-stage-onsite/SS10_400w.jpg" alt="A photo of a tour. A librarian is giving a talk next to a table showcase, while students crowd around.">
+            <img srcset="/images/event-images/script-and-stage-onsite/ss10_400w.jpg 400w, /images/event-images/script-and-stage-onsite/SS10_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="711" width="1000" src="/images/event-images/script-and-stage-onsite/SS10_400w.jpg" alt="A photo of a tour. A librarian is giving a talk next to a table showcase, while students crowd around.">
             
-            <img srcset="/images/event-images/script-and-stage-onsite/SS11_400w.jpg 400w, /images/event-images/script-and-stage-onsite/SS11_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="710" width="1000" src="/images/event-images/script-and-stage-onsite/SS11_400w.jpg" alt="A photo of a tour. Students are looking down into a table showcase.">
+            <img srcset="/images/event-images/script-and-stage-onsite/ss11_400w.jpg 400w, /images/event-images/script-and-stage-onsite/SS11_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="710" width="1000" src="/images/event-images/script-and-stage-onsite/SS11_400w.jpg" alt="A photo of a tour. Students are looking down into a table showcase.">
         </div>
     </div>
 </div>     

@@ -24,6 +24,6 @@ __Time: 9:00pm – 10:00pm__<br>
 __Meeting point: Level 10, Gallery entrance, National Library Building__<br>
 _Free admission_
 
-<img srcset="/images/event-images/sellingdreamsonsite/SNF_Credit_Line_Black_940x323_400w.jpg 400w, /images/event-images/sellingdreamsonsite/SNF_Credit_Line_Black_940x323_940w.jpg 940w" sizes="(max-width: 500px) 40vw, 94vw" height="323" width="940" src="/images/event-images/sellingdreamsonsite/SNF_Credit_Line_Black_940x323_400w.jpg" alt="A banner with various insitution logos.">
+<img srcset="/images/event-images/sellingdreamsonsite/snf_credit_line_black_940x323_400w.jpg 400w, /images/event-images/sellingdreamsonsite/SNF_Credit_Line_Black_940x323_940w.jpg 940w" sizes="(max-width: 500px) 40vw, 94vw" height="323" width="940" src="/images/event-images/sellingdreamsonsite/SNF_Credit_Line_Black_940x323_400w.jpg" alt="A banner with various insitution logos.">
 
 <a href="/exhibitions/past-exhibitions/sellingdreams/programmes/" style="color:#E21216;">Return to the Selling Dreams exhibition programmes page &#187;</a>

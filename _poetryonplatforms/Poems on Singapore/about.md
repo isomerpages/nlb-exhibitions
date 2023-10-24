@@ -55,7 +55,7 @@ third_nav_title: 'Poetry on Platforms: Poems on Singapore'
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img srcset="/images/event-images/poetry-on-platforms/POP02_400w.jpg 400w, /images/event-images/poetry-on-platforms/POP02_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="581" width="1000" src="/images/event-images/poetry-on-platforms/POP02_400w.jpg" alt="An illustration of a typewriter.">
+            <img srcset="/images/event-images/poetry-on-platforms/pop02_400w.jpg 400w, /images/event-images/poetry-on-platforms/POP02_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="581" width="1000" src="/images/event-images/poetry-on-platforms/POP02_400w.jpg" alt="An illustration of a typewriter.">
         </div>
     </div>
     <div class="row margin--bottom--xs">

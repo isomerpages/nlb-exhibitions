@@ -54,7 +54,7 @@ third_nav_title: 'Geo&#124;Graphic: Celebrating maps and their stories'
             <p style="margin-top: 5px;">Download the brochure below:</p>
                     <ul style="list-style: none; margin-left: 5px; color: #E21216">
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/geographic/Geographic_Festival-brochure.pdf" style="color:#E21216;">English exhibition brochure (1.99mb)</a>
+                            <a href="/files/geographic/geographic_festival-brochure.pdf" style="color:#E21216;">English exhibition brochure (1.99mb)</a>
                         </li>                         
                     </ul>
         </div>

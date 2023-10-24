@@ -10,7 +10,7 @@ third_nav_title: 'Mapping the World'
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
-            <img srcset="/images/event-images/mappingtheworld/Exhibition_banner_1200x355px_400w.jpg 400w, /images/event-images/mappingtheworld/Exhibition_banner_1200x355px_opt.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="356" width="1201" src="/images/event-images/mappingtheworld/Exhibition_banner_1200x355px_400w.jpg" alt="A title card labelled Mapping the World: Perspectives from Asian Cartography.">
+            <img srcset="/images/event-images/mappingtheworld/exhibition_banner_1200x355px_400w.jpg 400w, /images/event-images/mappingtheworld/Exhibition_banner_1200x355px_opt.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="356" width="1201" src="/images/event-images/mappingtheworld/Exhibition_banner_1200x355px_400w.jpg" alt="A title card labelled Mapping the World: Perspectives from Asian Cartography.">
         </div>
     </div>  
     <div class="row">
@@ -47,7 +47,7 @@ third_nav_title: 'Mapping the World'
             
         <p>Through these historical maps, this exhibition opens up a fascinating and illuminating window into how civilisations see themselves and the world across time and space.</p>
 
-        <img srcset="/images/event-images/mappingtheworld/Partner_sponsors_banner_400w.jpg 400w, /images/event-images/mappingtheworld/Partner_sponsors_banner_opt.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="296" width="1000" src="/images/event-images/mappingtheworld/Partner_sponsors_banner_400w.jpg" alt="A banner with logos. Presented by: National Library of Singapore. In partnership with: The Embassy of France in Singapore. In Association with: The vOliah! Festival. Supported by: Temasek, and Tikehau Capital.">
+        <img srcset="/images/event-images/mappingtheworld/partner_sponsors_banner_400w.jpg 400w, /images/event-images/mappingtheworld/Partner_sponsors_banner_opt.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="296" width="1000" src="/images/event-images/mappingtheworld/Partner_sponsors_banner_400w.jpg" alt="A banner with logos. Presented by: National Library of Singapore. In partnership with: The Embassy of France in Singapore. In Association with: The vOliah! Festival. Supported by: Temasek, and Tikehau Capital.">
         </div>
     </div>
 </div>
@@ -58,22 +58,22 @@ third_nav_title: 'Mapping the World'
             <p style="margin-top: 5px;">Download the brochure and exhibition guides below:</p>
                     <ul style="list-style: none; margin-left: 5px; color: #E21216">
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/mappingtheworld/NLB Mapping The World_Brochure_web.pdf" style="color:#E21216;">English exhibition brochure (Dec - Feb) (1.68mb)</a>
+                            <a href="/files/mappingtheworld/nlb mapping the world_brochure_web.pdf" style="color:#E21216;">English exhibition brochure (Dec - Feb) (1.68mb)</a>
                         </li>
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/mappingtheworld/NLB Mapping The World_Brochure_web_2.pdf" style="color:#E21216;">English exhibition brochure (Mar - May) (577kb)</a>
+                            <a href="/files/mappingtheworld/nlb mapping the world_brochure_web_2.pdf" style="color:#E21216;">English exhibition brochure (Mar - May) (577kb)</a>
                         </li>
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/mappingtheworld/NLB Mapping The World_Exhibition guide_EN_web.pdf" style="color:#E21216;">English exhibition guide (1.61mb)</a>
+                            <a href="/files/mappingtheworld/nlb mapping the world_exhibition guide_en_web.pdf" style="color:#E21216;">English exhibition guide (1.61mb)</a>
                         </li>
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/mappingtheworld/NLB_Mapping The World_Exhibition Guide_Chinese_Web.pdf" style="color:#E21216;">Chinese exhibition guide (2.2mb)</a>
+                            <a href="/files/mappingtheworld/nlb_mapping the world_exhibition guide_chinese_web.pdf" style="color:#E21216;">Chinese exhibition guide (2.2mb)</a>
                         </li>
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/mappingtheworld/NLB_Mapping The World_Exhibition Guide_Malay_Web.pdf" style="color:#E21216;">Malay exhibition guide (1.91mb)</a>
+                            <a href="/files/mappingtheworld/nlb_mapping the world_exhibition guide_malay_web.pdf" style="color:#E21216;">Malay exhibition guide (1.91mb)</a>
                         </li>
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/mappingtheworld/NLB_Mapping The World_Exhibition Guide_Tamil_Web.pdf" style="color:#E21216;">Tamil exhibition guide (2.12mb)</a>
+                            <a href="/files/mappingtheworld/nlb_mapping the world_exhibition guide_tamil_web.pdf" style="color:#E21216;">Tamil exhibition guide (2.12mb)</a>
                         </li>                        
                     </ul>
         </div>

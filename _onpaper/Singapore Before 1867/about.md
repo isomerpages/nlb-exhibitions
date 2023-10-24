@@ -11,12 +11,12 @@ third_nav_title: 'On Paper: Singapore Before 1867'
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
-            <img srcset="/images/event-images/onpaper/On-Paper-tab-banner_400w.jpg 400w, /images/event-images/onpaper/On-Paper-tab-banner_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="250" width="1000" src="/images/event-images/onpaper/On-Paper-tab-banner_400w.jpg" alt="A title card labelled: On Paper.">
+            <img srcset="/images/event-images/onpaper/on-paper-tab-banner_400w.jpg 400w, /images/event-images/onpaper/On-Paper-tab-banner_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="250" width="1000" src="/images/event-images/onpaper/On-Paper-tab-banner_400w.jpg" alt="A title card labelled: On Paper.">
         </div>
     </div>    
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img srcset="/images/event-images/onpaper/On-Paper_gallery_1_400w.jpg 400w, /images/event-images/onpaper/On-Paper_gallery_1_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/onpaper/On-Paper_gallery_1_400w.jpg" alt="A photo showing the introduction wall of the On Paper exhibition.">
+            <img srcset="/images/event-images/onpaper/on-paper_gallery_1_400w.jpg 400w, /images/event-images/onpaper/On-Paper_gallery_1_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/onpaper/On-Paper_gallery_1_400w.jpg" alt="A photo showing the introduction wall of the On Paper exhibition.">
         </div>
     </div>
         <div class="row">
@@ -55,24 +55,24 @@ third_nav_title: 'On Paper: Singapore Before 1867'
             <p style="margin-top: 5px;">Download them below:</p>
                     <ul style="list-style: none; margin-left: 5px; color: #E21216">
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/onpaper/On-Paper-eBrochure-Sep-Dec-2019.pdf" style="color:#E21216;">English exhibition brochure (1.35mb)</a>
+                            <a href="/files/onpaper/on-paper-ebrochure-sep-dec-2019.pdf" style="color:#E21216;">English exhibition brochure (1.35mb)</a>
                             <div style="line-height: 150%; padding-left: 2.3rem;">(with programmes from September - December 2019)</div>
                         </li>                         
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/onpaper/On-Paper-eBrochure-2-Jan-Mar-2020.pdf" style="color:#E21216;">English exhibition brochure (973kb)</a>
+                            <a href="/files/onpaper/on-paper-ebrochure-2-jan-mar-2020.pdf" style="color:#E21216;">English exhibition brochure (973kb)</a>
                             <div style="line-height: 150%; padding-left: 2.3rem;">(with programmes from January - March 2020)</div>
                         </li>                         
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/onpaper/NLB-On-Paper-exhibition-guide_EN.pdf" style="color:#E21216;">English exhibition guide (1.39mb)</a>
+                            <a href="/files/onpaper/nlb-on-paper-exhibition-guide_en.pdf" style="color:#E21216;">English exhibition guide (1.39mb)</a>
                         </li>                        
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/onpaper/NLB-On-Paper-exhibition-guide_MA.pdf" style="color:#E21216;">Malay exhibition guide (1.06mb)</a> 
+                            <a href="/files/onpaper/nlb-on-paper-exhibition-guide_ma.pdf" style="color:#E21216;">Malay exhibition guide (1.06mb)</a> 
                         </li>
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/onpaper/NLB-On-Paper-exhibition-guide_ZH.pdf" style="color:#E21216;">Chinese exhibition guide (1.08mb)</a>
+                            <a href="/files/onpaper/nlb-on-paper-exhibition-guide_zh.pdf" style="color:#E21216;">Chinese exhibition guide (1.08mb)</a>
                         </li>                         
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/onpaper/NLB-On-Paper-exhibition-guide_TA.pdf" style="color:#E21216;">Tamil exhibition guide (834kb)</a>
+                            <a href="/files/onpaper/nlb-on-paper-exhibition-guide_ta.pdf" style="color:#E21216;">Tamil exhibition guide (834kb)</a>
                         </li>
                     </ul>
         </div>
@@ -102,7 +102,7 @@ third_nav_title: 'On Paper: Singapore Before 1867'
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img srcset="/images/event-images/onpaper/Curiocity_1000x700_400w.jpg 400w, /images/event-images/onpaper/Curiocity_1000x700_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="700" width="1000" src="/images/event-images/onpaper/Curiocity_1000x700_400w.jpg" alt="A title card labelled: Curiocity">
+            <img srcset="/images/event-images/onpaper/curiocity_1000x700_400w.jpg 400w, /images/event-images/onpaper/Curiocity_1000x700_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="700" width="1000" src="/images/event-images/onpaper/Curiocity_1000x700_400w.jpg" alt="A title card labelled: Curiocity">
         </div>
     </div>
     <div class="row margin--bottom--xs">
@@ -148,7 +148,7 @@ third_nav_title: 'On Paper: Singapore Before 1867'
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img srcset="/images/event-images/onpaper/An-Island-by-Any-Other-Name_1000x550_400w.jpg 400w, /images/event-images/onpaper/An-Island-by-Any-Other-Name_1000x550_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="550" width="1000" src="/images/event-images/onpaper/An-Island-by-Any-Other-Name_1000x550_400w.jpg" alt="A title card labelled: An Island By Any Other Name">
+            <img srcset="/images/event-images/onpaper/an-island-by-any-other-name_1000x550_400w.jpg 400w, /images/event-images/onpaper/An-Island-by-Any-Other-Name_1000x550_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="550" width="1000" src="/images/event-images/onpaper/An-Island-by-Any-Other-Name_1000x550_400w.jpg" alt="A title card labelled: An Island By Any Other Name">
         </div>
     </div>
     <div class="row margin--bottom--xs">

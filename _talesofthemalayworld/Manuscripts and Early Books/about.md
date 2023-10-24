@@ -64,13 +64,13 @@ third_nav_title: 'Tales of the Malay World: Manuscripts and Early Books'
             <p style="margin-top: 5px;">Download the brochures and exhibition guides below:</p>
                     <ul style="list-style: none; margin-left: 5px; color: #E21216">
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/tmw/TMW_Brochure_lowres.pdf" style="color:#E21216;">English exhibition brochure (1.41mb)</a>
+                            <a href="/files/tmw/tmw_brochure_lowres.pdf" style="color:#E21216;">English exhibition brochure (1.41mb)</a>
                         </li>                         
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/tmw/NLB-TMW-Exh-Guide_Eng_E-Version.pdf" style="color:#E21216;">English exhibition guide (1.24mb)</a>
+                            <a href="/files/tmw/nlb-tmw-exh-guide_eng_e-version.pdf" style="color:#E21216;">English exhibition guide (1.24mb)</a>
                         </li>                        
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/tmw/TMW-Exh.-Guide_Malay_E-Version.pdf" style="color:#E21216;">Malay exhibition guide (1.22mb)</a> 
+                            <a href="/files/tmw/tmw-exh.-guide_malay_e-version.pdf" style="color:#E21216;">Malay exhibition guide (1.22mb)</a> 
                         </li>
                     </ul>
         </div>

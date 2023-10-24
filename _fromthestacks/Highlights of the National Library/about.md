@@ -58,22 +58,22 @@ third_nav_title: 'From The Stacks: Highlights of the National Library'
             <p style="margin-top: 5px;">Download the items below:</p>
                     <ul style="list-style: none; margin-left: 5px; color: #E21216">
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/from-the-stacks-onsite/MSD172_FTS_BROCHURE_R10_REVISED-FA_low-res.pdf" style="color:#E21216;">English exhibition brochure (1.37mb)</a>
+                            <a href="/files/from-the-stacks-onsite/msd172_fts_brochure_r10_revised-fa_low-res.pdf" style="color:#E21216;">English exhibition brochure (1.37mb)</a>
                         </li>                         
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/from-the-stacks-onsite/NLB_From_The_Stacks_-_Exhibition_Guide_English.pdf" style="color:#E21216;">English exhibition guide (783kb)</a>
+                            <a href="/files/from-the-stacks-onsite/nlb_from_the_stacks_-_exhibition_guide_english.pdf" style="color:#E21216;">English exhibition guide (783kb)</a>
                         </li>                        
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/from-the-stacks-onsite/NLB_From_The_Stacks_-_Exhibition_Guide_Malay.pdf" style="color:#E21216;">Malay exhibition guide (805kb)</a> 
+                            <a href="/files/from-the-stacks-onsite/nlb_from_the_stacks_-_exhibition_guide_malay.pdf" style="color:#E21216;">Malay exhibition guide (805kb)</a> 
                         </li>
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/from-the-stacks-onsite/NLB_From_The_Stacks_-_Exhibition_Guide_Chinese.pdf" style="color:#E21216;">Chinese exhibition guide (1.4mb)</a>
+                            <a href="/files/from-the-stacks-onsite/nlb_from_the_stacks_-_exhibition_guide_chinese.pdf" style="color:#E21216;">Chinese exhibition guide (1.4mb)</a>
                         </li>                         
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/from-the-stacks-onsite/NLB_From_The_Stacks_-_Exhibition_Guide_Tamil_r.pdf" style="color:#E21216;">Tamil exhibition guide (1.29mb)</a>
+                            <a href="/files/from-the-stacks-onsite/nlb_from_the_stacks_-_exhibition_guide_tamil_r.pdf" style="color:#E21216;">Tamil exhibition guide (1.29mb)</a>
                         </li>                         
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/from-the-stacks-onsite/NLB_From_The_Stacks_-_Booklet_r.pdf" style="color:#E21216;">English Activity Booklet (4.58mb)</a>
+                            <a href="/files/from-the-stacks-onsite/nlb_from_the_stacks_-_booklet_r.pdf" style="color:#E21216;">English Activity Booklet (4.58mb)</a>
                         </li> 
                     </ul>
         </div>
@@ -90,7 +90,7 @@ third_nav_title: 'From The Stacks: Highlights of the National Library'
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img srcset="/images/event-images/from-the-stacks-onsite/FTS06_400w.jpg 400w, /images/event-images/from-the-stacks-onsite/FTS06_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="1262" width="1000" src="/images/event-images/from-the-stacks-onsite/FTS06_400w.jpg" alt="Three images of featured items from the exhibition.">
+            <img srcset="/images/event-images/from-the-stacks-onsite/fts06_400w.jpg 400w, /images/event-images/from-the-stacks-onsite/FTS06_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="1262" width="1000" src="/images/event-images/from-the-stacks-onsite/FTS06_400w.jpg" alt="Three images of featured items from the exhibition.">
         </div>
     </div>
     <div class="row margin--bottom--xs">
@@ -174,7 +174,7 @@ third_nav_title: 'From The Stacks: Highlights of the National Library'
 
             <p>Selected artefacts in the exhibition are showcased in this documentary.</p>
             
-            <img srcset="/images/event-images/from-the-stacks-onsite/FTS05_400w.jpg 400w, /images/event-images/from-the-stacks-onsite/FTS05_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="1278" width="1000" src="/images/event-images/from-the-stacks-onsite/FTS05_400w.jpg" alt="A set of books. On the top is Journal of a Tour Along The Coast of Java and Bali, published by Mission Press, 1830. The bottom book is The Journal of the Indian Archipelago and Eastern Asia by J. R. Logan, 1847-1855.">
+            <img srcset="/images/event-images/from-the-stacks-onsite/fts05_400w.jpg 400w, /images/event-images/from-the-stacks-onsite/FTS05_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="1278" width="1000" src="/images/event-images/from-the-stacks-onsite/FTS05_400w.jpg" alt="A set of books. On the top is Journal of a Tour Along The Coast of Java and Bali, published by Mission Press, 1830. The bottom book is The Journal of the Indian Archipelago and Eastern Asia by J. R. Logan, 1847-1855.">
             
         </div>
     </div>
@@ -199,7 +199,7 @@ third_nav_title: 'From The Stacks: Highlights of the National Library'
 
             <p>You can also participate in our monthly Facebook quiz and stand a chance to win^ a framed photo of old Singapore by G. R. Lambert &amp; Co. – a renowned photography studio in the late 19th century. Simply like our Facebook page <strong>@NationalLibrarySG</strong> and keep a lookout for the online quiz on the second Sunday of every month!</p>
 
-            <p>^Two winners will be selected monthly for each quiz. <a href="/files/from-the-stacks-onsite/TCs-for-From-the-Stacks-Monthly-FB-Quiz.pdf">Terms and conditions apply.</a></p>
+            <p>^Two winners will be selected monthly for each quiz. <a href="/files/from-the-stacks-onsite/tcs-for-from-the-stacks-monthly-fb-quiz.pdf">Terms and conditions apply.</a></p>
             
             <blockquote style="color: #E21216; font-size: 150%;">Programme has ended, registration is closed.</blockquote>
         </div>

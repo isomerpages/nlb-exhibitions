@@ -56,24 +56,24 @@ third_nav_title: 'Selling Dreams: Early Advertising in Singapore'
             <p style="margin-top: 5px;">Download the brochures and exhibition guides below:</p>
                     <ul style="list-style: none; margin-left: 5px; color: #E21216">
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/sellingdreamsonsite/SEAD_DL-Brochure-A_small.pdf" style="color:#E21216;">English exhibition brochure (1.93mb)</a>
+                            <a href="/files/sellingdreamsonsite/sead_dl-brochure-a_small.pdf" style="color:#E21216;">English exhibition brochure (1.93mb)</a>
                             <div style="line-height: 150%; padding-left: 2.3rem;">(with programmes from July 2018 - October 2018)</div>
                         </li>                         
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/sellingdreamsonsite/SEAD_Brochure-B_FINAL.pdf" style="color:#E21216;">English exhibition brochure (621kb)</a>
+                            <a href="/files/sellingdreamsonsite/sead_brochure-b_final.pdf" style="color:#E21216;">English exhibition brochure (621kb)</a>
                             <div style="line-height: 150%; padding-left: 2.3rem;">(with programmes from October 2018 - February 2019)</div>
                         </li>                         
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/sellingdreamsonsite/NLB-Exhibition-Guide-101018-single-pages.pdf" style="color:#E21216;">English exhibition guide (1.5mb)</a>
+                            <a href="/files/sellingdreamsonsite/nlb-exhibition-guide-101018-single-pages.pdf" style="color:#E21216;">English exhibition guide (1.5mb)</a>
                         </li>                        
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/sellingdreamsonsite/NLB-SEAD-Exhibition-Guide-MY-05122018.pdf" style="color:#E21216;">Malay exhibition guide (1.47mb)</a> 
+                            <a href="/files/sellingdreamsonsite/nlb-sead-exhibition-guide-my-05122018.pdf" style="color:#E21216;">Malay exhibition guide (1.47mb)</a> 
                         </li>
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/sellingdreamsonsite/NLB-SEAD-Exhibition-Guide-CH-11122018.pdf" style="color:#E21216;">Chinese exhibition guide (2mb)</a>
+                            <a href="/files/sellingdreamsonsite/nlb-sead-exhibition-guide-ch-11122018.pdf" style="color:#E21216;">Chinese exhibition guide (2mb)</a>
                         </li>                         
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/sellingdreamsonsite/NLB-Exhibition-Guide-TM-20122018.pdf" style="color:#E21216;">Tamil exhibition guide (1.48mb)</a>
+                            <a href="/files/sellingdreamsonsite/nlb-exhibition-guide-tm-20122018.pdf" style="color:#E21216;">Tamil exhibition guide (1.48mb)</a>
                         </li> 
                     </ul>
         </div>

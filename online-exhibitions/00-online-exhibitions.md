@@ -18,7 +18,7 @@ breadcrumb: 'Online Exhibitions'
     </div>
     <div class="row">
         <div class="col">
-            <img src="/images/event-images/humanxnature/HxN_thumbnail_dark_500x500.jpg" alt="Human x Nature thumbnail" height="500" width="500" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
+            <img src="/images/event-images/humanxnature/hxn_thumbnail_dark_500x500.jpg" alt="Human x Nature thumbnail" height="500" width="500" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
         </div>
         <div class="col is-two-thirds">
             <div class="row">

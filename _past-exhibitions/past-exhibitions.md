@@ -18,7 +18,7 @@ breadcrumb: 'Past Exhibitions'
     </div>
     <div class="row">
         <div class="col">
-            <img src="/images/event-images/qupl50/QUPL50_thumbnail_500w.jpg" alt="Queenstown Public Library 50th Anniversary thumbnail" height="500" width="500" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
+            <img src="/images/event-images/qupl50/qupl50_thumbnail_500w.jpg" alt="Queenstown Public Library 50th Anniversary thumbnail" height="500" width="500" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
         </div>
         <div class="col is-two-thirds">
             <div class="row">
@@ -72,7 +72,7 @@ breadcrumb: 'Past Exhibitions'
     </div>
     <div class="row">
         <div class="col">
-            <img src="/images/event-images/mappingtheworld/Exhibition_Thumbnail_500x500px_opt.jpg" alt="Mapping the World thumbnail" height="500" width="500" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
+            <img src="/images/event-images/mappingtheworld/exhibition_thumbnail_500x500px_opt.jpg" alt="Mapping the World thumbnail" height="500" width="500" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
         </div>
         <div class="col is-two-thirds">
             <div class="row">
@@ -126,7 +126,7 @@ breadcrumb: 'Past Exhibitions'
     </div>
     <div class="row">
         <div class="col">
-            <img src="/images/event-images/humanxnature/HxN_thumbnail_dark_500x500.jpg" alt="Human x Nature thumbnail" height="500" width="500" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
+            <img src="/images/event-images/humanxnature/hxn_thumbnail_dark_500x500.jpg" alt="Human x Nature thumbnail" height="500" width="500" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
         </div>
         <div class="col is-two-thirds">
             <div class="row">
@@ -180,7 +180,7 @@ breadcrumb: 'Past Exhibitions'
     </div>
     <div class="row">
         <div class="col">
-            <img src="/images/event-images/onpaper/On-Paper-thumbnail.jpg" height="500" width="500" alt="On Paper: Singapore Before 1867" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
+            <img src="/images/event-images/onpaper/on-paper-thumbnail.jpg" height="500" width="500" alt="On Paper: Singapore Before 1867" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
         </div>
         <div class="col is-two-thirds">
             <div class="row">
@@ -234,7 +234,7 @@ breadcrumb: 'Past Exhibitions'
     </div>
     <div class="row">
         <div class="col">
-            <img src="/images/event-images/centenary/SG-centenary-thumbnail.jpg" height="500" width="500" alt="1919: The Singapore Centenary and its Celebration" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
+            <img src="/images/event-images/centenary/sg-centenary-thumbnail.jpg" height="500" width="500" alt="1919: The Singapore Centenary and its Celebration" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
         </div>
         <div class="col is-two-thirds">
             <div class="row">

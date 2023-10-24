@@ -15,7 +15,7 @@ third_nav_title: 'Punggol Stories'
     </div>  
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img srcset="/images/event-images/punggol-stories/SING_01_400w.jpg 400w, /images/event-images/punggol-stories/SING_01_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="675" width="1000" src="/images/event-images/punggol-stories/SING_01_400w.jpg" alt="A photo of the Singaporium exhibition. Walls feature reproductions of books and photos. In the foreground, there is a sculpture of frosted acrylic tubes that light up. Visitors are exploring the content and the sculpture.">
+            <img srcset="/images/event-images/punggol-stories/sing_01_400w.jpg 400w, /images/event-images/punggol-stories/SING_01_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="675" width="1000" src="/images/event-images/punggol-stories/SING_01_400w.jpg" alt="A photo of the Singaporium exhibition. Walls feature reproductions of books and photos. In the foreground, there is a sculpture of frosted acrylic tubes that light up. Visitors are exploring the content and the sculpture.">
         </div>
     </div>
         <div class="row">
@@ -94,7 +94,7 @@ third_nav_title: 'Punggol Stories'
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
             
-            <img srcset="/images/event-images/punggol-stories/SING_02_400w.jpg 400w, /images/event-images/punggol-stories/SING_02_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="675" width="1000" src="/images/event-images/punggol-stories/SING_02_400w.jpg" alt="A photo of the Singaporium space. An introduction panel is on the left, and showcases and multimedia screens are on its right. A visitor is looking at the displayed items in a showcase, and another visitor is browsing the multimedia screen while holding its sound handset.">
+            <img srcset="/images/event-images/punggol-stories/sing_02_400w.jpg 400w, /images/event-images/punggol-stories/SING_02_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="675" width="1000" src="/images/event-images/punggol-stories/SING_02_400w.jpg" alt="A photo of the Singaporium space. An introduction panel is on the left, and showcases and multimedia screens are on its right. A visitor is looking at the displayed items in a showcase, and another visitor is browsing the multimedia screen while holding its sound handset.">
         </div>
     </div>
 
@@ -159,7 +159,7 @@ third_nav_title: 'Punggol Stories'
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
             
-            <img srcset="/images/event-images/punggol-stories/LENS_400w.jpg 400w, /images/event-images/punggol-stories/LENS_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/punggol-stories/LENS_400w.jpg" alt="A photo of the Lens of Literature exhibition. It features an interactive multimedia table with an adjacent screen. Visitors are exploring the content displayed on the multimedia table while holding its sound handsets to their ears.">
+            <img srcset="/images/event-images/punggol-stories/lens_400w.jpg 400w, /images/event-images/punggol-stories/LENS_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="563" width="1000" src="/images/event-images/punggol-stories/LENS_400w.jpg" alt="A photo of the Lens of Literature exhibition. It features an interactive multimedia table with an adjacent screen. Visitors are exploring the content displayed on the multimedia table while holding its sound handsets to their ears.">
         </div>
     </div>
     <div class="row margin--bottom--xs">
@@ -221,7 +221,7 @@ third_nav_title: 'Punggol Stories'
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img srcset="/images/event-images/punggol-stories/WTM01_400w.jpg 400w, /images/event-images/punggol-stories/WTM01_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories/WTM01_400w.jpg" alt="A photo of the Words That Move exhibition. Graphics of colourful bubbles, with the title 'Words That Move' on three individual bubbles, are projected onto the walls. Children are either touching the walls or running around.">
+            <img srcset="/images/event-images/punggol-stories/wtm01_400w.jpg 400w, /images/event-images/punggol-stories/WTM01_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories/WTM01_400w.jpg" alt="A photo of the Words That Move exhibition. Graphics of colourful bubbles, with the title 'Words That Move' on three individual bubbles, are projected onto the walls. Children are either touching the walls or running around.">
         </div>
     </div>
     

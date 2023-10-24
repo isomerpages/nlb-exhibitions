@@ -11,13 +11,13 @@ third_nav_title: 'The News Gallery: Beyond Headlines'
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
-            <img srcset="/images/event-images/newsgallery/TNG_1200x355_400w.jpg 400w, /images/event-images/newsgallery/TNG_1200x355_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="296" width="1000" src="/images/event-images/newsgallery/TNG_1200x355_400w.jpg" alt="A title card labelled: The News Gallery.">
+            <img srcset="/images/event-images/newsgallery/tng_1200x355_400w.jpg 400w, /images/event-images/newsgallery/TNG_1200x355_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="296" width="1000" src="/images/event-images/newsgallery/TNG_1200x355_400w.jpg" alt="A title card labelled: The News Gallery.">
         </div>
     </div>
 
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img srcset="/images/event-images/newsgallery/TNG_about_400w.jpg 400w, /images/event-images/newsgallery/TNG_about_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/newsgallery/TNG_about_400w.jpg" alt="A photo showing an overview of the News Gallery exhibition.">
+            <img srcset="/images/event-images/newsgallery/tng_about_400w.jpg 400w, /images/event-images/newsgallery/TNG_about_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/newsgallery/TNG_about_400w.jpg" alt="A photo showing an overview of the News Gallery exhibition.">
         </div>
     </div>
 
@@ -62,19 +62,19 @@ third_nav_title: 'The News Gallery: Beyond Headlines'
             <p style="margin-top: 5px;">Download the exhibition brochure and guides below:</p>
             <ul style="list-style: none; margin-left: 0px;">
                 <li style="margin-bottom: 1rem;" id="en-brochure">
-                    <a href="/files/newsgallery/The%20News%20Gallery_DL%20Brochure_EN.pdf" style="color:#E21216;">English brochure (1.7mb)</a>
+                    <a href="/files/newsgallery/the%20news%20gallery_dl%20brochure_en.pdf" style="color:#E21216;">English brochure (1.7mb)</a>
                 </li>
                 <li style="margin-bottom: 1rem;" id="en-guide">
-                    <a href="/files/newsgallery/NLB_Exhibition_Guide_ENGLISH_r202303.pdf" style="color:#E21216;">English guide (4.4mb)</a>
+                    <a href="/files/newsgallery/nlb_exhibition_guide_english_r202303.pdf" style="color:#E21216;">English guide (4.4mb)</a>
                 </li>                
                 <li style="margin-bottom: 1rem;" id="ch-guide">
-                    <a href="/files/newsgallery/NLB_Exhibition_Guide_CHINESE_r202303.pdf" style="color:#E21216;">Chinese guide (4.4mb)</a>
+                    <a href="/files/newsgallery/nlb_exhibition_guide_chinese_r202303.pdf" style="color:#E21216;">Chinese guide (4.4mb)</a>
                 </li>                 
                 <li style="margin-bottom: 1rem;" id="ma-guide">
-                    <a href="/files/newsgallery/NLB_Exhibition_Guide_MALAY_r202303.pdf" style="color:#E21216;">Malay guide (4.5mb)</a>
+                    <a href="/files/newsgallery/nlb_exhibition_guide_malay_r202303.pdf" style="color:#E21216;">Malay guide (4.5mb)</a>
                 </li>                
                 <li style="margin-bottom: 1rem;" id="ta-guide">
-                    <a href="/files/newsgallery/NLB_Exhibition_Guide_TAMIL_r202303.pdf" style="color:#E21216;">Tamil guide (4.6mb)</a>
+                    <a href="/files/newsgallery/nlb_exhibition_guide_tamil_r202303.pdf" style="color:#E21216;">Tamil guide (4.6mb)</a>
                 </li> 
             </ul>
         </div>

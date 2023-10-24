@@ -23,6 +23,6 @@ breadcrumb: 'Early Singapore in the Syair of Dissent'
 Singapore. He teaches Malay-Indonesian literature and ideologies of development.
 His research interests include the sociology of religion, sociology of literature and critical literacy, and Malay-Indonesian intellectual development.</p>
 
-<img srcset="/images/event-images/onpaper/Dr_Azhar_26_Oct_eDM_400w.jpg 400w, /images/event-images/onpaper/Dr_Azhar_26_Oct_eDM_740w.jpg 740w" sizes="(max-width: 500px) 40vw, 74vw" height="1046" width="740" src="/images/event-images/onpaper/Dr_Azhar_26_Oct_eDM_400w.jpg" alt="A promotional image advertising the Special Curator's Tour on 17 October 2019.">
+<img srcset="/images/event-images/onpaper/dr_azhar_26_oct_edm_400w.jpg 400w, /images/event-images/onpaper/Dr_Azhar_26_Oct_eDM_740w.jpg 740w" sizes="(max-width: 500px) 40vw, 74vw" height="1046" width="740" src="/images/event-images/onpaper/Dr_Azhar_26_Oct_eDM_400w.jpg" alt="A promotional image advertising the Special Curator's Tour on 17 October 2019.">
 
 <a href="/exhibitions/past-exhibitions/onpaper/programmes/" style="color:#E21216;">Return to the On Paper exhibition programmes page &#187;</a>
