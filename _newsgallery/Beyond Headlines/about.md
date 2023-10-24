@@ -11,13 +11,13 @@ third_nav_title: 'The News Gallery: Beyond Headlines'
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
-            <img srcset="/images/event-images/newsgallery/tng_1200x355_400w.jpg 400w, /images/event-images/newsgallery/TNG_1200x355_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="296" width="1000" src="/images/event-images/newsgallery/TNG_1200x355_400w.jpg" alt="A title card labelled: The News Gallery.">
+            <img srcset="/images/event-images/newsgallery/tng_1200x355_400w.jpg 400w, /images/event-images/newsgallery/tng_1200x355_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="296" width="1000" src="/images/event-images/newsgallery/tng_1200x355_400w.jpg" alt="A title card labelled: The News Gallery.">
         </div>
     </div>
 
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img srcset="/images/event-images/newsgallery/tng_about_400w.jpg 400w, /images/event-images/newsgallery/TNG_about_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/newsgallery/TNG_about_400w.jpg" alt="A photo showing an overview of the News Gallery exhibition.">
+            <img srcset="/images/event-images/newsgallery/tng_about_400w.jpg 400w, /images/event-images/newsgallery/tng_about_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/newsgallery/tng_about_400w.jpg" alt="A photo showing an overview of the News Gallery exhibition.">
         </div>
     </div>
 

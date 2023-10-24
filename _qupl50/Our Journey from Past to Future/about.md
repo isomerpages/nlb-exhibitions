@@ -10,13 +10,13 @@ third_nav_title: 'Libraries Transforming: Our Journey from Past to Future'
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
-            <img srcset="/images/event-images/qupl50/qupl50_banner_400w.jpg 400w, /images/event-images/qupl50/QUPL50_banner_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="355" width="1000" src="/images/event-images/qupl50/QUPL50_banner_400w.jpg" alt="A title card labelled Libraries Transforming: Our Journey from Past to Future">
+            <img srcset="/images/event-images/qupl50/qupl50_banner_400w.jpg 400w, /images/event-images/qupl50/qupl50_banner_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="355" width="1000" src="/images/event-images/qupl50/qupl50_banner_400w.jpg" alt="A title card labelled Libraries Transforming: Our Journey from Past to Future">
         </div>
     </div>
     
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img srcset="/images/event-images/qupl50/qupl50_gallery_07_400w.jpg 400w, /images/event-images/qupl50/QUPL50_Gallery_07_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/qupl50/QUPL50_Gallery_07_400w.jpg" alt="A photo of the exhibition entrance.">
+            <img srcset="/images/event-images/qupl50/qupl50_gallery_07_400w.jpg 400w, /images/event-images/qupl50/qupl50_Gallery_07_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/qupl50/qupl50_Gallery_07_400w.jpg" alt="A photo of the exhibition entrance.">
         </div>
     </div>
     

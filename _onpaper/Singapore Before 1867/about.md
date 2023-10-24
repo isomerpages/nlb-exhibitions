@@ -11,7 +11,7 @@ third_nav_title: 'On Paper: Singapore Before 1867'
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
-            <img srcset="/images/event-images/onpaper/on-paper-tab-banner_400w.jpg 400w, /images/event-images/onpaper/On-Paper-tab-banner_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="250" width="1000" src="/images/event-images/onpaper/On-Paper-tab-banner_400w.jpg" alt="A title card labelled: On Paper.">
+            <img srcset="/images/event-images/onpaper/on-paper-tab-banner_400w.jpg 400w, /images/event-images/onpaper/on-paper-tab-banner_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="250" width="1000" src="/images/event-images/onpaper/on-paper-tab-banner_400w.jpg" alt="A title card labelled: On Paper.">
         </div>
     </div>    
     <div class="row">
@@ -102,7 +102,7 @@ third_nav_title: 'On Paper: Singapore Before 1867'
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img srcset="/images/event-images/onpaper/curiocity_1000x700_400w.jpg 400w, /images/event-images/onpaper/Curiocity_1000x700_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="700" width="1000" src="/images/event-images/onpaper/Curiocity_1000x700_400w.jpg" alt="A title card labelled: Curiocity">
+            <img srcset="/images/event-images/onpaper/curiocity_1000x700_400w.jpg 400w, /images/event-images/onpaper/curiocity_1000x700_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="700" width="1000" src="/images/event-images/onpaper/curiocity_1000x700_400w.jpg" alt="A title card labelled: Curiocity">
         </div>
     </div>
     <div class="row margin--bottom--xs">

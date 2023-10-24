@@ -28,7 +28,7 @@ Click the links below for the respective image credits.
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/1a_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/EN/1a_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="894" width="1000" src="/images/event-images/punggol-stories-credits/wtm/EN/1a_400w.jpg" alt="A black and white photo of three men resting seated in their individual sampans during a regatta organised by Ponggol Point Community Centre." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/1a_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/en/1a_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="894" width="1000" src="/images/event-images/punggol-stories-credits/wtm/en/1a_400w.jpg" alt="A black and white photo of three men resting seated in their individual sampans during a regatta organised by Ponggol Point Community Centre." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
             <p>Regatta organised by Ponggol Point Community Centre, 1966<br>
@@ -44,7 +44,7 @@ Click the links below for the respective image credits.
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/1b_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/EN/1b_650w.jpg 650w" sizes="(max-width: 500px) 40vw, 65vw" height="432" width="650" src="/images/event-images/punggol-stories-credits/wtm/EN/1b_400w.jpg" alt="Five fisherman pushing a sampan out to sea." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/1b_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/en/1b_650w.jpg 650w" sizes="(max-width: 500px) 40vw, 65vw" height="432" width="650" src="/images/event-images/punggol-stories-credits/wtm/en/1b_400w.jpg" alt="Five fisherman pushing a sampan out to sea." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
             <p>Fishermen pushing a sampan to sea, 1950s<br>
@@ -59,7 +59,7 @@ Click the links below for the respective image credits.
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/1c_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/EN/1c_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="708" width="1000" src="/images/event-images/punggol-stories-credits/wtm/EN/1c_400w.jpg" alt="A digital illustration of a fishing village at Kangkar, showing fishermen with their boats in the water and thatched houses along the coast in the background." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/1c_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/en/1c_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="708" width="1000" src="/images/event-images/punggol-stories-credits/wtm/en/1c_400w.jpg" alt="A digital illustration of a fishing village at Kangkar, showing fishermen with their boats in the water and thatched houses along the coast in the background." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
             <p>Artist's impression of the fishing village at Kangkar, 2020<br>
@@ -74,7 +74,7 @@ Click the links below for the respective image credits.
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/2a_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/EN/2a_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/wtm/EN/2a_400w.jpg" alt="A black and white photo of three men standing next to a large pig in its pen. Its snout reaches up to one of the men’s waist." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/2a_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/en/2a_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/wtm/en/2a_400w.jpg" alt="A black and white photo of three men standing next to a large pig in its pen. Its snout reaches up to one of the men’s waist." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
             <p>Pig farm in Singapore, 1960s<br>
@@ -90,7 +90,7 @@ Click the links below for the respective image credits.
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/2b_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/EN/2b_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/wtm/EN/2b_400w.jpg" alt="A fisherman offloading kupang (sea mussels) from a sampan onto shore." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/2b_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/en/2b_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/wtm/en/2b_400w.jpg" alt="A fisherman offloading kupang (sea mussels) from a sampan onto shore." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
             <p>Fisherman unloading <em>kupang</em> (sea mussels) from a sampan at Punggol Point, 1985<br>
@@ -106,7 +106,7 @@ Click the links below for the respective image credits.
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/2c_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/EN/2c_650w.jpg 650w" sizes="(max-width: 500px) 40vw, 65vw" height="630" width="650" src="/images/event-images/punggol-stories-credits/wtm/EN/2c_400w.jpg" alt="A black and white photo of a kelong (offshore fishing platform), consisting of a thatched house built on stilts. It stands in the midst of calm sea waters." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/2c_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/en/2c_650w.jpg 650w" sizes="(max-width: 500px) 40vw, 65vw" height="630" width="650" src="/images/event-images/punggol-stories-credits/wtm/en/2c_400w.jpg" alt="A black and white photo of a kelong (offshore fishing platform), consisting of a thatched house built on stilts. It stands in the midst of calm sea waters." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
             <p>Kelong, 1950s<br>
@@ -121,7 +121,7 @@ Click the links below for the respective image credits.
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/3a_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/EN/3a_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="1472" width="1000" src="/images/event-images/punggol-stories-credits/wtm/EN/3a_400w.jpg" alt="A black and white photo of 152 feet-tall spire-topped tower of the Church of The Nativity of the Blessed Virgin Mary, located at Upper Serangoon Road." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/3a_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/en/3a_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="1472" width="1000" src="/images/event-images/punggol-stories-credits/wtm/en/3a_400w.jpg" alt="A black and white photo of 152 feet-tall spire-topped tower of the Church of The Nativity of the Blessed Virgin Mary, located at Upper Serangoon Road." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
             <p>Church of The Nativity of the Blessed Virgin Mary, Upper Serangoon Road, 1976<br>
@@ -137,7 +137,7 @@ Click the links below for the respective image credits.
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/3b_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/EN/3b_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="642" width="1000" src="/images/event-images/punggol-stories-credits/wtm/EN/3b_400w.jpg" alt="A digital illustration showing an aerial view of Montfort School and the Church of the Nativity of the Blessed Virgin Mary." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/3b_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/en/3b_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="642" width="1000" src="/images/event-images/punggol-stories-credits/wtm/en/3b_400w.jpg" alt="A digital illustration showing an aerial view of Montfort School and the Church of the Nativity of the Blessed Virgin Mary." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
             <p>Artist's impression of the aerial view of Montfort School and the Church of the Nativity in the 1960s, 2020<br>
@@ -152,7 +152,7 @@ Click the links below for the respective image credits.
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/3c_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/EN/3c_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="662" width="1000" src="/images/event-images/punggol-stories-credits/wtm/EN/3c_400w.jpg" alt="A group of congregants seated on pews during a church service at the Church of The Nativity of the Blessed Virgin Mary." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/3c_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/en/3c_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="662" width="1000" src="/images/event-images/punggol-stories-credits/wtm/en/3c_400w.jpg" alt="A group of congregants seated on pews during a church service at the Church of The Nativity of the Blessed Virgin Mary." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
             <p>Congregation at the Nativity Church, 1970s<br>
@@ -167,7 +167,7 @@ Click the links below for the respective image credits.
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/3d_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/EN/3d_650w.jpg 650w" sizes="(max-width: 500px) 40vw, 65vw" height="487" width="650" src="/images/event-images/punggol-stories-credits/wtm/EN/3d_400w.jpg" alt="Sarongs (cloth) of diverse patterns hang on a clothesline outside a zinc-roofed house in Kampong Lorong Buangkok." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/3d_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/en/3d_650w.jpg 650w" sizes="(max-width: 500px) 40vw, 65vw" height="487" width="650" src="/images/event-images/punggol-stories-credits/wtm/en/3d_400w.jpg" alt="Sarongs (cloth) of diverse patterns hang on a clothesline outside a zinc-roofed house in Kampong Lorong Buangkok." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
             <p>Sarongs drying on a line outside a house in Kampong Lorong Buangkok, 2007<br>
@@ -182,7 +182,7 @@ Click the links below for the respective image credits.
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/4a_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/EN/4a_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="726" width="1000" src="/images/event-images/punggol-stories-credits/wtm/EN/4a_400w.jpg" alt="A black and white photo of Mr William Lawrence Soma Basapa in a suit and tie standing behind Apay, his pet Bengal Tiger." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/4a_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/en/4a_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="726" width="1000" src="/images/event-images/punggol-stories-credits/wtm/en/4a_400w.jpg" alt="A black and white photo of Mr William Lawrence Soma Basapa in a suit and tie standing behind Apay, his pet Bengal Tiger." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
             <p>William Lawrence Soma Basapa and his favourite pet Bengal Tiger, Apay, c. 1930s<br>
@@ -197,7 +197,7 @@ Click the links below for the respective image credits.
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/4c_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/EN/4c_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="750" width="1000" src="/images/event-images/punggol-stories-credits/wtm/EN/4c_400w.jpg" alt="A black and white photo of six men and a boy holding up a 30-foot-long python at the Punggol Zoo." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/4c_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/en/4c_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="750" width="1000" src="/images/event-images/punggol-stories-credits/wtm/en/4c_400w.jpg" alt="A black and white photo of six men and a boy holding up a 30-foot-long python at the Punggol Zoo." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
             <p>Measuring a 30-foot python at the Punggol Zoo, c. 1930s<br>
@@ -212,7 +212,7 @@ Click the links below for the respective image credits.
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/4d_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/EN/4d_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="747" width="1000" src="/images/event-images/punggol-stories-credits/wtm/EN/4d_400w.jpg" alt="A black and white photo of flamingos and waterfowls swimming in a pond at the Pungool Zoo." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/4d_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/en/4d_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="747" width="1000" src="/images/event-images/punggol-stories-credits/wtm/en/4d_400w.jpg" alt="A black and white photo of flamingos and waterfowls swimming in a pond at the Pungool Zoo." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
             <p>Flamingos and waterfowls at the Punggol Zoo, c. 1930s<br>
@@ -227,7 +227,7 @@ Click the links below for the respective image credits.
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/5b_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/EN/5b_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="598" width="1000" src="/images/event-images/punggol-stories-credits/wtm/EN/5b_400w.jpg" alt="A black and white World War Two photo showing two rows of Japanese soldiers marching across the Johor Causeway into Singapore." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/5b_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/en/5b_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="598" width="1000" src="/images/event-images/punggol-stories-credits/wtm/en/5b_400w.jpg" alt="A black and white World War Two photo showing two rows of Japanese soldiers marching across the Johor Causeway into Singapore." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
             <p>Imperial guards of the Japanese Army crossing the Johor Causeway, 1942<br>
@@ -243,7 +243,7 @@ Click the links below for the respective image credits.
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/5c_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/EN/5c_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="686" width="1000" src="/images/event-images/punggol-stories-credits/wtm/EN/5c_400w.jpg" alt="A black and white sketch of five shirtless Chinese men digging a large grave for themselves in a clearing while five Japanese soldiers look on." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/5c_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/en/5c_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="686" width="1000" src="/images/event-images/punggol-stories-credits/wtm/en/5c_400w.jpg" alt="A black and white sketch of five shirtless Chinese men digging a large grave for themselves in a clearing while five Japanese soldiers look on." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
             <p>Sketch of victims digging their own graves from <em>Chop Suey</em> by Liu Kang, 1946<br> 
@@ -258,7 +258,7 @@ Click the links below for the respective image credits.
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/6a_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/EN/6a_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/wtm/EN/6a_400w.jpg" alt="A black and white photo of the sandy seashore at Punggol Beach. A few sampans and standing wooden poles are scattered across the sand in the shallow water of the sea." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/6a_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/en/6a_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/wtm/en/6a_400w.jpg" alt="A black and white photo of the sandy seashore at Punggol Beach. A few sampans and standing wooden poles are scattered across the sand in the shallow water of the sea." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
             <p>Ponggol beach, 1993<br>
@@ -273,7 +273,7 @@ Click the links below for the respective image credits.
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/6b_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/EN/6b_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/wtm/EN/6b_400w.jpg" alt="A black and white photo of the sea, with sand banks of Punggol beach in the foreground. Around 18 pleasure boats are on the water." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/6b_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/en/6b_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/wtm/en/6b_400w.jpg" alt="A black and white photo of the sea, with sand banks of Punggol beach in the foreground. Around 18 pleasure boats are on the water." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
             <p>View across the Straits of Johor at Punggol Point, 1993<br>
@@ -288,7 +288,7 @@ Click the links below for the respective image credits.
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/6c_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/EN/6c_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/wtm/EN/6c_400w.jpg" alt="A black and white photo where a handful of visitors explore the Punggol jetty while some boats lie on the water a short distance away to the right." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/6c_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/en/6c_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/wtm/en/6c_400w.jpg" alt="A black and white photo where a handful of visitors explore the Punggol jetty while some boats lie on the water a short distance away to the right." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
             <p>Punggol Point, 1993<br>

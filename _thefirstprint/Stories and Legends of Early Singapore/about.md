@@ -16,7 +16,7 @@ third_nav_title: 'The First Print: Stories and Legends of Early Singapore'
     </div>    
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img srcset="/images/event-images/the-first-print/the%20first%20print_400w.jpg 400w, /images/event-images/the-first-print/The%20First%20Print_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="665" width="1000" src="/images/event-images/the-first-print/The%20First%20Print_400w.jpg" alt="There is a small showcase with paper sculptures, sitting on top of an audio kiosk. It is of a man by the riverside holding a boulder and several ships aloft in the air, while a Sultan bows before him.">
+            <img srcset="/images/event-images/the-first-print/the%20first%20print_400w.jpg 400w, /images/event-images/the-first-print/the%20first%20print_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="665" width="1000" src="/images/event-images/the-first-print/the%20first%20print_400w.jpg" alt="There is a small showcase with paper sculptures, sitting on top of an audio kiosk. It is of a man by the riverside holding a boulder and several ships aloft in the air, while a Sultan bows before him.">
         </div>
     </div>
         <div class="row">

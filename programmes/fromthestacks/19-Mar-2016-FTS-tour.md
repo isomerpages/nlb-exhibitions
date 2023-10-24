@@ -13,7 +13,7 @@ breadcrumb: 'Birdwatching &amp; Exhibition Tour with Nature Society Singapore (N
 <p><strong>Saturday, 19 Mar 2016, 8:30am – 12:00pm</strong><br>
 <strong>National Library Building and Labrador Park</strong></p>
 
-<img srcset="/images/event-images/from-the-stacks-onsite/fts03_400w.jpg 400w, /images/event-images/from-the-stacks-onsite/FTS03.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="572" width="1000" src="/images/event-images/from-the-stacks-onsite/FTS03_400w.jpg" alt="An illustration from Birds of the Malay Peninsula featuring the Eastern Swallow, a frequently spotted bird in Singapore.">
+<img srcset="/images/event-images/from-the-stacks-onsite/fts03_400w.jpg 400w, /images/event-images/from-the-stacks-onsite/fts03.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="572" width="1000" src="/images/event-images/from-the-stacks-onsite/fts03_400w.jpg" alt="An illustration from Birds of the Malay Peninsula featuring the Eastern Swallow, a frequently spotted bird in Singapore.">
 
 <p>Within the National Library’s exhibition From the Stacks, is a beautifully illustrated series of books titled Birds of the Malay Peninsula that date as far back as 1927. Published by the earliest ornithologists in Singapore, Frederick Chasen and Herbert Robinson, the book details hundreds of bird species found in Malaya up to 1976.</p>
 
