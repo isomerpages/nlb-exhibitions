@@ -1,0 +1,10 @@
+collections:
+  fromthestacks:
+    output: true
+    order:
+      - Highlights of the National Library/.keep
+      - Highlights of the National Library/about.md
+      - Highlights of the National Library/gallery.md
+      - Highlights of the National Library/exhibition-highlights.md
+      - Highlights of the National Library/resources.md
+      - Highlights of the National Library/programmes.md

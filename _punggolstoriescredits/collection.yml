@@ -1,0 +1,7 @@
+collections:
+  punggolstoriescredits:
+    output: true
+    order:
+      - Punggol Stories Credits/.keep
+      - Punggol Stories Credits/words-that-move.md
+      - Punggol Stories Credits/singaporium.md

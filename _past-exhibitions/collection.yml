@@ -1,0 +1,24 @@
+collections:
+  past-exhibitions:
+    output: true
+    order:
+      - past-exhibitions.md
+      - 2021/.keep
+      - 2021/our-journey-from-past-to-future.md
+      - 2021/perspectives-from-asian-cartography.md
+      - 2021/environmental-histories-of-singapore.md
+      - 2019 - 2020/.keep
+      - 2019 - 2020/the-singapore-centenary-and-its-celebration.md
+      - 2019 - 2020/singapore-before-1867.md
+      - 2019 - 2020/stories-and-legends-of-early-singapore.md
+      - 2017 - 2018/.keep
+      - 2017 - 2018/early-advertising-in-singapore.md
+      - 2017 - 2018/manuscripts-and-early-books.md
+      - 2017 - 2018/the-first-folio.md
+      - 2016 & Earlier/.keep
+      - 2016 & Earlier/tan-swie-hian-s-notebooks-and-creations.md
+      - 2016 & Earlier/highlights-of-the-national-library.md
+      - 2016 & Earlier/poems-on-singapore.md
+      - 2016 & Earlier/celebrating-maps-and-their-stories.md
+      - 2016 & Earlier/theatre-in-singapore-from-the-50s-to-80s.md
+      - 2016 & Earlier/singapore-literary-pioneers.md

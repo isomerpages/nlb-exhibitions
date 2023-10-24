@@ -1,0 +1,10 @@
+collections:
+  current-exhibitions:
+    output: true
+    order:
+      - current-exhibitions.md
+      - punggol-stories.md
+      - beyond-headlines.md
+      - the-story-of-the-national-library.md
+      - national-library-donors-gallery.md
+      - the-rare-collection-gallery.md
