@@ -2,10 +2,9 @@
 title: About
 permalink: /exhibitions/current-exhibitions/punggolstories/
 breadcrumb: About
-third_nav_title: 'Punggol Stories'
-
+third_nav_title: Punggol Stories
+variant: markdown
 ---
-
 <section class="section__about">
 <div class="container__card">
     <div class="row">
@@ -44,7 +43,7 @@ third_nav_title: 'Punggol Stories'
         <p>Imagine Punggol when it was home to many kampongs, pig farms and a thriving seafood scene at <em>Punggol Stories</em>. Discover the rich tapestry of Punggol's history from the National Library Board's collections.</p>
 
         <p>The <em>Punggol Stories</em> trail comprises Words That Move (Level 1 Stories Come Alive Room), The Lens of Literature (Level 3 Sing Lit) and an exhibition at Singaporium (Level 4) of the Punggol Regional Library.</p>
-        <p style="margin-top: 5px;">Download the exhibition brochure <a href="https://go.gov.sg/punggolstories-guide" target="_blank" style="color:#E21216;">here.</a></p>    
+					<p style="margin-top: 5px;">Download the exhibition brochure <a href="https://go.gov.sg/punggolstories-guide" target="_blank" style="color:#E21216;">here.</a></p>    
         <p style="border-width:3px; border-style:solid; border-color:#000000; padding: 1em;">Do you have a Punggol story to tell? Post them on social media using the hashtag #PunggolStories<br><br>
         You can also volunteer as a library guide to lead tours of the Punggol Stories trail. Sign up at <a href="https://www.nlb.gov.sg/volunteers/">www.nlb.gov.sg/volunteers/</a> (choose 'Punggol Regional Library' as the venue)</p>
 
@@ -131,7 +130,7 @@ third_nav_title: 'Punggol Stories'
             <p><em>Punggol Stories</em> at Singaporium has four sections: </p>
 
             <p>
-                <ul>
+                </p><ul>
                 <li><strong>Punggol Pioneers</strong> features the start of early Punggol, from its first kampongs and plantations in the mid-1800s, to the communities that made it their home.</li>
 
                 <li><strong>Seaside Solace</strong> celebrates the leisure activities that drew people to Punggol, especially the seafood and water sports scene that blossomed in the 1960s.</li>
@@ -140,7 +139,7 @@ third_nav_title: 'Punggol Stories'
                  
                 <li><strong>Winding Waterways</strong> charts the ebb and flow of Punggol's development, connecting it to the present day.</li> 
                 </ul>
-            </p>
+            <p></p>
             <p>In the middle of the exhibition is a <strong>Memory Map</strong>, an interactive installation that features memories of historical Punggol.</p>
 
             <p><a href="/exhibitions/current-exhibitions/punggolstories/credits/">Link to image credits</a></p>
@@ -197,7 +196,7 @@ third_nav_title: 'Punggol Stories'
             <p><em>Punggol Stories</em> at The Lens of Literature looks at the changes in heartland areas like Punggol. It features literary works in English, Chinese, Malay and Tamil covering four themes:</p>
 
             <p>
-                <ul>
+                </p><ul>
                 <li><em>Balik Kampong</em> revisits the village life and natural landscape once common in rural Singapore.</li>
 
                 <li><em>Life, Interrupted</em> shows how different communities experienced the Japanese Occupation.</li>
@@ -206,7 +205,7 @@ third_nav_title: 'Punggol Stories'
                  
                 <li><em>Our Future is Now</em> presents speculative fiction, exploring potential changes to come.</li> 
                 </ul>
-            </p>
+            <p></p>
         </div>
     </div>
 </div>
@@ -258,7 +257,7 @@ third_nav_title: 'Punggol Stories'
         <p>Poems in English, Chinese, Malay and Tamil are projected onto the walls with animation, light and sound effects to create an immersive experience. Visitors can tap on the poems to unlock related images.</p>
             
         <p><em>Punggol Stories</em> at Words That Move features four poems that highlight the experience of moving from kampongs to HDB estates:
-        <ul>
+        </p><ul>
             <li><em>Punggol</em> by Ronald JJ Wong</li>
             
             <li>《组屋族》(The HDB Tribe) by 梁文福 (Liang Wern Fook)</li>
@@ -267,12 +266,10 @@ third_nav_title: 'Punggol Stories'
             
             <li>நகர்வளம் (Urban Riches) by அமீருத்தீன் (Amiroudine)</li>
         </ul>
-        </p>
+        <p></p>
         <p><a href="/exhibitions/current-exhibitions/punggolstories/credits/">Link to image credits</a></p>
         </div>
     </div>
 </div>
 
 </section>
-
-
