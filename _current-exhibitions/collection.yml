@@ -2,6 +2,7 @@ collections:
   current-exhibitions:
     output: true
     order:
+      - To Draw An Idea.md
       - current-exhibitions.md
       - punggol-stories.md
       - beyond-headlines.md
