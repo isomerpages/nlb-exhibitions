@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - current-exhibitions.md
-      - To Draw An Idea.md
       - punggol-stories.md
       - beyond-headlines.md
       - the-story-of-the-national-library.md
