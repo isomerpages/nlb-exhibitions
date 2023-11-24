@@ -1,5 +1,4 @@
 collections:
   sac-exhibitions:
     output: true
-    order:
-      - SAC exhibitions.md
+    order: []
