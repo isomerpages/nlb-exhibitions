@@ -2,7 +2,6 @@ collections:
   sac-exhibitions:
     output: true
     order:
-      - About/.keep
       - Exhibition Highlights/.keep
       - Gallery/.keep
       - Programmes/.keep
