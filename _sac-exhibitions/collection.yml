@@ -2,5 +2,4 @@ collections:
   sac-exhibitions:
     output: true
     order:
-      - Gallery/.keep
       - Programmes/.keep
