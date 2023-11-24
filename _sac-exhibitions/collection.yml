@@ -2,5 +2,4 @@ collections:
   sac-exhibitions:
     output: true
     order:
-      - About.md
       - SAC exhibitions/.keep
