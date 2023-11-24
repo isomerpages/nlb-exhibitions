@@ -1,0 +1,11 @@
+collections:
+  current-exhibitions:
+    output: true
+    order:
+      - Current Exhibitions.md
+      - Singapore Architecture Collection Exhibitions.md
+      - punggol-stories.md
+      - beyond-headlines.md
+      - the-story-of-the-national-library.md
+      - national-library-donors-gallery.md
+      - the-rare-collection-gallery.md

@@ -1,0 +1,9 @@
+collections:
+  newsgallery-virtual:
+    output: true
+    order:
+      - Beyond Headlines/.keep
+      - Beyond Headlines/virtual-gallery.md
+      - early-editions.md
+      - behind-every-story.md
+      - fact-or-fake.md
