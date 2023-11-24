@@ -2,7 +2,6 @@ collections:
   current-exhibitions:
     output: true
     order:
-      - Singapore Architecture Collection Exhibitions.md
       - current-exhibitions.md
       - punggol-stories.md
       - beyond-headlines.md
