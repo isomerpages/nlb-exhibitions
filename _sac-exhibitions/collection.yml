@@ -2,4 +2,5 @@ collections:
   sac-exhibitions:
     output: true
     order:
+      - Gallery/.keep
       - About/.keep
