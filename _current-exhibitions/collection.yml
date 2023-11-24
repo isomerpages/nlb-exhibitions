@@ -2,6 +2,7 @@ collections:
   current-exhibitions:
     output: true
     order:
+      - To Draw An Idea/Singapore Architecture Collection Exhibitions.md
       - To Draw An Idea/.keep
       - current-exhibitions.md
       - punggol-stories.md
