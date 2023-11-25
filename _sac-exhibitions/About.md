@@ -106,5 +106,31 @@ This exhibition celebrates the architectural works by one of Singapore's most re
 <div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
-					<p>Singapore has amazing architecture. The last sixty years have seen an array of buildings that reflect Singapore's development and the passion of the men and women who shaped it.</p> <p><em>Dare to Design</em> highlights iconic Singapore architecture spanning from the 1960s to the 2000s. Books, building plans, photographs, and more will be displayed in an exhibition at the National Library Lobby and a family-friendly roving display at selected Public Libraries.</p><p>Come discover Singapore architecture through stories of these buildings and witness a boldness and flexibility that keeps people at the heart of design!
-	</p></div></div></div></div></div></div></strong></div></div></div></div></section>
+					<p>Singapore has amazing architecture. The last sixty years have seen an array of buildings that reflect Singapore's development and the passion of the men and women who shaped it.</p> <p><em>Dare to Design</em> highlights iconic Singapore architecture spanning from the 1960s to the 2000s. Books, building plans, photographs, and more will be displayed in an exhibition at the National Library Lobby and a family-friendly roving display at selected Public Libraries.</p><p>Come discover Singapore architecture through stories of these buildings and witness a boldness and flexibility that keeps people at the heart of design!</p>
+        </div>
+    </div>
+	<div class="container__card">
+    <div class="row margin--bottom--xs">
+        <div class="col is-12 padding--xs">
+					<h3><strong>Roving Displays</strong></h3>
+        </div>
+    </div>
+        <div class="row">
+            <div class="col" style="border-top: 0px solid #E21216; border-bottom: 5px solid #E21216;">
+                <ul style="list-style: none; margin-left: 0px;">
+                    <li style="margin-bottom: 1rem;">
+        <div class="row">
+            <div class="col" style="border-top: 5px solid #E21216; border-bottom: 0px solid #E21216;">
+                <ul style="list-style: none; margin-left: 0px;">
+                    <li style="margin-bottom: 1rem;">
+                        <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                    </li>           
+                    <li style="margin-bottom: 1rem;">
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Bishan Public Library, Level 1 Atrium</strong> | 28 November 2023 – 31 January 2024</div>
+                    </li>                    
+                    <li style="margin-bottom: 1rem;">
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Jurong Regional Library, Level 1 </strong> | 1 February - 31 March 2024</div>
+                    </li>                       
+                    <li style="margin-bottom: 1rem;">
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Tampines Regional Library, Level 2</strong> | 1 April – 9 June 2024</div>
+	</li></ul></div></div></li></ul></div></div></div></div></div></div></div></strong></div></div></div></div></section>
