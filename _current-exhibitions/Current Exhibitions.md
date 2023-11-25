@@ -50,10 +50,11 @@ image: /images/event-images/Sacexhibitions/banner_exh_Nov.png
     <div class="row is-multiline">
         <div class="col">
             <p>The Singapore Architecture Collection documents and preserves archival material about our modern and contemporary architecture. This inaugural showcase of the collection presents two exhibitions, <em>To Draw and Idea: Retracing the Designs of William Lim Associates - W Architects</em> and <em>Dare to Design: Singapore Architecture 1960s-2000s.</em></p>
-<a href="/exhibitions/current-exhibitions/punggolstories/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
-</div><strong>
-		 </strong></div><strong>
-	</strong></div><strong>
+
+					<a href="/exhibitions/current-exhibitions/punggolstories/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
+</div>
+</div>
+	</div>
 
 <!-- End of SAC -->
 
@@ -324,4 +325,4 @@ image: /images/event-images/Sacexhibitions/banner_exh_Nov.png
     </div>
 </div>
 
-<!-- End of Rare Gallery --></strong>
+<!-- End of Rare Gallery -->
