@@ -6,7 +6,7 @@ variant: markdown
 description: ""
 image: /images/event-images/Sacexhibitions/banner_exh_Nov.png
 ---
-<!-- PRL -->
+<!-- SAC -->
 
 <div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
