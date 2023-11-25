@@ -77,7 +77,7 @@ This exhibition celebrates the architectural works by one of Singapore's most re
 <div class="container__line padding--lg">
     <div class="row">
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
-        </div>
+					</div>
     </div>
 </div>
 
@@ -85,7 +85,7 @@ This exhibition celebrates the architectural works by one of Singapore's most re
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
 					<h3><strong><em>Dare to Design:Singapore Architecture 1960s-2000s</em></strong></h3>
-    
+			</div>
 			</div>
         <div class="row">
             <div class="col" style="border-top: 10px solid #E21216; border-bottom: 5px solid #E21216;">
@@ -149,4 +149,4 @@ This exhibition celebrates the architectural works by one of Singapore's most re
 <div class="container__card">
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
-	</div></div></div></li></ul></div></div></div></div></div></div></strong></div></div></div></div></section>
+	</div></div></div></li></ul></div></div></div></div></div></strong></div></div></div></div></section>
