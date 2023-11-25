@@ -71,7 +71,7 @@ Founded in 1982, William Lim Associates (WLA) was the third firm affiliated with
 This exhibition celebrates the architectural works by one of Singapore's most respected practices, inviting visitors to explore its designs in the context of key events and movements in Singapore's recent architectural history.</p>
 			
 	
-				<img sizes="(max-width: 400px) 40vw, 100vw" height="296" width="1000" src="/images/event-images/Sacexhibitions/partners_SAC.png" alt="A banner with logos. Presented by: National Library of Singapore and URA. In partnership with: W Architects.">
+					<img sizes="(max-width: 400px) 40vw, 100vw" height="296" width="1000" src="/images/event-images/Sacexhibitions/partners_SAC.png" alt="A banner with logos. Presented by: National Library of Singapore and URA. In partnership with: W Architects.">
     </div>
 </div>
 <div class="container__line padding--lg">
