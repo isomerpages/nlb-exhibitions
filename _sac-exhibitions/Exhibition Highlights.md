@@ -1,6 +1,6 @@
 ---
 title: Exhibition Highlights
 permalink: /sac-exhibitions/permalink/
-variant: tiptap
+variant: markdown
 description: ""
 ---
