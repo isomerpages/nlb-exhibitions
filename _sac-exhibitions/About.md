@@ -4,7 +4,7 @@ permalink: /sac-exhibitions/permalink/
 variant: markdown
 description: ""
 ---
-<h3><strong>Singapore Architecture Collection Exhibitions </strong></h3><section class="section__about"> 
+<h2><strong>Singapore Architecture Collection Exhibitions </strong></h2><section class="section__about"> 
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 10px solid #E21216; padding: 12px 0 0 0;">
@@ -40,7 +40,7 @@ description: ""
 <div class="container__card">
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
-            <h3><strong><em>To Draw an Idea: Retracing the Designs of William Lim Associates - W Architects</em></strong></h3>
+            <h2><strong><em>To Draw an Idea: Retracing the Designs of William Lim Associates - W Architects</em></strong></h2>
         </div>
     </div>
         <div class="row">
@@ -80,8 +80,8 @@ This exhibition celebrates the architectural works by one of Singapore's most re
 <div class="container__card">
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
-					<h3><strong><em>Dare to Design: Singapore Architecture 1960s-2000s</em></strong></h3>
-        </div>
+					<h2><strong><em>Dare to Design: Singapore Architecture 1960s-2000s</em></strong></h2>
+			</div>
     </div>
         <div class="row">
             <div class="col" style="border-top: 10px solid #E21216; border-bottom: 5px solid #E21216;">
@@ -123,13 +123,16 @@ This exhibition celebrates the architectural works by one of Singapore's most re
                     <li style="margin-bottom: 1rem;">
                         <div style="line-height: 150%; padding-left: 2.3rem;"><strong>28 November 2023 - 9 June 2024</strong></div>      
                     </li><li style="margin-bottom: 1rem;">
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Bishan Public Library, Level 1 Atrium</strong> | 28 November 2023 – 31 January 2024</div>
+											<span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Bishan Public Library</strong> | 28 November 2023 – 31 January 2024</div>
                     </li>                    
                     <li style="margin-bottom: 1rem;">
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Jurong Regional Library, Level 1 </strong> | 1 February - 31 March 2024</div>
+											<span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Jurong Regional Library</strong> | 1 February - 31 March 2024</div>
                     </li>                       
                     <li style="margin-bottom: 1rem;">
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Tampines Regional Library, Level 2</strong> | 1 April – 9 June 2024</div>
+											<span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Tampines Regional Library</strong> | 1 April – 9 June 2024</div>
           </li></ul></div>
     </div>
         <div class="row">
