@@ -2,4 +2,5 @@ collections:
   sac-exhibitions:
     output: true
     order:
+      - Exhibition Highlights.md
       - About.md
