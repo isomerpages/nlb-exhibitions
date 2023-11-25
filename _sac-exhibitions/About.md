@@ -80,7 +80,7 @@ This exhibition celebrates the architectural works by one of Singapore's most re
 <div class="container__card">
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
-					<h3><strong><em>Dare to Design:</em></strong><em><p><strong>Singapore Architecture 1960s-2000s</strong></p></em></h3>
+					<h3><strong><em>Dare to Design: Singapore Architecture 1960s-2000s</em></strong></h3>
         </div>
     </div>
         <div class="row">
