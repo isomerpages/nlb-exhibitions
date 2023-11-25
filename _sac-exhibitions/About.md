@@ -116,10 +116,11 @@ This exhibition celebrates the architectural works by one of Singapore's most re
     </div>
         <div class="row">
             <div class="col" style="border-top: 2px solid #E21216; border-bottom: 0px solid #E21216;">
-                <ul style="list-style: none; margin-left: 0px;">
+                <ul style="list-style: none; margin-left: 0px;">                    
+                    <li style="margin-bottom: 1rem;">
 											<span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
                         <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Bishan Public Library</strong> | 28 November 2023 – 31 January 2024</div>
-                                        
+                    </li>                    
                     <li style="margin-bottom: 1rem;">
 											<span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
                         <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Jurong Regional Library</strong> | 1 February - 31 March 2024</div>
