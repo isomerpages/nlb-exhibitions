@@ -2,5 +2,5 @@ collections:
   sac-exhibitions:
     output: true
     order:
-      - Programmes.md
       - About.md
+      - Programmes.md
