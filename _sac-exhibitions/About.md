@@ -27,7 +27,7 @@ description: ""
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
      <div class="container__description">
-    <div class="row"> <p><strong>The Singapore Architecture Collection documents and preserves archival material about our modern and contemporary architecture. This inaugural showcase of the collection presents two exhibitions, <em> To Draw an Idea: Retracing the Designs of William Lim Associates - W Architects</em> and <em>Dare to Design: Singapore Architecture 1960s-2000s.</em>
+    <div class="row"> <p><strong>The Singapore Architecture Collection documents and preserves archival materials about our modern and contemporary architecture. This inaugural showcase of the collection presents two exhibitions, <em> To Draw an Idea: Retracing the Designs of William Lim Associates – W Architects</em> and <em>Dare to Design: Singapore Architecture 1960s-2000s.</em>
 </strong></p></div><strong>
 
 <div class="container__line padding--lg">
@@ -40,7 +40,7 @@ description: ""
 <div class="container__card">
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
-            <h3><strong><em>To Draw an Idea: Retracing the Designs of William Lim Associates - W Architects</em></strong></h3>
+            <h3><strong><em>To Draw an Idea: Retracing the Designs of William Lim Associates – W Architects</em></strong></h3>
         </div>
     </div>
         <div class="row">
@@ -66,7 +66,7 @@ description: ""
 <div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
-					<p><em>To Draw and Idea</em> follows the design evolution of William Lim Associates - W Architects through 19 projects over its 40-year history. This exhibition presents more than 300 architectural drawings - from hand sketches to watercolour renderings, construction drawings - as well as architectural models and documentation, to reveal the firm's design process. These materials have been donated to the Singapore Architecture Collection.</p><p>
+					<p><em>To Draw and Idea</em> follows the design evolution of William Lim Associates – W Architects through 19 projects over its 40-year history. This exhibition presents more than 500 architectural drawings - from hand sketches to watercolour renderings, construction drawings - as well as architectural models and documentation, to reveal the firm's design process. These materials have been donated to the Singapore Architecture Collection.</p><p>
 Founded in 1982, William Lim Associates (WLA) was the third firm affiliated with the architect William S. W. Lim who was involved in designing post-independence landmarks like People's Park and Golden Mile Complexes. The Architect Mok Wei Wei joined WLA that same year, becoming the lead architect for many groundbreaking projects. </p><p>
 This exhibition celebrates the architectural works by one of Singapore's most respected practices, inviting visitors to explore its designs in the context of key events and movements in Singapore's recent architectural history.</p>
 			
