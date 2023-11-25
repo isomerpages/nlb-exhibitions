@@ -4,7 +4,7 @@ permalink: /sac-exhibitions/permalink/
 variant: markdown
 description: ""
 ---
-<h2><strong>Singapore Architecture Collection Exhibitions </strong></h2><section class="section__about"> 
+<h3><strong>Singapore Architecture Collection Exhibitions </strong></h3><section class="section__about"> 
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 10px solid #E21216; padding: 12px 0 0 0;">
@@ -40,7 +40,7 @@ description: ""
 <div class="container__card">
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
-            <h2><strong><em>To Draw an Idea: Retracing the Designs of William Lim Associates - W Architects</em></strong></h2>
+            <h3><strong><em>To Draw an Idea: Retracing the Designs of William Lim Associates - W Architects</em></strong></h3>
         </div>
     </div>
         <div class="row">
@@ -80,7 +80,7 @@ This exhibition celebrates the architectural works by one of Singapore's most re
 <div class="container__card">
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
-					<h2><strong><em>Dare to Design: Singapore Architecture 1960s-2000s</em></strong></h2>
+					<h3><strong><em>Dare to Design: Singapore Architecture 1960s-2000s</em></strong></h3>
 			</div>
     </div>
         <div class="row">
@@ -111,7 +111,7 @@ This exhibition celebrates the architectural works by one of Singapore's most re
 	<div class="container__card">
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
-					<h3><strong>Roving Displays:</strong></h3>
+					<h4><strong>Roving Displays:</strong></h4>
         </div>
     </div>
         <div class="row">
