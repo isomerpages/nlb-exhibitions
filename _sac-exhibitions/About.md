@@ -107,8 +107,7 @@ This exhibition celebrates the architectural works by one of Singapore's most re
     <div class="row">
         <div class="col is-full padding--top--lg">
 					<p>Singapore has amazing architecture. The last sixty years have seen an array of buildings that reflect Singapore's development and the passion of the men and women who shaped it.</p> <p><em>Dare to Design</em> highlights iconic Singapore architecture spanning from the 1960s to the 2000s. Books, building plans, photographs, and more will be displayed in an exhibition at the National Library Lobby and a family-friendly roving display at selected Public Libraries.</p><p>Come discover Singapore architecture through stories of these buildings and witness a boldness and flexibility that keeps people at the heart of design!</p>
-        </div>
-    </div>
+        </div></div>
 	<div class="container__card">
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
@@ -134,4 +133,16 @@ This exhibition celebrates the architectural works by one of Singapore's most re
         <div class="row">
             <div class="col" style="border-top: 2px solid #E21216; border-bottom: 0px solid #E21216;">
                 <ul style="list-style: none; margin-left: 0px;">
-                    <li style="margin-bottom: 1rem;"></li></ul></div></div></div></div></div></div></div></strong></div></div></div></div></section>
+									<li style="margin-bottom: 1rem;">
+							
+<div class="container__line padding--lg">
+    <div class="row">
+        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
+        </div>
+    </div>
+</div>
+
+<div class="container__card">
+    <div class="row margin--bottom--xs">
+        <div class="col is-12 padding--xs">
+	</div></div></div></li></ul></div></div></div></div></div></div></div></strong></div></div></div></div></section>
