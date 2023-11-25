@@ -118,7 +118,10 @@ This exhibition celebrates the architectural works by one of Singapore's most re
             <div class="col" style="border-top: 2px solid #E21216; border-bottom: 0px solid #E21216;">
                 <ul style="list-style: none; margin-left: 0px;">
                     <li style="margin-bottom: 1rem;">
-                        <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+											 <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                    </li>           
+                    <li style="margin-bottom: 1rem;">
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>28 November 2023 - 9 June 2024</strong></div>
                     </li>           
                     <li style="margin-bottom: 1rem;">
                         <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Bishan Public Library, Level 1 Atrium</strong> | 28 November 2023 – 31 January 2024</div>
