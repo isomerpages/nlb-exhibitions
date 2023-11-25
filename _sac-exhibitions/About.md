@@ -70,7 +70,8 @@ description: ""
 Founded in 1982, William Lim Associates (WLA) was the third firm affiliated with the architect William S. W. Lim who was involved in designing post-independence landmarks like People's Park and Golden Mile Complexes. The Architect Mok Wei Wei joined WLA that same year, becoming the lead architect for many groundbreaking projects. </p><p>
 This exhibition celebrates the architectural works by one of Singapore's most respected practices, inviting visitors to explore its designs in the context of key events and movements in Singapore's recent architectural history.</p>
 			
-	<img sizes="(max-width: 400px) 40vw, 100vw" height="296" width="1000" src="/images/event-images/Sacexhibitions/banner_sac.png" alt="A banner with logos. Presented by: National Library of Singapore and URA. In partnership with: W Architects.">
+	
+				<img sizes="(max-width: 400px) 40vw, 100vw" height="296" width="1000" src="/images/event-images/Sacexhibitions/banner_sac.png" alt="A banner with logos. Presented by: National Library of Singapore and URA. In partnership with: W Architects.">
     </div>
 </div>
 <div class="container__line padding--lg">
@@ -84,7 +85,8 @@ This exhibition celebrates the architectural works by one of Singapore's most re
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
 					<h3><strong><em>Dare to Design:Singapore Architecture 1960s-2000s</em></strong></h3>
-    </div>
+    
+			</div>
         <div class="row">
             <div class="col" style="border-top: 10px solid #E21216; border-bottom: 5px solid #E21216;">
                 <ul style="list-style: none; margin-left: 0px;">
