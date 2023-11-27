@@ -41,13 +41,12 @@ Past: #c1c1c1
         </div></div></div></div></div></div></div></div></div></div></td>
     </tr>    
     <tr>
-        <td style="background-color: #c1c1c1;">18 Aug<br>
+        <td style="background-color: #c1c1c1;"><strong>周末导览<br>
             —<br>
-            7:00pm</td>
+					华语讲解 | 由义务导览员带领</strong></td>
         <td>
-            <p>Talk | Art and Artists in Malay Manuscript Books</p>
-            <p><a href="/programmes/talesofthemalayworld/20170818-talk/">The event is over.</a></p>
-        </td>
+            <p>日期/时间:</p><div>下午3时至4时于大厅<div>2024年，星期六<div>1月6/13/20/27<div>2月3/24日<div>3月2/9/16/23/30日<div>4月6/13/20/27日<div>5月4/11/18/25日</div><p></p><div>集合地点<div>市区重建局大厅
+        </div></div></div></div></div></div></div></div></td>
     </tr>     
     <tr>
         <td style="background-color: #c1c1c1;">30 Sep<br>
