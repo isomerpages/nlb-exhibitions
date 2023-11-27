@@ -139,6 +139,7 @@ This exhibition celebrates the architectural works by one of Singapore's most re
 </div>
 </strong><div class="container__description"><strong>
 					
+			 
 					<h4>Brochure</h4>
 			 </strong></div><strong>
     </strong></div><strong>
