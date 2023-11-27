@@ -132,21 +132,19 @@ This exhibition celebrates the architectural works by one of Singapore's most re
                     <li style="margin-bottom: 1rem;">
 											<span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
                         <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Tampines Regional Library</strong> | 1 April – 9 June 2024</div>
-											</li>                    
+                    </li>                    
                 </ul>
             </div>
         </div>
 </div>
-        <div class="row">
-            <div class="col" style="border-top: 2px solid #E21216; border-bottom: 0px solid #E21216;">
-&nbsp;&nbsp;&nbsp; <div class="row">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </div>
-&nbsp;&nbsp;&nbsp; </div>
-<div class="container__line padding--lg">
+        </strong><div class="row"><strong>
+					</strong><div class="container__description"><strong>
     <div class="row">
-        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
-					</div>
-    </div>
+        <div class="col is-full padding--top--lg">
+						<div class="row">
+							<div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
+							</div>
+			   </div>
 </div>
 
 <div class="container__card">
@@ -160,4 +158,4 @@ This exhibition celebrates the architectural works by one of Singapore's most re
 						</li>
 					</ul>
 			</div>
-	</div></div></div></strong></div></div></div></div></div></div></section>
+	</div></div></div></strong></div></div></div></div></div></div></div></div></section>
