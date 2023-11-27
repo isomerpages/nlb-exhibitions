@@ -148,7 +148,8 @@ This exhibition celebrates the architectural works by one of Singapore's most re
 					</div>
     </div>
 </div>
-	<div class="container__card">
+
+<div class="container__card">
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
 					<h4>Brochure</h4>
@@ -156,6 +157,7 @@ This exhibition celebrates the architectural works by one of Singapore's most re
 					<ul style="list-style: none; margin-left: 5px; color: #E21216">
 	<li style="margin-bottom: 1rem;">
 		<a href="/files/Sacexhibitions/NLB\_URA\_Brochure.pdf" style="color:#E21216;">English exhibition brochure (4.37mb)</a>
-	</li></ul>
+						</li>
+					</ul>
 			</div>
 	</div></div></div></strong></div></div></div></div></div></div></section>
