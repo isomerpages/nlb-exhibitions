@@ -138,8 +138,8 @@ This exhibition celebrates the architectural works by one of Singapore's most re
         </div>
 </div>
 </strong><div class="container__description"><strong>
-					
-			 
+</strong><div class="row"><strong>
+        </strong><div class="col is-full padding--top--lg"><strong>
 					<h4>Brochure</h4>
 			 </strong></div><strong>
     </strong></div><strong>
@@ -151,4 +151,4 @@ This exhibition celebrates the architectural works by one of Singapore's most re
 						</li>
 					</ul>
 			</div>
-	</strong></div></div></div></div></div></section>
+	</strong></div></div></div></div></div></div></div></section>
