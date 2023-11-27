@@ -119,7 +119,7 @@ This exhibition celebrates the architectural works by one of Singapore's most re
         </div>
     </div>
         <div class="row">
-            <div class="col" style="border-top: 2px solid #E21216; border-bottom: 0px solid #E21216;">
+            <div class="col" style="border-top: 2px solid #E21216; border-bottom: 2px solid #E21216;">
                 <ul style="list-style: none; margin-left: 0px;">                    
                     <li style="margin-bottom: 1rem;">
 											<span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
@@ -153,7 +153,7 @@ This exhibition celebrates the architectural works by one of Singapore's most re
 					<h4>Brochure</h4>
 			</div>
     </div>
- <div class="row">
+        <div class="row">
 					<p style="margin-top: 5px;">Download the brochure below:</p>
 					<ul style="list-style: none; margin-left: 5px; color: #E21216">
 	<li style="margin-bottom: 1rem;">
