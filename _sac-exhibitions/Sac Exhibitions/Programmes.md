@@ -19,37 +19,16 @@ Past: #c1c1c1
     <div class="row">
         <div class="col is-10-mobile">
 
-<h2>Past programmes</h2>
+<h2>Programmes</h2>
 
-<blockquote style="color: #E21216; font-size: 150%;">All events are over.</blockquote>
+<blockquote style="color: #E21216; font-size: 150%;">Admission to programmes is free. To register or for full programmes listing, visit here. </blockquote>
 
 <table class="table table-v">
     <tbody><tr>
-        <td style="background-color: #c1c1c1;"><strong>Tour | Curator's Tour<br>
-            —<br>
-           Conducted in English</strong></td>
-        <td>
-            <p>Date &amp; Time: </p><div>2.00pm - 3:00pm<div>19 Jan, 23 Feb, 22 Mar, 19 Apr, 24 May 2024<div></div><p>Meeting Point: <br>Lobby, The URA Centre
-        </p></div></div></td>
-    </tr>    
+    </tr>  
     <tr>
-        <td style="background-color: #c1c1c1;"><strong>Tour | Public Tours<br>
-            —<br>
-            Conducted in English | Led by docents</strong></td>
-        <td>
-					<p>Date &amp; Time:</p><div><strong></strong><div><strong>Wednesdays:</strong><div>10, 17, 24 &amp; 31 Jan 2024<div>21 &amp; 28 Feb 2024<div>6, 13, 20 &amp; 27 Mar 2024<div>3, 17 &amp; 24 Apr 2024<div>8, 15 &amp; 29 May 2024</div><div><strong>Saturdays:</strong><div><strong></strong>6, 13, 20 &amp; 27 Jan 2024<div>3 &amp; 24 Feb 2024<div>2, 9, 16, 23 &amp; 30 Mar 2024<div>6, 13, 20 &amp; 27 Apr 2024<div>4, 11,18 &amp; 25 May 2024</div><p>2:00pm-3:00pm</p><p></p><div></div>Meeting Point:<div>Lobby, The URA Centre
-        </div></div></div></div></div></div></div></div></div></div></div></div></td>
-    </tr>    
-    <tr>
-        <td style="background-color: #c1c1c1;"><strong>周末导览<br>
-            —<br>
-					华语讲解 | 由义务导览员带领</strong></td>
-        <td>
-            <p>日期/时间:</p><div>下午3时至4时于大厅<div>2024年，星期六<div>1月6/13/20/27<div>2月3/24日<div>3月2/9/16/23/30日<div>4月6/13/20/27日<div>5月4/11/18/25日</div><p></p><div>集合地点<div>市区重建局大厅
-        </div></div></div></div></div></div></div></div></td>
-    </tr>     
-    <tr>
-        <td style="background-color: #c1c1c1;"><strong>Children's Workshop | <div>Singapore Architectural Development Through The Lens of Darren Soh<br>
+        <td style="background-color: #c1c1c1;"><strong>Workshop | Children's Workshop<br>
+            —<br><div>Singapore Architectural Development through the Lens of Darren Soh<br>
             <br></div></strong></td>
         <td>
             <p>Date, Time &amp; Venue:</p><div>18 Jan 2024<div>2:00pm - 4:00pm<p></p><div>Function Hall, Level 5<div>The URA Centre &amp;<div>Zoom webinar<div>
@@ -72,7 +51,29 @@ Past: #c1c1c1
         </div></div></div></td>
     </tr> 
         
-         
+    
+ <tr><td style="background-color: #c1c1c1;"><strong>Tour | Curator's Tour<br>
+            —<br>
+           Conducted in English</strong></td>
+        <td>
+            <p>Date &amp; Time: </p><div>2.00pm - 3:00pm<div>19 Jan, 23 Feb, 22 Mar, 19 Apr, 24 May 2024<div></div><p>Meeting Point: <br>Lobby, The URA Centre
+        </p></div></div></td>
+			</tr><tr>
+        <td style="background-color: #c1c1c1;"><strong>Tour | Public Tours<br>
+            —<br>
+            Conducted in English | Led by docents</strong></td>
+        <td>
+					<p>Date &amp; Time:</p><div><strong></strong><div><strong>Wednesdays:</strong><div>10, 17, 24 &amp; 31 Jan 2024<div>21 &amp; 28 Feb 2024<div>6, 13, 20 &amp; 27 Mar 2024<div>3, 17 &amp; 24 Apr 2024<div>8, 15 &amp; 29 May 2024</div><div><strong>Saturdays:</strong><div><strong></strong>6, 13, 20 &amp; 27 Jan 2024<div>3 &amp; 24 Feb 2024<div>2, 9, 16, 23 &amp; 30 Mar 2024<div>6, 13, 20 &amp; 27 Apr 2024<div>4, 11,18 &amp; 25 May 2024</div><p>2:00pm-3:00pm</p><p></p><div></div>Meeting Point:<div>Lobby, The URA Centre
+        </div></div></div></div></div></div></div></div></div></div></div></div></td>
+    </tr>    
+    <tr>
+        <td style="background-color: #c1c1c1;"><strong>周末导览<br>
+            —<br>
+					华语讲解 | 由义务导览员带领</strong></td>
+        <td>
+            <p>日期/时间:</p><div>下午3时至4时于大厅<div>2024年，星期六<div>1月6/13/20/27<div>2月3/24日<div>3月2/9/16/23/30日<div>4月6/13/20/27日<div>5月4/11/18/25日</div><p></p><div>集合地点<div>市区重建局大厅
+        </div></div></div></div></div></div></div></div></td>
+    </tr>     
 </tbody></table>
         </div>
     </div>
