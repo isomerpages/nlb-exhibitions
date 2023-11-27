@@ -37,8 +37,8 @@ Past: #c1c1c1
             —<br>
             Conducted in English | Led by docents</strong></td>
         <td>
-					<p>Date &amp; Time:</p><div><strong>Wednesdays:</strong><div>10, 17, 24 &amp; 31 Jan 2024<div>21 &amp; 28 Feb 2024<div>6, 13, 20 &amp; 27 Mar 2024<div>3, 17 &amp; 24 Apr 2024<div>8, 15 &amp; 29 May 2024</div><div><strong>Saturdays:</strong><div><strong></strong>6, 13, 20 &amp; 27 Jan 2024<div>3 &amp; 24 Feb 2024<div>2, 9, 16, 23 &amp; 30 Mar 2024<div>6, 13, 20 &amp; 27 Apr 2024<div>4, 11,18 &amp; 25 May 2024</div><p>Meeting Point:</p>Lobby, The URA Centre
-        </div></div></div></div></div></div></div></div></div></div></td>
+					<p>Date &amp; Time:</p><div><strong></strong><div><strong>Wednesdays:</strong><div>10, 17, 24 &amp; 31 Jan 2024<div>21 &amp; 28 Feb 2024<div>6, 13, 20 &amp; 27 Mar 2024<div>3, 17 &amp; 24 Apr 2024<div>8, 15 &amp; 29 May 2024</div><div><strong>Saturdays:</strong><div><strong></strong>6, 13, 20 &amp; 27 Jan 2024<div>3 &amp; 24 Feb 2024<div>2, 9, 16, 23 &amp; 30 Mar 2024<div>6, 13, 20 &amp; 27 Apr 2024<div>4, 11,18 &amp; 25 May 2024</div>2:00pm-3:00pm<p></p><div></div>Meeting Point:<div>Lobby, The URA Centre
+        </div></div></div></div></div></div></div></div></div></div></div></div></td>
     </tr>    
     <tr>
         <td style="background-color: #c1c1c1;"><strong>周末导览<br>
@@ -52,7 +52,7 @@ Past: #c1c1c1
         <td style="background-color: #c1c1c1;"><strong>Children's Workshop | <div>Singapore Architectural Development Through The Lens of Darren Soh<br>
             <br></div></strong></td>
         <td>
-            <p>Date, Time &amp; Venue:</p><div>2:00pm - 4:00pm,<div>18 Jan 2024<p></p><div>Function Hall, Level 5<div>The URA Centre &amp;<div>Zoom webinar<div>
+            <p>Date, Time &amp; Venue:</p><div>18 Jan 2024<div>2:00pm - 4:00pm<p></p><div>Function Hall, Level 5<div>The URA Centre &amp;<div>Zoom webinar<div>
         </div></div></div></div></div></div></td>
     </tr>     
     <tr>
@@ -60,17 +60,16 @@ Past: #c1c1c1
             —<br>
             To Draw an Idea: Retracing the Designs of William Lim Associates–W Architects</strong></td>
         <td>
-            <p>Date, Time &amp; Venue:</p><div>2:00pm-4:00pm<div>18 Jan 2024<div>Function Hall, Level 5, The URA Centre &amp; Zoom webinar<p></p><div>11:00am-12.30pm<div>23 Mar 2024<div>Imagination Room, Level 5, National Library Building<p></p>
-        </div></div></div></div></div></div></td>
+            <p>Date, Time &amp; Venue:</p><div>18 Jan 2024<div><div>2:00pm-4:00pm<div>Function Hall, Level 5, The URA Centre &amp; Zoom webinar<p></p><div>23 Mar 2024<div><div>11:00am-12.30pm<div>Imagination Room, Level 5, National Library Building<p></p>
+        </div></div></div></div></div></div></div></div></td>
     </tr>      
     <tr>
-        <td style="background-color: #c1c1c1;">21 Oct<br>
+        <td style="background-color: #c1c1c1;"><strong>Talk | Public Talk<br>
             —<br>
-            2:00pm</td>
+           Architecture Stuff &amp; <div>More Stuff</div></strong></td>
         <td>
-            <p>Talk | Hang Tuah in a Time of Independence: Malay Texts in the 1950s and 1960s</p>
-            <p><a href="/programmes/talesofthemalayworld/20171021-talk/">The event is over.</a></p>
-        </td>
+            <p>Date, Time &amp; Venue:</p><div>23 Feb 2024<div>2:00pm-4:00pm<p></p><div>Function Hall, Level 5, The URA Centre &amp; Zoom webinar
+        </div></div></div></td>
     </tr>     
     <tr>
         <td style="background-color: #c1c1c1;">25 Nov<br>
