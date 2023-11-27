@@ -144,7 +144,9 @@ This exhibition celebrates the architectural works by one of Singapore's most re
     <div class="row">
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
         </div>
-    
+			</div>
+</div>
+										
 <div class="container__downloads">
     <div class="row">
         <div class="col is-full padding--top--lg">
@@ -152,17 +154,9 @@ This exhibition celebrates the architectural works by one of Singapore's most re
             <p style="margin-top: 5px;">Download the brochure below:</p>
                     <ul style="list-style: none; margin-left: 5px; color: #E21216">
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/geographic/geographic_festival-brochure.pdf" style="color:#E21216;">English exhibition brochure (1.99mb)</a>
+                            <a href="/files/Sacexhibitions/NLB_URA_Brochure.pdf" style="color:#E21216;">English exhibition brochure (1.99mb)</a>
                         </li>                         
                     </ul>
-        </div>
-    </div>
-</div>
+			</div>
 
-<div class="container__line padding--lg">
-    <div class="row">
-        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
-        </div>
-    </div>
-</div>
 </div></div></li></ul></div></div></div></div></div></strong></div></div></div></div></section>
