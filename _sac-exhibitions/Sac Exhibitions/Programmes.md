@@ -49,22 +49,19 @@ Past: #c1c1c1
         </div></div></div></div></div></div></div></div></td>
     </tr>     
     <tr>
-        <td style="background-color: #c1c1c1;">30 Sep<br>
-            —<br>
-            3:00pm</td>
+        <td style="background-color: #c1c1c1;"><strong>Children's Workshop | <div>Singapore Architectural Development Through The Lens of Darren Soh<br>
+            <br></div></strong></td>
         <td>
-            <p>Talk | The Script State (Negeri Naskhah) – Malay Manuscripts in Documenting Memories</p>
-            <p><a href="/programmes/talesofthemalayworld/20170930-talk/">The event is over.</a></p>
-        </td>
+            <p>Date &amp; Time:</p><div>2:00pm - 4:00pm,<div>18 Jan 2024<p></p><div>Venue: <p></p><div>Function Hall, Level 5<div>The URA Centre &amp;<div>Zoom webinar<div>
+        </div></div></div></div></div></div></div></td>
     </tr>     
     <tr>
-        <td style="background-color: #c1c1c1;">7 Oct<br>
+        <td style="background-color: #c1c1c1;"><strong>Talk | Curator's Talk<br>
             —<br>
-            9:30am/12:00pm</td>
+            To Draw an Idea: Retracing the Designs of William Lim Associates–W Architects</strong></td>
         <td>
-            <p>Workshop | Basic Jawi in Minutes!</p>
-            <p><a href="/programmes/talesofthemalayworld/20171007-workshop/">The event is over.</a></p>
-        </td>
+            <p>Date, Time &amp; Venue:</p><div>2:00pm-4:00pm<div>18 Jan 2024<div>Function Hall, Level 5, The URA Centre &amp; Zoom webinar<p></p><div>11:00am-12.30pm<div>23 Mar 2024<div>Imagination Room, Level 5, National Library Building<p></p>
+        </div></div></div></div></div></div></td>
     </tr>      
     <tr>
         <td style="background-color: #c1c1c1;">21 Oct<br>
