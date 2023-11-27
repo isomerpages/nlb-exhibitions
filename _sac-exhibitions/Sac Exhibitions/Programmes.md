@@ -31,43 +31,37 @@ Past: #c1c1c1
             —<br><div>Singapore Architectural Development through the Lens of Darren Soh<br>
             <br></div></strong></td>
         <td>
-            <p>Date, Time &amp; Venue:</p><div>18 Jan 2024<div>2:00pm - 4:00pm<p></p><div>Function Hall, Level 5<div>The URA Centre &amp;<div>Zoom webinar<div>
-        </div></div></div></div></div></div></td>
+					<p>Date, Time &amp; Venue:</p><div></div>18 Jan 2024<div>2:00pm - 4:00pm</div><p></p><div>Function Hall, Level 5</div><div>The URA Centre &amp;</div><div>Zoom webinar</div><div></div></td>
     </tr>     
     <tr>
         <td style="background-color: #c1c1c1;"><strong>Talk | Curator's Talk<br>
             —<br>
             To Draw an Idea: Retracing the Designs of William Lim Associates–W Architects</strong></td>
         <td>
-            <p>Date, Time &amp; Venue:</p><div>18 Jan 2024<div><div>2:00pm-4:00pm<div>Function Hall, Level 5, The URA Centre &amp; Zoom webinar<p></p><div>23 Mar 2024<div><div>11:00am-12.30pm<div>Imagination Room, Level 5, National Library Building<p></p>
-        </div></div></div></div></div></div></div></div></td>
+					<p>Date, Time &amp; Venue:</p><div></div>18 Jan 2024<div></div><div>2:00pm-4:00pm</div><div>Function Hall, Level 5, The URA Centre &amp; Zoom webinar</div><p></p><div>23 Mar 2024</div><div>11:00am-12.30pm</div><div>Imagination Room, Level 5, National Library Building<p></p>
+        </div></td>
     </tr>      
     <tr>
         <td style="background-color: #c1c1c1;"><strong>Talk | Public Talk<br>
             —<br>
            Architecture Stuff &amp; <div>More Stuff</div></strong></td>
         <td>
-            <p>Date, Time &amp; Venue:</p><div>23 Feb 2024<div>2:00pm-4:00pm<p></p><div>Function Hall, Level 5, The URA Centre &amp; Zoom webinar
-        </div></div></div></td>
+					<p>Date, Time &amp; Venue:</p><div></div>23 Feb 2024<div>2:00pm-4:00pm</div><p></p><div>Function Hall, Level 5, The URA Centre &amp; Zoom webinar</div></td>
     </tr> 
         
-    
-	
-	
 
  <tr><td style="background-color: #c1c1c1;"><strong>Tour | Curator's Tour<br>
             —<br>
            Conducted in English</strong></td>
         <td>
-            <p>Date &amp; Time: </p><div>2.00pm - 3:00pm<div>19 Jan, 23 Feb, 22 Mar, 19 Apr, 24 May 2024<div></div><p>Meeting Point: <br>Lobby, The URA Centre
-        </p></div></div></td>
+					<p>Date &amp; Time: </p><div>2.00pm - 3:00pm</div><div>19 Jan, 23 Feb, 22 Mar, 19 Apr, 24 May 2024</div><p>Meeting Point:<br>Lobby, The URA Centre<br></p></td>
 			</tr><tr>
         <td style="background-color: #c1c1c1;"><strong>Tour | Public Tours<br>
             —<br>
             Conducted in English | Led by docents</strong></td>
         <td>
-					<p>Date &amp; Time:</p><div><strong></strong><div><strong>Wednesdays:</strong><div>10, 17, 24 &amp; 31 Jan 2024<div>21 &amp; 28 Feb 2024<div>6, 13, 20 &amp; 27 Mar 2024<div>3, 17 &amp; 24 Apr 2024<div>8, 15 &amp; 29 May 2024</div><div><strong>Saturdays:</strong><div><strong></strong>6, 13, 20 &amp; 27 Jan 2024<div>3 &amp; 24 Feb 2024<div>2, 9, 16, 23 &amp; 30 Mar 2024<div>6, 13, 20 &amp; 27 Apr 2024<div>4, 11,18 &amp; 25 May 2024</div><p>2:00pm-3:00pm</p><p></p><div></div>Meeting Point:<div>Lobby, The URA Centre
-        </div></div></div></div></div></div></div></div></div></div></div></div></td>
+					<p>Date &amp; Time:</p><div><strong></strong><div><strong></strong></div><strong>Wednesdays:</strong><div></div>10, 17, 24 &amp; 31 Jan 2024<div></div>21 &amp; 28 Feb 2024<div></div>6, 13, 20 &amp; 27 Mar 2024<div></div>3, 17 &amp; 24 Apr 2024<div>8, 15 &amp; 29 May 2024</div><div><strong>Saturdays:</strong><div></div><strong></strong>6, 13, 20 &amp; 27 Jan 2024<div>3 &amp; 24 Feb 2024<div>2, 9, 16, 23 &amp; 30 Mar 2024<div></div>6, 13, 20 &amp; 27 Apr 2024<div></div>4, 11, 18 &amp; 25 May 2024</div><p>2:00pm-3:00pm</p><p></p><div></div>Meeting Point:<div>Lobby, The URA Centre
+        </div></div></div></div></td>
     </tr>    
     <tr>
         <td style="background-color: #c1c1c1;"><strong>周末导览<br>
