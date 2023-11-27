@@ -64,7 +64,7 @@ third_nav_title: Sac Exhibitions
         </div>
 </div>
 
-<div class="container__description">
+</strong><div class="container__description"><strong>
     <div class="row">
         <div class="col is-full padding--top--lg">
 					<p><em>To Draw and Idea</em> follows the design evolution of William Lim Associates – W Architects through 19 projects over its 40-year history. This exhibition presents more than 500 architectural drawings - from hand sketches to watercolour renderings, construction drawings - as well as architectural models and documentation, to reveal the firm's design process. These materials have been donated to the Singapore Architecture Collection.</p><p>
@@ -108,12 +108,12 @@ This exhibition celebrates the architectural works by one of Singapore's most re
         </div>
 </div>
 
-<div class="container__description">
+</strong><div class="container__description"><strong>
     <div class="row">
         <div class="col is-full padding--top--lg">
 					<p>Singapore has amazing architecture. The last sixty years have seen an array of buildings that reflect Singapore's development and the passion of the men and women who shaped it.</p> <p><em>Dare to Design</em> highlights iconic Singapore architecture spanning from the 1960s to the 2000s. Books, building plans, photographs, and more will be displayed in an exhibition at the National Library Building Lobby and a family-friendly roving display at selected Public Libraries.</p><p>Come discover Singapore architecture through stories of these buildings and witness a boldness and flexibility that keeps people at the heart of design!</p>
         </div></div>
-	<div class="container__card">
+	</strong><div class="container__card"><strong>
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
 					<h4><strong>Roving Displays:</strong></h4>
@@ -135,10 +135,10 @@ This exhibition celebrates the architectural works by one of Singapore's most re
                         <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Tampines Regional Library</strong> | 1 April – 9 June 2024</div>
           </li></ul></div>
     </div>
-        <div class="row">
-            <div class="col" style="border-top: 2px solid #E21216; border-bottom: 0px solid #E21216;">
-                <ul style="list-style: none; margin-left: 0px;">
-									<li style="margin-bottom: 1rem;">
+        </strong><div class="row"><strong>
+            </strong><div class="col" style="border-top: 2px solid #E21216; border-bottom: 0px solid #E21216;"><strong>
+                </strong><ul style="list-style: none; margin-left: 0px;"><strong>
+									</strong><li style="margin-bottom: 1rem;"><strong>
 							
 <div class="container__line padding--lg">
     <div class="row">
@@ -147,10 +147,10 @@ This exhibition celebrates the architectural works by one of Singapore's most re
     </div>
 </div>
 
-<div class="container__card">
+</strong><div class="container__card"><strong>
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
-	</div></div></div></li></ul></div></div></div></div></div></strong></div></div></div></div></section>
+	</div></div></strong></div></li></ul></div></div></div></div></div></div></div></div></div></section><strong>
 	
 	<div class="container__downloads">
     <div class="row">
@@ -160,6 +160,8 @@ This exhibition celebrates the architectural works by one of Singapore's most re
                     <ul style="list-style: none; margin-left: 5px; color: #E21216">
                         <li style="margin-bottom: 1rem;">
                             <a href="/files/Sacexhibitions/NLB_URA_Brochure.pdf" style="color:#E21216;">English exhibition brochure (4.37mb)</a>
-                        </li>                         
+											     </li>
                     </ul>
-        </div></div></div>
+        </div>
+    </div>
+</div></strong>
