@@ -141,7 +141,7 @@ This exhibition celebrates the architectural works by one of Singapore's most re
 <div class="row">
         <div class="col is-full padding--top--lg">
 					<h4>Brochure</h4>
-	</div>
+				</div>
     </div>
         <div class="row">
 					<p> style="margin-top: 5px;"&gt;Download the brochure below:</p>
