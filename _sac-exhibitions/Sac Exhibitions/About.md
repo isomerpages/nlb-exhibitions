@@ -138,9 +138,13 @@ This exhibition celebrates the architectural works by one of Singapore's most re
             <div class="col" style="border-top: 2px solid #E21216; border-bottom: 0px solid #E21216;">
                 <ul style="list-style: none; margin-left: 0px;">
 									<li style="margin-bottom: 1rem;">
-									
-							</li></ul>
-					</div>
+																
+<div class="container__line padding--lg">
+    <div class="row">
+        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
+        </div>
+			</div>
+</div>
 										
 <div class="container__downloads">
     <div class="row">
@@ -154,4 +158,4 @@ This exhibition celebrates the architectural works by one of Singapore's most re
                     </ul>
 			</div>
 
-</div></div></div></div></div></div></div></strong></div></div></div></div></section>
+</div></div></li></ul></div></div></div></div></div></div></strong></div></div></div></div></section>
