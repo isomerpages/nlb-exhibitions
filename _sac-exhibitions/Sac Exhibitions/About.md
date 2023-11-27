@@ -68,7 +68,7 @@ third_nav_title: Sac Exhibitions
     <div class="row">
         <div class="col is-full padding--top--lg">
 					<p><em>To Draw and Idea</em> follows the design evolution of William Lim Associates – W Architects through 19 projects over its 40-year history. This exhibition presents more than 500 architectural drawings - from hand sketches to watercolour renderings, construction drawings - as well as architectural models and documentation, to reveal the firm's design process. These materials have been donated to the Singapore Architecture Collection.</p><p>
-Founded in 1982, William Lim Associates (WLA) was the third firm affiliated with the architect William S. W. Lim who was involved in designing post-independence landmarks like People's Park and Golden Mile Complexes. The Architect Mok Wei Wei joined WLA that same year, becoming the lead architect for many groundbreaking projects. </p><p>
+Founded in 1982, William Lim Associates (WLA) was the third firm affiliated with the architect William S. W. Lim who was involved in designing post-independence landmarks like People's Park and Golden Mile Complexes. Architect Mok Wei Wei joined WLA that same year, becoming the lead architect for many groundbreaking projects. </p><p>
 This exhibition celebrates the architectural works by one of Singapore's most respected practices, inviting visitors to explore its designs in the context of key events and movements in Singapore's recent architectural history.</p>
 			
 	
@@ -111,7 +111,7 @@ This exhibition celebrates the architectural works by one of Singapore's most re
 <div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
-					<p>Singapore has amazing architecture. The last sixty years have seen an array of buildings that reflect Singapore's development and the passion of the men and women who shaped it.</p> <p><em>Dare to Design</em> highlights iconic Singapore architecture spanning from the 1960s to the 2000s. Books, building plans, photographs, and more will be displayed in an exhibition at the National Library Lobby and a family-friendly roving display at selected Public Libraries.</p><p>Come discover Singapore architecture through stories of these buildings and witness a boldness and flexibility that keeps people at the heart of design!</p>
+					<p>Singapore has amazing architecture. The last sixty years have seen an array of buildings that reflect Singapore's development and the passion of the men and women who shaped it.</p> <p><em>Dare to Design</em> highlights iconic Singapore architecture spanning from the 1960s to the 2000s. Books, building plans, photographs, and more will be displayed in an exhibition at the National Library Building Lobby and a family-friendly roving display at selected Public Libraries.</p><p>Come discover Singapore architecture through stories of these buildings and witness a boldness and flexibility that keeps people at the heart of design!</p>
         </div></div>
 	<div class="container__card">
     <div class="row margin--bottom--xs">
