@@ -73,12 +73,6 @@ Past: #c1c1c1
         <td style="background-color: #c1c1c1;"><strong>周末导览<br>
             —<br>
 					华语讲解 | 由义务导览员带领</strong></td>
-        <td>
-            <p>日期/时间:</p><div>下午3时至4时于大厅<div>2024年，星期六<div>1月6/13/20/27<div>2月3/24日<div>3月2/9/16/23/30日<div>4月6/13/20/27日<div>5月4/11/18/25日</div><p></p><div>集合地点<div>市区重建局大厅
-</div></div></div></div></div></div></div></div></td>
-    </tr>     
-</tbody></table>
-        </div>
-    </div>
+			<td><p>日期/时间:</p><div>下午3时至4时于大厅</div><div>2024年，星期六</div><div>1月6/13/20/27</div><div>2月3/24日</div><div>3月2/9/16/23/30日</div><div>4月6/13/20/27日</div><div>5月4/11/18/25日</div><p></p><div>集合地点</div><div>市区重建局大厅</div></td></tr></tbody></table>
 </div>
-</section>
+</div></div></section>
