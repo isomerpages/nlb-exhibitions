@@ -153,4 +153,5 @@ This exhibition celebrates the architectural works by one of Singapore's most re
         </div>
     </strong></div><strong>
 </strong></div><strong>
-																																						</strong></div></div></div></div></div></section>
+
+</strong></div></div></div></div></div></section>
