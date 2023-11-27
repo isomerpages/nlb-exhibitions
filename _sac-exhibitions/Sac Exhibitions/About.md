@@ -113,7 +113,7 @@ This exhibition celebrates the architectural works by one of Singapore's most re
         <div class="col is-full padding--top--lg">
 					<p>Singapore has amazing architecture. The last sixty years have seen an array of buildings that reflect Singapore's development and the passion of the men and women who shaped it.</p> <p><em>Dare to Design</em> highlights iconic Singapore architecture spanning from the 1960s to the 2000s. Books, building plans, photographs, and more will be displayed in an exhibition at the National Library Building Lobby and a family-friendly roving display at selected Public Libraries.</p><p>Come discover Singapore architecture through stories of these buildings and witness a boldness and flexibility that keeps people at the heart of design!</p>
         </div></div>
-	</strong><div class="container__card"><strong>
+	<div class="container__card">
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
 					<h4><strong>Roving Displays:</strong></h4>
@@ -134,7 +134,9 @@ This exhibition celebrates the architectural works by one of Singapore's most re
 											<span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
                         <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Tampines Regional Library</strong> | 1 April – 9 June 2024</div>
 											</li></ul></div>
+					</div>
     </div>
+</strong></div><strong>
         <div class="row">
             <div class="col" style="border-top: 2px solid #E21216; border-bottom: 0px solid #E21216;">
     <div class="row">
@@ -156,4 +158,4 @@ This exhibition celebrates the architectural works by one of Singapore's most re
                         </li>                         
                     </ul>
 			</div>
-</div></div></div></div></div></div></strong></div></div></div></div></div></div></div></section>
+</div></div></div></div></div></div></strong></div></div></div></div></div></section>
