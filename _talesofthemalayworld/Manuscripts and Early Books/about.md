@@ -2,11 +2,9 @@
 title: About
 permalink: /exhibitions/past-exhibitions/talesofthemalayworld/
 breadcrumb: About
-third_nav_title: 'Tales of the Malay World: Manuscripts and Early Books'
-
+third_nav_title: "Tales of the Malay World: Manuscripts and Early Books"
+variant: markdown
 ---
-
-
 <section class="section__about">
 <div class="container__card">
     <div class="row">
@@ -142,16 +140,16 @@ third_nav_title: 'Tales of the Malay World: Manuscripts and Early Books'
                     </li> 
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Geylang East Public Library (Level 2)</strong> &#124; 11 August 2017 – 1 October 2017</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Geylang East Public Library (Level 2)</strong> | 11 August 2017 – 1 October 2017</div>
                     </li>                    
                     <li style="margin-bottom: 1rem;">
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Ang Mo Kio Public Library (Level 1)</strong> &#124; 2 October 2017 – 16 November 2017</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Ang Mo Kio Public Library (Level 1)</strong> | 2 October 2017 – 16 November 2017</div>
                     </li>                    
                     <li style="margin-bottom: 1rem;">
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Jurong West Public Library (Level 1)</strong> &#124; 17 November 2017 – 11 January 2018</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Jurong West Public Library (Level 1)</strong> | 17 November 2017 – 11 January 2018</div>
                     </li>                       
                     <li style="margin-bottom: 1rem;">
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Bedok Public Library (Level 3)</strong> &#124; 12 January – 25 February 2018</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Bedok Public Library (Level 3)</strong> | 12 January – 25 February 2018</div>
                     </li>                     
                 </ul>
             </div>
@@ -169,4 +167,3 @@ third_nav_title: 'Tales of the Malay World: Manuscripts and Early Books'
 </div>    
 
 </section>
-
