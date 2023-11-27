@@ -138,18 +138,17 @@ This exhibition celebrates the architectural works by one of Singapore's most re
         </div>
 </div>
 </strong><div class="container__description"><strong>
-</strong><div class="row"><strong>
-        </strong><div class="col is-full padding--top--lg"><strong>
+<div class="row">
+        <div class="col is-full padding--top--lg">
 					<h4>Brochure</h4>
-    </strong></div><strong>
-  </strong></div><strong>
-    </strong></div><strong>
+	</div>
+    </div>
         <div class="row">
-					<p style="margin-top: 5px;">Download the brochure below:</p>
+					<p> style="margin-top: 5px;"&gt;Download the brochure below:</p>
 					<ul style="list-style: none; margin-left: 0px; color: #E21216">
 						<li style="margin-bottom: 1rem;">
-		<a href="/files/Sacexhibitions/NLB_URA_Brochure.pdf" style="color:#E21216;">English exhibition brochure (4.37mb)</a>
+		<a> style="color:#E21216;" href="/files/Sacexhibitions/NLB_URA_Brochure.pdf"&gt;English exhibition brochure (4.37mb)</a>
 						</li>
 					</ul>
 			</div>
-	</strong></div></div></div></div></div></div></section>
+	</strong></div></div></div></div></div></div></div></section>
