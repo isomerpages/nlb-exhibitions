@@ -21,7 +21,7 @@ Past: #c1c1c1
 
 <h2>Programmes</h2>
 
-<blockquote style="color: #E21216; font-size: 150%;">Admission to programmes is free. To register or for full programmes listing, visit here. </blockquote>
+<blockquote style="color: #E21216; font-size: 150%;">Admission to programmes is free. To register or for full programmes listing, visit<a href="https://www.eventbrite.com/cc/to-draw-an-idea-exhibition-programmes-2820449"> here. </a><p></p></blockquote>
 
 <table class="table table-v">
     <tbody><tr>
@@ -52,6 +52,9 @@ Past: #c1c1c1
     </tr> 
         
     
+	
+	
+
  <tr><td style="background-color: #c1c1c1;"><strong>Tour | Curator's Tour<br>
             —<br>
            Conducted in English</strong></td>
@@ -72,7 +75,7 @@ Past: #c1c1c1
 					华语讲解 | 由义务导览员带领</strong></td>
         <td>
             <p>日期/时间:</p><div>下午3时至4时于大厅<div>2024年，星期六<div>1月6/13/20/27<div>2月3/24日<div>3月2/9/16/23/30日<div>4月6/13/20/27日<div>5月4/11/18/25日</div><p></p><div>集合地点<div>市区重建局大厅
-        </div></div></div></div></div></div></div></div></td>
+</div></div></div></div></div></div></div></div></td>
     </tr>     
 </tbody></table>
         </div>
