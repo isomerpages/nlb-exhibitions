@@ -141,7 +141,8 @@ This exhibition celebrates the architectural works by one of Singapore's most re
 </strong><div class="row"><strong>
         </strong><div class="col is-full padding--top--lg"><strong>
 					<h4>Brochure</h4>
-			 </strong></div><strong>
+    </strong></div><strong>
+  </strong></div><strong>
     </strong></div><strong>
         <div class="row">
 					<p style="margin-top: 5px;">Download the brochure below:</p>
@@ -151,4 +152,4 @@ This exhibition celebrates the architectural works by one of Singapore's most re
 						</li>
 					</ul>
 			</div>
-	</strong></div></div></div></div></div></div></div></section>
+	</strong></div></div></div></div></div></div></section>
