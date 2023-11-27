@@ -64,7 +64,7 @@ third_nav_title: Sac Exhibitions
         </div>
 </div>
 
-<div class="container__description">
+</strong><div class="container__description"><strong>
     <div class="row">
         <div class="col is-full padding--top--lg">
 					<p><em>To Draw and Idea</em> follows the design evolution of William Lim Associates – W Architects through 19 projects over its 40-year history. This exhibition presents more than 500 architectural drawings - from hand sketches to watercolour renderings, construction drawings - as well as architectural models and documentation, to reveal the firm's design process. These materials have been donated to the Singapore Architecture Collection.</p><p>
@@ -133,21 +133,16 @@ This exhibition celebrates the architectural works by one of Singapore's most re
                     <li style="margin-bottom: 1rem;">
 											<span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
                         <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Tampines Regional Library</strong> | 1 April – 9 June 2024</div>
-          </li>
-							</ul>
-					</div>
         <div class="row">
             <div class="col" style="border-top: 2px solid #E21216; border-bottom: 0px solid #E21216;">
                 <ul style="list-style: none; margin-left: 0px;">
 									<li style="margin-bottom: 1rem;">
+										
 			<div class="container__line padding--lg">
-    
 				<div class="row">
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
-        </div>
-			</div>
-</div>
-										
+					</div>
+					
 <div class="container__downloads">
     <div class="row">
         <div class="col is-full padding--top--lg">
@@ -155,9 +150,9 @@ This exhibition celebrates the architectural works by one of Singapore's most re
             <p style="margin-top: 5px;">Download the brochure below:</p>
                     <ul style="list-style: none; margin-left: 5px; color: #E21216">
                         <li style="margin-bottom: 1rem;">
-                            <a href="/files/Sacexhibitions/NLB_URA_Brochure.pdf" style="color:#E21216;">English exhibition brochure (4.27mb)</a>
+                            <a href="/files/Sacexhibitions/NLB_URA_Brochure.pdf" style="color:#E21216;">English exhibition brochure (4.37mb)</a>
                         </li>                         
                     </ul>
 			</div>
 
-</div></div></li></ul></div></div></div></div></div></div></strong></div></div></div></div></section>
+</div></div></div></div></li></ul></div></div></li></ul></div></div></div></div></strong></div></div></div></div></div></section>
