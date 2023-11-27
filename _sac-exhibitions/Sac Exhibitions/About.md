@@ -132,33 +132,28 @@ This exhibition celebrates the architectural works by one of Singapore's most re
                     <li style="margin-bottom: 1rem;">
 											<span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
                         <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Tampines Regional Library</strong> | 1 April – 9 June 2024</div>
-											</li></ul></div>
-</div>
-&nbsp;&nbsp;&nbsp; </div>
-</strong></div><strong>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <div class="row">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <div class="col" style="border-top: 2px solid #E21216; border-bottom: 0px solid #E21216;">
+											</li></ul>
+					  </div>
+    </div>
+        <div class="row">
+            <div class="col" style="border-top: 2px solid #E21216; border-bottom: 0px solid #E21216;">
 &nbsp;&nbsp;&nbsp; <div class="row">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </div>
 &nbsp;&nbsp;&nbsp; </div>
 <div class="container__line padding--lg">
-&nbsp;&nbsp;&nbsp; <div class="row">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </div>
-&nbsp;&nbsp;&nbsp; </div>
-<div class="container__card">
-	<div class="row margin--bottom--xs">
-		<div class="col is-12 padding--xs">
-		</div>
-		<div class="container__downloads">
-			<div class="row">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <div class="col is-full padding--top--lg">
+    <div class="row">
+        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
+					</div>
+    </div>
+</div>
+	<div class="container__card">
+    <div class="row margin--bottom--xs">
+        <div class="col is-12 padding--xs">
 					<h4>Brochure</h4>
 					<p style="margin-top: 5px;">Download the brochure below:</p>
 					<ul style="list-style: none; margin-left: 5px; color: #E21216">
 	<li style="margin-bottom: 1rem;">
 		<a href="/files/Sacexhibitions/NLB\_URA\_Brochure.pdf" style="color:#E21216;">English exhibition brochure (4.37mb)</a>
-	</li>
-					</ul>
+	</li></ul>
 			</div>
-	</div></div></div></div></div></div></strong></div></div></div></div></div></section>
+	</div></div></div></div></strong></div></div></div></div></div></div></section>
