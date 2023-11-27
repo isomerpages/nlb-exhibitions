@@ -52,8 +52,8 @@ Past: #c1c1c1
         <td style="background-color: #c1c1c1;"><strong>Children's Workshop | <div>Singapore Architectural Development Through The Lens of Darren Soh<br>
             <br></div></strong></td>
         <td>
-            <p>Date &amp; Time:</p><div>2:00pm - 4:00pm,<div>18 Jan 2024<p></p><div>Venue: <p></p><div>Function Hall, Level 5<div>The URA Centre &amp;<div>Zoom webinar<div>
-        </div></div></div></div></div></div></div></td>
+            <p>Date, Time &amp; Venue:</p><div>2:00pm - 4:00pm,<div>18 Jan 2024<p></p><div>Function Hall, Level 5<div>The URA Centre &amp;<div>Zoom webinar<div>
+        </div></div></div></div></div></div></td>
     </tr>     
     <tr>
         <td style="background-color: #c1c1c1;"><strong>Talk | Curator's Talk<br>
