@@ -150,10 +150,8 @@ This exhibition celebrates the architectural works by one of Singapore's most re
 	<div class="container__card">
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
+					
 					<h4>Brochure</h4>
-			</div>
-    </div>
-        <div class="row">
 					<p style="margin-top: 5px;">Download the brochure below:</p>
 					<ul style="list-style: none; margin-left: 5px; color: #E21216">
 	<li style="margin-bottom: 1rem;">
@@ -161,4 +159,4 @@ This exhibition celebrates the architectural works by one of Singapore's most re
 						</li>
 					</ul>
 			</div>
-	</div></div></strong></div></div></div></div></div></div></div></div></section>
+	</div></div></div></strong></div></div></div></div></div></div></div></div></section>
