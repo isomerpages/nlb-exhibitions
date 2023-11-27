@@ -64,7 +64,7 @@ third_nav_title: Sac Exhibitions
         </div>
 </div>
 
-</strong><div class="container__description"><strong>
+<div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
 					<p><em>To Draw and Idea</em> follows the design evolution of William Lim Associates – W Architects through 19 projects over its 40-year history. This exhibition presents more than 500 architectural drawings - from hand sketches to watercolour renderings, construction drawings - as well as architectural models and documentation, to reveal the firm's design process. These materials have been donated to the Singapore Architecture Collection.</p><p>
@@ -142,7 +142,9 @@ This exhibition celebrates the architectural works by one of Singapore's most re
 				<div class="row">
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
 					</div>
-					
+					 </div></div></li>                         
+                    </ul>
+			</div>
 <div class="container__downloads">
     <div class="row">
         <div class="col is-full padding--top--lg">
@@ -155,4 +157,4 @@ This exhibition celebrates the architectural works by one of Singapore's most re
                     </ul>
 			</div>
 
-</div></div></div></div></li></ul></div></div></li></ul></div></div></div></div></strong></div></div></div></div></div></section>
+</div></div></div></li></ul></div></div></div></div></div></strong></div></div></div></div></section>
