@@ -70,61 +70,9 @@ Past: #c1c1c1
         <td>
             <p>Date, Time &amp; Venue:</p><div>23 Feb 2024<div>2:00pm-4:00pm<p></p><div>Function Hall, Level 5, The URA Centre &amp; Zoom webinar
         </div></div></div></td>
-    </tr>     
-    <tr>
-        <td style="background-color: #c1c1c1;">25 Nov<br>
-            —<br>
-            2:00pm</td>
-        <td>
-            <p>Talk | Malay Manuscript Collection and Early Malay Printing in America and Europe</p>
-            <p><a href="/programmes/talesofthemalayworld/20171125-talk/">The event is over.</a></p>
-        </td>
-    </tr>     
-    <tr>
-        <td style="background-color: #c1c1c1;">2 Dec<br>
-            —<br>
-            2:00pm</td>
-        <td>
-            <p>Talk | Malay Magic and Divination Manuscripts</p>
-            <p><a href="/programmes/talesofthemalayworld/20171202-talk/">The event is over.</a></p>
-        </td>
-    </tr>     
-    <tr>
-        <td style="background-color: #c1c1c1;">2 Dec<br>
-            —<br>
-            6:00pm/8:10pm</td>
-        <td>
-            <p>Talk | Layar Klasik: An Evening of Malay Classic Films</p>
-            <p><a href="/programmes/talesofthemalayworld/20171202-screening/">The event is over.</a></p>
-        </td>
-    </tr>      
-    <tr>
-        <td style="background-color: #c1c1c1;">3 Feb<br>
-            —<br>
-            9:30am</td>
-        <td>
-            <p>Workshop | I Can Compose and Recite Syair!</p>
-            <p><a href="/programmes/talesofthemalayworld/20180203-workshop/">The event is over.</a></p>
-        </td>
-    </tr>     
-    <tr>
-        <td style="background-color: #c1c1c1;">24 Feb<br>
-            —<br>
-            11:00am</td>
-        <td>
-            <p>Talk | Lithography and the Malay Manuscript Tradition</p>
-            <p><a href="/programmes/talesofthemalayworld/20180224-talk/">The event is over.</a></p>
-        </td>
-    </tr>     
-    <tr>
-        <td style="background-color: #c1c1c1;">24 Feb<br>
-            —<br>
-            11:00am</td>
-        <td>
-            <p>Langkah ke Alam Ceritera Melayu bersama DJ 94.2FM Puan Mariam Mas’od</p>
-            <p><a href="/programmes/talesofthemalayworld/20180224-radio/">The event is over.</a></p>
-        </td>
-    </tr>     
+    </tr> 
+        
+         
 </tbody></table>
         </div>
     </div>
