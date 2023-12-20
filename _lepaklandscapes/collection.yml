@@ -1,4 +1,5 @@
 collections:
   lepaklandscapes:
     output: true
-    order: []
+    order:
+      - Lepaklandscapes/.keep
