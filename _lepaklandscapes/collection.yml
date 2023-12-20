@@ -2,6 +2,6 @@ collections:
   lepaklandscapes:
     output: true
     order:
-      - Credits/.keep
-      - Programmes/.keep
       - About/.keep
+      - Programmes/.keep
+      - Credits/.keep
