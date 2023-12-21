@@ -2,6 +2,7 @@ collections:
   current-exhibitions:
     output: true
     order:
+      - Lepak Landscapes/.keep
       - Current Exhibitions.md
       - Singapore Architecture Collection Exhibitions.md
       - punggol-stories.md
