@@ -1,7 +1,0 @@
-collections:
-  lepaklandscapes:
-    output: true
-    order:
-      - About/.keep
-      - Programmes/.keep
-      - Credits/.keep
