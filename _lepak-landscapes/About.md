@@ -4,6 +4,7 @@ permalink: /exhibitions/current-exhibitions/lepaklandscapes/
 variant: markdown
 description: ""
 ---
+<h3><strong>Singapore Alcove </strong></h3>
 <section class="section__about">
 <div class="container__card">
     <div class="row">
