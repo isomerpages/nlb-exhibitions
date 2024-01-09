@@ -118,12 +118,11 @@ Click the links below for the respective image credits.
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/3a_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/en/3a_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="1472" width="1000" src="/images/event-images/punggol-stories-credits/wtm/en/3a_400w.jpg" alt="A black and white photo of 152 feet-tall spire-topped tower of the Church of The Nativity of the Blessed Virgin Mary, located at Upper Serangoon Road." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/Lepak Landscapes/LL4.jpg 400w, /images/event-images/Lepak Landscapes/LL4.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="1472" width="1000" src="/images/event-images/Lepak Landscapes/LL4.jpg" alt="Mount Emily Swimming Pool, c. 1960." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
             <p>Church of The Nativity of the Blessed Virgin Mary, Upper Serangoon Road, 1976<br>
-                National Archives of Singapore<br>
-                19980006212-0045
+                National Archives of Singapore
             </p>
         </div>
     </div>
