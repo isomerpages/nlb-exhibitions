@@ -1,4 +1,5 @@
 collections:
   lepak-landscapes:
     output: true
-    order: []
+    order:
+      - About.md
