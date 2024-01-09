@@ -121,8 +121,8 @@ Click the links below for the respective image credits.
             <img srcset="/images/event-images/Lepak Landscapes/LL4.jpg 400w, /images/event-images/Lepak Landscapes/LL4.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="1472" width="1000" src="/images/event-images/Lepak Landscapes/LL4.jpg" alt="Mount Emily Swimming Pool, c. 1960." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>Church of The Nativity of the Blessed Virgin Mary, Upper Serangoon Road, 1976<br>
-                National Archives of Singapore
+            <p>Mount Emily Swimming Pool, c. 1960<br>
+                Courtesy of Singapore Sports Council
             </p>
         </div>
     </div>
