@@ -4,7 +4,7 @@ permalink: /exhibitions/current-exhibitions/lepaklandscapes/
 variant: markdown
 description: ""
 ---
-<h3><strong>Singapore Alcove </strong></h3>
+<h2><strong>Singapore Alcove </strong></h2>
 <section class="section__about">
 <div class="container__card">
     <div class="row">
@@ -59,7 +59,7 @@ description: ""
 	
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
-					<h2><strong><em>Lepak Landscapes: Life and Leisure in Singapore</em></strong></h2>
+					<h3><strong><em>Lepak Landscapes: Life and Leisure in Singapore</em></strong></h3>
         </div>
     </div>
         <div class="row">
