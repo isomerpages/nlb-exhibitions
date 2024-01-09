@@ -133,7 +133,7 @@ Click the links below for the respective image credits.
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/3b_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/en/3b_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="642" width="1000" src="/images/event-images/punggol-stories-credits/wtm/en/3b_400w.jpg" alt="A digital illustration showing an aerial view of Montfort School and the Church of the Nativity of the Blessed Virgin Mary." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/Lepak Landscapes/LL8.jpg 400w, /images/event-images/Lepak Landscapes/LL8.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="642" width="1000" src="/images/event-images/Lepak Landscapes/LL8.jpg" alt="Advertisement for Hindi film “House No. 44” at Garrick Theatre." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
             <p>Artist's impression of the aerial view of Montfort School and the Church of the Nativity in the 1960s, 2020<br>
