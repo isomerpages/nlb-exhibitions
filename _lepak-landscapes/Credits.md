@@ -40,11 +40,11 @@ Click the links below for the respective image credits.
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/1b_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/en/1b_650w.jpg 650w" sizes="(max-width: 500px) 40vw, 65vw" height="432" width="650" src="/images/event-images/punggol-stories-credits/wtm/en/1b_400w.jpg" alt="Five fisherman pushing a sampan out to sea." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/Lepak Landscapes/LL2.jpg 400w, /images/event-images/Lepak Landscapes/LL2.jpg 650w" sizes="(max-width: 500px) 40vw, 65vw" height="432" width="650" src="/images/event-images/Lepak Landscapes/LL2.jpg" alt="A family perches on the top of their car, eager to catch a glimpse of the New Year Sea Sports, 1963." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>Fishermen pushing a sampan to sea, 1950s<br>
-                Arthur B Reich Collection, National Library, Singapore
+            <p>A family perches on the top of their car, eager to catch a glimpse of the New Year Sea Sports, 1963<br>
+                Ministry of Information and the Arts Collection, National Archives of Singapore<br>19980000446-0003
             </p>
         </div>
     </div>
