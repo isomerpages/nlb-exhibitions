@@ -59,7 +59,7 @@ description: ""
 	
     <div class="row margin--bottom--xs">
         <div class="col is-12 padding--xs">
-            <h3><strong>Lepak Landscapes: Life and Leisure in Singapore</strong></h3>
+					<h3><strong><em>Lepak Landscapes: Life and Leisure in Singapore</em></strong></h3>
         </div>
     </div>
         <div class="row">
