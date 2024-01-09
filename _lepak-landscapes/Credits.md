@@ -90,9 +90,9 @@ Click the links below for the respective image credits.
             <img srcset="/images/event-images/Lepak Landscapes/LL5.jpg 400w, /images/event-images/Lepak Landscapes/LL5.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/LL5.jpg" alt="Alhambra Theatre at Beach Road, 1948." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>Fisherman unloading <em>kupang</em> (sea mussels) from a sampan at Punggol Point, 1985<br>
-                National Archives of Singapore<br>
-                19980005035-0106
+            <p>Alhambra Theatre at Beach Road, 1948<br>
+                Wong Kwan Collection, courtesy of National Archives of Singapore<br>
+                19980005861-0044
             </p>
         </div>
     </div>
