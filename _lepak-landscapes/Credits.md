@@ -154,7 +154,7 @@ Click the links below for the respective image credits.
 
 <h3 id="Happy-Heartlands" style="margin-top: 30px;">Happy Heartlands</h3>
 
-<h5 style="margin: 30px 0 30px 0; color: #000;">Image credits for 组屋族 (The HDB Tribe) by 梁文福 (Liang Wern Fook)</h5>
+<h5 style="margin: 30px 0 30px 0; color: #000;">Image credits </h5>
 
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
