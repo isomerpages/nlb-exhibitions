@@ -159,11 +159,12 @@ Click the links below for the respective image credits.
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/zh/1_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/ZH/1_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="780" width="1000" src="/images/event-images/punggol-stories-credits/wtm/ZH/1_400w.jpg" alt="A black and white photo of a family of five resting in the living room of their five-room HDB flat." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/Lepak Landscapes/LL6.jpg 400w, /images/event-images/Lepak Landscapes/LL6.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="894" width="1000" src="/images/event-images/Lepak Landscapes/LL6.jpg" alt="Big Splash water park in 1984" style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>L-shaped living room in a typical five-room flat, 1975<br>
-                Courtesy of Housing and Development Board
+            <p>Big Splash water park, 1984<br>
+                Ministry of Information and the Arts Collection, National Archives of Singapore<br>
+                19980006749-0050
             </p>
         </div>
     </div>
@@ -174,277 +175,112 @@ Click the links below for the respective image credits.
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/zh/2a_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/ZH/2a_650w.jpg 1000w" sizes="(max-width: 500px) 40vw, 65vw" height="446" width="650" src="/images/event-images/punggol-stories-credits/wtm/ZH/2a_400w.jpg" alt="A cup of black coffee on a saucer and a plate of Chinese pastries lie on newspaper." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/Lepak Landscapes/LL2.jpg 400w, /images/event-images/Lepak Landscapes/LL2.jpg 650w" sizes="(max-width: 500px) 40vw, 65vw" height="432" width="650" src="/images/event-images/Lepak Landscapes/LL2.jpg" alt="A family perches on the top of their car, eager to catch a glimpse of the New Year Sea Sports, 1963." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>Coffee and snacks, 2007<br>
+            <p>A family perches on the top of their car, eager to catch a glimpse of the New Year Sea Sports, 1963<br>
+                Ministry of Information and the Arts Collection, National Archives of Singapore<br>19980000446-0003
+            </p>
+        </div>
+    </div>
+</div>
+
+<hr style="margin: 40px 0 20px 0;">
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+            <img srcset="/images/event-images/Lepak Landscapes/LL1.jpg 400w, /images/event-images/Lepak Landscapes/LL1.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="708" width="1000" src="/images/event-images/Lepak Landscapes/LL1.jpg" alt="Kolek race during the 1954 New Year Sea Sports." style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+            <p>Kolek race during the 1954 New Year Sea Sports<br>
+                  The Straits Times, 2 January 1954, Page 7&nbsp;
+<br>The Straits Times © SPH Media Limited
+            </p>
+        </div>
+    </div>
+</div>
+
+<hr style="margin: 40px 0 20px 0;">
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+            <img srcset="/images/event-images/Lepak Landscapes/LL7.jpg 400w, /images/event-images/Lepak Landscapes/LL7.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/LL7.jpg" alt="Launch of Pasir Ris Sea Sports Centre, 1992." style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+            <p>Launch of Pasir Ris Sea Sports Centre, 1992<br>
+                People's Association Collection, National Archives of Singapore<br>
+                20120000154-0027<br>
+            </p>
+        </div>
+    </div>
+</div>
+
+<hr style="margin: 40px 0 20px 0;">
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+            <img srcset="/images/event-images/Lepak Landscapes/LL5.jpg 400w, /images/event-images/Lepak Landscapes/LL5.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/LL5.jpg" alt="Alhambra Theatre at Beach Road, 1948." style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+            <p>Alhambra Theatre at Beach Road, 1948<br>
+                Wong Kwan Collection, courtesy of National Archives of Singapore<br>
+                19980005861-0044
+            </p>
+        </div>
+    </div>
+</div>
+
+<hr style="margin: 40px 0 20px 0;">
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+            <img srcset="/images/event-images/Lepak Landscapes/LL3.jpg 400w, /images/event-images/Lepak Landscapes/LL3.jpg 650w" sizes="(max-width: 500px) 40vw, 65vw" height="630" width="650" src="/images/event-images/Lepak Landscapes/LL3.jpg" alt="Children frolicking at the raised platform of the Katong Park bathing pagar, 1969." style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+            <p>Children frolicking at the raised platform of the Katong Park bathing pagar, 1969<br>
+                Kim Hocker Collection, courtesy of Jerome Lim, The Long and Winding Road, reproduction not permitted               
+            </p>
+        </div>
+    </div>
+</div>
+
+<hr style="margin: 40px 0 20px 0;">
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+            <img srcset="/images/event-images/Lepak Landscapes/LL4.jpg 400w, /images/event-images/Lepak Landscapes/LL4.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="1472" width="1000" src="/images/event-images/Lepak Landscapes/LL4.jpg" alt="Mount Emily Swimming Pool, c. 1960." style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+            <p>Mount Emily Swimming Pool, c. 1960<br>
+                Courtesy of Singapore Sports Council
+            </p>
+        </div>
+    </div>
+</div>
+
+<hr style="margin: 40px 0 20px 0;">
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+            <img srcset="/images/event-images/Lepak Landscapes/LL8.jpg 400w, /images/event-images/Lepak Landscapes/LL8.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="642" width="1000" src="/images/event-images/Lepak Landscapes/LL8.jpg" alt="Advertisement for Hindi film “House No. 44” at Garrick Theatre." style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+            <p>Advertisement for Hindi film “House No. 44” at Garrick Theatre<br>
                 Collection of the National Library, Singapore
             </p>
         </div>
     </div>
 </div>
 
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/zh/2b_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/ZH/2b_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="830" width="1000" src="/images/event-images/punggol-stories-credits/wtm/ZH/2b_400w.jpg" alt="A no littering sign on the bare concrete wall of a HDB void deck in Yishun. Rows of metal letterboxes are installed under the sign." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Letter boxes at Yishun Block 406, 2023<br>
-                Courtesy of Lee Zheng Yi
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/zh/2c_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/ZH/2c_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/wtm/ZH/2c_400w.jpg" alt="The locked metal gate and wooden door of an HDB flat at the end of a corridor." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Gated HDB flat in Yishun, 2023<br>
-                Courtesy of Lee Zheng Yi
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/zh/2d_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/ZH/2d_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="681" width="1000" src="/images/event-images/punggol-stories-credits/wtm/ZH/2d_400w.jpg" alt="A ground floor lift lobby in Sengkang. A notice board separates an open lift on the left from a closed lift on the right." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Lift lobby in Sengkang, 2023<br>
-                Courtesy of Lee Zheng Yi
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/zh/2e_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/ZH/2e_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/wtm/ZH/2e_400w.jpg" alt="Above a lift door, a digital screen indicates the lift coming down from the tenth floor." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Inside a lift in Yishun, 2023<br>
-                Courtesy of Lee Zheng Yi
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/zh/2f_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/ZH/2f_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="781" width="1000" src="/images/event-images/punggol-stories-credits/wtm/ZH/2f_400w.jpg" alt="A black and white photo of a family of five watches television in the living room of their three-room HDB flat." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>The living room in a typical three-room (Improved) flat.<br>
-                Courtesy of Housing and Development Board
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/zh/3a_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/ZH/3a_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="1500" width="1000" src="/images/event-images/punggol-stories-credits/wtm/ZH/3a_400w.jpg" alt="A mixed variety of potted plants line the corridor of a HDB block in Yishun." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Plants lining the corridor of a block at Yishun Ave 6, 2023<br>
-                Courtesy of Lee Zheng Yi
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/zh/3b_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/ZH/3b_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/wtm/ZH/3b_400w.jpg" alt="A traditional Chinese tear-off calendar showing a large number nine hangs on the wall of a vacated home in Kampong River Valley." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>A calendar on the wall of an evacuated house in Kampong House in Kampong River Valley, 1985<br>
-                Ronni Pinsler Collection, National Archives of Singapore<br>
-                19990007096-026
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/zh/3c_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/ZH/3c_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/wtm/ZH/3c_400w.jpg" alt="A black and white photo of a male staff uses a rotary dial telephone in his office." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>A staff using the telephone in his office, 1964<br>
-                Ministry of Information and the Arts Collection, National Archives of Singapore<br>
-                19980000357-0035
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/zh/4a_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/ZH/4a_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="750" width="1000" src="/images/event-images/punggol-stories-credits/wtm/ZH/4a_400w.jpg" alt="Stacks of canned food items arranged on supermarket shelves with price tags displayed." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Canned food in a supermarket, 2019<br>
-                Laim Kpvinai, CC BY-SA 4.0, via Wikimedia Commons
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/zh/4b_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/ZH/4b_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="1334" width="1000" src="/images/event-images/punggol-stories-credits/wtm/ZH/4b_400w.jpg" alt="Two vintage suitcases stacked on each other, with the top one wide open and empty." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Inside Vintage Suitcases, 2009<br>
-                Salihan, CC BY-NC-ND 2.0, via Flickr
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/zh/5a_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/ZH/5a_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="1417" width="1000" src="/images/event-images/punggol-stories-credits/wtm/ZH/5a_400w.jpg" alt="A cluttered storeroom in the office of Messrs Quek Hwa Heng Engineering, featuring shelves of random tools and supplies." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Office of Messrs Quek Hwa Heng Engineering works at 168 Jalan Lam Sam, 1986<br>
-                Housing and Development Board Collection, National Archives of Singapore<br>
-                20150000008-0017
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/zh/6a_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/ZH/6a_920w.jpg 920w" sizes="(max-width: 500px) 40vw, 92vw" height="526" width="920" src="/images/event-images/punggol-stories-credits/wtm/ZH/6a_400w.jpg" alt="A wall of overlapping paper notices promoting rooms for rent." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Wanted, 2010<br>
-                Richard Cawood<br>
-                CC BY-NC 2.0, via Flickr
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/zh/6b_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/ZH/6b_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="1641" width="1000" src="/images/event-images/punggol-stories-credits/wtm/ZH/6b_400w.jpg" alt="Several printed advertisements of real estate agents overlap on a notice board at a void deck in Yishun." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Notice board at a void deck in Yishun, 2023<br>
-                Courtesy of Lee Zheng Yi
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/zh/7a_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/ZH/7a_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="665" width="1000" src="/images/event-images/punggol-stories-credits/wtm/ZH/7a_400w.jpg" alt="Passers-by look up at rows of bird cages hanging from a void deck at Clementi." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Bird Singing Hangout at Clementi, 2013<br>
-                ©Tomohisa Miyauchi
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/zh/7b_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/ZH/7b_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="1500" width="1000" src="/images/event-images/punggol-stories-credits/wtm/ZH/7b_400w.jpg" alt="A girl in her workout hoodie crosses the traffic light with her white dog." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>A girl going on an evening run with her dog, 2023<br>
-                Courtesy of Lee Zheng Yi
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/zh/7c_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/ZH/7c_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="1500" width="1000" src="/images/event-images/punggol-stories-credits/wtm/zh/7c_400w.jpg" alt="Air-con units underneath bedroom windows stand out from a high-rise block in Yishun." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Yishun Block 392, 2023<br>
-                Courtesy of Lee Zheng Yi
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/ZH/8a_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/ZH/8a_768w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="512" width="768" src="/images/event-images/punggol-stories-credits/wtm/ZH/7c_400w.jpg" alt="A bottom-up view of an HDB flat at Ghim Moh estate with bright blue sky and white fluffy clouds in the background." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>A block of Housing Development Board flat at Ghim Moh estate, 1989<br>
-                Ministry of Information and the Arts Collection, National Archives of Singapore<br>
-                19980007516-0028
-            </p>
-        </div>
-    </div>
-</div>
 
 <p><a href="#index">Return back to Index</a></p>
+
 
 <hr style="margin: 40px 0 20px 0; height: 10px;">
 
