@@ -2,8 +2,8 @@ collections:
   current-exhibitions:
     output: true
     order:
-      - Lepak Landscapes.md
       - Current Exhibitions.md
+      - Lepak Landscapes.md
       - Singapore Architecture Collection Exhibitions.md
       - punggol-stories.md
       - beyond-headlines.md
