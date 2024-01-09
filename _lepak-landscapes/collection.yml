@@ -2,5 +2,5 @@ collections:
   lepak-landscapes:
     output: true
     order:
-      - Credits.md
       - About.md
+      - Credits.md
