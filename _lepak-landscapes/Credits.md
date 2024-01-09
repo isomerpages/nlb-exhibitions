@@ -29,7 +29,7 @@ Click the links below for the respective image credits.
         <div class="col is-two-thirds">
             <p>Big Splash water park, 1984<br>
                 Ministry of Information and the Arts Collection, National Archives of Singapore<br>
-                19980005250-0045
+                19980006749-0050
             </p>
         </div>
     </div>
