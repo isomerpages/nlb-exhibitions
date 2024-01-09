@@ -39,9 +39,8 @@ description: ""
 <div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
-        <p>Step into Singapore Alcove, where the Singapore Collection is seamlessly integrated within thematic exhibits on our heritage and literature.</p><div>The inaugural exhibition, <em>Lepak Landscapes: Life and Leisure in Singapore, </em> delves into the dynamic evolution of leisure in Singapore through time and the spaces associated with it.<p></p>
-        </div>
-</div>
+        <p>Step into Singapore Alcove, where the Singapore Collection is seamlessly integrated within thematic exhibits on our heritage and literature.</p><p>The inaugural exhibition, <em>Lepak Landscapes: Life and Leisure in Singapore, </em> delves into the dynamic evolution of leisure in Singapore through time and the spaces associated with it.</p>
+			</div>
 <div class="container__line padding--lg">
     <div class="row">
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
@@ -75,8 +74,7 @@ description: ""
 <div class=">
     <div class="row">
         <div class="col is-full padding--top--lg">
-            <p>What comes to mind when you hear lepak?</p>
-
+					<p>What comes to mind when you hear <em>lepak?</em></p>
             <p>Explore <em>Lepak Landscapes: Life and Leisure in Singapore,</em> a digital interactive exhibition, and reimagine leisure in Singapore! Uncover the stories behind iconic leisure spaces and activities in four vibrant sections:</p>
             <p>
                 </p><ul>
