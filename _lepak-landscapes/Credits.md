@@ -103,11 +103,11 @@ Click the links below for the respective image credits.
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/2c_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/en/2c_650w.jpg 650w" sizes="(max-width: 500px) 40vw, 65vw" height="630" width="650" src="/images/event-images/punggol-stories-credits/wtm/en/2c_400w.jpg" alt="A black and white photo of a kelong (offshore fishing platform), consisting of a thatched house built on stilts. It stands in the midst of calm sea waters." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/Lepak Landscapes/LL3.jpg 400w, /images/event-images/Lepak Landscapes/LL3.jpg 650w" sizes="(max-width: 500px) 40vw, 65vw" height="630" width="650" src="/images/event-images/Lepak Landscapes/LL3.jpg" alt="Children frolicking at the raised platform of the Katong Park bathing pagar, 1969." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>Kelong, 1950s<br>
-                Courtesy of Sons of David “Danny” Daniel, National Library, Singapore                
+            <p>Children frolicking at the raised platform of the Katong Park bathing pagar, 1969<br>
+                Kim Hocker Collection, courtesy of Jerome Lim, The Long and Winding Road, reproduction not permitted               
             </p>
         </div>
     </div>
