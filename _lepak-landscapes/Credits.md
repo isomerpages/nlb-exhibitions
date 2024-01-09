@@ -136,163 +136,13 @@ Click the links below for the respective image credits.
             <img srcset="/images/event-images/Lepak Landscapes/LL8.jpg 400w, /images/event-images/Lepak Landscapes/LL8.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="642" width="1000" src="/images/event-images/Lepak Landscapes/LL8.jpg" alt="Advertisement for Hindi film “House No. 44” at Garrick Theatre." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>Artist's impression of the aerial view of Montfort School and the Church of the Nativity in the 1960s, 2020<br>
-                From <em>My Father's Kampung: A History Of Aukang And Punggol</em> by Shawn Seah
+            <p>Advertisement for Hindi film “House No. 44” at Garrick Theatre<br>
+                Collection of the National Library, Singapore
             </p>
         </div>
     </div>
 </div>
 
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/3c_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/en/3c_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="662" width="1000" src="/images/event-images/punggol-stories-credits/wtm/en/3c_400w.jpg" alt="A group of congregants seated on pews during a church service at the Church of The Nativity of the Blessed Virgin Mary." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Congregation at the Nativity Church, 1970s<br>
-                Courtesy of Church of The Nativity of the Blessed Virgin Mary
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/3d_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/en/3d_650w.jpg 650w" sizes="(max-width: 500px) 40vw, 65vw" height="487" width="650" src="/images/event-images/punggol-stories-credits/wtm/en/3d_400w.jpg" alt="Sarongs (cloth) of diverse patterns hang on a clothesline outside a zinc-roofed house in Kampong Lorong Buangkok." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Sarongs drying on a line outside a house in Kampong Lorong Buangkok, 2007<br>
-                Liesel Strauss Collection, National Library Board, Singapore
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/4a_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/en/4a_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="726" width="1000" src="/images/event-images/punggol-stories-credits/wtm/en/4a_400w.jpg" alt="A black and white photo of Mr William Lawrence Soma Basapa in a suit and tie standing behind Apay, his pet Bengal Tiger." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>William Lawrence Soma Basapa and his favourite pet Bengal Tiger, Apay, c. 1930s<br>
-                Courtesy of Mr Lawrence Basapa                
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/4c_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/en/4c_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="750" width="1000" src="/images/event-images/punggol-stories-credits/wtm/en/4c_400w.jpg" alt="A black and white photo of six men and a boy holding up a 30-foot-long python at the Punggol Zoo." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Measuring a 30-foot python at the Punggol Zoo, c. 1930s<br>
-                Courtesy of Lawrence Basapa
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/4d_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/en/4d_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="747" width="1000" src="/images/event-images/punggol-stories-credits/wtm/en/4d_400w.jpg" alt="A black and white photo of flamingos and waterfowls swimming in a pond at the Pungool Zoo." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Flamingos and waterfowls at the Punggol Zoo, c. 1930s<br>
-                Courtesy of Lawrence Basapa                
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/5b_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/en/5b_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="598" width="1000" src="/images/event-images/punggol-stories-credits/wtm/en/5b_400w.jpg" alt="A black and white World War Two photo showing two rows of Japanese soldiers marching across the Johor Causeway into Singapore." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Imperial guards of the Japanese Army crossing the Johor Causeway, 1942<br>
-                Lim Kheng Chye Collection, National Archives of Singapore<br>
-                20060000785-0012               
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/5c_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/en/5c_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="686" width="1000" src="/images/event-images/punggol-stories-credits/wtm/en/5c_400w.jpg" alt="A black and white sketch of five shirtless Chinese men digging a large grave for themselves in a clearing while five Japanese soldiers look on." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Sketch of victims digging their own graves from <em>Chop Suey</em> by Liu Kang, 1946<br> 
-                Reproduced with permission of the Liu Kang family                            
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/6a_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/en/6a_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/wtm/en/6a_400w.jpg" alt="A black and white photo of the sandy seashore at Punggol Beach. A few sampans and standing wooden poles are scattered across the sand in the shallow water of the sea." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Ponggol beach, 1993<br>
-                Lee Kip Lin Collection, National Library, Singapore     
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/6b_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/en/6b_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/wtm/en/6b_400w.jpg" alt="A black and white photo of the sea, with sand banks of Punggol beach in the foreground. Around 18 pleasure boats are on the water." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>View across the Straits of Johor at Punggol Point, 1993<br>
-                Lee Kip Lin Collection, National Library, Singapore
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/en/6c_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/en/6c_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/wtm/en/6c_400w.jpg" alt="A black and white photo where a handful of visitors explore the Punggol jetty while some boats lie on the water a short distance away to the right." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Punggol Point, 1993<br>
-                Lee Kip Lin Collection, National Library, Singapore
-            </p>
-        </div>
-    </div>
-</div>
 
 <p><a href="#index">Return back to Index</a></p>
 
@@ -302,7 +152,7 @@ Click the links below for the respective image credits.
 
 <section>
 
-<h3 id="chinese-poem" style="margin-top: 30px;">Chinese poem</h3>
+<h3 id="Happy-Heartlands" style="margin-top: 30px;">Happy Heartlands</h3>
 
 <h5 style="margin: 30px 0 30px 0; color: #000;">Image credits for 组屋族 (The HDB Tribe) by 梁文福 (Liang Wern Fook)</h5>
 
