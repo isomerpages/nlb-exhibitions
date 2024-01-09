@@ -49,7 +49,7 @@ image: /images/event-images/Sacexhibitions/banner_exh_Nov.png
 <div class="container__exh__description">
     <div class="row is-multiline">
         <div class="col">
-            <p>Step into ingapore Alcove, where the Singapore Collection is seamlessly integrated within thematic exhibits on our heritage and literature.</p><p>The inaugural exhibition, <em>Lepak Landscapes: Life and Leisure in Singapore,</em> delves into the dynamic evolution of leisure in Singapore through time and the spaces associated with it.</p>
+            <p>Step into Singapore Alcove, where the Singapore Collection is seamlessly integrated within thematic exhibits on our heritage and literature.</p><p>The inaugural exhibition, <em>Lepak Landscapes: Life and Leisure in Singapore,</em> delves into the dynamic evolution of leisure in Singapore through time and the spaces associated with it.</p>
 
 					<a href="/exhibitions/current-exhibitions/sacexhibitions/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
 </div>
