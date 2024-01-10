@@ -679,19 +679,173 @@ Arthur B Reich Collection, National Archives of Singapore
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/Lepak Landscapes/RT8.jpg 400w, /images/event-images/Lepak Landscapes/RT8.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/RT8.jpg" alt="A man making murtabak along Arab Street, 1991" style="border: 1px solid #000;">
+            <img srcset="/images/event-images/Lepak Landscapes/FVP8.jpg 400w, /images/event-images/Lepak Landscapes/FVP8.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/FVP8.jpg" alt="A family perches on the top of their car, eager to catch a glimpse of the New Year Sea Sports, 1963" style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-					<p>A man making <em>murtabak</em> along Arab Street, 1991<br>
+					<p>A family perches on the top of their car, eager to catch a glimpse of the New Year Sea Sports, 1963<br>
                 Ministry of Information and the Arts Collection, National Archives of Singapore<br>
-                19980006562-006
+                19980000446-0003
             </p>
         </div>
     </div>
 </div>
 
+<hr style="margin: 40px 0 20px 0;">
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+            <img srcset="/images/event-images/Lepak Landscapes/FVP9.jpg 400w, /images/event-images/Lepak Landscapes/FVP9.jpg 1000w" sizes="(max-width: 500px) 40vw, 51vw" height="680" width="512" src="/images/event-images/Lepak Landscapes/FVP9.jpg" alt="National Library Central Lending Section, 2004" style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+            <p>National Library Central Lending Section, 2004<br>
+                Collection of National Library, Singapore 
+            </p>
+        </div>
+    </div>
+</div>
+	
 <p><a href="#index">Return back to Index</a></p>
 
 <hr style="margin: 40px 0 20px 0; height: 10px;">
 
 </section>
+
+<h5 style="margin: 30px 0 30px 0; color: #000;">Image credits for left video projection</h5>
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+            <img srcset="/images/event-images/Lepak Landscapes/FVP1.jpg 400w, /images/event-images/Lepak Landscapes/FVP1.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/FVP1.jpg" alt="A kopitiam at Kampong River Valley Close where fresh ground coffee would be prepared in the morning, 1982" style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+            <p>A kopitiam at Kampong River Valley Close where fresh ground coffee would be prepared in the morning, 1982<br>
+               Singapore Tourist Promotion Board Collection, National Archives of Singapore<br>
+                19990008744-0073
+            </p>
+        </div>
+    </div>
+</div>
+
+<hr style="margin: 40px 0 20px 0;">
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+            <img srcset="/images/event-images/Lepak Landscapes/FVP2.jpg 400w, /images/event-images/Lepak Landscapes/FVP2.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="672" width="1000" src="/images/event-images/Lepak Landscapes/FVP2.jpg" alt="Arab Street, 1979." style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+            <p>Arab Street, 1979<br>© Urban Redevelopment Authority</p>
+        </div>
+    </div>
+</div>
+
+<hr style="margin: 40px 0 20px 0;">
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+            <img srcset="/images/event-images/Lepak Landscapes/FVP3.jpg 400w, /images/event-images/Lepak Landscapes/FVP3.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="600" width="1000" src="/images/event-images/Lepak Landscapes/FVP3.jpg" alt="Flower stall at a pasar malam on Orchard Road, 1960s" style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+            <p>Flower stall at a pasar malam on Orchard Road, 1960s<br>Dave Barker Collection, National Library, Singapore
+            </p>
+        </div>
+    </div>
+</div>
+
+<hr style="margin: 40px 0 20px 0;">
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+            <img srcset="/images/event-images/Lepak Landscapes/FVP4.jpg 400w, /images/event-images/Lepak Landscapes/FVP4.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="670" width="1000" src="/images/event-images/Lepak Landscapes/FVP4.jpg" alt="Residents playing Chinese chess at Telok Blangah, 1987" style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+            <p>Residents playing Chinese chess at Telok Blangah, 1987<br>Ministry of Information and the Arts Collection, National Archives of Singapore<br>19980000999-0096
+            </p>
+        </div>
+    </div>
+</div>
+
+<hr style="margin: 40px 0 20px 0;">
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+					<img srcset="/images/event-images/Lepak Landscapes/FVP.jpg 400w, /images/event-images/Lepak Landscapes/RT5.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/FVP5.jpg" alt="Malay <em>koleks</em> at the Singapore Harbour off Collyer Quay, 1 January 1939" style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+            <p>Malay <em>koleks</em> at the Singapore Harbour off Collyer Quay, 1 January 1939<br>
+                Edwin A. Brown Collection, National Library, Singapore
+            </p>
+        </div>
+    </div>
+</div>
+
+<hr style="margin: 40px 0 20px 0;">
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+            <img srcset="/images/event-images/Lepak Landscapes/FVP6.jpg 400w, /images/event-images/Lepak Landscapes/FVP6.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/FVP6.jpg" alt="Sporting Westlake Football Club: 10th Anniversary" style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+					<p><em>Sporting Westlake Football Club: 10th Anniversary</em><br>Singapore: Singapore Westlake Football Club, 1983<br>Collection of National Library, Singapore
+            </p>
+        </div>
+    </div>
+</div>
+
+<hr style="margin: 40px 0 20px 0;">
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+            <img srcset="/images/event-images/Lepak Landscapes/FVP7.jpg 400w, /images/event-images/Lepak Landscapes/FVP7.jpg 1000w" sizes="(max-width: 500px) 40vw, 51vw" height="680" width="512" src="/images/event-images/Lepak Landscapes/FVP7.jpg" alt="Potrait of Chia Boon Leong Collection at the London Olympics, 1948" style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+            <p>Potrait of Chia Boon Leong Collection at the London Olympics, 1948<br>
+                Chia Boon Leong Collection, National Archives of Singapore<br>20140000149-0006
+            </p>
+        </div>
+    </div>
+</div>
+
+<hr style="margin: 40px 0 20px 0;">
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+            <img srcset="/images/event-images/Lepak Landscapes/FVP8.jpg 400w, /images/event-images/Lepak Landscapes/FVP8.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/FVP8.jpg" alt="A family perches on the top of their car, eager to catch a glimpse of the New Year Sea Sports, 1963" style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+					<p>A family perches on the top of their car, eager to catch a glimpse of the New Year Sea Sports, 1963<br>
+                Ministry of Information and the Arts Collection, National Archives of Singapore<br>
+                19980000446-0003
+            </p>
+        </div>
+    </div>
+</div>
+
+<hr style="margin: 40px 0 20px 0;">
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+            <img srcset="/images/event-images/Lepak Landscapes/FVP9.jpg 400w, /images/event-images/Lepak Landscapes/FVP9.jpg 1000w" sizes="(max-width: 500px) 40vw, 51vw" height="680" width="512" src="/images/event-images/Lepak Landscapes/FVP9.jpg" alt="National Library Central Lending Section, 2004" style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+            <p>National Library Central Lending Section, 2004<br>
+                Collection of National Library, Singapore 
+            </p>
+        </div>
+    </div>
+</div>
+	
+<p><a href="#index">Return back to Index</a></p>
+
+<hr style="margin: 40px 0 20px 0; height: 10px;">
+
+
+
