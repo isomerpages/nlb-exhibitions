@@ -42,6 +42,7 @@ description: ""
         <div class="col is-full padding--top--lg">
         <p>Step into Singapore Alcove, where the Singapore Collection is seamlessly integrated within thematic exhibits on our heritage and literature.</p><p>The inaugural exhibition, <em>Lepak Landscapes: Life and Leisure in Singapore, </em> delves into the dynamic evolution of leisure in Singapore through time and the spaces associated with it.</p>
 			</div>
+	</div>
 <div class="container__line padding--lg">
     <div class="row">
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
@@ -91,4 +92,4 @@ description: ""
             <p>In each section, visitors can interact with a <strong>digital storybook</strong>crafted from the rich resources of the National Library and National Archives, curated <strong>artefact displays, book recommendations</strong> and a <strong>quiz</strong> to discover your <em>lepak</em> personality!</p>
 
         
-</div></div></li></ul></div></div></div></div></div></section>
+</div></div></li></ul></div></div></div></div></section>
