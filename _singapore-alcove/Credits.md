@@ -226,7 +226,7 @@ Arthur B Reich Collection, National Archives of Singapore
         <div class="col is-two-thirds">
             <p>Playground near Bedok Fitness Park, 1982<br>
                 Ministry of Information and the Arts Collection, National Archives of Singapore<br>
-                19980005861-0044
+                19980006074-0104
             </p>
         </div>
     </div>
@@ -237,11 +237,11 @@ Arthur B Reich Collection, National Archives of Singapore
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/Lepak Landscapes/LL3.jpg 400w, /images/event-images/Lepak Landscapes/LL3.jpg 650w" sizes="(max-width: 500px) 40vw, 65vw" height="630" width="650" src="/images/event-images/Lepak Landscapes/LL3.jpg" alt="Children frolicking at the raised platform of the Katong Park bathing pagar, 1969." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/Lepak Landscapes/HH6.jpg 400w, /images/event-images/Lepak Landscapes/HH6.jpg 650w" sizes="(max-width: 500px) 40vw, 65vw" height="630" width="650" src="/images/event-images/Lepak Landscapes/HH6.jpg" alt="Block 78 Moh Guan Terrace, 2007." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>Children frolicking at the raised platform of the Katong Park bathing pagar, 1969<br>
-                Kim Hocker Collection, courtesy of Jerome Lim, The Long and Winding Road, reproduction not permitted               
+            <p>Block 78 Moh Guan Terrace, 2007<br>
+                Collection of National Library, Singapore               
             </p>
         </div>
     </div>
@@ -252,26 +252,10 @@ Arthur B Reich Collection, National Archives of Singapore
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/Lepak Landscapes/LL4.jpg 400w, /images/event-images/Lepak Landscapes/LL4.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="1472" width="1000" src="/images/event-images/Lepak Landscapes/LL4.jpg" alt="Mount Emily Swimming Pool, c. 1960." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/Lepak Landscapes/HH7.jpg 400w, /images/event-images/Lepak Landscapes/HH7.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="1472" width="1000" src="/images/event-images/Lepak Landscapes/HH7.jpg" alt="Postcard of a pasar malam in Chinatown, 1960s-90s" style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>Mount Emily Swimming Pool, c. 1960<br>
-                Courtesy of Singapore Sports Council
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/Lepak Landscapes/LL8.jpg 400w, /images/event-images/Lepak Landscapes/LL8.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="642" width="1000" src="/images/event-images/Lepak Landscapes/LL8.jpg" alt="Advertisement for Hindi film “House No. 44” at Garrick Theatre." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Advertisement for Hindi film “House No. 44” at Garrick Theatre<br>
-                Collection of the National Library, Singapore
+            <p>Postcard of a pasar malam in Chinatown, 1960s-90s<br>Koh Seow Chuan Collection, National Library, Singapore
             </p>
         </div>
     </div>
@@ -287,14 +271,14 @@ Arthur B Reich Collection, National Archives of Singapore
 
 <section>
 
-<h3 id="malay-poem" style="margin-top: 30px;">Malay poem</h3>
+<h3 id="malay-poem" style="margin-top: 30px;">Retail Therapy</h3>
 
-<h5 style="margin: 30px 0 30px 0; color: #000;">Image credits for <em>Kenangan Tinggal Di Rumah Deret</em> (Memories of Living in a Rowhouse) by Norisah A Bakar</h5>
+<h5 style="margin: 30px 0 30px 0; color: #000;">Image credits</h5>
 
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/ma/1a_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/MA/1a_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/wtm/MA/1a_400w.jpg" alt="A black and white photo of a big banner hung across a newly paved road between two posts. It announces the official opening of Jalan Nanas (Nanas road)." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/punggol-stories-credits/wtm/ma/1a_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/MA/1a_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/wtm/MA/1a_400w.jpg" alt="Postcard of a rattan shop in Kampong Gelam, 1980" style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
             <p>Jalan Nanas, off Jalan Eunos, opened by Assemblyman for Geylang Serai Rahamat bin Kenap, 1965<br>
