@@ -1012,24 +1012,10 @@ Arthur B Reich Collection, National Archives of Singapore
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/Lepak Landscapes/LVP10.jpg 400w, /images/event-images/Lepak Landscapes/LVP10.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/LVP10.jpg" alt="Our Home Magazine" style="border: 1px solid #000;">
+            <img srcset="/images/event-images/Lepak Landscapes/RVP10.png 400w, /images/event-images/Lepak Landscapes/RVP10.png 1000w" sizes="(max-width: 500px) 40vw, 51vw" height="680" width="512" src="/images/event-images/Lepak Landscapes/RVP10.png" alt="Our Home Magazine" style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-					<p><em>Our Home Magazine</em><br>Singapore: Housing and Development Board, 1975<br>Collection of National Library, Singapore <br>RSING English 050 OH
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/Lepak Landscapes/LVP11.jpg 400w, /images/event-images/Lepak Landscapes/LVP11.jpg 1000w" sizes="(max-width: 500px) 40vw, 51vw" height="680" width="512" src="/images/event-images/Lepak Landscapes/LVP11.jpg" alt="Arab Street towards Victoria Street, 1983" style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-					<p>Arab Street towards Victoria Street, 1983<br>© Urban Redevelopment Authority
+					<p><em>Our Home Magazine</em><br>Singapore: Housing and Development Board, 1975<br>Collection of National Library, Singapore<br>RSING English 050 OH
             </p>
         </div>
     </div>
