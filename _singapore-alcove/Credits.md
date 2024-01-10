@@ -866,8 +866,7 @@ Arthur B Reich Collection, National Archives of Singapore
             <img srcset="/images/event-images/Lepak Landscapes/LVP11.jpg 400w, /images/event-images/Lepak Landscapes/LVP11.jpg 1000w" sizes="(max-width: 500px) 40vw, 51vw" height="680" width="512" src="/images/event-images/Lepak Landscapes/LVP11.jpg" alt="Arab Street towards Victoria Street, 1983" style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-					<p><em>The FAS Official Soccer Album '93</em><br>Singapore: Musset Publications Pte Ltd, 1993<br>
-                Collection of National Library, Singapore 
+					<p>Arab Street towards Victoria Street, 1983<br>© Urban Redevelopment Authority
             </p>
         </div>
     </div>
