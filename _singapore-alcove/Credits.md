@@ -792,7 +792,7 @@ Arthur B Reich Collection, National Archives of Singapore
             <img srcset="/images/event-images/Lepak Landscapes/LVP6.jpg 400w, /images/event-images/Lepak Landscapes/LVP6.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/LVP6.jpg" alt="Chia Boon Leong introducing players from the Football Association of Singapore team, 1978" style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-					<p>Chia Boon Leong introducing players from the Football Association of Singapore team, 1978<br>Chia Boon<br>Collection of National Library, Singapore
+					<p>Chia Boon Leong introducing players from the Football Association of Singapore team, 1978<br>Chia Boon Leong Collection, National Archives of Singapore<br>20140000148-0060
             </p>
         </div>
     </div>
@@ -803,11 +803,11 @@ Arthur B Reich Collection, National Archives of Singapore
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/Lepak Landscapes/FVP7.jpg 400w, /images/event-images/Lepak Landscapes/FVP7.jpg 1000w" sizes="(max-width: 500px) 40vw, 51vw" height="680" width="512" src="/images/event-images/Lepak Landscapes/FVP7.jpg" alt="Potrait of Chia Boon Leong Collection at the London Olympics, 1948" style="border: 1px solid #000;">
+            <img srcset="/images/event-images/Lepak Landscapes/LVP7.jpg 400w, /images/event-images/Lepak Landscapes/LVP7.jpg 1000w" sizes="(max-width: 500px) 40vw, 51vw" height="680" width="512" src="/images/event-images/Lepak Landscapes/LVP7.jpg" alt="Football Match between Rovers and R.E.M.E at Jalan Besar Stadium, 1947" style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>Potrait of Chia Boon Leong Collection at the London Olympics, 1948<br>
-                Chia Boon Leong Collection, National Archives of Singapore<br>20140000149-0006
+            <p>Football Match between Rovers and R.E.M.E at Jalan Besar Stadium, 1947<br>
+                Chia Boon Leong Collection, National Archives of Singapore<br>20140000148-0062
             </p>
         </div>
     </div>
@@ -818,12 +818,12 @@ Arthur B Reich Collection, National Archives of Singapore
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/Lepak Landscapes/FVP8.jpg 400w, /images/event-images/Lepak Landscapes/FVP8.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/FVP8.jpg" alt="A family perches on the top of their car, eager to catch a glimpse of the New Year Sea Sports, 1963" style="border: 1px solid #000;">
+            <img srcset="/images/event-images/Lepak Landscapes/LVP8.jpg 400w, /images/event-images/Lepak Landscapes/LVP8.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/LVP8.jpg" alt="Spectators at the Malaya Cup final at Jalan Besar Stadium, 1963" style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-					<p>A family perches on the top of their car, eager to catch a glimpse of the New Year Sea Sports, 1963<br>
+					<p>Spectators at the Malaya Cup final at Jalan Besar Stadium, 1963<br>
                 Ministry of Information and the Arts Collection, National Archives of Singapore<br>
-                19980000446-0003
+                20120000434-0013
             </p>
         </div>
     </div>
