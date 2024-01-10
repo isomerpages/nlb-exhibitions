@@ -849,12 +849,10 @@ Arthur B Reich Collection, National Archives of Singapore
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/Lepak Landscapes/LVP10.jpg 400w, /images/event-images/Lepak Landscapes/LVP8.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/LVP10.jpg" alt="Tub racing at the 1954 New Year Sea Sports" style="border: 1px solid #000;">
+            <img srcset="/images/event-images/Lepak Landscapes/LVP10.jpg 400w, /images/event-images/Lepak Landscapes/LVP10.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/LVP10.jpg" alt="Tub racing at the 1954 New Year Sea Sports" style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-					<p>Spectators at the Malaya Cup final at Jalan Besar Stadium, 1963<br>
-                Ministry of Information and the Arts Collection, National Archives of Singapore<br>
-                20120000434-0013
+					<p><em>The Straits Times,</em> 2 January 1954, Page 7<br>The Straits Times © SPH Media Limited
             </p>
         </div>
     </div>
@@ -865,7 +863,7 @@ Arthur B Reich Collection, National Archives of Singapore
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/Lepak Landscapes/LVP9.PNG 400w, /images/event-images/Lepak Landscapes/LVP9.PNG 1000w" sizes="(max-width: 500px) 40vw, 51vw" height="680" width="512" src="/images/event-images/Lepak Landscapes/LVP9.PNG" alt="The FAS Official Soccer Album '93" style="border: 1px solid #000;">
+            <img srcset="/images/event-images/Lepak Landscapes/LVP11.jpg 400w, /images/event-images/Lepak Landscapes/LVP11.jpg 1000w" sizes="(max-width: 500px) 40vw, 51vw" height="680" width="512" src="/images/event-images/Lepak Landscapes/LVP11.jpg" alt="Arab Street towards Victoria Street, 1983" style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
 					<p><em>The FAS Official Soccer Album '93</em><br>Singapore: Musset Publications Pte Ltd, 1993<br>
