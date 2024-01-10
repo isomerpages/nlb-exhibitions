@@ -721,7 +721,7 @@ Arthur B Reich Collection, National Archives of Singapore
         <div class="col is-two-thirds">
             <p>An artist and her daughter sketching the scenery of Alkaff Lake Gardens, 1930<br>
                Collection of National Archives of Singapore<br>
-                19990008744-0073
+                19980005029-0055
             </p>
         </div>
     </div>
