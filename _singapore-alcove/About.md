@@ -4,7 +4,6 @@ permalink: /exhibitions/current-exhibitions/lepaklandscapes/
 variant: markdown
 description: ""
 ---
-<h2><strong>Singapore Alcove </strong></h2>
 <section class="section__about">
 <div class="container__card">
     <div class="row">
@@ -17,6 +16,8 @@ description: ""
             <img srcset="/images/event-images/punggol-stories/sing_01_400w.jpg 400w, /images/event-images/punggol-stories/sing_01_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="675" width="1000" src="/images/event-images/punggol-stories/sing_01_400w.jpg" alt="A photo of the Singaporium exhibition. Walls feature reproductions of books and photos. In the foreground, there is a sculpture of frosted acrylic tubes that light up. Visitors are exploring the content and the sculpture.">
         </div>
     </div>
+	<div>
+		<h2><strong>Singapore Alcove </strong></h2>
         <div class="row">
             <div class="col" style="border-top: 10px solid #E21216; border-bottom: 5px solid #E21216;">
                 <ul style="list-style: none; margin-left: 0px;">
@@ -96,4 +97,4 @@ description: ""
             <p>In each section, visitors can interact with a <strong>digital storybook</strong>crafted from the rich resources of the National Library and National Archives, curated <strong>artefact displays, book recommendations</strong> and a <strong>quiz</strong> to discover your <em>lepak</em> personality!</p>
 
         
-</div></div></li></ul></div></div></div></div></section>
+</div></div></li></ul></div></div></div></div></div></section>
