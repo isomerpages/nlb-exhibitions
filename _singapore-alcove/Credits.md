@@ -944,8 +944,7 @@ Arthur B Reich Collection, National Archives of Singapore
 					<img srcset="/images/event-images/Lepak Landscapes/RVP5.jpg 400w, /images/event-images/Lepak Landscapes/RVP5.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/RVP5.jpg" alt="A man making murtabak along Arab Street, 1991" style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>Robinsons, 1950s<br>
-                RAFSA Collection, National Archives of Singapore
+					<p>A man making <em>murtabak</em> along Arab Street, 1991<br>Ministry of Information and the Arts Collection, National Archives of Singapore<br>19980006562-0063
             </p>
         </div>
     </div>
