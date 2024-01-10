@@ -875,3 +875,170 @@ Arthur B Reich Collection, National Archives of Singapore
 <p><a href="#index">Return back to Index</a></p>
 
 <hr style="margin: 40px 0 20px 0; height: 10px;">
+
+
+
+<h5 style="margin: 30px 0 30px 0; color: #000;">Image credits for right video projection</h5>
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+            <img srcset="/images/event-images/Lepak Landscapes/LVP1.jpg 400w, /images/event-images/Lepak Landscapes/LVP1.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/LVP1.jpg" alt="An artist and her daughter sketching the scenery of Alkaff Lake Gardens, 1930" style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+            <p>An artist and her daughter sketching the scenery of Alkaff Lake Gardens, 1930<br>
+               Collection of National Archives of Singapore<br>
+                19980005029-0055
+            </p>
+        </div>
+    </div>
+</div>
+
+<hr style="margin: 40px 0 20px 0;">
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+            <img srcset="/images/event-images/Lepak Landscapes/LVP2.jpg 400w, /images/event-images/Lepak Landscapes/LVP2.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="672" width="1000" src="/images/event-images/Lepak Landscapes/LVP2.jpg" alt="Boating at Alkaff Lake Garden, 1950s" style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+            <p>Boating at Alkaff Lake Garden, 1950s<br>Singapore Federation of Chinese Clan Associations Collection, National Archives of Singapore<br>
+                19980005839-0007</p>
+        </div>
+    </div>
+</div>
+
+<hr style="margin: 40px 0 20px 0;">
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+            <img srcset="/images/event-images/Lepak Landscapes/LVP3.jpg 400w, /images/event-images/Lepak Landscapes/LVP3.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="600" width="1000" src="/images/event-images/Lepak Landscapes/LVP3.jpg" alt="Passengers arrive in droves at the New Year Sea Sports, 1960s" style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+            <p>Passengers arrive in droves at the New Year Sea Sports, 1960s<br>Collection of National Museum of Singapore, National Heritage Board
+            </p>
+        </div>
+    </div>
+</div>
+
+<hr style="margin: 40px 0 20px 0;">
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+            <img srcset="/images/event-images/Lepak Landscapes/LVP4.jpg 400w, /images/event-images/Lepak Landscapes/LVP4.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="670" width="1000" src="/images/event-images/Lepak Landscapes/LVP4.jpg" alt="Ladies trying out H. M. Ali's shoes, mid-late 1900s" style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+            <p>Ladies trying out H. M. Ali's shoes, mid-late 1900s<br>Courtesy of Hidayah Amin and the family of H. M. Ali
+            </p>
+        </div>
+    </div>
+</div>
+
+<hr style="margin: 40px 0 20px 0;">
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+					<img srcset="/images/event-images/Lepak Landscapes/LVP5.jpg 400w, /images/event-images/Lepak Landscapes/LVP5.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/LVP5.jpg" alt="Robinsons, 1950s" style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+            <p>Robinsons, 1950s<br>
+                RAFSA Collection, National Archives of Singapore
+            </p>
+        </div>
+    </div>
+</div>
+
+<hr style="margin: 40px 0 20px 0;">
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+            <img srcset="/images/event-images/Lepak Landscapes/LVP6.jpg 400w, /images/event-images/Lepak Landscapes/LVP6.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/LVP6.jpg" alt="Chia Boon Leong introducing players from the Football Association of Singapore team, 1978" style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+					<p>Chia Boon Leong introducing players from the Football Association of Singapore team, 1978<br>Chia Boon Leong Collection, National Archives of Singapore<br>20140000148-0060
+            </p>
+        </div>
+    </div>
+</div>
+
+<hr style="margin: 40px 0 20px 0;">
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+            <img srcset="/images/event-images/Lepak Landscapes/LVP7.jpg 400w, /images/event-images/Lepak Landscapes/LVP7.jpg 1000w" sizes="(max-width: 500px) 40vw, 51vw" height="680" width="512" src="/images/event-images/Lepak Landscapes/LVP7.jpg" alt="Football Match between Rovers and R.E.M.E at Jalan Besar Stadium, 1947" style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+            <p>Football Match between Rovers and R.E.M.E at Jalan Besar Stadium, 1947<br>
+                Chia Boon Leong Collection, National Archives of Singapore<br>20140000148-0062
+            </p>
+        </div>
+    </div>
+</div>
+
+<hr style="margin: 40px 0 20px 0;">
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+            <img srcset="/images/event-images/Lepak Landscapes/LVP8.jpg 400w, /images/event-images/Lepak Landscapes/LVP8.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/LVP8.jpg" alt="Spectators at the Malaya Cup final at Jalan Besar Stadium, 1963" style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+					<p>Spectators at the Malaya Cup final at Jalan Besar Stadium, 1963<br>
+                Ministry of Information and the Arts Collection, National Archives of Singapore<br>
+                20120000434-0013
+            </p>
+        </div>
+    </div>
+</div>
+
+<hr style="margin: 40px 0 20px 0;">
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+            <img srcset="/images/event-images/Lepak Landscapes/LVP9.PNG 400w, /images/event-images/Lepak Landscapes/LVP9.PNG 1000w" sizes="(max-width: 500px) 40vw, 51vw" height="680" width="512" src="/images/event-images/Lepak Landscapes/LVP9.PNG" alt="The FAS Official Soccer Album '93" style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+					<p><em>The FAS Official Soccer Album '93</em><br>Singapore: Musset Publications Pte Ltd, 1993<br>
+                Collection of National Library, Singapore 
+            </p>
+        </div>
+    </div>
+</div>
+	
+<hr style="margin: 40px 0 20px 0;">
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+            <img srcset="/images/event-images/Lepak Landscapes/LVP10.jpg 400w, /images/event-images/Lepak Landscapes/LVP10.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/LVP10.jpg" alt="Tub racing at the 1954 New Year Sea Sports" style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+					<p><em>The Straits Times,</em> 2 January 1954, Page 7<br>The Straits Times © SPH Media Limited
+            </p>
+        </div>
+    </div>
+</div>
+
+<hr style="margin: 40px 0 20px 0;">
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+            <img srcset="/images/event-images/Lepak Landscapes/LVP11.jpg 400w, /images/event-images/Lepak Landscapes/LVP11.jpg 1000w" sizes="(max-width: 500px) 40vw, 51vw" height="680" width="512" src="/images/event-images/Lepak Landscapes/LVP11.jpg" alt="Arab Street towards Victoria Street, 1983" style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+					<p>Arab Street towards Victoria Street, 1983<br>© Urban Redevelopment Authority
+            </p>
+        </div>
+    </div>
+</div>
+
+<p><a href="#index">Return back to Index</a></p>
+
+<hr style="margin: 40px 0 20px 0; height: 10px;">
