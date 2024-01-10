@@ -12,7 +12,7 @@ Click the links below for the respective image credits.
 * <a href="#Happy-Heartlands">Happy Heartlands</a>
 * <a href="#Retail Therapy">Retail Therapy</a> 
 * <a href="#Fun in the Sun">Fun in the Sun</a>
-* <a href="#Videos Projection">Videos Projection</a>
+* <a href="#Video Projections">Video Projections</a>
 
 <hr style="margin: 40px 0 20px 0;">
 
@@ -571,7 +571,7 @@ Arthur B Reich Collection, National Archives of Singapore
 <hr style="margin: 40px 0 20px 0; height: 10px;">
 <section>
 
-<h3 id="Videos Projection" style="margin-top: 30px;">Videos Projection</h3>
+<h3 id="Video Projections" style="margin-top: 30px;">Video Projections</h3>
 
 <h5 style="margin: 30px 0 30px 0; color: #000;">Image credits for front video projection</h5>
 
