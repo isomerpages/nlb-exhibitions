@@ -955,7 +955,7 @@ Arthur B Reich Collection, National Archives of Singapore
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/Lepak Landscapes/LVP6.jpg 400w, /images/event-images/Lepak Landscapes/LVP6.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/LVP6.jpg" alt="Chia Boon Leong introducing players from the Football Association of Singapore team, 1978" style="border: 1px solid #000;">
+            <img srcset="/images/event-images/Lepak Landscapes/RVP6.jpg 400w, /images/event-images/Lepak Landscapes/RVP6.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/RVP6.jpg" alt="The iconic Albert Store of Change Alley, c. 1950s" style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
 					<p>Chia Boon Leong introducing players from the Football Association of Singapore team, 1978<br>Chia Boon Leong Collection, National Archives of Singapore<br>20140000148-0060
