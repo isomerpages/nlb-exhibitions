@@ -105,9 +105,5 @@ description: ""
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
             <img srcset="/images/event-images/punggol-stories/sing_01_400w.jpg 400w, /images/event-images/punggol-stories/sing_01_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="675" width="1000" src="/images/event-images/punggol-stories/sing_01_400w.jpg" alt="A photo of the Singaporium exhibition. Walls feature reproductions of books and photos. In the foreground, there is a sculpture of frosted acrylic tubes that light up. Visitors are exploring the content and the sculpture.">
-        </div>
-    </div>
-        <div class="row">
-            <div class="col" style="border-top: 10px solid #E21216; border-bottom: 5px solid #E21216;">
-        
+
 </div></div></div></section></div></div></li></ul></div></div></div></div></section>
