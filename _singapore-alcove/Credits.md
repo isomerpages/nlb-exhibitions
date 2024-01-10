@@ -271,7 +271,7 @@ Arthur B Reich Collection, National Archives of Singapore
 
 <section>
 
-<h3 id="malay-poem" style="margin-top: 30px;">Retail Therapy</h3>
+<h3 id="Retail Therapy" style="margin-top: 30px;">Retail Therapy</h3>
 
 <h5 style="margin: 30px 0 30px 0; color: #000;">Image credits</h5>
 
@@ -357,12 +357,10 @@ Arthur B Reich Collection, National Archives of Singapore
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/ma/2c_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/MA/2c_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/wtm/MA/2c_400w.jpg" alt="Sarongs hang from clothes lines behind a Malay zinc-roofed house at Lorong Engku Aman, Geylang Serai." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/Lepak Landscapes/RT6.jpg 400w, /images/event-images/Lepak Landscapes/RT6.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/RT6.jpg" alt="Arab Street, 1979." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>Malay House at Lorong Engku Aman, Geylang Serai, 1980<br>
-                Maznah Collection, National Archives of Singapore<br>
-                19980006536-0078
+            <p>Arab Street, 1979<br>© Urban Redevelopment Authority
             </p>
         </div>
     </div>
@@ -373,12 +371,11 @@ Arthur B Reich Collection, National Archives of Singapore
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/ma/2d_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/MA/2d_512w.jpg 1000w" sizes="(max-width: 500px) 40vw, 51vw" height="680" width="512" src="/images/event-images/punggol-stories-credits/wtm/MA/2d_400w.jpg" alt="A boy plays hopscotch in a corridor while several other children look on from behind him. The hopscotch tiles have been drawn on the floor in chalk." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/Lepak Landscapes/RT7.jpg 400w, /images/event-images/Lepak Landscapes/RT7.jpg 1000w" sizes="(max-width: 500px) 40vw, 51vw" height="680" width="512" src="/images/event-images/Lepak Landscapes/RT7.jpg" alt="H. M. Ali at 114 Arab Street, mid-late 1900s." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>Children playing Chinese hopscotch, 1960-1980<br>
-                Singapore Sports Council, National Archives of Singapore<br>
-                19980005606-0090
+            <p>H. M. Ali at 114 Arab Street, mid-late 1900s<br>
+                Courtesy of Hidayah Amin and the family of H. M. Ali
             </p>
         </div>
     </div>
@@ -389,185 +386,12 @@ Arthur B Reich Collection, National Archives of Singapore
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/ma/3a_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/MA/3a_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/wtm/MA/3a_400w.jpg" alt="A man stands among some furniture in the living room of his house in Kampong Wak Selat." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/Lepak Landscapes/RT8.jpg 400w, /images/event-images/Lepak Landscapes/RT8.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/RT8.jpg" alt="A man making murtabak along Arab Street, 1991" style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>Interior view of a Malay house in Kampong Wak Selat, 1993<br>
-                National Archives of Singapore<br>
-                19980005752-0084
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/ma/3b_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/MA/3b_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/wtm/MA/3b_400w.jpg" alt="A sagging mattress covered by a translucent netting, inside a bedroom at Kampong Bugis." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Bedroom in a house at Kampong Bugis, 1986<br>
-                National Archives of Singapore<br>
-                19980006064-0003
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/ma/4a_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/MA/4a_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="753" width="1000" src="/images/event-images/punggol-stories-credits/wtm/MA/4a_400w.jpg" alt="A housewife wearing a kebaya (a traditional Malay costume worn by women) bends over a concrete stove in a kampong kitchen." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>A housewife in a kampong kitchen, 1960s<br>
+					<p>A man making <em>murtabak</em> along Arab Street, 1991<br>
                 Ministry of Information and the Arts Collection, National Archives of Singapore<br>
-                19980007374-0066
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/ma/4b_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/MA/4b_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/wtm/MA/4b_400w.jpg" alt="Five children playing around a standpipe spouting water in Geylang Serai." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Children playing with water from a standpipe in Geylang Serai, 1960s<br>
-                K. F. Wong Collection,, National Archives of Singapore<br>
-                2005-007817-KFW
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/ma/4c_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/MA/4c_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/wtm/MA/4c_400w.jpg" alt="A row of outhouse toilets in Kampong Marang." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Toilets in Kampong Marang, 1986<br>
-                National Archives of Singapore<br>
-                19980006560-0110
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/ma/5a_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/MA/5a_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="748" width="1000" src="/images/event-images/punggol-stories-credits/wtm/MA/5a_400w.jpg" alt="Three individuals share a boat during a flood in a kampong at Geylang Serai, while some others stand in knee-high water." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>A flood at Geylang Serai by photographer Lim Lam San, c. 1930<br>
-                National Museum of Singapore, Courtesy of National Heritage Board 
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/ma/5b_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/MA/5b_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="779" width="1000" src="/images/event-images/punggol-stories-credits/wtm/MA/5b_400w.jpg" alt="Three individuals stand in floodwater at the doorway of their kampong home." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Dwellers waiting for the flood to subside at Bedok, 1954<br>
-                Ministry of Information and the Arts Collection, National Archives of Singapore<br>
-                19980001092-0009 
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/ma/6a_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/MA/6a_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/wtm/MA/6a_400w.jpg" alt="A Malay lady cooks in a big pot during Hari Raya Haji, in an open area within Kampong Sarhad. Two adults look on while they ready big empty bowls in their hands." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Hari Raya Haji celebration at Kampong Sarhad, 1986<br>
-                National Archives of Singapore<br>
-                19980006542-0009 
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/ma/6b_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/MA/6b_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="1017" width="1000" src="/images/event-images/punggol-stories-credits/wtm/MA/6b_400w.jpg" alt="Street hawkers and a large crowd watch a live Chinese opera performance at Clive Street." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Crowd watching a Chinese opera performance at Clive Street, 1960s<br>
-                Courtesy of Sons of David “Danny” Daniel, National Library, Singapore
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/ma/6c_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/MA/6c_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="833" width="1000" src="/images/event-images/punggol-stories-credits/wtm/MA/6c_400w.jpg" alt="A crowd looks up at Chinese street opera actors performing on stage." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Chinese street opera (wayang), c. 1966-1980<br>
-                John Ernest Gardiner Collection, National Library, Singapore
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/ma/6d_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/MA/6d_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="1475" width="1000" src="/images/event-images/punggol-stories-credits/wtm/MA/6d_400w.jpg" alt="A family carries furniture out of their thatched kampong house." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Kampong folks moving to high rise living, 1963<br>
-                Ministry of Information and the Arts Collection, National Archives of Singapore<br>
-                19980007373-0049
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/ma/6e_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/MA/6e_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="611" width="1000" src="/images/event-images/punggol-stories-credits/wtm/MA/6e_400w.jpg" alt="Several people work to carry their possessions onto a lorry during their move to new HDB flats." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Neighbours helping during the move from a kampong to high rise flats, 1968<br>
-                Courtesy of Norisah A. Bakar
-                
+                19980006562-006
             </p>
         </div>
     </div>
@@ -581,18 +405,19 @@ Arthur B Reich Collection, National Archives of Singapore
 
 <section>
 
-<h3 id="tamil-poem" style="margin-top: 30px;">Tamil poem</h3>
+<h3 id="Fun in the Sun" style="margin-top: 30px;">Fun in the Sun</h3>
 
-<h5 style="margin: 30px 0 30px 0; color: #000;">Image credits for நகர்வளம் (Urban Riches) by அமீருத்தீன் (Amiroudine)</h5>
+<h5 style="margin: 30px 0 30px 0; color: #000;">Image credits</h5>
 
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/ta/1a_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/TA/1a_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="664" width="1000" src="/images/event-images/punggol-stories-credits/wtm/TA/1a_400w.jpg" alt="A street sign that reads, 'Lorong Buang Kok 19'." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/Lepak Landscapes/FS1.jpg 400w, /images/event-images/Lepak Landscapes/FS1.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="664" width="1000" src="/images/event-images/Lepak Landscapes/FS1.jpg" alt="Tea house at Alkaff Lake Garden, 1930s." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>Street sign 'Lorong Buang Kok 19', 1999 <br>
-                Liesel Strauss Collection, National Library Board, Singapore
+            <p>Tea house at Alkaff Lake Garden, 1930s<br>
+                Lee Brothers Studio Collection, National Archives of Singapore<br>
+                19980005800-0106
             </p>
         </div>
     </div>
@@ -603,11 +428,12 @@ Arthur B Reich Collection, National Archives of Singapore
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/ta/1b_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/TA/1b_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="664" width="1000" src="/images/event-images/punggol-stories-credits/wtm/TA/1b_400w.jpg" alt="A man standing amidst young banana trees uses a shovel to till the soil at Kampong Lorong Buangkok." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/Lepak Landscapes/FS2.jpg 400w, /images/event-images/Lepak Landscapes/FS2.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="664" width="1000" src="/images/event-images/Lepak Landscapes/FS2.jpg" alt="Alkaff Lake Gardens, 1920s." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>Man tilling soil in Kampong Lorong Buangkok, 1999<br>
-                Liesel Strauss Collection, National Library Board, Singapore
+            <p>Alkaff Lake Gardens, 1920s<br>
+                National Library of Singapore Collection, National Archives of Singapore<br>
+                19990003220-0029
             </p>
         </div>
     </div>
@@ -618,11 +444,12 @@ Arthur B Reich Collection, National Archives of Singapore
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/ta/2a_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/TA/2a_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="664" width="1000" src="/images/event-images/punggol-stories-credits/wtm/TA/2a_400w.jpg" alt="A zinc-roofed house with pink outer walls in Kampong Lorong Buangkok." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/Lepak Landscapes/FS3.png 400w, /images/event-images/Lepak Landscapes/FS3.png 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="664" width="1000" src="/images/event-images/Lepak Landscapes/FS3.png" alt="Postcard of Alkaff Lake Gardens, c.1940s" style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>Exterior of a house in Kampong Lorong Buangkok, 1999<br>
-                Liesel Strauss Collection, National Library Board, Singapore
+            <p>Postcard of Alkaff Lake Gardens, c.1940s<br>
+               Koh Seow Chuan Collection, National Library, Singapore<br>
+               RDKSC 959.5705 KOH
             </p>
         </div>
     </div>
@@ -633,12 +460,12 @@ Arthur B Reich Collection, National Archives of Singapore
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/ta/2b_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/TA/2b_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/wtm/TA/2b_400w.jpg" alt="A crumbling kampong house captured in the process of demolition at River Valley Close while HDB flats stand tall in the background." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/Lepak Landscapes/FS4.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/FS4.jpg" alt="Tiger Balm Garden, c. 1960s-1990s." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>Demolition and land clearing of a Kampong at River Valley Close, 1989<br>
-                Ronni Pinsler Collection, National Archives of Singapore<br>
-                19990007096-089
+            <p>Tiger Balm Garden, c. 1960s-1990s<br>
+               Koh Seow Chuan Collection, National Library, Singapore<br>
+                RDKSC 959.5705 KOH
             </p>
         </div>
     </div>
