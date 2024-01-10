@@ -653,7 +653,7 @@ Arthur B Reich Collection, National Archives of Singapore
             <img srcset="/images/event-images/Lepak Landscapes/FVP6.jpg 400w, /images/event-images/Lepak Landscapes/FVP6.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/FVP6.jpg" alt="Sporting Westlake Football Club: 10th Anniversary" style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-					<p><em>Sporting Westlake Football Club: 10th Anniversary</em><br>Collection of National Library, Singapore
+					<p><em>Sporting Westlake Football Club: 10th Anniversary</em><br>Singapore: Singapore Westlake Football Club, 1983<br>Collection of National Library, Singapore
             </p>
         </div>
     </div>
