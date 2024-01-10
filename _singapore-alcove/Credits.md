@@ -664,11 +664,11 @@ Arthur B Reich Collection, National Archives of Singapore
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/Lepak Landscapes/RT7.jpg 400w, /images/event-images/Lepak Landscapes/RT7.jpg 1000w" sizes="(max-width: 500px) 40vw, 51vw" height="680" width="512" src="/images/event-images/Lepak Landscapes/RT7.jpg" alt="H. M. Ali at 114 Arab Street, mid-late 1900s." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/Lepak Landscapes/FVP7.jpg 400w, /images/event-images/Lepak Landscapes/FVP7.jpg 1000w" sizes="(max-width: 500px) 40vw, 51vw" height="680" width="512" src="/images/event-images/Lepak Landscapes/FVP7.jpg" alt="Potrait of Chia Boon Leong Collection at the London Olympics, 1948" style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>H. M. Ali at 114 Arab Street, mid-late 1900s<br>
-                Courtesy of Hidayah Amin and the family of H. M. Ali
+            <p>Potrait of Chia Boon Leong Collection at the London Olympics, 1948<br>
+                Chia Boon Leong Collection, National Archives of Singapore<br>20140000149-0006
             </p>
         </div>
     </div>
