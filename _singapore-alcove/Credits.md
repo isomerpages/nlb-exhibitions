@@ -278,12 +278,28 @@ Arthur B Reich Collection, National Archives of Singapore
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/ma/1a_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/MA/1a_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/wtm/MA/1a_400w.jpg" alt="Postcard of a rattan shop in Kampong Gelam, 1980" style="border: 1px solid #000;">
+            <img srcset="/images/event-images/Lepak Landscapes/RT1.jpg 400w, /images/event-images/Lepak Landscapes/RT1.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/RT1.jpg" alt="Postcard of a rattan shop in Kampong Gelam, 1980" style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>Jalan Nanas, off Jalan Eunos, opened by Assemblyman for Geylang Serai Rahamat bin Kenap, 1965<br>
+            <p>Postcard of a rattan shop in Kampong Gelam, 1980<br>
+               Singapore Tourist Promotion Board Collection, National Archives of Singapore<br>
+                199800006638-0051
+            </p>
+        </div>
+    </div>
+</div>
+
+<hr style="margin: 40px 0 20px 0;">
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+            <img srcset="/images/event-images/Lepak Landscapes/RT2.jpg 400w, /images/event-images/Lepak Landscapes/RT2.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="672" width="1000" src="/images/event-images/Lepak Landscapes/RT2.jpg" alt="Shopping at Jalan Sultan Bussorah Street, 1988." style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+            <p>Shopping at Jalan Sultan Bussorah Street, 1988<br>
                 Ministry of Information and the Arts Collection, National Archives of Singapore<br>
-                19980000740-0064
+                199800006295-0059
             </p>
         </div>
     </div>
@@ -294,57 +310,43 @@ Arthur B Reich Collection, National Archives of Singapore
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/ma/1b_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/MA/1b_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="672" width="1000" src="/images/event-images/punggol-stories-credits/wtm/MA/1b_400w.jpg" alt="The back alley of zinc-roofed houses in a Malay kampong at Potong Pasir." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/Lepak Landscapes/RT3.jpg 400w, /images/event-images/Lepak Landscapes/RT3.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="600" width="1000" src="/images/event-images/Lepak Landscapes/RT3.jpg" alt="Change Alley, 1989" style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>Malay village in Potong Pasir, 1970s<br>
-                John W, (Jack) Humphrey Collection, National Library, Singapore
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/ma/1c_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/MA/1c_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="600" width="1000" src="/images/event-images/punggol-stories-credits/wtm/MA/1c_400w.jpg" alt="A group of children and a man pose outside a row house at Jalan Nanas." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Children gathered outside a row house at Jalan Nanas, 1968<br>
-                Courtesy of Norisah A. Bakar
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/ma/2a_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/MA/2a_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="670" width="1000" src="/images/event-images/punggol-stories-credits/wtm/MA/2a_400w.jpg" alt="A fenced dirt yard of a kampong house at Potong Pasir." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Row of fenced houses with front yards in Potong Pasir, 1970s<br>
-                John W, (Jack) Humphrey Collection, National Library, Singapore
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/ma/2b_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/MA/2b_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/wtm/MA/2b_400w.jpg" alt="Two Malay girls dressed in their baju kurung (a traditional Malay costume worn by women) play a game of congkak (a traditional Malay two player game in which seeds or marbles are dropped into carved holes in a wooden board) on the floor." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Malay children playing congkak game, 1980s<br>
+            <p>Change Alley, 1989<br>
                 Ministry of Information and the Arts Collection, National Archives of Singapore<br>
-                19980002915-0019
+                19990001352-0059
+            </p>
+        </div>
+    </div>
+</div>
+
+<hr style="margin: 40px 0 20px 0;">
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+            <img srcset="/images/event-images/Lepak Landscapes/RT4.jpg 400w, /images/event-images/Lepak Landscapes/RT4.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="670" width="1000" src="/images/event-images/Lepak Landscapes/RT4.jpg" alt="Clifford Pier and Change Alley Aerial Plaza, c.1980" style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+            <p>Clifford Pier and Change Alley Aerial Plaza, c.1980<br>
+               Collection of National Museum of Singapore
+            </p>
+        </div>
+    </div>
+</div>
+
+<hr style="margin: 40px 0 20px 0;">
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+            <img srcset="/images/event-images/Lepak Landscapes/RT5.jpg 400w, /images/event-images/Lepak Landscapes/RT5.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/RT5.jpg" alt="Within Change Alley, 1989" style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+            <p>Within Change Alley, 1989<br>
+                Ministry of Information and the Arts Collection, National Archives of Singapore<br>
+                19990001351-0079
             </p>
         </div>
     </div>
