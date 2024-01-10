@@ -50,10 +50,14 @@ description: ""
     </div>
 </div>
 <div class="container__card">
-
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            
+       
+					 <img srcset="/images/event-images/Lepak Landscapes/Lepak_Landscapes_Banner.jpg 400w, /images/event-images/Lepak Landscapes/Lepak_Landscapes_Banner.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="400" width="1000" src="/images/event-images/Lepak Landscapes/Lepak_Landscapes_Banner.jpg" alt="A title card labelled Lepak Landscapes">
+        </div>
+    </div>  
+    <div class="row">
+        <div class="col is-full" style="padding: 0 0 12px 0;">
             <img srcset="/images/event-images/punggol-stories/sing_02_400w.jpg 400w, /images/event-images/punggol-stories/sing_02_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="675" width="1000" src="/images/event-images/punggol-stories/sing_02_400w.jpg" alt="A photo of the Singaporium space. An introduction panel is on the left, and showcases and multimedia screens are on its right. A visitor is looking at the displayed items in a showcase, and another visitor is browsing the multimedia screen while holding its sound handset.">
         </div>
     </div>
