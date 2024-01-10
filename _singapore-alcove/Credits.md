@@ -716,11 +716,11 @@ Arthur B Reich Collection, National Archives of Singapore
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/Lepak Landscapes/FVP1.jpg 400w, /images/event-images/Lepak Landscapes/FVP1.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/FVP1.jpg" alt="A kopitiam at Kampong River Valley Close where fresh ground coffee would be prepared in the morning, 1982" style="border: 1px solid #000;">
+            <img srcset="/images/event-images/Lepak Landscapes/LVP1.jpg 400w, /images/event-images/Lepak Landscapes/LVP1.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/LVP1.jpg" alt="An artist and her daughter sketching the scenery of Alkaff Lake Gardens, 1930" style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>A kopitiam at Kampong River Valley Close where fresh ground coffee would be prepared in the morning, 1982<br>
-               Singapore Tourist Promotion Board Collection, National Archives of Singapore<br>
+            <p>An artist and her daughter sketching the scenery of Alkaff Lake Gardens, 1930<br>
+               Collection of National Archives of Singapore<br>
                 19990008744-0073
             </p>
         </div>
@@ -846,6 +846,3 @@ Arthur B Reich Collection, National Archives of Singapore
 <p><a href="#index">Return back to Index</a></p>
 
 <hr style="margin: 40px 0 20px 0; height: 10px;">
-
-
-
