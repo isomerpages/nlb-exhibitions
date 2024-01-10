@@ -44,6 +44,8 @@ description: ""
     </div>
 </div>
 </section>
+<hr style="margin: 40px 0 20px 0;">
+
 <section class="section__about">
 <div class="container__card">
     <div class="row">
@@ -57,4 +59,4 @@ description: ""
         </div>
     </div>
         <div class="row">
-            <div class="col" style="border-top: 10px solid #E21216; border-bottom: 5px solid #E21216;"></div></div></div></section>
+            <div class="col" style="border-top: 10px solid #E21216; border-bottom: 0px solid #E21216;"></div></div></div></section>
