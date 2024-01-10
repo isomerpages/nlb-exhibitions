@@ -972,7 +972,7 @@ Arthur B Reich Collection, National Archives of Singapore
             <img srcset="/images/event-images/Lepak Landscapes/RVP7.jpg 400w, /images/event-images/Lepak Landscapes/RVP7.jpg 1000w" sizes="(max-width: 500px) 40vw, 51vw" height="680" width="512" src="/images/event-images/Lepak Landscapes/RVP7.jpg" alt="Bengali coffee hawker and a customer enjoying a cuppa, 1900s" style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>Bengali coffee hawker and a customer enjoying a cuppa, 1900s<br>Anthony Wharton Collection, National Archives of Singapore<br>19980005034 - 0101
+            <p>Bengali coffee hawker and a customer enjoying a cuppa, 1900s<br>Anthony Wharton Collection, National Archives of Singapore<br>19980005034-0101
             </p>
         </div>
     </div>
@@ -987,7 +987,7 @@ Arthur B Reich Collection, National Archives of Singapore
         </div>
         <div class="col is-two-thirds">
 					<p>Women shopping at the Woodlands pasar malam, 1963<br>
-                Ministry of Information and the Arts Collection, National Archives of Singapore<br>20120000394 - 0045
+                Ministry of Information and the Arts Collection, National Archives of Singapore<br>20120000394-0045
             </p>
         </div>
     </div>
@@ -998,10 +998,10 @@ Arthur B Reich Collection, National Archives of Singapore
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/Lepak Landscapes/RVP9.PNG 400w, /images/event-images/Lepak Landscapes/RVP9.PNG 1000w" sizes="(max-width: 500px) 40vw, 51vw" height="680" width="512" src="/images/event-images/Lepak Landscapes/RVP9.PNG" alt="Chia Boon Leong playing for the Pasir Panjang Rovers at a charity football match, 1947" style="border: 1px solid #000;">
+            <img srcset="/images/event-images/Lepak Landscapes/RVP9.jpg 400w, /images/event-images/Lepak Landscapes/RVP9.jpg 1000w" sizes="(max-width: 500px) 40vw, 51vw" height="680" width="512" src="/images/event-images/Lepak Landscapes/RVP9.jpg" alt="Chia Boon Leong playing for the Pasir Panjang Rovers at a charity football match, 1947" style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-					<p>Chia Boon Leong playing for the Pasir Panjang Rovers at a charity football match, 1947<br>Chia Boon Leong Collection, National Archives of Singapore<br>20140000148 - 0035 
+					<p>Chia Boon Leong playing for the Pasir Panjang Rovers at a charity football match, 1947<br>Chia Boon Leong Collection, National Archives of Singapore<br>20140000148-0035 
             </p>
         </div>
     </div>
