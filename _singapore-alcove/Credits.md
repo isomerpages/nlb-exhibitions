@@ -12,6 +12,7 @@ Click the links below for the respective image credits.
 * <a href="#Happy-Heartlands">Happy Heartlands</a>
 * <a href="#Retail Therapy">Retail Therapy</a> 
 * <a href="#Fun in the Sun">Fun in the Sun</a>
+* <a href="#Videos Projection">Videos Projection</a>
 
 <hr style="margin: 40px 0 20px 0;">
 
@@ -476,11 +477,11 @@ Arthur B Reich Collection, National Archives of Singapore
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/ta/3a_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/TA/3a_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="664" width="1000" src="/images/event-images/punggol-stories-credits/wtm/TA/3a_400w.jpg" alt="A woman in Kampong Lorong Buangkok opens the gate to her front yard to let her dog out." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/Lepak Landscapes/FS5.jpg 400w, /images/event-images/Lepak Landscapes/FS5.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="664" width="1000" src="/images/event-images/Lepak Landscapes/FS5.jpg" alt="Tiger Balm Garden, c. 1960s-1990s" style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>House number 29D at Kampong Lorong Buangkok, 2000<br>
-                Liesel Strauss Collection, National Library Board, Singapore
+            <p>Tiger Balm Garden, c. 1960s-1990s<br>
+                RDKSC 959.5705 KOH
             </p>
         </div>
     </div>
@@ -491,11 +492,11 @@ Arthur B Reich Collection, National Archives of Singapore
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/ta/3b_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/TA/3b_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="675" width="1000" src="/images/event-images/punggol-stories-credits/wtm/TA/3b_400w.jpg" alt="Several chickens on a grassy clearing at Kampong Lorong Buangkok." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/Lepak Landscapes/FS6.jpg 400w, /images/event-images/Lepak Landscapes/FS6.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="675" width="1000" src="/images/event-images/Lepak Landscapes/FS6.jpg" alt="Singapore Botanic Gardens gazebo today, 2017" style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>Kampong Lorong Buangkok, 2000<br>
-                Liesel Strauss Collection, National Library Board, Singapore
+            <p>Singapore Botanic Gardens gazebo today, 2017<br>
+                Courtesy of National Parks Board
             </p>
         </div>
     </div>
@@ -506,121 +507,12 @@ Arthur B Reich Collection, National Archives of Singapore
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/ta/3c_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/TA/3c_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/wtm/TA/3c_400w.jpg" alt="A woman running her chicken stall in Tanjong Pagar wet market." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/Lepak Landscapes/FS7.jpg 400w, /images/event-images/Lepak Landscapes/FS7.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/FS7.jpg" alt="Playground of a housing estate at Bedok Reservoir Road, 1984." style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>Frozen chicken stall in Tanjong Pagar wet market, 1989<br>
-                National Archives of Singapore<br>
-                19980007362-0060
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/ta/4a_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/TA/4a_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="1508" width="1000" src="/images/event-images/punggol-stories-credits/wtm/TA/4a_400w.jpg" alt="Two strikingly tall coconut trees at Kampong Lorong Buangkok." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Towering coconut trees in Kampong Lorong Buangkok, 1999<br>
-                Liesel Strauss Collection, National Library Board, Singapore
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/ta/4b_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/TA/4b_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="1305" width="1000" src="/images/event-images/punggol-stories-credits/wtm/TA/4b_400w.jpg" alt="A black and white photo of two high rise HDB blocks at Kallang with Bendemeer Shopping Mall in between them." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>View of Kallang Basin after reclamation with few blocks of Housing and Development Board flats, 1970<br>
-                Housing and Development Board Collection, National Archives of Singapore<br>
-                19980005147-0030
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/ta/5a_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/TA/5a_650w.jpg 650w" sizes="(max-width: 500px) 40vw, 65vw" height="433" width="650" src="/images/event-images/punggol-stories-credits/wtm/TA/5a_400w.jpg" alt="A long row of various potted plants line a residential corridor of block 6C, Margaret Drive." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Margaret Drive flat at block 6C, 2010<br>
-                Little Red Dot Collection, National Library Board, Singapore
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/ta/5b_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/TA/5b_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="664" width="1000" src="/images/event-images/punggol-stories-credits/wtm/TA/5b_400w.jpg" alt="A dirt pathway in Kampong Lorong Buangkok, lined with lush foliage on both sides, leads up to a garden archway." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Pathway in Kampong Lorong Buangkok, 1999<br>
-                Liesel Strauss Collection, National Library Board, Singapore
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/ta/5c_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/TA/5c_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories-credits/wtm/TA/5c_400w.jpg" alt="An expressway with numerous high-rise buildings in the background." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>View of an expressway, 1985-1999<br>
-                G. P. Reichelt Collection, National Archives of Singapore<br>
-                20130000074-0017
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/ta/5d_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/TA/5d_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="671" width="1000" src="/images/event-images/punggol-stories-credits/wtm/TA/5d_400w.jpg" alt="HDB blocks with an orderly red and white facade stand behind some vehicles." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Upgraded Housing and Development Board flat on Selegie Road, c. 2000s<br>
-                Peter Lamb Collection, National Archives of Singapore<br>
-                20100000052-0017
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/ta/6a_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/TA/6a_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="1500" width="1000" src="/images/event-images/punggol-stories-credits/wtm/TA/6a_400w.jpg" alt="A group of individuals work to load their furniture onto a lorry in front of a thatched kampong house." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Kampong folks moving to high rise living in Housing And Development Board flats, 1963<br>
+            <p>Playground of a housing estate at Bedok Reservoir Road, 1984<br>
                 Ministry of Information and the Arts Collection, National Archives of Singapore<br>
-                19980007373-0053
+                19980006075-0034
             </p>
         </div>
     </div>
@@ -631,17 +523,175 @@ Arthur B Reich Collection, National Archives of Singapore
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/punggol-stories-credits/wtm/ta/6b_400w.jpg 400w, /images/event-images/punggol-stories-credits/wtm/TA/6b_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="728" width="1000" src="/images/event-images/punggol-stories-credits/wtm/TA/6b_400w.jpg" alt="A family of four poses inside their new, largely empty, HDB flat." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/Lepak Landscapes/FS8.jpg 400w, /images/event-images/Lepak Landscapes/FS8.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="1508" width="1000" src="/images/event-images/Lepak Landscapes/FS8.jpg" alt="Singapore Botanic Gardens during Chinese New Year and Hari Raya Puasa, 1965" style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>New homes for old interior view of a flat, c.  1960<br>
+            <p>Singapore Botanic Gardens during Chinese New Year and Hari Raya Puasa, 1965<br>
                 Ministry of Information and the Arts Collection, National Archives of Singapore<br>
-                19980007373-0051
+                19980000575-0101
+            </p>
+        </div>
+    </div>
+</div>
+
+<hr style="margin: 40px 0 20px 0;">
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+            <img srcset="/images/event-images/Lepak Landscapes/FS9.jpg 400w, /images/event-images/Lepak Landscapes/FS9.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="1305" width="1000" src="/images/event-images/Lepak Landscapes/FS9.jpg" alt="Brass band playing at Singapore Botanic Gardens, 1994" style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+            <p>Brass band playing at Singapore Botanic Gardens, 1994<br>Singapore Tourist Promotion Board Collection, National Archives of Singapore<br>
+                19980006571-0035
+            </p>
+        </div>
+    </div>
+</div>
+
+<hr style="margin: 40px 0 20px 0;">
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+            <img srcset="/images/event-images/Lepak Landscapes/FS10.jpg 400w, /images/event-images/Lepak Landscapes/FS10.jpg 650w" sizes="(max-width: 500px) 40vw, 65vw" height="433" width="650" src="/images/event-images/Lepak Landscapes/FS10.jpg" alt="Sailboats at a lagoon near Big Splash, 1987." style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+            <p>Sailboats at a lagoon near Big Splash, 1987<br>
+                Ministry of Information and the Arts Collection, National Archives of Singapore<br>19980006074-0004
             </p>
         </div>
     </div>
 </div>
 
 <p><a href="#index">Return back to Index</a></p>
+
+</section>
+
+<hr style="margin: 40px 0 20px 0; height: 10px;">
+<section>
+
+<h3 id="Videos Projection" style="margin-top: 30px;">Videos Projection</h3>
+
+<h5 style="margin: 30px 0 30px 0; color: #000;">Image credits for front video projection</h5>
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+            <img srcset="/images/event-images/Lepak Landscapes/FVP1.jpg 400w, /images/event-images/Lepak Landscapes/FVP1.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/FVP1.jpg" alt="A kopitiam at Kampong River Valley Close where fresh ground coffee would be prepared in the morning, 1982" style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+            <p>A kopitiam at Kampong River Valley Close where fresh ground coffee would be prepared in the morning, 1982<br>
+               Singapore Tourist Promotion Board Collection, National Archives of Singapore<br>
+                19990008744-0073
+            </p>
+        </div>
+    </div>
+</div>
+
+<hr style="margin: 40px 0 20px 0;">
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+            <img srcset="/images/event-images/Lepak Landscapes/FVP2.jpg 400w, /images/event-images/Lepak Landscapes/FVP2.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="672" width="1000" src="/images/event-images/Lepak Landscapes/FVP2.jpg" alt="Arab Street, 1979." style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+            <p>Arab Street, 1979<br>© Urban Redevelopment Authority</p>
+        </div>
+    </div>
+</div>
+
+<hr style="margin: 40px 0 20px 0;">
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+            <img srcset="/images/event-images/Lepak Landscapes/FVP3.jpg 400w, /images/event-images/Lepak Landscapes/FVP3.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="600" width="1000" src="/images/event-images/Lepak Landscapes/FVP3.jpg" alt="Flower stall at a pasar malam on Orchard Road, 1960s" style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+            <p>Flower stall at a pasar malam on Orchard Road, 1960s<br>Dave Barker Collection, National Library, Singapore
+            </p>
+        </div>
+    </div>
+</div>
+
+<hr style="margin: 40px 0 20px 0;">
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+            <img srcset="/images/event-images/Lepak Landscapes/FVP4.jpg 400w, /images/event-images/Lepak Landscapes/FVP4.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="670" width="1000" src="/images/event-images/Lepak Landscapes/FVP4.jpg" alt="Residents playing Chinese chess at Telok Blangah, 1987" style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+            <p>Residents playing Chinese chess at Telok Blangah, 1987<br>Ministry of Information and the Arts Collection, National Archives of Singapore<br>19980000999-0096
+            </p>
+        </div>
+    </div>
+</div>
+
+<hr style="margin: 40px 0 20px 0;">
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+					<img srcset="/images/event-images/Lepak Landscapes/FVP.jpg 400w, /images/event-images/Lepak Landscapes/RT5.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/FVP5.jpg" alt="Malay <em>koleks</em> at the Singapore Harbour off Collyer Quay, 1 January 1939" style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+            <p>Malay <em>koleks</em> at the Singapore Harbour off Collyer Quay, 1 January 1939<br>
+                Edwin A. Brown Collection, National Library, Singapore
+            </p>
+        </div>
+    </div>
+</div>
+
+<hr style="margin: 40px 0 20px 0;">
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+            <img srcset="/images/event-images/Lepak Landscapes/FVP6.jpg 400w, /images/event-images/Lepak Landscapes/FVP6.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/FVP6.jpg" alt="Sporting Westlake Football Club: 10th Anniversary" style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+					<p><em>Sporting Westlake Football Club: 10th Anniversary</em><br>Collection of National Library, Singapore
+            </p>
+        </div>
+    </div>
+</div>
+
+<hr style="margin: 40px 0 20px 0;">
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+            <img srcset="/images/event-images/Lepak Landscapes/RT7.jpg 400w, /images/event-images/Lepak Landscapes/RT7.jpg 1000w" sizes="(max-width: 500px) 40vw, 51vw" height="680" width="512" src="/images/event-images/Lepak Landscapes/RT7.jpg" alt="H. M. Ali at 114 Arab Street, mid-late 1900s." style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+            <p>H. M. Ali at 114 Arab Street, mid-late 1900s<br>
+                Courtesy of Hidayah Amin and the family of H. M. Ali
+            </p>
+        </div>
+    </div>
+</div>
+
+<hr style="margin: 40px 0 20px 0;">
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+            <img srcset="/images/event-images/Lepak Landscapes/RT8.jpg 400w, /images/event-images/Lepak Landscapes/RT8.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/RT8.jpg" alt="A man making murtabak along Arab Street, 1991" style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+					<p>A man making <em>murtabak</em> along Arab Street, 1991<br>
+                Ministry of Information and the Arts Collection, National Archives of Singapore<br>
+                19980006562-006
+            </p>
+        </div>
+    </div>
+</div>
+
+<p><a href="#index">Return back to Index</a></p>
+
+<hr style="margin: 40px 0 20px 0; height: 10px;">
 
 </section>
