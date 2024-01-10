@@ -159,74 +159,73 @@ Click the links below for the respective image credits.
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/Lepak Landscapes/LL6.jpg 400w, /images/event-images/Lepak Landscapes/LL6.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="894" width="1000" src="/images/event-images/Lepak Landscapes/LL6.jpg" alt="Big Splash water park in 1984" style="border: 1px solid #000;">
+            <img srcset="/images/event-images/Lepak Landscapes/HH1.jpg 400w, /images/event-images/Lepak Landscapes/HH1.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="894" width="1000" src="/images/event-images/Lepak Landscapes/HH1.jpg" alt="Bird Singing Hangout at Clementi, 2013" style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>Big Splash water park, 1984<br>
+            <p>Bird Singing Hangout at Clementi, 2013<br>
+                          ©️Tomohisa Miyauch<br>
+            </p>
+        </div>
+    </div>
+</div>
+
+<hr style="margin: 40px 0 20px 0;">
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+            <img srcset="/images/event-images/Lepak Landscapes/HH2.jpg 400w, /images/event-images/Lepak Landscapes/HH2.jpg 650w" sizes="(max-width: 500px) 40vw, 65vw" height="432" width="650" src="/images/event-images/Lepak Landscapes/HH2.jpg" alt="A Serangoon Road coffeeshop famous for its roti canai(an Indian flatbread dish), 1982" style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+            <p>A Serangoon Road coffeeshop famous for its roti canai (an Indian flatbread dish), 1982<br>
+                Ronni Pinsler Collection, National Archives of Singapore<br>19990007465-050
+            </p>
+        </div>
+    </div>
+</div>
+
+<hr style="margin: 40px 0 20px 0;">
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+            <img srcset="/images/event-images/Lepak Landscapes/HH3.jpg 400w, /images/event-images/Lepak Landscapes/HH3.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="708" width="1000" src="/images/event-images/Lepak Landscapes/HH3.jpg" alt="Fruit stands at Ellenborough Market, 1950s" style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+            <p>Fruit stands at Ellenborough Market, 1950s<br>       
+Arthur B Reich Collection, National Archives of Singapore
+							<br>20120001502-0048
+            </p>
+        </div>
+    </div>
+</div>
+
+<hr style="margin: 40px 0 20px 0;">
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+            <img srcset="/images/event-images/Lepak Landscapes/HH4.jpg 400w, /images/event-images/Lepak Landscapes/HH4.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/HH4.jpg" alt="Coffee shop in Chinatown with bird singing corner, 1965." style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+            <p>Coffee shop in Chinatown with bird singing corner, 1965<br>
+                Collection of National Archives of Singapore<br>
+                19990003441-0069<br>
+            </p>
+        </div>
+    </div>
+</div>
+
+<hr style="margin: 40px 0 20px 0;">
+
+<div class="container__credits" style="margin-bottom: 10px;">
+    <div class="row">
+        <div class="col is-one-thirds">
+            <img srcset="/images/event-images/Lepak Landscapes/HH5.jpg 400w, /images/event-images/Lepak Landscapes/HH5.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/HH5.jpg" alt="Playground near Bedok Fitness Park, 1982." style="border: 1px solid #000;">
+        </div>
+        <div class="col is-two-thirds">
+            <p>Playground near Bedok Fitness Park, 1982<br>
                 Ministry of Information and the Arts Collection, National Archives of Singapore<br>
-                19980006749-0050
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/Lepak Landscapes/LL2.jpg 400w, /images/event-images/Lepak Landscapes/LL2.jpg 650w" sizes="(max-width: 500px) 40vw, 65vw" height="432" width="650" src="/images/event-images/Lepak Landscapes/LL2.jpg" alt="A family perches on the top of their car, eager to catch a glimpse of the New Year Sea Sports, 1963." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>A family perches on the top of their car, eager to catch a glimpse of the New Year Sea Sports, 1963<br>
-                Ministry of Information and the Arts Collection, National Archives of Singapore<br>19980000446-0003
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/Lepak Landscapes/LL1.jpg 400w, /images/event-images/Lepak Landscapes/LL1.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="708" width="1000" src="/images/event-images/Lepak Landscapes/LL1.jpg" alt="Kolek race during the 1954 New Year Sea Sports." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Kolek race during the 1954 New Year Sea Sports<br>
-                  The Straits Times, 2 January 1954, Page 7&nbsp;
-<br>The Straits Times © SPH Media Limited
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/Lepak Landscapes/LL7.jpg 400w, /images/event-images/Lepak Landscapes/LL7.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/LL7.jpg" alt="Launch of Pasir Ris Sea Sports Centre, 1992." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Launch of Pasir Ris Sea Sports Centre, 1992<br>
-                People's Association Collection, National Archives of Singapore<br>
-                20120000154-0027<br>
-            </p>
-        </div>
-    </div>
-</div>
-
-<hr style="margin: 40px 0 20px 0;">
-
-<div class="container__credits" style="margin-bottom: 10px;">
-    <div class="row">
-        <div class="col is-one-thirds">
-            <img srcset="/images/event-images/Lepak Landscapes/LL5.jpg 400w, /images/event-images/Lepak Landscapes/LL5.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/LL5.jpg" alt="Alhambra Theatre at Beach Road, 1948." style="border: 1px solid #000;">
-        </div>
-        <div class="col is-two-thirds">
-            <p>Alhambra Theatre at Beach Road, 1948<br>
-                Wong Kwan Collection, courtesy of National Archives of Singapore<br>
                 19980005861-0044
             </p>
         </div>
