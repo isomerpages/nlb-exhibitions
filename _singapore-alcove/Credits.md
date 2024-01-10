@@ -998,7 +998,7 @@ Arthur B Reich Collection, National Archives of Singapore
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/Lepak Landscapes/RVP9.PNG 400w, /images/event-images/Lepak Landscapes/RVP9.PNG 1000w" sizes="(max-width: 500px) 40vw, 51vw" height="680" width="512" src="/images/event-images/Lepak Landscapes/LVP9.PNG" alt="Chia Boon Leong playing for the Pasir Panjang Rovers at a charity football match, 1947" style="border: 1px solid #000;">
+            <img srcset="/images/event-images/Lepak Landscapes/RVP9.PNG 400w, /images/event-images/Lepak Landscapes/RVP9.PNG 1000w" sizes="(max-width: 500px) 40vw, 51vw" height="680" width="512" src="/images/event-images/Lepak Landscapes/RVP9.PNG" alt="Chia Boon Leong playing for the Pasir Panjang Rovers at a charity football match, 1947" style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
 					<p>Chia Boon Leong playing for the Pasir Panjang Rovers at a charity football match, 1947<br>Chia Boon Leong Collection, National Archives of Singapore<br>20140000148 - 0035 
