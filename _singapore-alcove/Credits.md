@@ -732,10 +732,11 @@ Arthur B Reich Collection, National Archives of Singapore
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/Lepak Landscapes/FVP2.jpg 400w, /images/event-images/Lepak Landscapes/FVP2.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="672" width="1000" src="/images/event-images/Lepak Landscapes/FVP2.jpg" alt="Arab Street, 1979." style="border: 1px solid #000;">
+            <img srcset="/images/event-images/Lepak Landscapes/LVP2.jpg 400w, /images/event-images/Lepak Landscapes/LVP2.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="672" width="1000" src="/images/event-images/Lepak Landscapes/LVP2.jpg" alt="Boating at Alkaff Lake Garden, 1950s" style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>Arab Street, 1979<br>© Urban Redevelopment Authority</p>
+            <p>Boating at Alkaff Lake Garden, 1950s<br>Singapore Federation of Chinese Clan Associations Collection, National Archives of Singapore<br>
+                19980005839-0007</p>
         </div>
     </div>
 </div>
@@ -745,10 +746,10 @@ Arthur B Reich Collection, National Archives of Singapore
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/Lepak Landscapes/FVP3.jpg 400w, /images/event-images/Lepak Landscapes/FVP3.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="600" width="1000" src="/images/event-images/Lepak Landscapes/FVP3.jpg" alt="Flower stall at a pasar malam on Orchard Road, 1960s" style="border: 1px solid #000;">
+            <img srcset="/images/event-images/Lepak Landscapes/LVP3.jpg 400w, /images/event-images/Lepak Landscapes/LVP3.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="600" width="1000" src="/images/event-images/Lepak Landscapes/LVP3.jpg" alt="Passengers arrive in droves at the New Year Sea Sports, 1960s" style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>Flower stall at a pasar malam on Orchard Road, 1960s<br>Dave Barker Collection, National Library, Singapore
+            <p>Passengers arrive in droves at the New Year Sea Sports, 1960s<br>Collection of National Museum of Singapore, National Heritage Board
             </p>
         </div>
     </div>
@@ -759,10 +760,10 @@ Arthur B Reich Collection, National Archives of Singapore
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/Lepak Landscapes/FVP4.jpg 400w, /images/event-images/Lepak Landscapes/FVP4.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="670" width="1000" src="/images/event-images/Lepak Landscapes/FVP4.jpg" alt="Residents playing Chinese chess at Telok Blangah, 1987" style="border: 1px solid #000;">
+            <img srcset="/images/event-images/Lepak Landscapes/LVP4.jpg 400w, /images/event-images/Lepak Landscapes/LVP4.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="670" width="1000" src="/images/event-images/Lepak Landscapes/LVP4.jpg" alt="Ladies trying out H. M. Ali's shoes, mid-late 1900s" style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>Residents playing Chinese chess at Telok Blangah, 1987<br>Ministry of Information and the Arts Collection, National Archives of Singapore<br>19980000999-0096
+            <p>Ladies trying out H. M. Ali's shoes, mid-late 1900s<br>Courtesy of Hidayah Amin and the family of H. M. Ali
             </p>
         </div>
     </div>
@@ -773,11 +774,11 @@ Arthur B Reich Collection, National Archives of Singapore
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-					<img srcset="/images/event-images/Lepak Landscapes/FVP.jpg 400w, /images/event-images/Lepak Landscapes/RT5.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/FVP5.jpg" alt="Malay <em>koleks</em> at the Singapore Harbour off Collyer Quay, 1 January 1939" style="border: 1px solid #000;">
+					<img srcset="/images/event-images/Lepak Landscapes/LVP5.jpg 400w, /images/event-images/Lepak Landscapes/LVP5.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/LVP5.jpg" alt="Robinsons, 1950s" style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>Malay <em>koleks</em> at the Singapore Harbour off Collyer Quay, 1 January 1939<br>
-                Edwin A. Brown Collection, National Library, Singapore
+            <p>Robinsons, 1950s<br>
+                RAFSA Collection, National Archives of Singapore
             </p>
         </div>
     </div>
@@ -788,10 +789,10 @@ Arthur B Reich Collection, National Archives of Singapore
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/Lepak Landscapes/FVP6.jpg 400w, /images/event-images/Lepak Landscapes/FVP6.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/FVP6.jpg" alt="Sporting Westlake Football Club: 10th Anniversary" style="border: 1px solid #000;">
+            <img srcset="/images/event-images/Lepak Landscapes/LVP6.jpg 400w, /images/event-images/Lepak Landscapes/LVP6.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/LVP6.jpg" alt="Chia Boon Leong introducing players from the Football Association of Singapore team, 1978" style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-					<p><em>Sporting Westlake Football Club: 10th Anniversary</em><br>Singapore: Singapore Westlake Football Club, 1983<br>Collection of National Library, Singapore
+					<p>Chia Boon Leong introducing players from the Football Association of Singapore team, 1978<br>Chia Boon<br>Collection of National Library, Singapore
             </p>
         </div>
     </div>
