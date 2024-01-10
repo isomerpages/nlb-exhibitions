@@ -899,11 +899,11 @@ Arthur B Reich Collection, National Archives of Singapore
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/Lepak Landscapes/LVP2.jpg 400w, /images/event-images/Lepak Landscapes/LVP2.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="672" width="1000" src="/images/event-images/Lepak Landscapes/LVP2.jpg" alt="Boating at Alkaff Lake Garden, 1950s" style="border: 1px solid #000;">
+            <img srcset="/images/event-images/Lepak Landscapes/RVP2.jpg 400w, /images/event-images/Lepak Landscapes/RVP2.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="672" width="1000" src="/images/event-images/Lepak Landscapes/RVP2.jpg" alt="Street market and hawkers, 1950s" style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>Boating at Alkaff Lake Garden, 1950s<br>Singapore Federation of Chinese Clan Associations Collection, National Archives of Singapore<br>
-                19980005839-0007</p>
+            <p>Street market and hawkers, 1950s<br>Arthur B Reich Collection, National Archives of Singapore<br>
+                20130002477-0072</p>
         </div>
     </div>
 </div>
@@ -913,10 +913,10 @@ Arthur B Reich Collection, National Archives of Singapore
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/Lepak Landscapes/LVP3.jpg 400w, /images/event-images/Lepak Landscapes/LVP3.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="600" width="1000" src="/images/event-images/Lepak Landscapes/LVP3.jpg" alt="Passengers arrive in droves at the New Year Sea Sports, 1960s" style="border: 1px solid #000;">
+            <img srcset="/images/event-images/Lepak Landscapes/RVP3.jpg 400w, /images/event-images/Lepak Landscapes/RVP3.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="600" width="1000" src="/images/event-images/Lepak Landscapes/RVP3.jpg" alt="Participants on the greasy beam, 1954" style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>Passengers arrive in droves at the New Year Sea Sports, 1960s<br>Collection of National Museum of Singapore, National Heritage Board
+					<p>Participants on the greasy beam, 1954<br><em>The Straits Times, </em>2 January 1954, Page 7<br>The Straits Times © SPH Media Limited
             </p>
         </div>
     </div>
@@ -927,10 +927,10 @@ Arthur B Reich Collection, National Archives of Singapore
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/Lepak Landscapes/LVP4.jpg 400w, /images/event-images/Lepak Landscapes/LVP4.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="670" width="1000" src="/images/event-images/Lepak Landscapes/LVP4.jpg" alt="Ladies trying out H. M. Ali's shoes, mid-late 1900s" style="border: 1px solid #000;">
+            <img srcset="/images/event-images/Lepak Landscapes/RVP4.jpg 400w, /images/event-images/Lepak Landscapes/RVP4.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="670" width="1000" src="/images/event-images/Lepak Landscapes/RVP4.jpg" alt="Void deck playground at Lengkong Tiga, 2009" style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>Ladies trying out H. M. Ali's shoes, mid-late 1900s<br>Courtesy of Hidayah Amin and the family of H. M. Ali
+            <p>Void deck playground at Lengkong Tiga, 2009<br>Little Red Dot Collection, National Library, Singapore
             </p>
         </div>
     </div>
@@ -941,7 +941,7 @@ Arthur B Reich Collection, National Archives of Singapore
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-					<img srcset="/images/event-images/Lepak Landscapes/LVP5.jpg 400w, /images/event-images/Lepak Landscapes/LVP5.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/LVP5.jpg" alt="Robinsons, 1950s" style="border: 1px solid #000;">
+					<img srcset="/images/event-images/Lepak Landscapes/RVP5.jpg 400w, /images/event-images/Lepak Landscapes/RVP5.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/RVP5.jpg" alt="A man making murtabak along Arab Street, 1991" style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
             <p>Robinsons, 1950s<br>
