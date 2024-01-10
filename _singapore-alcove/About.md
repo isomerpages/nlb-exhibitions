@@ -41,16 +41,15 @@ description: ""
         <div class="col is-full padding--top--lg">
 <p>Step into Singapore Alcove, where the Singapore Collection is seamlessly integrated within thematic exhibits on our heritage and literature.</p><p>The inaugural exhibition, <em>Lepak Landscapes: Life and Leisure in Singapore, </em> delves into the dynamic evolution of leisure in Singapore through time and the spaces associated with it.</p>
         </div>
-    </div>
 </div>
-</section>
+</div></section>
 <hr style="margin: 40px 0 20px 0;">
 
 <section class="section__about">
 <div class="container__card">
     <div class="row">
         <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
-            <img srcset="/images/event-images/Lepak Landscapes/Sg_Alcove_Banner.jpg 400w, /images/event-images/Lepak Landscapes/Sg_Alcove_Banner.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="250" width="1000" src="/images/event-images/Lepak Landscapes/Sg_Alcove_Banner.jpg" alt="A title card labelled: Singapore Alcove.">
+            <img srcset="/images/event-images/Lepak Landscapes/Lepak_Landscapes_Banner.jpg 400w, /images/event-images/Lepak Landscapes/Lepak_Landscapes_Banner.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="250" width="1000" src="/images/event-images/Lepak Landscapes/Lepak_Landscapes_Banner.jpg" alt="A title card labelled: Singapore Alcove.">
         </div>
     </div>    
     <div class="row">
