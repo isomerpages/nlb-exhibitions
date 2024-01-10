@@ -883,12 +883,12 @@ Arthur B Reich Collection, National Archives of Singapore
 <div class="container__credits" style="margin-bottom: 10px;">
     <div class="row">
         <div class="col is-one-thirds">
-            <img srcset="/images/event-images/Lepak Landscapes/LVP1.jpg 400w, /images/event-images/Lepak Landscapes/LVP1.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/LVP1.jpg" alt="An artist and her daughter sketching the scenery of Alkaff Lake Gardens, 1930" style="border: 1px solid #000;">
+            <img srcset="/images/event-images/Lepak Landscapes/RVP1.jpg 400w, /images/event-images/Lepak Landscapes/RVP1.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/Lepak Landscapes/RVP1.jpg" alt="A girl feeding the monkeys at Singapore Botanic Gardens, 1930s" style="border: 1px solid #000;">
         </div>
         <div class="col is-two-thirds">
-            <p>An artist and her daughter sketching the scenery of Alkaff Lake Gardens, 1930<br>
-               Collection of National Archives of Singapore<br>
-                19980005029-0055
+            <p>A girl feeding the monkeys at Singapore Botanic Gardens, 1930s<br>
+               Lim Kheng Chye Collection, National Archives of Singapore<br>
+                20080000045-0032
             </p>
         </div>
     </div>
