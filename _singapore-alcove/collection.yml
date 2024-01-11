@@ -2,6 +2,6 @@ collections:
   singapore-alcove:
     output: true
     order:
-      - Gallery.md
       - About.md
+      - Gallery.md
       - Credits.md
