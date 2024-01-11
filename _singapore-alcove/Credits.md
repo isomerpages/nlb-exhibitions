@@ -92,7 +92,7 @@ Click the links below for the respective image credits.
         </div>
         <div class="col is-two-thirds">
             <p>Alhambra Theatre at Beach Road, 1948<br>
-                Wong Kwan Collection, courtesy of National Archives of Singapore<br>
+                Wong Kwan Collection, National Archives of Singapore<br>
                 19980005861-0044
             </p>
         </div>
@@ -164,7 +164,7 @@ Click the links below for the respective image credits.
         </div>
         <div class="col is-two-thirds">
             <p>Bird Singing Hangout at Clementi, 2013<br>
-                          ©️Tomohisa Miyauch<br>
+                          ©️Tomohisa Miyauchi<br>
             </p>
         </div>
     </div>
