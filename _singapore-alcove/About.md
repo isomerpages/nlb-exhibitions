@@ -58,4 +58,34 @@ description: ""
         </div>
     </div>
         <div class="row">
-            <div class="col" style="border-top: 10px solid #E21216; border-bottom: 0px solid #E21216;"><h3><strong>Lepak Landscapes: Life and Leisure in Singapore</strong></h3></div></div></div></section>
+            <div class="col" style="border-top: 10px solid #E21216; border-bottom: 0px solid #E21216;"><h3><strong>Lepak Landscapes: Life and Leisure in Singapore</strong></h3>
+
+							<p>Singaporium is a permanent exhibition space that enables NLB to bring its heritage collections closer to the community. The inaugural exhibition, <em>Punggol Stories</em>, presents selected stories and histories of Punggol.</p>
+
+            <p><em>Punggol Stories</em> at Singaporium has four sections: </p>
+
+            <p>
+                </p><ul>
+                <li><strong>Punggol Pioneers</strong> features the start of early Punggol, from its first kampongs and plantations in the mid-1800s, to the communities that made it their home.</li>
+
+                <li><strong>Seaside Solace</strong> celebrates the leisure activities that drew people to Punggol, especially the seafood and water sports scene that blossomed in the 1960s.</li>
+                 
+                <li><strong>Farm to Fable</strong> pays tribute to Punggol's agricultural heritage, notably as the primary site of Singapore's industrialised pig farms in the 1970s and 1980s.</li>
+                 
+                <li><strong>Winding Waterways</strong> charts the ebb and flow of Punggol's development, connecting it to the present day.</li> 
+                </ul>
+            <p></p>
+            <p>In the middle of the exhibition is a <strong>Memory Map</strong>, an interactive installation that features memories of historical Punggol.</p>
+
+            <p><a href="/exhibitions/current-exhibitions/punggolstories/credits/">Link to image credits</a></p>
+        </div>
+    </div>
+</div>
+
+<div class="container__line padding--lg">
+    <div class="row">
+        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
+        </div>
+    </div>
+</div>
+							</section>
