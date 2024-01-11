@@ -13,7 +13,7 @@ description: ""
     </div>    
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img srcset="/images/event-images/lpg/singapore-literary-pioneers-main-image_400w.jpg 400w, /images/event-images/lpg/singapore-literary-pioneers-main-image_950w.jpg 950w" sizes="(max-width: 500px) 40vw, 95vw" height="682" width="950" src="/images/event-images/lpg/singapore-literary-pioneers-main-image_400w.jpg" alt="A photo of the Singapore Literary Pioneers exhibition.">
+            <img srcset="/images/event-images/Lepak Landscapes/G1.jpg 400w, /images/event-images/Lepak Landscapes/G1.jpg 950w" sizes="(max-width: 500px) 40vw, 95vw" height="682" width="950" src="/images/event-images/Lepak Landscapes/G1.jpg" alt="A photo of the Singapore Alcove space.">
         </div>
     </div>
         <div class="row">
@@ -54,7 +54,7 @@ description: ""
     </div>    
     <div class="row">
         <div class="col is-full" style="padding: 0 0 12px 0;">
-            <img srcset="/images/event-images/lpg/singapore-literary-pioneers-main-image_400w.jpg 400w, /images/event-images/lpg/singapore-literary-pioneers-main-image_950w.jpg 950w" sizes="(max-width: 500px) 40vw, 95vw" height="682" width="950" src="/images/event-images/lpg/singapore-literary-pioneers-main-image_400w.jpg" alt="A photo of the Singapore Literary Pioneers exhibition.">
+            <img srcset="/images/event-images/Lepak Landscapes/G2.jpg 400w, /images/event-images/Lepak Landscapes/G2.jpg 950w" sizes="(max-width: 500px) 40vw, 95vw" height="682" width="950" src="/images/event-images/Lepak Landscapes/G2.jpg" alt="A photo of the Lepak Landscape exhibition.">
         </div>
     </div>
         <div class="row">
