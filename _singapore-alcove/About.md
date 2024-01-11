@@ -59,8 +59,12 @@ description: ""
     </div>
         <div class="row">
             <div class="col" style="border-top: 10px solid #E21216; border-bottom: 0px solid #E21216;"><h3><strong>Lepak Landscapes: Life and Leisure in Singapore</strong></h3>
+							
+							<div class="container__line padding--lg">
+    <div class="row">
+        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
 
-							<p>What comes to mind when you hear<em>Lepak?</em></p>
+							<p>What comes to mind when you hear<em> Lepak?</em></p>
 
 							<p>Explore <em>Lepak Landscapes: Life and Leisure in Singapore</em>, a digital interactive exhibition, and reimagine leisure in Singapore! Uncover the stories behind iconic leisure spaces and activities in four vibrant sections:</p>
 
@@ -72,7 +76,7 @@ description: ""
                  
 							<li>Trace the evolution of shopping in <strong>'Retail Therapy'</strong> where transactions blossom into a rich cultural experience.</li>
                  
-                <li>Soak up the sun-drenched tales of Singapore's outdoor recreation in <strong>Fun in the Sun'.</strong></li> 
+                <li>Soak up the sun-drenched tales of Singapore's outdoor recreation in <strong>'Fun in the Sun'.</strong></li> 
                 </ul>
             <p></p>
             <p>In each section, visitors can interact with a <strong>digital storybook</strong> crafted from the rich resources of the National Library and National Archives, curated <strong>artefact displays, book recommendations</strong> and a <strong>quiz to discover your <em>lepak</em> personality! </strong></p><strong>
@@ -85,4 +89,4 @@ description: ""
         </div>
     </div>
 </div>
-							</strong></section>
+							</strong></div></div></div></section>
