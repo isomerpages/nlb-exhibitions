@@ -76,12 +76,9 @@ description: ""
                 </ul>
             <p></p>
             <p>In each section, visitors can interact with a <strong>digital storybook</strong> crafted from the rich resources of the National Library and National Archives, curated <strong>artefact displays, book recommendations</strong> and a <strong>quiz to discover your <em>lepak</em> personality! </strong></p><strong>
-
-            <p><a href="/exhibitions/current-exhibitions/punggolstories/credits/">Link to image credits</a></p>
         </strong></div><strong>
     </strong></div><strong>
 </strong></div><strong>
-
 <div class="container__line padding--lg">
     <div class="row">
         <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
