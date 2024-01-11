@@ -75,12 +75,12 @@ description: ""
                 <li>Soak up the sun-drenched tales of Singapore's outdoor recreation in <strong>Fun in the Sun'.</strong></li> 
                 </ul>
             <p></p>
-            <p>In the middle of the exhibition is a <strong>Memory Map</strong>, an interactive installation that features memories of historical Punggol.</p>
+            <p>In each section, visitors can interact with a <strong>digital storybook</strong> crafted from the rich resources of the National Library and National Archives, curated <strong>artefact displays, book recommendations</strong> and a <strong>quiz to discover your <em>lepak</em> personality! </strong></p><strong>
 
             <p><a href="/exhibitions/current-exhibitions/punggolstories/credits/">Link to image credits</a></p>
-        </div>
-    </div>
-</div>
+        </strong></div><strong>
+    </strong></div><strong>
+</strong></div><strong>
 
 <div class="container__line padding--lg">
     <div class="row">
@@ -88,4 +88,4 @@ description: ""
         </div>
     </div>
 </div>
-							</section>
+							</strong></section>
