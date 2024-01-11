@@ -60,7 +60,7 @@ description: ""
         <div class="row">
             <div class="col" style="border-top: 10px solid #E21216; border-bottom: 0px solid #E21216;"><h3><strong>Lepak Landscapes: Life and Leisure in Singapore</strong></h3>
 						<div class="col" style="border-top: 0px solid #E21216; border-bottom: 5px solid #E21216;">
-							
+					
 							<p>What comes to mind when you hear<em> Lepak?</em></p>
 
 							<p>Explore <em>Lepak Landscapes: Life and Leisure in Singapore</em>, a digital interactive exhibition, and reimagine leisure in Singapore! Uncover the stories behind iconic leisure spaces and activities in four vibrant sections:</p>
@@ -79,13 +79,5 @@ description: ""
             <p>In each section, visitors can interact with a <strong>digital storybook</strong> crafted from the rich resources of the National Library and National Archives, curated <strong>artefact displays, book recommendations</strong> and a <strong>quiz to discover your <em>lepak</em> personality! </strong></p><strong>
       
 <p><a href="/exhibitions/current-exhibitions/sgalcove/credits/">Link to image credits</a></p>
-							</strong></div><strong>
-    </strong></div><strong>
 </strong></div><strong>
-<div class="container__line padding--lg">
-    <div class="row">
-        <div class="col is-12" style="padding: 2px 0; background-color: #efefef;">
-        </div>
-    </div>
-</div>
-							</strong></div></section>
+</strong></div></div></div></section>
