@@ -59,7 +59,7 @@ description: ""
     </div>
         <div class="row">
             <div class="col" style="border-top: 10px solid #E21216; border-bottom: 0px solid #E21216;"><h3><strong>Lepak Landscapes: Life and Leisure in Singapore</strong></h3>
-													<hr style="margin: 40px 0 20px 0;">
+													<hr style="margin: 50px 0 30px 0;">
 							
 							<p>What comes to mind when you hear<em> Lepak?</em></p>
 
