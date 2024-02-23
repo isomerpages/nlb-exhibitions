@@ -2,7 +2,7 @@ collections:
   sac-exhibitions:
     output: true
     order:
-      - Sac Exhibitions/.keep
-      - Sac Exhibitions/About.md
-      - Sac Exhibitions/Gallery.md
-      - Sac Exhibitions/Programmes.md
+      - SAC Exhibitions/.keep
+      - SAC Exhibitions/About.md
+      - SAC Exhibitions/Gallery.md
+      - SAC Exhibitions/Programmes.md
