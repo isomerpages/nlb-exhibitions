@@ -1,0 +1,9 @@
+collections:
+  poetryonplatforms:
+    output: true
+    order:
+      - Poems on Singapore/.keep
+      - Poems on Singapore/about.md
+      - Poems on Singapore/gallery.md
+      - Poems on Singapore/resources.md
+      - Poems on Singapore/programmes.md

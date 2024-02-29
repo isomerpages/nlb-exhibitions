@@ -1,0 +1,8 @@
+collections:
+  mappingtheworld:
+    output: true
+    order:
+      - Mapping the World/.keep
+      - Mapping the World/about.md
+      - Mapping the World/gallery.md
+      - Mapping the World/programmes.md

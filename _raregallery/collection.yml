@@ -1,0 +1,8 @@
+collections:
+  raregallery:
+    output: true
+    order:
+      - The Rare Collection Gallery/.keep
+      - The Rare Collection Gallery/about.md
+      - The Rare Collection Gallery/gallery.md
+      - The Rare Collection Gallery/exhibition-highlights.md
