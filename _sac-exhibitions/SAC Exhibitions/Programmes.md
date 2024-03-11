@@ -3,16 +3,8 @@ title: Programmes
 permalink: /exhibitions/current-exhibitions/sacexhibitions/programmes/
 variant: markdown
 description: ""
-third_nav_title: Sac Exhibitions
+third_nav_title: SAC Exhibitions
 ---
-<!-- 
-
-Colours
-Upcoming: default colour
-Past: #c1c1c1
-
--->
-
 <section class="section__progs">
 
 <div class="container__description">
@@ -60,7 +52,7 @@ Past: #c1c1c1
             —<br>
             Conducted in English | Led by docents</strong></td>
         <td>
-					<p>Date &amp; Time:</p><div><strong></strong><div><strong></strong></div><strong>Wednesdays:</strong><div></div>10, 17, 24 &amp; 31 Jan 2024<div></div>21 &amp; 28 Feb 2024<div></div>6, 13, 20 &amp; 27 Mar 2024<div></div>3, 17 &amp; 24 Apr 2024<div>8, 15 &amp; 29 May 2024</div><div><strong>Saturdays:</strong><div></div><strong></strong>6, 13, 20 &amp; 27 Jan 2024<div>3 &amp; 24 Feb 2024<div>2, 9, 16, 23 &amp; 30 Mar 2024<div></div>6, 13, 20 &amp; 27 Apr 2024<div></div>4, 11, 18 &amp; 25 May 2024</div><p>2:00pm-3:00pm</p><p></p><div></div>Meeting Point:<div>Lobby, The URA Centre
+					<p>Date &amp; Time:</p><div><strong></strong><div><strong></strong></div><div><strong>Saturdays:</strong><div></div><strong></strong>6, 13, 20 &amp; 27 Jan 2024<div>3 &amp; 24 Feb 2024<div>2, 9, 16, 23 &amp; 30 Mar 2024<div></div>6, 13, 20 &amp; 27 Apr 2024<div></div>4, 11, 18 &amp; 25 May 2024</div><p>2:00pm-3:00pm</p><p></p><div></div>Meeting Point:<div>Lobby, The URA Centre
         </div></div></div></div></td>
     </tr>    
     <tr>

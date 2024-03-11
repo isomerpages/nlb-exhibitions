@@ -3,7 +3,7 @@ title: About
 permalink: /exhibitions/current-exhibitions/sacexhibitions/about/
 variant: markdown
 description: ""
-third_nav_title: Sac Exhibitions
+third_nav_title: SAC Exhibitions
 ---
 <h3><strong>Singapore Architecture Collection Exhibitions </strong></h3><section class="section__about"> 
 <div class="container__card">
