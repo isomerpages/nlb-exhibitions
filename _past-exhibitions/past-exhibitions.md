@@ -1,14 +1,65 @@
 ---
-title: 'Past Exhibitions'
+title: Past Exhibitions
 permalink: /exhibitions/past-exhibitions/
-breadcrumb: 'Past Exhibitions'
-
+breadcrumb: Past Exhibitions
+variant: markdown
 ---
-
-
 <section class="section__exhibitions">
 
-<!-- QUPL50 -->
+	
+
+
+<div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+    <div class="row">
+        <div class="col padding--bottom--xs">
+            <h3 style="margin-bottom: 0px;"><strong>From Books to Bytes: The Story of the National Library</strong></h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <img src="/images/event-images/frombooks/from-books-to-bytes-thumbnail.jpg" alt="From Books to Bytes: The Story of the National Library thumbnail" height="500" width="500" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
+        </div>
+        <div class="col is-two-thirds">
+            <div class="row">
+                    <ul style="list-style: none; margin-left: 5px;">
+                        <li style="margin-bottom: 1rem;">
+                            <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                            <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">Permanent exhibition</div>
+                        </li> 
+                        <li style="margin-bottom: 1rem;">
+                            <span class="sgds-icon sgds-icon-clock" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                            <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">10:00am – 9:00pm</div>
+                        </li>          
+                        <li style="margin-bottom: 1rem;">
+                            <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                            <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">Level 5, Promenade, National Library Building</div>
+                        </li>
+                    </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container__exh__break padding">
+    <div class="row">
+        <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #efefef;">
+        </div>
+    </div>
+</div>
+
+<div class="container__exh__description">
+    <div class="row is-multiline">
+        <div class="col">
+            <p>Throughout our history, the library has been an integral part of Singapore's cultural and social fabric as well as its residents. The exhibition traces the founding, development and growth of the National Library, Singapore from 1823 till present.
+            </p>
+            <a href="/exhibitions/current-exhibitions/bookstobytes/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
+        </div>
+    </div>
+</div>
+
+ <hr class="margin--top margin--bottom--lg">
+
+
 
 <div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
@@ -53,16 +104,16 @@ breadcrumb: 'Past Exhibitions'
         <div class="col">            
             <p>Since the opening of the first branch library in Queenstown in 1970, public libraries in Singapore have gone through a dramatic transformation. Journey with us from the past to present in this exciting exhibition. Discover how much our public libraries have evolved and will continue to grow in the future! 
             </p>
-            <a href="/exhibitions/past-exhibitions/qupl50/" style="color:#E21216;"><h5>EXHIBITION INFORMATION &#187;</h5></a>
+            <a href="/exhibitions/past-exhibitions/qupl50/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
         </div>
     </div>
 </div>
 
-<!-- End of QUPL50 -->
+
 
 <hr class="margin--top margin--bottom--lg">
 
-<!-- Mapping -->
+
 
 <div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
@@ -107,16 +158,16 @@ breadcrumb: 'Past Exhibitions'
         <div class="col">            
             <p>Showcasing rare historical maps, <i>Mapping the World: Perspectives from Asian Cartography</i> brings together different mapping traditions and worldviews, political and cultural spheres of influence, and the exchange of cartographic knowledge between civilisations across the world. 
             </p>
-            <a href="/exhibitions/past-exhibitions/mappingtheworld/" style="color:#E21216;"><h5>EXHIBITION INFORMATION &#187;</h5></a>
+            <a href="/exhibitions/past-exhibitions/mappingtheworld/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
         </div>
     </div>
 </div>
 
-<!-- End of Mapping -->
+
 
 <hr class="margin--top margin--bottom--lg">
 
-<!-- HumanxNature -->
+
 
 <div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
@@ -161,16 +212,16 @@ breadcrumb: 'Past Exhibitions'
         <div class="col">
             <p>Singapore’s natural environment, as we know and experience today, is the result of a long history of knowledge gathering, plantation agriculture and attempts at rehabilitation. This exhibition explores our relationships with the natural world from cultural understandings and scientific study to commercial and urban land use, as well as conservation and restoration.
             </p>
-            <a href="/exhibitions/past-exhibitions/humanxnature/" style="color:#E21216;"><h5>EXHIBITION INFORMATION &#187;</h5></a>
+            <a href="/exhibitions/past-exhibitions/humanxnature/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
         </div>
     </div>
 </div>
 
-<!-- End of HumanxNature -->
+
 
 <hr class="margin--top margin--bottom--lg">
 
-<!-- On Paper -->
+
 
 <div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
@@ -215,16 +266,16 @@ breadcrumb: 'Past Exhibitions'
         <div class="col">
             <p>On Paper: Singapore Before 1867 features over 150 paper-based artefacts that tell the story of Singapore’s early history – from a 17th-century Portuguese navigational chart that points to the existence of a Shahbandar (harbour master) on Singapore island to the key document that established the Straits Settlements as a Crown Colony of Britain on 1 April 1867.
             </p>
-            <a href="/exhibitions/past-exhibitions/onpaper/" style="color:#E21216;"><h5>EXHIBITION INFORMATION &#187;</h5></a>
+            <a href="/exhibitions/past-exhibitions/onpaper/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
         </div>
     </div>
 </div>
 
-<!-- End of On Paper -->
+
 
 <hr class="margin--top margin--bottom--lg">
 
-<!-- 1919 -->
+
 
 <div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
@@ -269,16 +320,16 @@ breadcrumb: 'Past Exhibitions'
         <div class="col">
             <p>Centenary Day took place on 6 February 1919 and marked Singapore’s hundredth year as a colonial port-settlement. It was celebrated as a public holiday filled with official festivities and fanfare. This display features photographs and publications produced for the occasion.
             </p>
-            <a href="/exhibitions/past-exhibitions/centenary/" style="color:#E21216;"><h5>EXHIBITION INFORMATION &#187;</h5></a>
+            <a href="/exhibitions/past-exhibitions/centenary/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
         </div>
     </div>
 </div>
 
-<!-- End of 1919 -->
+
 
 <hr class="margin--top margin--bottom--lg">
 
-<!-- TFP -->
+
 
 <div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
@@ -323,16 +374,16 @@ breadcrumb: 'Past Exhibitions'
         <div class="col">
             <p>With many tales such as the strong man Badang and the attack of the garfish, Sejarah Melayu continues to enchant writers and readers everywhere. Discover these timeless stories and how one man managed to bring this ancient manuscript to the masses, thereby ensuring that its legacy live on through the ages.
             </p>
-            <a href="/exhibitions/past-exhibitions/thefirstprint/" style="color:#E21216;"><h5>EXHIBITION INFORMATION &#187;</h5></a>
+            <a href="/exhibitions/past-exhibitions/thefirstprint/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
         </div>
     </div>
 </div>
 
-<!-- End of TFP -->
+
 
 <hr class="margin--top margin--bottom--lg">
 
-<!-- Selling Dreams -->
+
 
 <div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
@@ -377,16 +428,16 @@ breadcrumb: 'Past Exhibitions'
         <div class="col">
             <p>Advertisements are fascinating cultural documents that both shape and reflect people’s desires and ideals. This exhibition features advertising materials from the 1830s to 1960s in the National Library collection, and explores the hopes, dreams, aspirations and insecurities of society over the years.
             </p>
-            <a href="/exhibitions/past-exhibitions/sellingdreams/" style="color:#E21216;"><h5>EXHIBITION INFORMATION &#187;</h5></a>
+            <a href="/exhibitions/past-exhibitions/sellingdreams/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
         </div>
     </div>
 </div>
 
-<!-- End of Selling Dreams -->
+
 
 <hr class="margin--top margin--bottom--lg">
 
-<!-- TMW -->
+
 
 <div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
@@ -431,16 +482,16 @@ breadcrumb: 'Past Exhibitions'
         <div class="col">
             <p>For centuries, Malay was the language of trade, diplomacy, religious discourse, and literature for maritime Southeast Asia. This exhibition explores traditional Malay literature captured in ink on paper – from handwritten manuscripts to early lithographed books.
             </p>
-            <a href="/exhibitions/past-exhibitions/talesofthemalayworld/" style="color:#E21216;"><h5>EXHIBITION INFORMATION &#187;</h5></a>
+            <a href="/exhibitions/past-exhibitions/talesofthemalayworld/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
         </div>
     </div>
 </div>
 
-<!-- End of TMW -->
+
 
 <hr class="margin--top margin--bottom--lg">
 
-<!-- SFF -->
+
 
 <div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
@@ -485,16 +536,16 @@ breadcrumb: 'Past Exhibitions'
         <div class="col">
             <p>Join us at the National Library as we showcase Shakespeare’s First Folio, first printed in 1623, on special loan from The University of Oxford’s Bodleian Libraries for six weeks only. Shakespeare’s plays are among the most significant pieces of literature in the English language and have influenced art and media all over the world for centuries.
             </p>
-            <a href="/exhibitions/past-exhibitions/shakespearesfirstfolio/" style="color:#E21216;"><h5>EXHIBITION INFORMATION &#187;</h5></a>
+            <a href="/exhibitions/past-exhibitions/shakespearesfirstfolio/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
         </div>
     </div>
 </div>
 
-<!-- End of SFF -->
+
 
 <hr class="margin--top margin--bottom--lg">
 
-<!-- AOFM -->
+
 
 <div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
@@ -539,16 +590,16 @@ breadcrumb: 'Past Exhibitions'
         <div class="col">
             <p>1973 was a milestone year in Tan Swie Hian’s life during which he experienced a breakthrough in his spirituality and creative capacity. Now, more than 40 years later, Tan’s works are presented again at the National Library in this exhibition featuring over 100 creations in a wide range of media.
             </p>
-            <a href="/exhibitions/past-exhibitions/anatomyofafreemind/" style="color:#E21216;"><h5>EXHIBITION INFORMATION &#187;</h5></a>
+            <a href="/exhibitions/past-exhibitions/anatomyofafreemind/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
         </div>
     </div>
 </div>
 
-<!-- End of AOFM -->
+
 
 <hr class="margin--top margin--bottom--lg">
 
-<!-- SS -->
+
 
 <div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
@@ -593,16 +644,16 @@ breadcrumb: 'Past Exhibitions'
         <div class="col">
             <p>Script &amp; Stage explores the fascinating roots of local playwriting and theatre production, highlighting significant performances, playwrights and prominent theatre companies that have shaped the foundation of contemporary theatre in Singapore.
             </p>
-            <a href="/exhibitions/past-exhibitions/scriptandstage/" style="color:#E21216;"><h5>EXHIBITION INFORMATION &#187;</h5></a>
+            <a href="/exhibitions/past-exhibitions/scriptandstage/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
         </div>
     </div>
 </div>
 
-<!-- End of SS -->
+
 
 <hr class="margin--top margin--bottom--lg">
 
-<!-- FTS -->
+
 
 <div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
@@ -646,16 +697,16 @@ breadcrumb: 'Past Exhibitions'
     <div class="row is-multiline">
         <div class="col">
             <p>Documents, publications and photographs from Singapore’s early days reveal fascinating insights into our history and culture. Discover early Singapore from a fresh perspective through over 100 highlights from the National Library’s collection of rare publications, manuscripts, documents, maps, photographs and more.</p>
-            <a href="/exhibitions/past-exhibitions/fromthestacks/" style="color:#E21216;"><h5>EXHIBITION INFORMATION &#187;</h5></a>
+            <a href="/exhibitions/past-exhibitions/fromthestacks/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
         </div>
     </div>
 </div>
 
-<!-- End of FTS -->
+
 
 <hr class="margin--top margin--bottom--lg">
 
-<!-- POP -->
+
 
 <div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
@@ -695,26 +746,26 @@ breadcrumb: 'Past Exhibitions'
     <div class="row is-multiline">
         <div class="col">
             <p>Immerse yourself in 82 Singapore poems written beautifully by poets on the City Hall MRT platforms. Commuters and passer-by can look forward to humorous, moving and thought-provoking poems on life, people, and places in Singapore that will strike a chord with them.</p>
-            <a href="/exhibitions/past-exhibitions/poetryonplatforms/" style="color:#E21216;"><h5>EXHIBITION INFORMATION &#187;</h5></a>
+            <a href="/exhibitions/past-exhibitions/poetryonplatforms/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
         </div>
     </div>
 </div>
 
-<!-- End of POP -->
+
 
 <hr class="margin--top margin--bottom--lg">
 
-<!-- Geo -->
+
 
 <div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
         <div class="col padding--bottom--xs">
-            <h3 style="margin-bottom: 0px;"><strong>Geo&#124;Graphic: Celebrating maps and their stories</strong></h3>
+            <h3 style="margin-bottom: 0px;"><strong>Geo|Graphic: Celebrating maps and their stories</strong></h3>
         </div>
     </div>
     <div class="row">
         <div class="col">
-            <img src="/images/event-images/geographic/geographic-thumbnail.jpg" height="500" width="500" alt="Geo&#124;Graphic: Celebrating maps and their stories" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
+            <img src="/images/event-images/geographic/geographic-thumbnail.jpg" height="500" width="500" alt="Geo|Graphic: Celebrating maps and their stories" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
         </div>
         <div class="col is-two-thirds">
             <div class="row">
@@ -748,16 +799,16 @@ breadcrumb: 'Past Exhibitions'
     <div class="row is-multiline">
         <div class="col">
             <p>Maps are fascinating objects; they not only tell us about the places they depict but also how their makers saw the world around them. For Singapore in particular, maps are a window to our early history – before the arrival of the British in 1819. The National Library is pleased to present Geo|Graphic, an offering of exhibitions and programmes that explore maps and mapping.</p>
-            <a href="/exhibitions/past-exhibitions/geographic/" style="color:#E21216;"><h5>EXHIBITION INFORMATION &#187;</h5></a>
+            <a href="/exhibitions/past-exhibitions/geographic/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
         </div>
     </div>
 </div>
 
-<!-- End of Geo -->
+
 
 <hr class="margin--top margin--bottom--lg">
 
-<!-- Lit -->
+
 
 <div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
@@ -801,13 +852,13 @@ breadcrumb: 'Past Exhibitions'
     <div class="row is-multiline">
         <div class="col">
             <p>The gallery displays the books, letters, calligraphic works, manuscripts, photographs and portraits of Singapore’s literary pioneers. Some prominent writers have also donated their pens, typewriters and literary awards. In addition, visitors can appreciate audio and video recordings of the writers in two multimedia screens.</p>
-            <a href="/exhibitions/past-exhibitions/singaporeliterarypioneers/" style="color:#E21216;"><h5>EXHIBITION INFORMATION &#187;</h5></a>
+            <a href="/exhibitions/past-exhibitions/singaporeliterarypioneers/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
         </div>
     </div>
 </div>
 
-<!-- End of Lit -->
+
     
 <hr class="margin--top margin--bottom--lg">
-    
+
 </section>
