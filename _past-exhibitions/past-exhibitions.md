@@ -52,7 +52,7 @@ variant: markdown
         <div class="col">
             <p>Throughout our history, the library has been an integral part of Singapore's cultural and social fabric as well as its residents. The exhibition traces the founding, development and growth of the National Library, Singapore from 1823 till present.
             </p>
-            <a href="/exhibitions/current-exhibitions/bookstobytes/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
+            <a href="/exhibitions/past-exhibitions/bookstobytes/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
         </div>
     </div>
 </div>
