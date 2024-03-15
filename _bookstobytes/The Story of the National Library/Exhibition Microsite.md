@@ -2,7 +2,7 @@
 title: Exhibition Microsite
 permalink: /exhibitions/past-exhibitions/bookstobytes/exhibition-microsite/
 breadcrumb: Exhibition Microsite
-third_nav_title: "From Books to Bytes: The Story of the National Library"
+third_nav_title: The Story of the National Library
 variant: tiptap
 description: ""
 ---

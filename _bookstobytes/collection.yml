@@ -2,8 +2,8 @@ collections:
   bookstobytes:
     output: true
     order:
-      - The Story of the National Library/.keep
       - The Story of the National Library/About.md
       - The Story of the National Library/Gallery.md
       - The Story of the National Library/Featured Video.md
       - The Story of the National Library/Exhibition Microsite.md
+      - The Story of the National Library/.keep

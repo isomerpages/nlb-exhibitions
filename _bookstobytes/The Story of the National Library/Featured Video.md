@@ -2,7 +2,7 @@
 title: Featured Video
 permalink: /exhibitions/past-exhibitions/bookstobytes/featured-video/
 breadcrumb: Featured Video
-third_nav_title: "From Books to Bytes: The Story of the National Library"
+third_nav_title: The Story of the National Library
 variant: tiptap
 description: ""
 ---

@@ -2,7 +2,7 @@
 title: Gallery
 permalink: /exhibitions/past-exhibitions/bookstobytes/gallery/
 breadcrumb: Gallery
-third_nav_title: "From Books to Bytes: The Story of the National Library"
+third_nav_title: The Story of the National Library
 variant: tiptap
 description: ""
 ---
