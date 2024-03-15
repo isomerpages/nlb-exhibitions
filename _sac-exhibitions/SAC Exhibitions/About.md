@@ -67,7 +67,7 @@ third_nav_title: SAC Exhibitions
 </strong><div class="container__description"><strong>
     <div class="row">
         <div class="col is-full padding--top--lg">
-					<p><em>To Draw and Idea</em> follows the design evolution of William Lim Associates – W Architects through 19 projects over its 40-year history. This exhibition presents more than 500 architectural drawings - from hand sketches to watercolour renderings, construction drawings - as well as architectural models and documentation, to reveal the firm's design process. These materials have been donated to the Singapore Architecture Collection.</p><p>
+					<p><em>To Draw an Idea</em> follows the design evolution of William Lim Associates – W Architects through 19 projects over its 40-year history. This exhibition presents more than 500 architectural drawings - from hand sketches to watercolour renderings, construction drawings - as well as architectural models and documentation, to reveal the firm's design process. These materials have been donated to the Singapore Architecture Collection.</p><p>
 Founded in 1982, William Lim Associates (WLA) was the third firm affiliated with the architect William S. W. Lim who was involved in designing post-independence landmarks like People's Park and Golden Mile Complexes. Architect Mok Wei Wei joined WLA that same year, becoming the lead architect for many groundbreaking projects. </p><p>
 This exhibition celebrates the architectural works by one of Singapore's most respected practices, inviting visitors to explore its designs in the context of key events and movements in Singapore's recent architectural history.</p>
 			
