@@ -1,12 +1,11 @@
 ---
 title: About
-permalink: /exhibitions/past-exhibitions/centenary/
+permalink: /exhibitions/past-exhibitions/centenary/about/
 breadcrumb: About
-third_nav_title: '1919: The Singapore Centenary and its Celebration'
-
+third_nav_title: "1919: The Singapore Centenary and its Celebration"
+variant: tiptap
+description: ""
 ---
-
-
 <section class="section__about">
 <div class="container__card">
     <div class="row">

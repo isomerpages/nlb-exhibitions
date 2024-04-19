@@ -1,11 +1,11 @@
 ---
 title: About
-permalink: /exhibitions/past-exhibitions/humanxnature/
+permalink: /exhibitions/past-exhibitions/humanxnature/about/
 breadcrumb: About
-third_nav_title: 'Human x Nature'
-
+third_nav_title: Human x Nature
+variant: tiptap
+description: ""
 ---
-
 <section class="section__about">
 <div class="container__card">
     <div class="row">
@@ -51,7 +51,7 @@ third_nav_title: 'Human x Nature'
 
         <p>Modelled after our changing natural landscapes, the exhibition features a dazzling array of natural history books, botanical prints, plantation photographs and maps from the collections of the National Library and National Archives, together with herbarium and natural history specimens on loan from the Lee Kong Chian Natural History Museum, Singapore Botanic Gardens and Urban Redevelopment Authority. Visitors will learn about various understandings of the natural world, and how they shaped the different ways local, colonial, and migrant communities lived within and transformed the natural landscape.</p>
 
-        <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe title="Human x Nature promotional video" src='https://www.youtube.com/embed/TZDunrYVwGM' frameborder='0' allowfullscreen></iframe></div>
+        <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe title="Human x Nature promotional video" src="https://www.youtube.com/embed/TZDunrYVwGM" frameborder="0" allowfullscreen=""></iframe></div>
         </div>
     </div>
 </div>
@@ -114,7 +114,7 @@ third_nav_title: 'Human x Nature'
                     </li>
                 </ul>
             <h4>Digital Curators' tour video</h4>
-                <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe title="Human x Nature promotional video" src='https://www.youtube.com/embed/v4O0iFON03A' frameborder='0' allowfullscreen></iframe></div>
+                <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe title="Human x Nature promotional video" src="https://www.youtube.com/embed/v4O0iFON03A" frameborder="0" allowfullscreen=""></iframe></div>
         </div>
     </div>
 </div>
@@ -193,13 +193,13 @@ third_nav_title: 'Human x Nature'
                     </li> 
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Jurong Regional Library, Level 2</strong> &#124; 7 April - 15 June 2021</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Jurong Regional Library, Level 2</strong> | 7 April - 15 June 2021</div>
                     </li>                    
                     <li style="margin-bottom: 1rem;">
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>National Library Building, Level 1, Lobby</strong> &#124; 17 June - 1 August 2021</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>National Library Building, Level 1, Lobby</strong> | 17 June - 1 August 2021</div>
                     </li>                    
                     <li style="margin-bottom: 1rem;">
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Woodlands Regional Library, Level 1</strong> &#124; 2 August - 24 October 2021</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Woodlands Regional Library, Level 1</strong> | 2 August - 24 October 2021</div>
                     </li>                       
                 </ul>
             </div>
@@ -231,5 +231,3 @@ third_nav_title: 'Human x Nature'
 </div>
 
 </section>
-
-

@@ -158,7 +158,7 @@ variant: markdown
         <div class="col">            
             <p>Showcasing rare historical maps, <i>Mapping the World: Perspectives from Asian Cartography</i> brings together different mapping traditions and worldviews, political and cultural spheres of influence, and the exchange of cartographic knowledge between civilisations across the world. 
             </p>
-            <a href="/exhibitions/past-exhibitions/mappingtheworld/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
+            <a href="/exhibitions/past-exhibitions/mappingtheworld/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
         </div>
     </div>
 </div>
@@ -212,7 +212,7 @@ variant: markdown
         <div class="col">
             <p>Singapore’s natural environment, as we know and experience today, is the result of a long history of knowledge gathering, plantation agriculture and attempts at rehabilitation. This exhibition explores our relationships with the natural world from cultural understandings and scientific study to commercial and urban land use, as well as conservation and restoration.
             </p>
-            <a href="/exhibitions/past-exhibitions/humanxnature/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
+            <a href="/exhibitions/past-exhibitions/humanxnature/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
         </div>
     </div>
 </div>
@@ -266,7 +266,7 @@ variant: markdown
         <div class="col">
             <p>On Paper: Singapore Before 1867 features over 150 paper-based artefacts that tell the story of Singapore’s early history – from a 17th-century Portuguese navigational chart that points to the existence of a Shahbandar (harbour master) on Singapore island to the key document that established the Straits Settlements as a Crown Colony of Britain on 1 April 1867.
             </p>
-            <a href="/exhibitions/past-exhibitions/onpaper/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
+            <a href="/exhibitions/past-exhibitions/onpaper/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
         </div>
     </div>
 </div>
@@ -320,7 +320,7 @@ variant: markdown
         <div class="col">
             <p>Centenary Day took place on 6 February 1919 and marked Singapore’s hundredth year as a colonial port-settlement. It was celebrated as a public holiday filled with official festivities and fanfare. This display features photographs and publications produced for the occasion.
             </p>
-            <a href="/exhibitions/past-exhibitions/centenary/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
+            <a href="/exhibitions/past-exhibitions/centenary/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
         </div>
     </div>
 </div>
@@ -590,7 +590,7 @@ variant: markdown
         <div class="col">
             <p>1973 was a milestone year in Tan Swie Hian’s life during which he experienced a breakthrough in his spirituality and creative capacity. Now, more than 40 years later, Tan’s works are presented again at the National Library in this exhibition featuring over 100 creations in a wide range of media.
             </p>
-            <a href="/exhibitions/past-exhibitions/anatomyofafreemind/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
+            <a href="/exhibitions/past-exhibitions/anatomyofafreemind/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
         </div>
     </div>
 </div>

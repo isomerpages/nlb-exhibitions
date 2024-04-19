@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Human x Nature/.keep
-      - Human x Nature/about.md
+      - Human x Nature/About.md
       - Human x Nature/gallery.md
       - Human x Nature/online-exhibition.md
       - Human x Nature/programmes.md

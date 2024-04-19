@@ -1,12 +1,11 @@
 ---
 title: About
-permalink: /exhibitions/past-exhibitions/anatomyofafreemind/
+permalink: /exhibitions/past-exhibitions/anatomyofafreemind/about/
 breadcrumb: About
-third_nav_title: 'Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations'
-
+third_nav_title: "Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations"
+variant: tiptap
+description: ""
 ---
-
-
 <section class="section__about">
 <div class="container__card">
     <div class="row">
@@ -95,10 +94,10 @@ third_nav_title: 'Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creati
                     </li> 
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Jurong Regional Library</strong> &#124; 1 November 2016 – 29 December 2016</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Jurong Regional Library</strong> | 1 November 2016 – 29 December 2016</div>
                     </li>                    
                     <li style="margin-bottom: 1rem;">
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Central Public Library</strong> &#124; 30 December 2016 – 28 February 2017</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Central Public Library</strong> | 30 December 2016 – 28 February 2017</div>
                     </li>                    
                 </ul>
             </div>
@@ -132,10 +131,10 @@ third_nav_title: 'Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creati
                     </li> 
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>裕廊区域图书馆</strong> &#124; 2016年11月1日–2016年12月29日</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>裕廊区域图书馆</strong> | 2016年11月1日–2016年12月29日</div>
                     </li>                    
                     <li style="margin-bottom: 1rem;">
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>中央公共图书馆</strong> &#124; 2016年12月30日–2017年2月28日</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>中央公共图书馆</strong> | 2016年12月30日–2017年2月28日</div>
                     </li>                    
                 </ul>
             </div>
@@ -189,4 +188,3 @@ third_nav_title: 'Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creati
 </div>
     
 </section>
-

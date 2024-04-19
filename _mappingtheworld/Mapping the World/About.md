@@ -1,11 +1,11 @@
 ---
 title: About
-permalink: /exhibitions/past-exhibitions/mappingtheworld/
+permalink: /exhibitions/past-exhibitions/mappingtheworld/about/
 breadcrumb: About
-third_nav_title: 'Mapping the World'
-
+third_nav_title: Mapping the World
+variant: tiptap
+description: ""
 ---
-
 <section class="section__about">
 <div class="container__card">
     <div class="row">
@@ -54,7 +54,7 @@ third_nav_title: 'Mapping the World'
 <div class="container__downloads">
     <div class="row">
         <div class="col is-full padding--top--lg">
-            <h4>Brochure & Exhibition guide</h4>
+            <h4>Brochure &amp; Exhibition guide</h4>
             <p style="margin-top: 5px;">Download the brochure and exhibition guides below:</p>
                     <ul style="list-style: none; margin-left: 5px; color: #E21216">
                         <li style="margin-bottom: 1rem;">
@@ -104,7 +104,7 @@ third_nav_title: 'Mapping the World'
     <div class="row">
         <div class="col is-full">
             <h4>Curator's tour</h4>
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/3RVkATpDEfc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/3RVkATpDEfc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
         </div>
     </div>
 </div>
@@ -184,16 +184,16 @@ third_nav_title: 'Mapping the World'
                     </li> 
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Ang Mo Kio Public Library, Level 1 Foyer</strong> &#124; 20 December 2021 - 25 January 2022</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Ang Mo Kio Public Library, Level 1 Foyer</strong> | 20 December 2021 - 25 January 2022</div>
                     </li>                    
                     <li style="margin-bottom: 1rem;">
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Cheng San Public Library, Foyer</strong> &#124; 26 January - 31 March 2022</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Cheng San Public Library, Foyer</strong> | 26 January - 31 March 2022</div>
                     </li>                    
                     <li style="margin-bottom: 1rem;">
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Jurong West Public Library, Level 1 Exhibition area</strong> &#124; 1 April - 29 May 2022</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Jurong West Public Library, Level 1 Exhibition area</strong> | 1 April - 29 May 2022</div>
                     </li>
                     <li style="margin-bottom: 1rem;">
-                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Jurong Regional Library, Level 2</strong> &#124; 30 May - 31 July 2022</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;"><strong>Jurong Regional Library, Level 2</strong> | 30 May - 31 July 2022</div>
                     </li>                        
                 </ul>
             </div>
@@ -225,5 +225,3 @@ third_nav_title: 'Mapping the World'
 </div>
 
 </section>
-
-

@@ -3,7 +3,7 @@ title: About
 permalink: /exhibitions/past-exhibitions/bookstobytes/about/
 breadcrumb: About
 third_nav_title: The Story of the National Library
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <section class="section__about">
@@ -23,7 +23,7 @@ description: ""
                 <ul style="list-style: none; margin-left: 0px;">
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem;">Permanent exhibition</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">12 November 2005 - 27 February 2024 (CLOSED)</div>
                     </li> 
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-clock" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
