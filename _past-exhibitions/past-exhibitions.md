@@ -590,7 +590,7 @@ variant: markdown
         <div class="col">
             <p>1973 was a milestone year in Tan Swie Hian’s life during which he experienced a breakthrough in his spirituality and creative capacity. Now, more than 40 years later, Tan’s works are presented again at the National Library in this exhibition featuring over 100 creations in a wide range of media.
             </p>
-            <a href="/exhibitions/past-exhibitions/anatomyofafreemind/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
+            <a href="/exhibitions/past-exhibitions/anatomyofafreemind/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
         </div>
     </div>
 </div>
