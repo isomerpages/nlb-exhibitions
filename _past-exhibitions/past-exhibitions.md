@@ -158,7 +158,7 @@ variant: markdown
         <div class="col">            
             <p>Showcasing rare historical maps, <i>Mapping the World: Perspectives from Asian Cartography</i> brings together different mapping traditions and worldviews, political and cultural spheres of influence, and the exchange of cartographic knowledge between civilisations across the world. 
             </p>
-            <a href="/exhibitions/past-exhibitions/mappingtheworld/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
+            <a href="/exhibitions/past-exhibitions/mappingtheworld/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
         </div>
     </div>
 </div>
