@@ -320,7 +320,7 @@ variant: markdown
         <div class="col">
             <p>Centenary Day took place on 6 February 1919 and marked Singapore’s hundredth year as a colonial port-settlement. It was celebrated as a public holiday filled with official festivities and fanfare. This display features photographs and publications produced for the occasion.
             </p>
-            <a href="/exhibitions/past-exhibitions/centenary/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
+            <a href="/exhibitions/past-exhibitions/centenary/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
         </div>
     </div>
 </div>
