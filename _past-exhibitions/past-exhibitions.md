@@ -158,7 +158,7 @@ variant: markdown
         <div class="col">            
             <p>Showcasing rare historical maps, <i>Mapping the World: Perspectives from Asian Cartography</i> brings together different mapping traditions and worldviews, political and cultural spheres of influence, and the exchange of cartographic knowledge between civilisations across the world. 
             </p>
-            <a href="/exhibitions/past-exhibitions/mappingtheworld/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
+            <a href="/exhibitions/past-exhibitions/mappingtheworld/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
         </div>
     </div>
 </div>
@@ -212,7 +212,7 @@ variant: markdown
         <div class="col">
             <p>Singapore’s natural environment, as we know and experience today, is the result of a long history of knowledge gathering, plantation agriculture and attempts at rehabilitation. This exhibition explores our relationships with the natural world from cultural understandings and scientific study to commercial and urban land use, as well as conservation and restoration.
             </p>
-            <a href="/exhibitions/past-exhibitions/humanxnature/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
+            <a href="/exhibitions/past-exhibitions/humanxnature/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
         </div>
     </div>
 </div>
