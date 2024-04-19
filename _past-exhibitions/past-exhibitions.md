@@ -266,7 +266,7 @@ variant: markdown
         <div class="col">
             <p>On Paper: Singapore Before 1867 features over 150 paper-based artefacts that tell the story of Singapore’s early history – from a 17th-century Portuguese navigational chart that points to the existence of a Shahbandar (harbour master) on Singapore island to the key document that established the Straits Settlements as a Crown Colony of Britain on 1 April 1867.
             </p>
-            <a href="/exhibitions/past-exhibitions/onpaper/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
+            <a href="/exhibitions/past-exhibitions/onpaper/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
         </div>
     </div>
 </div>
