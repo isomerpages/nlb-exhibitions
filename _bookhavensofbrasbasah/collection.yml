@@ -1,4 +1,5 @@
 collections:
   bookhavensofbrasbasah:
     output: true
-    order: []
+    order:
+      - Book Havens of Bras Basah/.keep
