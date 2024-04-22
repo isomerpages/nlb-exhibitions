@@ -34,8 +34,7 @@ description: ""
 <div class="container__description">
     <div class="row">
         <div class="col is-full padding--top--lg">
-<p>The Bras Basah.Bugis precinct was once home to many iconic schools, bookshops and libraries. Embark on a journey through the neighbourhood's storied past in this immersive projection with Augmented Reality (AR).</p>Inspired by <a href="https://curiocity.nlb.gov.sg/">Curiocity</a> (an NLB website for stories about places in Singapore), this installation showcases the area's rich history through a nine-minute time-lapse projection across three eras.<p> Watch the landscape evolve from pre-war days to the present, and catch the way of life progress from man-pulled rickshaws to automated vehicles. Dive deeper as selected landmarks spring to life with AR points, revealing fun facts and literary treasures behind the book havens of Bras Basah!
-        </p></div>
+<p>The Bras Basah.Bugis precinct was once home to many iconic schools, bookshops and libraries. Embark on a journey through the neighbourhood's storied past in this immersive projection with Augmented Reality (AR).</p><p>Inspired by <a href="https://curiocity.nlb.gov.sg/">Curiocity</a> (an NLB website for stories about places in Singapore), this installation showcases the area's rich history through a nine-minute time-lapse projection across three eras.</p><p>Watch the landscape evolve from pre-war days to the present, and catch the way of life progress from man-pulled rickshaws to automated vehicles. Dive deeper as selected landmarks spring to life with AR points, revealing fun facts and literary treasures behind the book havens of Bras Basah! </p></div>
 </div>
 </div></section>
 <hr style="margin: 40px 0 20px 0;">
