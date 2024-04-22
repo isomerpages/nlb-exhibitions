@@ -2,6 +2,7 @@ collections:
   current-exhibitions:
     output: true
     order:
+      - "Books Havens of Bras Basah: Curiocity.md"
       - Current Exhibitions.md
       - Book Havens of Bras Basah/.keep
       - Book Havens of Bras Basah/About.md
