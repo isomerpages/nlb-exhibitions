@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Current Exhibitions.md
+      - BookHavensofBrasBasah/Gallery.md
       - BookHavensofBrasBasah/About.md
       - BookHavensofBrasBasah/.keep
       - Singapore Alcove.md
