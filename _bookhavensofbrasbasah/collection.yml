@@ -1,7 +1,4 @@
 collections:
   bookhavensofbrasbasah:
     output: true
-    order:
-      - Book Havens of Bras Basah/.keep
-      - Book Havens of Bras Basah/About.md
-      - Book Havens of Bras Basah/Gallery.md
+    order: []
