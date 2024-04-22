@@ -7,7 +7,7 @@ description: ""
 <section class="section__about">
 <div class="container__card">
     <div class="row">
-        <div class="col is-full" style="border-bottom: 15px solid #E21216; padding: 12px 0 0 0;">
+        <div class="col is-full" style="border-bottom: px solid #E21216; padding: 12px 0 0 0;">
             <img srcset="/images/event-images/Lepak Landscapes/Sg_Alcove_Banner.jpg 400w, /images/event-images/BookHavensofBrasBasah/BHBB_Banner.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="250" width="1000" src="/images/event-images/BookHavensofBrasBasah/BHBB_Banner.jpg" alt="A title card labelled: BHBB.">
         </div>
     </div> 
