@@ -2,6 +2,7 @@ collections:
   current-exhibitions:
     output: true
     order:
+      - "Book Havens of Bras Basah: Curiocity.md"
       - Current Exhibitions.md
       - BookHavensofBrasBasah/.keep
       - Singapore Alcove.md
