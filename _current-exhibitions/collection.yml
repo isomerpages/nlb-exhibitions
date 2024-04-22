@@ -2,6 +2,7 @@ collections:
   current-exhibitions:
     output: true
     order:
+      - BookHavensofBrasBasah/.keep
       - Current Exhibitions.md
       - Singapore Alcove.md
       - Singapore Architecture Collection Exhibitions.md
