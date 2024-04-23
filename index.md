@@ -5,7 +5,7 @@ permalink: /
 description: Exhibitions by National Library Singapore
 sections:
   - hero:
-      background: /images/event-images/newsgallery/tng_1400x595.jpg
+      background: /images/event-images/BookHavensofBrasBasah/BHBB_Banner.jpg
       key_highlights:
         - title: Current exhibitions
           description: ""
