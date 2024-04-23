@@ -8,16 +8,16 @@ sections:
           background: /images/event-images/newsgallery/tng_1400x595.jpg
           key_highlights:
                 - title: 'Current exhibitions'
-                  description: null
+                  description: ''
                   url: /exhibitions/current-exhibitions/
                 - title: 'Online exhibitions'
-                  description: null
+                  description: ''
                   url: /exhibitions/online-exhibitions/
                 - title: 'Past exhibitions'
-                  description: null
+                  description: ''
                   url: /exhibitions/past-exhibitions/
                 - title: Programmes
-                  description: null
+                  description: ''
                   url: /programmes/
     - infopic:
           title: 'National Library Exhibitions'
