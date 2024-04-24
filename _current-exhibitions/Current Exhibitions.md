@@ -9,6 +9,59 @@ image: /images/event-images/Sacexhibitions/banner_exh_Nov.png
 <div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
     <div class="row">
         <div class="col padding--bottom--xs">
+            <h3 style="margin-bottom: 0px;"><strong>Book Havens of Bras Basah: Curiocity</strong></h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <img src="/images/event-images/BookHavensofBrasBasah/BHBB_Thumbnail.jpg" alt="BHBB  thumbnail" height="500" width="500" style="border-radius: 10%; box-shadow: 7px 0 #FF5733;">
+        </div>
+        <div class="col is-two-thirds">
+            <div class="row">
+                <ul style="list-style: none; margin-left: 5px;">
+                    <li style="margin-bottom: 1rem;">
+                        <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                            <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">Permanent Exhibition</div>
+                    </li> 
+                    <li style="margin-bottom: 1rem;">
+                        <span class="sgds-icon sgds-icon-clock" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                            <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">10:00am - 2:00pm, 5:00pm - 9:00pm</div>
+                    </li>          
+                    <li style="margin-bottom: 1rem;">
+                        <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
+                            <div style="font-size: 80%; line-height: 150%; padding-left: 2.3rem;">Basement 1, Central Public Library, Immersive Room</div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container__exh__break padding">
+    <div class="row">
+        <div class="col is-2-tablet is-2-mobile" style="padding: 5px 0; background-color: #efefef;">
+        </div>
+    </div>
+</div>
+
+<div class="container__exh__description">
+    <div class="row is-multiline">
+        <div class="col">
+            <p>Nestled in one of Singapore's oldest districts, the Bras Basah.Bugis precinct holds a rich history as a hub for learning, publishing and reading.</p><p>Witness the transformation of the precinct from pre-war days to the present through an immersive projection with Augmented Reality.</p>
+
+					<a href="/exhibitions/current-exhibitions/book-havens-of-bras-basah-curiocity/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
+</div>
+</div>
+	</div>
+
+
+
+<hr class="margin--top margin--bottom--lg">
+
+
+<div class="container__exh__card padding padding--bottom--lg" style="border-left: 2px solid #efefef; border-right: 2px solid #efefef; border-bottom: 2px solid #efefef; border-top: 10px double #E21216; box-shadow: 0px 2px 3px #efefef; border-radius: 5px; margin-bottom: 15px;">
+    <div class="row">
+        <div class="col padding--bottom--xs">
             <h3 style="margin-bottom: 0px;"><strong>Singapore Alcove</strong></h3>
         </div>
     </div>
