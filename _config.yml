@@ -6,7 +6,6 @@ google_analytics: UA-50449401-28
 google_analytics_ga4: G-9YJW84HPCD
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-resources_name: exhibitions
 paginate: 12
 paginate_path: '/exhibitons/page:num'
 custom_css_path: /misc/custom.css
