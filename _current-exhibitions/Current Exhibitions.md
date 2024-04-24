@@ -47,7 +47,7 @@ image: /images/event-images/Sacexhibitions/banner_exh_Nov.png
 <div class="container__exh__description">
     <div class="row is-multiline">
         <div class="col">
-            <p>Nestled in one of Singapore's oldest districts, the Bras Basah.Bugis precinct holds a rich history as a hub for learning, publishing and reading.</p><p>Witness the transformation of the precinct from pre-war days to the present through an immersive projection with Augmented Reality.</p>
+            <p>Nestled in one of Singapore's oldest districts, the Bras Basah Bugis precinct holds a rich history as a hub for learning, publishing and reading.</p><p>Witness the transformation of the precinct from pre-war days to the present through an immersive projection with Augmented Reality.</p>
 
 					<a href="/exhibitions/current-exhibitions/book-havens-of-bras-basah-curiocity/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
 </div>
