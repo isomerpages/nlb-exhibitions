@@ -1,0 +1,5 @@
+collections:
+  online-exhibitions:
+    output: true
+    order:
+      - online-exhibitions.md
