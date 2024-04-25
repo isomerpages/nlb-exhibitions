@@ -20,11 +20,11 @@ description: ""
                     </li> 
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-clock" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem;">10:00am – 2:00pm. 5:00pm - 9:00pm</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">10:00am – 2:00pm, 5:00pm - 9:00pm</div>
                     </li>          
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-map" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem;">Basement 1, Central Public Library. Immersive Room</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">Basement 1, Central Public Library, Immersive Room</div>
                     </li>                    
                 </ul>
             </div>
