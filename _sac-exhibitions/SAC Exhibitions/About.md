@@ -49,7 +49,7 @@ third_nav_title: SAC Exhibitions
                 <ul style="list-style: none; margin-left: 0px;">
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem;">28 November 2023 - 8 June 2024</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">28 November 2023 - 15 June 2024</div>
                     </li> 
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-clock" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
@@ -93,7 +93,7 @@ This exhibition celebrates the architectural works by one of Singapore's most re
                 <ul style="list-style: none; margin-left: 0px;">
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-calendar" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
-                        <div style="line-height: 150%; padding-left: 2.3rem;">28 November 2023 - 9 June 2024</div>
+                        <div style="line-height: 150%; padding-left: 2.3rem;">28 November 2023 - 16 June 2024</div>
                     </li> 
                     <li style="margin-bottom: 1rem;">
                         <span class="sgds-icon sgds-icon-clock" style="font-size: 150%; display: inline-block; float: left; vertical-align: middle;"></span>
@@ -145,7 +145,7 @@ This exhibition celebrates the architectural works by one of Singapore's most re
 					<p style="margin-top: 5px;">Download the brochure below:</p>
 					<ul style="list-style: none; margin-left: 5px; color: #E21216">
 						<li style="margin-bottom: 1rem;">
-								<a href="/files/Sacexhibitions/English_exhibition_brochure.pdf" style="color:#E21216;"> English exhibition brochure (3.96mb)</a> 
+								<a href="/files/Sacexhibitions/exhibition_brochure.pdf" style="color:#E21216;"> English exhibition brochure (3.27mb)</a> 
             </li>
          </ul>
 			 </div>
