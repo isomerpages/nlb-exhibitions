@@ -3,7 +3,7 @@ title: About
 permalink: /exhibitions/past-exhibitions/centenary/about/
 breadcrumb: About
 third_nav_title: "1919: The Singapore Centenary and its Celebration"
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <section class="section__about">

@@ -3,7 +3,7 @@ title: About
 permalink: /exhibitions/past-exhibitions/mappingtheworld/about/
 breadcrumb: About
 third_nav_title: Mapping the World
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <section class="section__about">
