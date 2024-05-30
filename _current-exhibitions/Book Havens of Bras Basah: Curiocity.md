@@ -1,5 +1,5 @@
 ---
-title: "Books Havens of Bras Basah: Curiocity"
+title: "Book Havens of Bras Basah: Curiocity"
 permalink: /books-havens-of-bras-basah-curiocity/
 variant: markdown
 description: ""
