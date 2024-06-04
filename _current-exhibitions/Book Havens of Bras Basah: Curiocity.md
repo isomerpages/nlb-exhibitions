@@ -1,7 +1,7 @@
 ---
 title: "Book Havens of Bras Basah: Curiocity"
-permalink: /books-havens-of-bras-basah-curiocity/
-variant: markdown
+permalink: /book-havens-of-bras-basah-curiocity/
+variant: tiptap
 description: ""
 ---
 <section class="section__about">
