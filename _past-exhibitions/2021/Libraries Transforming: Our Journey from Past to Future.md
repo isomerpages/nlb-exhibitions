@@ -16,8 +16,8 @@ description: ""
 <p></p>
 <p></p>
 <p>10 April 2021 – 5 March 2023</p>
-<p>10:00am – 9:00pm&lt;/div&gt;</p>
-<p>Queenstown Public Library&lt;/div&gt;</p>
+<p>10:00am – 9:00pm</p>
+<p>Queenstown Public Library</p>
 <p></p>
 <p>First opened on 30 April 1970, Queenstown Public Library (then Queenstown
 Branch Library) was the first of several full-fledged public libraries
