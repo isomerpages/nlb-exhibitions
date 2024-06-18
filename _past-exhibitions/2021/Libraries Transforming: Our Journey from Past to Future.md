@@ -11,13 +11,22 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/qupl50/qupl50_banner_400w.jpg">
 </div>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/qupl50/qupl50_gallery_07_400w.jpg">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
 <p></p>
 <p>10 April 2021 – 5 March 2023</p>
 <p>10:00am – 9:00pm</p>
 <p>Queenstown Public Library</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+</div>
 <p></p>
 <p>First opened on 30 April 1970, Queenstown Public Library (then Queenstown
 Branch Library) was the first of several full-fledged public libraries
@@ -30,5 +39,5 @@ which have evolved greatly from what they were decades ago. &lt;/p&gt;</p>
 Discover how much our public libraries have transformed and will continue
 to grow in the future!</p>
 <p></p>
-<p>For more info, please click here</p>
+<h4>To view the Gallery, click here.</h4>
 <p></p>
