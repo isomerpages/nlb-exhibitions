@@ -7,25 +7,25 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="356" width="1201" alt="A title card labelled Mapping the World: Perspectives from Asian Cartography." src="https://exhibitions.nlb.gov.sg/images/event-images/mappingtheworld/exhibition_banner_1200x355px_400w.jpg">
+<img style="width: 100%;" height="356" width="1201" alt="A title card labelled Mapping the World: Perspectives from Asian Cartography." src="https://exhibitions.nlb.gov.sg/images/event-images/mappingtheworld/exhibition_banner_1200x355px_400w.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="563" width="1000" alt="A photo of the gallery entrance." src="https://exhibitions.nlb.gov.sg/images/event-images/mappingtheworld/001_400w.jpg">
+<img style="width: 100%;" height="563" width="1000" alt="A photo of the gallery entrance." src="https://exhibitions.nlb.gov.sg/images/event-images/mappingtheworld/001_400w.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
-<p><strong>    December 2021 – 8 May 2022</strong>
+<p><strong>11 December 2021 – 8 May 2022</strong>
 </p>
-<p><strong>    10:00am - 9:00pm</strong>
+<p><strong>10:00am - 9:00pm</strong>
 </p>
 <p><strong>Level 10, Gallery, National Library Building</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
 </div>
 <p>Showcasing rare historical maps, <strong><em>Mapping the World: Perspectives from Asian Cartography</em></strong> brings
 together different mapping traditions and worldviews, political and cultural
@@ -85,24 +85,22 @@ across time and space.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="563" width="1000" alt="A photo of the teaser exhibition, which is a horizontally curved lightbox panel." src="https://exhibitions.nlb.gov.sg/images/event-images/mappingtheworld/008_400w.jpg">
+<img style="width: 100%;" height="563" width="1000" alt="A photo of the teaser exhibition, which is a horizontally curved lightbox panel." src="https://exhibitions.nlb.gov.sg/images/event-images/mappingtheworld/008_400w.jpg">
 </div>
 <p></p>
 <h3><strong>Spiritual Journeys: The Traiphum map of Thailand</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
-<ul data-tight="true" class="tight">
-<li>
-<p>11 December 2021 – 31 July 2022</p>
-</li>
-<li>
-<p>10:00am – 9:00pm</p>
-</li>
-<li>
-<p>Level 1, Lobby, National Library Building</p>
-</li>
-</ul>
+<p><strong>11 December 2021 – 31 July 2022</strong>
+</p>
+<p><strong>10:00am – 9:00pm</strong>
+</p>
+<p><strong>Level 1, Lobby, National Library Building</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+</div>
 <p><strong><em>Spiritual Journeys</em></strong> delves into the world of a
 rare indigenous Thai map found in the Traiphum Manuscript, a Thai Buddhist
 cosmological treatise dating to 1776. Containing a mixture of geographical
@@ -116,26 +114,18 @@ Theravada Buddhism.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
-<ul data-tight="true" class="tight">
-<li>
-<p>20 December 2021 – 31 July 2022</p>
-</li>
-<li>
+<p><strong>20 December 2021 – 31 July 2022</strong>
+</p>
 <p><strong>Ang Mo Kio Public Library, Level 1 Foyer</strong> | 20 December
 2021 - 25 January 2022</p>
-</li>
-<li>
 <p><strong>Cheng San Public Library, Foyer</strong> | 26 January - 31 March
 2022</p>
-</li>
-<li>
 <p><strong>Jurong West Public Library, Level 1 Exhibition area</strong> |
 1 April - 29 May 2022</p>
-</li>
-<li>
 <p><strong>Jurong Regional Library, Level 2</strong> | 30 May - 31 July 2022</p>
-</li>
-</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+</div>
 <p>Throughout history, different cultures have used maps to navigate, outline
 the location of kingdoms, and even to tell stories. <strong><em>Story of A Map</em></strong> is
 an interactive display which explores a unique Thai historical map that
