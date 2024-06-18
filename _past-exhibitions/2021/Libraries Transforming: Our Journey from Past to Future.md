@@ -37,7 +37,7 @@ built in the 1970s. These first-generation libraries made books more accessible
 to all Singaporeans at a time when many could not afford them.</p>
 <p>Since then, our public libraries have gone through a dramatic transformation.
 Today, Singapore boasts of a National Library and 26 public libraries,
-which have evolved greatly from what they were decades ago. &lt;/p&gt;</p>
+which have evolved greatly from what they were decades ago.</p>
 <p>Journey with us from the past to present in this interactive exhibition.
 Discover how much our public libraries have transformed and will continue
 to grow in the future!</p>
