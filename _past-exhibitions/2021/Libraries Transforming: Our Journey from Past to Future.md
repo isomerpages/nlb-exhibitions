@@ -20,9 +20,12 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
 <p></p>
-<p>10 April 2021 – 5 March 2023</p>
-<p>10:00am – 9:00pm</p>
-<p>Queenstown Public Library</p>
+<p><strong>10 April 2021 – 5 March 2023</strong>
+</p>
+<p><strong>10:00am – 9:00pm</strong>
+</p>
+<p><strong>Queenstown Public Library</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
@@ -39,5 +42,5 @@ which have evolved greatly from what they were decades ago. &lt;/p&gt;</p>
 Discover how much our public libraries have transformed and will continue
 to grow in the future!</p>
 <p></p>
-<h4>To view the Gallery, click here.</h4>
+<h4>To view the Gallery, click <a href="https://exhibitions.nlb.gov.sg/qupl50/gallery/" rel="noopener noreferrer nofollow" target="_blank">here.</a></h4>
 <p></p>
