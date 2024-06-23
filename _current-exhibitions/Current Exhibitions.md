@@ -49,7 +49,7 @@ image: /images/event-images/Sacexhibitions/banner_exh_Nov.png
         <div class="col">
             <p>Nestled in one of Singapore's oldest districts, the Bras Basah Bugis precinct holds a rich history as a hub for learning, publishing and reading.</p><p>Witness the transformation of the precinct from pre-war days to the present through an immersive projection with Augmented Reality.</p>
 
-					<a href="https://exhibitions.nlb.gov.sg/book-havens-of-bras-basah-curiocity/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
+					<a href="/book-havens-of-bras-basah-curiocity/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
 </div>
 </div>
 	</div>
@@ -102,7 +102,7 @@ image: /images/event-images/Sacexhibitions/banner_exh_Nov.png
         <div class="col">
             <p>Step into Singapore Alcove, where the Singapore Collection is seamlessly integrated within thematic exhibits on our heritage and literature.</p><p>The inaugural exhibition, <em>Lepak Landscapes: Life and Leisure in Singapore,</em> delves into the dynamic evolution of leisure in Singapore through time and the spaces associated with it.</p>
 
-					<a href="https://exhibitions.nlb.gov.sg/sgalcove/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
+					<a href="/sgalcove/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
 </div>
 </div>
 	</div>
@@ -156,7 +156,7 @@ image: /images/event-images/Sacexhibitions/banner_exh_Nov.png
         <div class="col">
             <p>The Singapore Architecture Collection documents and preserves archival materials about our modern and contemporary architecture. This inaugural showcase of the collection presents two exhibitions, <em>To Draw an Idea: Retracing the Designs of William Lim Associates – W Architects</em> and <em>Dare to Design: Singapore Architecture 1960s-2000s.</em></p>
 
-					<a href="https://exhibitions.nlb.gov.sg/sacexhibitions/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
+					<a href="/sacexhibitions/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
 </div>
 </div>
 	</div>
