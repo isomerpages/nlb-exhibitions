@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Beyond Headlines/.keep
-      - Beyond Headlines/virtual-gallery.md
+      - Beyond Headlines/Virtual Gallery.md
       - Early Editions.md
       - Behind Every Story.md
       - Fact or Fake?.md
