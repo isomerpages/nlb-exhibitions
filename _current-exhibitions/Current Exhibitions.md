@@ -49,7 +49,7 @@ image: /images/event-images/Sacexhibitions/banner_exh_Nov.png
         <div class="col">
             <p>Nestled in one of Singapore's oldest districts, the Bras Basah Bugis precinct holds a rich history as a hub for learning, publishing and reading.</p><p>Witness the transformation of the precinct from pre-war days to the present through an immersive projection with Augmented Reality.</p>
 
-					<a href="/exhibitions/current-exhibitions/book-havens-of-bras-basah-curiocity/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
+					<a href="/exhibitions/book-havens-of-bras-basah-curiocity/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
 </div>
 </div>
 	</div>
@@ -102,7 +102,7 @@ image: /images/event-images/Sacexhibitions/banner_exh_Nov.png
         <div class="col">
             <p>Step into Singapore Alcove, where the Singapore Collection is seamlessly integrated within thematic exhibits on our heritage and literature.</p><p>The inaugural exhibition, <em>Lepak Landscapes: Life and Leisure in Singapore,</em> delves into the dynamic evolution of leisure in Singapore through time and the spaces associated with it.</p>
 
-					<a href="/exhibitions/current-exhibitions/sgalcove/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
+					<a href="/exhibitions/sgalcove/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
 </div>
 </div>
 	</div>
@@ -156,7 +156,7 @@ image: /images/event-images/Sacexhibitions/banner_exh_Nov.png
         <div class="col">
             <p>The Singapore Architecture Collection documents and preserves archival materials about our modern and contemporary architecture. This inaugural showcase of the collection presents two exhibitions, <em>To Draw an Idea: Retracing the Designs of William Lim Associates – W Architects</em> and <em>Dare to Design: Singapore Architecture 1960s-2000s.</em></p>
 
-					<a href="/exhibitions/current-exhibitions/sacexhibitions/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
+					<a href="/exhibitions/sacexhibitions/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
 </div>
 </div>
 	</div>
@@ -212,7 +212,7 @@ image: /images/event-images/Sacexhibitions/banner_exh_Nov.png
 
             <p>The <em>Punggol Stories</em> trail comprises Words That Move (Level 1 Stories Come Alive Room), The Lens of Literature (Level 3 Sing Lit) and an exhibition at Singaporium (Level 4) of the Punggol Regional Library.</p>
 
-            <a href="/exhibitions/current-exhibitions/punggolstories/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
+            <a href="/exhibitions/punggolstories/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
         </div>
     </div>
 </div>
@@ -266,8 +266,8 @@ image: /images/event-images/Sacexhibitions/banner_exh_Nov.png
         <div class="col">
             <p>Discover stories of Singapore newspapers in the National Library's collection dating from the 1820s and learn about significant episodes from Singapore's history through the perspectives of different media. Gain insights into fake news, and learn how you can be more discerning about information and media, through our rich resources on newspapers.
             </p>
-            <a href="/exhibitions/current-exhibitions/newsgallery/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
-            <a href="/exhibitions/current-exhibitions/newsgallery/virtual-gallery/" style="color:#E21216;"><h5 style="margin-top: 20px;">VIRTUAL NEWS GALLERY »</h5></a>
+            <a href="/exhibitions/newsgallery/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
+            <a href="/exhibitions/newsgallery/virtual-gallery/" style="color:#E21216;"><h5 style="margin-top: 20px;">VIRTUAL NEWS GALLERY »</h5></a>
         </div>
     </div>
 </div>
@@ -320,7 +320,7 @@ image: /images/event-images/Sacexhibitions/banner_exh_Nov.png
         <div class="col">
             <p>Donations of library materials to the National Library play a significant role in adding diversity and depth to our collection and are instrumental in assisting the library to obtain notable National Collection items. This Donors’ Gallery was set up to acknowledge our donors and showcase their donations. On display is a small selection of materials which provides a glimpse of the variety of materials that have been gifted to the National Library over the years.
             </p>
-            <a href="/exhibitions/current-exhibitions/nldonorsgallery/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
+            <a href="/exhibitions/nldonorsgallery/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
         </div>
     </div>
 </div>
@@ -370,7 +370,7 @@ image: /images/event-images/Sacexhibitions/banner_exh_Nov.png
         <div class="col">
             <p>The Rare Collection Gallery showcases treasures from the National Library's Rare Materials Collection of valuable research materials on Singapore and Southeast Asia. Comprising over 15,000 books, journals, manuscripts, maps, photographs and ephemera, many of the items in the collection were inherited from the National Library's predecessors — the Singapore Library (1844 – 1874) and the Raffles Museum and Library (1874 – 1960). The collection is also further enhanced by recent donations from institutions and individuals. The items on display are regularly refreshed to highlight the various interesting artefacts from the Rare Materials Collection, and is open for viewing during organised public tours.
             </p>
-            <a href="/exhibitions/current-exhibitions/raregallery/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
+            <a href="/exhibitions/raregallery/about" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
         </div>
     </div>
 </div>
