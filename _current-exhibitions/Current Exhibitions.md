@@ -266,8 +266,8 @@ image: /images/event-images/Sacexhibitions/banner_exh_Nov.png
         <div class="col">
             <p>Discover stories of Singapore newspapers in the National Library's collection dating from the 1820s and learn about significant episodes from Singapore's history through the perspectives of different media. Gain insights into fake news, and learn how you can be more discerning about information and media, through our rich resources on newspapers.
             </p>
-            <a href="/exhibitions/newsgallery/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
-            <a href="/exhibitions/newsgallery/virtual-gallery/" style="color:#E21216;"><h5 style="margin-top: 20px;">VIRTUAL NEWS GALLERY »</h5></a>
+            <a href="/newsgallery/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
+            <a href="/newsgallery/virtual-gallery/" style="color:#E21216;"><h5 style="margin-top: 20px;">VIRTUAL NEWS GALLERY »</h5></a>
         </div>
     </div>
 </div>
@@ -320,7 +320,7 @@ image: /images/event-images/Sacexhibitions/banner_exh_Nov.png
         <div class="col">
             <p>Donations of library materials to the National Library play a significant role in adding diversity and depth to our collection and are instrumental in assisting the library to obtain notable National Collection items. This Donors’ Gallery was set up to acknowledge our donors and showcase their donations. On display is a small selection of materials which provides a glimpse of the variety of materials that have been gifted to the National Library over the years.
             </p>
-            <a href="/exhibitions/nldonorsgallery/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
+            <a href="/nldonorsgallery/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
         </div>
     </div>
 </div>
@@ -370,7 +370,7 @@ image: /images/event-images/Sacexhibitions/banner_exh_Nov.png
         <div class="col">
             <p>The Rare Collection Gallery showcases treasures from the National Library's Rare Materials Collection of valuable research materials on Singapore and Southeast Asia. Comprising over 15,000 books, journals, manuscripts, maps, photographs and ephemera, many of the items in the collection were inherited from the National Library's predecessors — the Singapore Library (1844 – 1874) and the Raffles Museum and Library (1874 – 1960). The collection is also further enhanced by recent donations from institutions and individuals. The items on display are regularly refreshed to highlight the various interesting artefacts from the Rare Materials Collection, and is open for viewing during organised public tours.
             </p>
-            <a href="/exhibitions/raregallery/about" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
+            <a href="/raregallery/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
         </div>
     </div>
 </div>
