@@ -102,7 +102,7 @@ image: /images/event-images/Sacexhibitions/banner_exh_Nov.png
         <div class="col">
             <p>Step into Singapore Alcove, where the Singapore Collection is seamlessly integrated within thematic exhibits on our heritage and literature.</p><p>The inaugural exhibition, <em>Lepak Landscapes: Life and Leisure in Singapore,</em> delves into the dynamic evolution of leisure in Singapore through time and the spaces associated with it.</p>
 
-					<a href="/exhibitions/sgalcove/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
+					<a href="https://exhibitions.nlb.gov.sg/sgalcove/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
 </div>
 </div>
 	</div>
@@ -156,7 +156,7 @@ image: /images/event-images/Sacexhibitions/banner_exh_Nov.png
         <div class="col">
             <p>The Singapore Architecture Collection documents and preserves archival materials about our modern and contemporary architecture. This inaugural showcase of the collection presents two exhibitions, <em>To Draw an Idea: Retracing the Designs of William Lim Associates – W Architects</em> and <em>Dare to Design: Singapore Architecture 1960s-2000s.</em></p>
 
-					<a href="/exhibitions/sacexhibitions/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
+					<a href="https://exhibitions.nlb.gov.sg/sacexhibitions/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
 </div>
 </div>
 	</div>
@@ -212,7 +212,7 @@ image: /images/event-images/Sacexhibitions/banner_exh_Nov.png
 
             <p>The <em>Punggol Stories</em> trail comprises Words That Move (Level 1 Stories Come Alive Room), The Lens of Literature (Level 3 Sing Lit) and an exhibition at Singaporium (Level 4) of the Punggol Regional Library.</p>
 
-            <a href="/exhibitions/punggolstories/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
+            <a href="/punggolstories/about/" style="color:#E21216;"><h5>EXHIBITION INFORMATION »</h5></a>
         </div>
     </div>
 </div>
