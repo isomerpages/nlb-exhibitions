@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Punggol Stories/.keep
-      - Punggol Stories/about.md
+      - Punggol Stories/About.md
       - Punggol Stories/gallery.md
       - Punggol Stories/credits.md
