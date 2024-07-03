@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - past-exhibitions.md
+      - 2024/Testing page.md
       - 2024/.keep
       - 2024/Singapore Architecture Collection Exhibitions.md
       - 2021/.keep
