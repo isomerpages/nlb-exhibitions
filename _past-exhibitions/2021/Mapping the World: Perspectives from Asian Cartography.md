@@ -80,7 +80,7 @@ across time and space.</p>
 <iframe style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; padding: 0px; border: 0px;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3RVkATpDEfc"></iframe>
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="563" width="1000" alt="A photo of the teaser exhibition, which is a horizontally curved lightbox panel." src="https://exhibitions.nlb.gov.sg/images/event-images/mappingtheworld/008_400w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/mappingtheworld/009_1000w.jpg">
 </div>
 <h3><strong>Spiritual Journeys: The Traiphum map of Thailand</strong></h3>
 <ul data-tight="true" class="tight">
