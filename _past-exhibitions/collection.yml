@@ -2,6 +2,7 @@ collections:
   past-exhibitions:
     output: true
     order:
+      - 2024/.keep
       - past-exhibitions.md
       - 2021/.keep
       - "2021/Libraries Transforming: Our Journey from Past to Future.md"
