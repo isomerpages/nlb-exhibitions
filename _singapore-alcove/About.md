@@ -5,13 +5,13 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 99%;" height="250" width="1000" alt="A title card labelled: Singapore Alcove." src="/images/event-images/Lepak Landscapes/Sg_Alcove_Banner.jpg">
+<img style="width: 100%;" height="250" width="1000" alt="A title card labelled: Singapore Alcove." src="/images/event-images/Lepak Landscapes/Sg_Alcove_Banner.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 99%;" height="682" width="950" alt="A photo of the Singapore Alcove space." src="/images/event-images/Lepak Landscapes/G1.jpg">
+<img style="width: 100%;" height="682" width="950" alt="A photo of the Singapore Alcove space." src="/images/event-images/Lepak Landscapes/G1.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
@@ -37,13 +37,13 @@ into the dynamic evolution of leisure in Singapore through time and the
 spaces associated with it.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 99%;" height="250" width="1000" alt="A title card labelled: Lepak Landscapes" src="/images/event-images/Lepak Landscapes/Lepak_Landscapes_Banner.JPG">
+<img style="width: 100%;" height="250" width="1000" alt="A title card labelled: Lepak Landscapes" src="/images/event-images/Lepak Landscapes/Lepak_Landscapes_Banner.JPG">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 99%;" height="682" width="950" alt="A photo of the Lepak Landscape exhibition." src="/images/event-images/Lepak Landscapes/G2.jpg">
+<img style="width: 100%;" height="682" width="950" alt="A photo of the Lepak Landscape exhibition." src="/images/event-images/Lepak Landscapes/G2.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
@@ -77,7 +77,7 @@ transactions blossom into a rich cultural experience.</p>
 <p>In each section, visitors can interact with a <strong>digital storybook</strong> crafted
 from the rich resources of the National Library and National Archives of
 Singapore, curated <strong>artefact displays, book recommendations</strong> and
-a <strong>quiz to discover your <em>lepak</em> personality! </strong>
+a <strong>quiz to discover your <em>lepak</em> personality!</strong>
 </p>
 <p><a href="/exhibitions/current-exhibitions/sgalcove/credits/" rel="noopener noreferrer nofollow" target="_blank">Link to image credits</a>
 </p>
