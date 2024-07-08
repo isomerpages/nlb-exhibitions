@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - past-exhibitions.md
-      - 2024/.keep
-      - 2024/Singapore Architecture Collection Exhibitions.md
+      - 2023   2024/.keep
+      - 2023   2024/Singapore Architecture Collection Exhibitions.md
       - 2021/.keep
       - "2021/Libraries Transforming: Our Journey from Past to Future.md"
       - "2021/Mapping the World: Perspectives from Asian Cartography.md"
