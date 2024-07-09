@@ -132,9 +132,10 @@ Theravada Buddhism.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/mappingtheworld/008_1000w.jpg">
 </div>
-<p></p>
-<p></p>
 <h3><strong>Story of a Map: The tale of Buddha</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>20 December 2021 – 31 July 2022</p>
@@ -155,11 +156,18 @@ Theravada Buddhism.</p>
 <p><strong>Jurong Regional Library, Level 2</strong> | 30 May - 31 July 2022</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+</div>
 <p>Throughout history, different cultures have used maps to navigate, outline
 the location of kingdoms, and even to tell stories. <strong><em>Story of A Map</em></strong> is
 an interactive display which explores a unique Thai historical map that
 tells the story of Prince Siddhartha Gautama and his journey to becoming
 Buddha.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
 <h3>Private Tours</h3>
 <p>For enquiries on group exhibition tours, please email <a href="https://exhibitions.nlb.gov.sg/files/mappingtheworld/nlb%20mapping%20the%20world_brochure_web.pdf" rel="noopener noreferrer nofollow" target="_blank">visitnls@nlb.gov.sg</a>.</p>
 <p></p>
