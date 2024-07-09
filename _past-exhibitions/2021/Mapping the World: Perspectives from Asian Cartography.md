@@ -7,12 +7,18 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="356" width="1201" alt="A title card labelled Mapping the World: Perspectives from Asian Cartography." src="https://exhibitions.nlb.gov.sg/images/event-images/mappingtheworld/exhibition_banner_1200x355px_400w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/mappingtheworld/exhibition_banner_1920x720px_opt.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="563" width="1000" alt="A photo of the gallery entrance." src="https://exhibitions.nlb.gov.sg/images/event-images/mappingtheworld/001_400w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/mappingtheworld/001_1000w.jpg">
 </div>
 <ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
 <li>
 <p>11 December 2021 – 8 May 2022</p>
 </li>
