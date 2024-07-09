@@ -10,21 +10,20 @@ third_nav_title: 2023 & 2024
 [](https://github.com/isomerpages/nlb-exhibitions/blob/d877b01cc95cbee77c88cb40c4d8abe2e24a31be/_sac-exhibitions/SAC%20Exhibitions/About.md#singapore-architecture-collection-exhibitions-)
 
 [![A title card labelled: SAC exhibitions.](https://github.com/isomerpages/nlb-exhibitions/raw/d877b01cc95cbee77c88cb40c4d8abe2e24a31be/images/event-images/Sacexhibitions/banner_exh_Nov.png)](https://github.com/isomerpages/nlb-exhibitions/blob/d877b01cc95cbee77c88cb40c4d8abe2e24a31be/images/event-images/Sacexhibitions/banner_exh_Nov.png)
-
+![](/images/event-images/Misc/thick_redline.png)
 
 **The Singapore Architecture Collection documents and preserves archival materials about our modern and contemporary architecture. This inaugural showcase of the collection presents two exhibitions,&nbsp;_To Draw an Idea: Retracing the Designs of William Lim Associates – W Architects_&nbsp;and&nbsp;_Dare to Design: Singapore Architecture 1960s-2000s._**
 
-
+![](/images/event-images/Misc/grey_line.png)
 ### **_To Draw an Idea: Retracing the Designs of William Lim Associates – W Architects_**
-
-[](https://github.com/isomerpages/nlb-exhibitions/blob/d877b01cc95cbee77c88cb40c4d8abe2e24a31be/_sac-exhibitions/SAC%20Exhibitions/About.md#to-draw-an-idea-retracing-the-designs-of-william-lim-associates--w-architects)
+![](/images/event-images/Misc/thick_redline.png)
 
 *   28 November 2023 - 15 June 2024
     
 *   9:00am – 5:00pm
     
 *   URA Centre Atrium
-    
+![](/images/event-images/Misc/red_thinline.png)
 
 
 _To Draw an Idea_&nbsp;follows the design evolution of William Lim Associates – W Architects through 19 projects over its 40-year history. This exhibition presents more than 500 architectural drawings - from hand sketches to watercolour renderings, construction drawings - as well as architectural models and documentation, to reveal the firm's design process. These materials have been donated to the Singapore Architecture Collection.
