@@ -95,6 +95,10 @@ across time and space.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/mappingtheworld/009_1000w.jpg">
 </div>
 <p></p>
@@ -117,8 +121,14 @@ and spiritual locations and stories, the Traiphum map offers a fascinating
 glimpse into the history of Thai cartography and its intersections with
 Theravada Buddhism.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="563" width="1000" alt="A photo of the roving exhibition." src="https://exhibitions.nlb.gov.sg/images/event-images/mappingtheworld/008_400w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/mappingtheworld/008_1000w.jpg">
+</div>
+<p></p>
+<p></p>
 <h3><strong>Story of a Map: The tale of Buddha</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
