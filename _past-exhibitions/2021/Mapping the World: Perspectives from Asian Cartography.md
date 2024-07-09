@@ -101,8 +101,10 @@ across time and space.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/mappingtheworld/009_1000w.jpg">
 </div>
-<p></p>
 <h3><strong>Spiritual Journeys: The Traiphum map of Thailand</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>11 December 2021 – 31 July 2022</p>
@@ -114,6 +116,9 @@ across time and space.</p>
 <p>Level 1, Lobby, National Library Building</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+</div>
 <p><strong><em>Spiritual Journeys</em></strong> delves into the world of a
 rare indigenous Thai map found in the Traiphum Manuscript, a Thai Buddhist
 cosmological treatise dating to 1776. Containing a mixture of geographical
@@ -157,3 +162,4 @@ tells the story of Prince Siddhartha Gautama and his journey to becoming
 Buddha.</p>
 <h3>Private Tours</h3>
 <p>For enquiries on group exhibition tours, please email <a href="https://exhibitions.nlb.gov.sg/files/mappingtheworld/nlb%20mapping%20the%20world_brochure_web.pdf" rel="noopener noreferrer nofollow" target="_blank">visitnls@nlb.gov.sg</a>.</p>
+<p></p>
