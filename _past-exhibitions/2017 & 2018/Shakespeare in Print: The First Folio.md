@@ -6,3 +6,51 @@ third_nav_title: 2017 & 2018
 variant: tiptap
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="344" width="1000" alt="A title card labelled: Shakespeare in Print." src="https://exhibitions.nlb.gov.sg/images/event-images/shakespeare/shakespeare-in-print-main-image_400w.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="666" width="1000" alt="A photo showing the First Folio. The folio is opened up to a black and white etching of Shakesphere's portrait." src="https://exhibitions.nlb.gov.sg/images/event-images/shakespeare/shakespeare-in-print_gallery_1_400w.jpg">
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p>11 March 2017 – 23 April 2017 (CLOSED)</p>
+</li>
+<li>
+<p>10:00am – 9:00pm</p>
+</li>
+<li>
+<p>Level 10, Gallery, National Library Building</p>
+</li>
+</ul>
+<p>Join us at the National Library as we showcase Shakespeare’s First Folio,
+first printed in 1623, on special loan from The University of Oxford’s
+Bodleian Libraries for six weeks only. Shakespeare’s plays are among the
+most significant pieces of literature in the English language and have
+influenced art and media all over the world for centuries.</p>
+<p>Shakespeare in Print: The First Folio is an exciting opportunity for you
+to see Shakespeare’s plays in their first printed form. Without it and
+the efforts of its publishers to preserve Shakespeare’s works, plays such
+as Antony and Cleopatra, The Tempest, and Macbeth would have been lost.
+What’s more, you will also learn about the impact of Shakespeare’s works
+on theatre in Asia as well as his influence on our modern-day use of the
+English language.</p>
+<h3><strong>#Shakespeare</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>14 March 2017 – 25 April 2017 (CLOSED)</p>
+</li>
+<li>
+<p><strong>Esplanade Public Library</strong> | 14 March 2017 – 23 April 2017</p>
+</li>
+<li>
+<p><strong>Jurong Regional Library</strong> | 15 March 2017 – 24 April 2017</p>
+</li>
+<li>
+<p><strong>Marine Parade Library</strong> | 16 March 2017 – 25 April 2017</p>
+</li>
+</ul>
+<p>Alongside the main showcase the National Library, three public libraries
+will host “#Shakespeare”, a display that turns stories from Shakespeare’s
+plays into tweets by key characters from plays such as <em>Romeo and Juliet, Julius Caesar, A Midsummer Night’s Dream</em>,
+and <em>Hamlet</em>.</p>
