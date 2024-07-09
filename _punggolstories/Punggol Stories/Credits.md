@@ -6,7 +6,15 @@ third_nav_title: Punggol Stories
 variant: tiptap
 description: ""
 ---
-Click the links below for the credit lines of photos used in Punggol Stories:
-
-* [Credit page for Words That Move](/exhibitions/current-exhibitions/punggolstories/credits/wtm/)
-* [Credit page for Singaporium](/exhibitions/current-exhibitions/punggolstories/credits/singa/)
+<p>Click the links below for the credit lines of photos used in Punggol Stories:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/punggolstories/credits/wtm/" rel="noopener noreferrer nofollow" target="_blank">Credit page for Words That Move</a>
+</p>
+</li>
+<li>
+<p><a href="/punggolstories/credits/singa/" rel="noopener noreferrer nofollow" target="_blank">Credit page for Singaporium</a>
+</p>
+</li>
+</ul>
+<p></p>
