@@ -59,7 +59,7 @@ Stories trail. Sign up at <a href="https://go.gov.sg/punggolstories-guide" rel="
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -116,11 +116,11 @@ installation that features memories of historical Punggol.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="563" width="1000" alt="A photo of the Lens of Literature exhibition. It features an interactive multimedia table with an adjacent screen. Visitors are exploring the content displayed on the multimedia table while holding its sound handsets to their ears." src="https://exhibitions.nlb.gov.sg/images/event-images/punggol-stories/lens_400w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/punggol-stories/lens_1000w.jpg">
 </div>
 <h3><strong>The Lens of Literature</strong></h3>
 <div class="isomer-image-wrapper">
@@ -172,7 +172,7 @@ changes to come.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="667" width="1000" alt="A photo of the Words That Move exhibition. Graphics of colourful bubbles, with the title 'Words That Move' on three individual bubbles, are projected onto the walls. Children are either touching the walls or running around." src="https://exhibitions.nlb.gov.sg/images/event-images/punggol-stories/wtm01_400w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/punggol-stories/wtm01_1000w.jpg">
 </div>
 <h3><strong>Words That Move</strong></h3>
 <div class="isomer-image-wrapper">
@@ -189,7 +189,6 @@ changes to come.</p>
 <p>Level 1, Stories Come Alive Room, Punggol Regional Library</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
 </div>
