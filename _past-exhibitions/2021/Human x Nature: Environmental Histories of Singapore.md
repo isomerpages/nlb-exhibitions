@@ -169,6 +169,9 @@ natural history illustrations and facts about our native biodiversity.</p>
 2021</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+</div>
 <p>Did you know that tigers once roamed the forests of Singapore? More than
 a hundred years ago, tigers habitually swam across the Johor Strait to
 Singapore island via Pulau Ubin and Pulau Tekong. They came to find food
@@ -176,5 +179,9 @@ and raise their young. <strong><em>Animal Friends</em></strong> tells the
 story of Rimau, a tiger that travels to Singapore in search of new friends.
 Follow Rimau as she meets four animals and learn about their relationships
 with people and the natural world.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
 <h3>Private Tours</h3>
 <p>For enquiries on exhibition tours, please email <a href="https://www.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">visitnls@nlb.gov.sg</a>.</p>
