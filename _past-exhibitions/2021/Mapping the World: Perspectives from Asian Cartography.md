@@ -15,10 +15,11 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/mappingtheworld/001_1000w.jpg">
 </div>
-<ul data-tight="true" class="tight">
-<li>
 <p></p>
-</li>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+</div>
+<ul data-tight="true" class="tight">
 <li>
 <p>11 December 2021 – 8 May 2022</p>
 </li>
@@ -29,6 +30,9 @@ description: ""
 <p>Level 10, Gallery, National Library Building</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+</div>
 <p>Showcasing rare historical maps, <strong><em>Mapping the World: Perspectives from Asian Cartography</em></strong> brings
 together different mapping traditions and worldviews, political and cultural
 spheres of influence, and the exchange of cartographic knowledge between
@@ -44,7 +48,7 @@ such as the Asian Civilisations Museum and the Indian Heritage Centre.</p>
 and illuminating window into how civilisations see themselves and the world
 across time and space.</p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="296" width="1000" alt="A banner with logos. Presented by: National Library of Singapore. In partnership with: The Embassy of France in Singapore. In Association with: The vOliah! Festival. Supported by: Temasek, and Tikehau Capital." src="https://exhibitions.nlb.gov.sg/images/event-images/mappingtheworld/partner_sponsors_banner_400w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/mappingtheworld/partner_sponsors_banner_opt.jpg">
 </div>
 <h4>Brochure &amp; Exhibition guide</h4>
 <p>Download the brochure and exhibition guides below:</p>
@@ -79,8 +83,12 @@ across time and space.</p>
 <li>
 <p><a href="https://eresources.nlb.gov.sg/printheritage/detail/90d85fba-f1a9-4456-b675-37335ddf7865.aspx?s=Mapping%20the%20world" rel="noopener noreferrer nofollow" target="_blank"><u>Mapping the world : perspectives from Asian cartography e-publication</u></a>
 </p>
+<p></p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
 <h4>Curator's tour</h4>
 <div class="iframe-wrapper">
 <iframe style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; padding: 0px; border: 0px;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3RVkATpDEfc"></iframe>
