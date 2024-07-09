@@ -6,10 +6,16 @@ third_nav_title: Punggol Stories
 variant: tiptap
 description: ""
 ---
-<img srcset="/images/event-images/punggol-stories/prl_04_400w.jpg 400w, /images/event-images/punggol-stories/prl_04_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="675" width="1000" src="/images/event-images/punggol-stories/prl_04_400w.jpg" alt="A photo of the Singaporium space. An introduction panel is on the left, and showcases and multimedia screens are on its right.">
-
-<img srcset="/images/event-images/punggol-stories/prl_03_400w.jpg 400w, /images/event-images/punggol-stories/prl_03_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories/prl_03_400w.jpg" alt="A photo of the Lens of Literature kiosk, that has a multimedia table fixed to it. Next to the kiosk is a bookshelf, with a man reading a book.">
-
-<img srcset="/images/event-images/punggol-stories/prl_01_400w.jpg 400w, /images/event-images/punggol-stories/prl_01_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories/prl_01_400w.jpg" alt="A photo of the Words That Move room. It's empty, and the left wall has the Words That Move title projected onto it. On the right wall, four poems are available for selection.">
-
-<img srcset="/images/event-images/punggol-stories/prl_02_400w.jpg 400w, /images/event-images/punggol-stories/prl_02_1000w.jpg 1000w" sizes="(max-width: 500px) 40vw, 100vw" height="667" width="1000" src="/images/event-images/punggol-stories/prl_02_400w.jpg" alt="A photo of the Words That Move room. Children are pressing their hands onto a wall projection. The words, 'Listen to the sound' is displayed on the image.">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/punggol-stories/prl_04_1000w.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/punggol-stories/prl_03_1000w.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/punggol-stories/prl_01_1000w.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/punggol-stories/prl_02_1000w.jpg">
+</div>
+<p></p>
