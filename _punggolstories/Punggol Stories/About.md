@@ -40,6 +40,7 @@ Come Alive Room), The Lens of Literature (Level 3 Sing Lit) and an exhibition
 at Singaporium (Level 4) of the Punggol Regional Library.</p>
 <p>Download the exhibition brochure <a href="https://go.gov.sg/punggolstories-guide" rel="noopener noreferrer nofollow" target="_blank"><u>here.</u></a>
 </p>
+<blockquote>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -57,7 +58,7 @@ Stories trail. Sign up at <a href="https://go.gov.sg/punggolstories-guide" rel="
 </tr>
 </tbody>
 </table>
-<p></p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
 </div>
