@@ -12,6 +12,15 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="666" width="1000" alt="A photo showing the First Folio. The folio is opened up to a black and white etching of Shakesphere's portrait." src="https://exhibitions.nlb.gov.sg/images/event-images/shakespeare/shakespeare-in-print_gallery_1_400w.jpg">
 </div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/shakespeare/shakespeare-in-print-main-image_1000w.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>11 March 2017 – 23 April 2017 (CLOSED)</p>
