@@ -29,11 +29,13 @@ description: ""
 </li>
 <li>
 <p>Level 10, Gallery, National Library Building</p>
+<p></p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
 </div>
+<p></p>
 <p>Advertisements are fascinating cultural documents that both shape and
 reflect people’s desires and ideals. This exhibition features advertising
 materials from the 1830s to 1960s in the National Library collection, and
@@ -45,7 +47,6 @@ Singapore’s busy consumer market. Through this colourful showcase of the
 National Library’s rare publications, magazines, newspapers and ephemera,
 you will gain a deeper understanding of advertising and its impact on society,
 while learning more about Singapore’s past.</p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
@@ -82,6 +83,10 @@ while learning more about Singapore’s past.</p>
 </li>
 </ul>
 <h3><strong>The Art of Persuasion</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>20 July 2018 – 24 February 2019 (CLOSED)</p>
@@ -124,7 +129,16 @@ Public Libraries:</p>
 </ul>
 <p>Join us as we uncover the nation’s early years through advertising paraphernalia
 from the National Library’s rich collection.</p>
+<h3></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
 <h3>School Tours</h3>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
 <p>Set in a shopping scene in the early 20th century, students and teachers
 will experience a taste of life in Singapore from the colonial era to the
 1960s. Singapore’s social history and businesses, in particular, will be
