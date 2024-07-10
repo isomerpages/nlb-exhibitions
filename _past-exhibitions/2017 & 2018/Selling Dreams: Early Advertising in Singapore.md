@@ -6,20 +6,21 @@ third_nav_title: 2017 & 2018
 variant: tiptap
 description: ""
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="293" width="1000" alt="A title card labelled: Selling Dreams." src="https://exhibitions.nlb.gov.sg/images/event-images/sellingdreamsonsite/selling-dreams-main-image_400w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/sellingdreams/selling-dreams-tab-banner.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="667" width="1000" alt="A photo showing the fashion section of Selling Dreams." src="https://exhibitions.nlb.gov.sg/images/event-images/sellingdreamsonsite/selling-dreams_gallery_7_400w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/sellingdreamsonsite/selling-dreams_gallery_7_1000w.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
 <ul data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
 <li>
 <p>20 July 2018 – 24 February 2019 (CLOSED)</p>
 </li>
@@ -30,6 +31,9 @@ description: ""
 <p>Level 10, Gallery, National Library Building</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+</div>
 <p>Advertisements are fascinating cultural documents that both shape and
 reflect people’s desires and ideals. This exhibition features advertising
 materials from the 1830s to 1960s in the National Library collection, and
@@ -41,6 +45,11 @@ Singapore’s busy consumer market. Through this colourful showcase of the
 National Library’s rare publications, magazines, newspapers and ephemera,
 you will gain a deeper understanding of advertising and its impact on society,
 while learning more about Singapore’s past.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
 <h4>Brochures and Exhibition Guides</h4>
 <p>Download the brochures and exhibition guides below:</p>
 <ul data-tight="true" class="tight">
