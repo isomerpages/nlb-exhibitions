@@ -20,7 +20,13 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/shakespeare/shakespeare-in-print_gallery_1.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>11 March 2017 – 23 April 2017 (CLOSED)</p>
@@ -32,6 +38,9 @@ description: ""
 <p>Level 10, Gallery, National Library Building</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+</div>
 <p>Join us at the National Library as we showcase Shakespeare’s First Folio,
 first printed in 1623, on special loan from The University of Oxford’s
 Bodleian Libraries for six weeks only. Shakespeare’s plays are among the
@@ -44,7 +53,11 @@ as Antony and Cleopatra, The Tempest, and Macbeth would have been lost.
 What’s more, you will also learn about the impact of Shakespeare’s works
 on theatre in Asia as well as his influence on our modern-day use of the
 English language.</p>
-<h3><strong>#Shakespeare</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
+<h3><strong>Shakespeare</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>14 March 2017 – 25 April 2017 (CLOSED)</p>
@@ -63,3 +76,7 @@ English language.</p>
 will host “#Shakespeare”, a display that turns stories from Shakespeare’s
 plays into tweets by key characters from plays such as <em>Romeo and Juliet, Julius Caesar, A Midsummer Night’s Dream</em>,
 and <em>Hamlet</em>.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/shakespeare/shakespeare-in-print_gallery_1.jpg">
+</div>
+<p></p>
