@@ -10,9 +10,16 @@ description: ""
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="293" width="1000" alt="A title card labelled: Selling Dreams." src="https://exhibitions.nlb.gov.sg/images/event-images/sellingdreamsonsite/selling-dreams-main-image_400w.jpg">
 </div>
 <div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="667" width="1000" alt="A photo showing the fashion section of Selling Dreams." src="https://exhibitions.nlb.gov.sg/images/event-images/sellingdreamsonsite/selling-dreams_gallery_7_400w.jpg">
 </div>
+<p></p>
 <ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
 <li>
 <p>20 July 2018 – 24 February 2019 (CLOSED)</p>
 </li>
