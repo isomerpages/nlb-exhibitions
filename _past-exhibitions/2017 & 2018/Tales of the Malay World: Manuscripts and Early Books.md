@@ -6,11 +6,20 @@ third_nav_title: 2017 & 2018
 variant: tiptap
 description: ""
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="323" width="940" alt="A title card labelled: 'Tales of the Malay World'." src="https://exhibitions.nlb.gov.sg/images/event-images/tmw/tales-of-the-malay-world-main-image_400w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/tmw/tales-of-the-malay-world-main-image_940w.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="551" width="1000" alt="The introduction wall of the exhibition, which is surrounded by showcases." src="https://exhibitions.nlb.gov.sg/images/event-images/tmw/tales-of-the-malay-world_gallery_2_400w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/tmw/tales-of-the-malay-world_gallery_2.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
@@ -23,6 +32,9 @@ description: ""
 <p>Level 10, Gallery, National Library Building</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+</div>
 <p><em>Step into the world of Malay stories – fantastical adventure tales of kings and heroes, founding myths of sultanates, and romantic poetry.</em>
 </p>
 <p>For centuries, Malay was the language of trade, diplomacy, religious discourse,
@@ -44,6 +56,11 @@ legendary Malay hero, Hang Tuah; one of the most ornate Malay manuscripts;
 and an 1811 letter from the sultan of Pontianak in Kalimantan to Stamford
 Raffles.</p>
 <p>Come, discover these and other fascinating stories.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
 <h4>Brochures and Exhibition Guides</h4>
 <p>Download the brochures and exhibition guides below:</p>
 <ul data-tight="true" class="tight">
@@ -61,6 +78,9 @@ Raffles.</p>
 </li>
 </ul>
 <h3><strong>Shared Stories: Malay Movies and Manuscripts</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>18 August 2017 – 25 February 2018 (CLOSED)</p>
@@ -70,8 +90,12 @@ Raffles.</p>
 </li>
 <li>
 <p>Level 1, Lobby, National Library Building</p>
+<p></p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+</div>
 <p>In the late 1950s and early 1960s, Singapore was the hub of Malay film
 production. Some of these films feature stories similar to those in handwritten
 Malay manuscripts. This display features snippets of seven such films,
@@ -80,6 +104,10 @@ film magazines.</p>
 <p>Jointly organised by the National Library of Singapore and Asian Film
 Archive.</p>
 <h3><strong>Tales of the Wily Mousedeer</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>11 August 2017 – 25 February 2018 (CLOSED)</p>
@@ -108,3 +136,9 @@ the mousedeer story was written over 350 years ago! Learn more about the
 mousedeer in this travelling mini-exhibition.</p>
 <p>The National Library would like to thank Inch Chua for allowing her music
 video, Mousedeer, to be featured in the showcase.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
+<p></p>
