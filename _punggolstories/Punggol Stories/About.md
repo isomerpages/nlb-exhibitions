@@ -218,6 +218,4 @@ by Norisah A Bakar</p>
 <p></p>
 <p><a href="https://exhibitions.nlb.gov.sg/punggolstories/credits/" rel="noopener noreferrer nofollow" target="_blank"><u>Link to image credits</u></a>
 </p>
-<p><a href="https://exhibitions.nlb.gov.sg/exhibitions/current-exhibitions/punggolstories/gallery/" class="is-full is-right" rel="noopener noreferrer nofollow" target="_blank"><br></a>
-</p>
 <p></p>
