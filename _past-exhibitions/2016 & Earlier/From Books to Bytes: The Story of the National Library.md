@@ -5,9 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: 2016 & Earlier
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="665" width="1000" alt="A photo showing the front of the From Books to Bytes gallery." src="/images/event-images/frombooks/from-books-to-bytes-main-image_400w.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/frombooks/from-books-to-bytes-tab-banner_v2.jpg">
