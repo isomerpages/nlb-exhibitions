@@ -6,13 +6,6 @@ third_nav_title: 2017 & 2018
 variant: tiptap
 description: ""
 ---
-<div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="344" width="1000" alt="A title card labelled: Shakespeare in Print." src="https://exhibitions.nlb.gov.sg/images/event-images/shakespeare/shakespeare-in-print-main-image_400w.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="666" width="1000" alt="A photo showing the First Folio. The folio is opened up to a black and white etching of Shakesphere's portrait." src="https://exhibitions.nlb.gov.sg/images/event-images/shakespeare/shakespeare-in-print_gallery_1_400w.jpg">
-</div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/shakespeare/shakespeare-in-print-main-image_1000w.jpg">
@@ -58,6 +51,9 @@ English language.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
 </div>
 <h3><strong>Shakespeare</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>14 March 2017 – 25 April 2017 (CLOSED)</p>
@@ -76,7 +72,8 @@ English language.</p>
 will host “#Shakespeare”, a display that turns stories from Shakespeare’s
 plays into tweets by key characters from plays such as <em>Romeo and Juliet, Julius Caesar, A Midsummer Night’s Dream</em>,
 and <em>Hamlet</em>.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/shakespeare/shakespeare-in-print_gallery_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
 </div>
 <p></p>
