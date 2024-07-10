@@ -50,7 +50,6 @@ has been featured with his artworks.</p>
 creations and notebooks!</p>
 <p></p>
 <h4>《解析自由心 – 陈瑞献稿本与创作》</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
@@ -68,9 +67,18 @@ creations and notebooks!</p>
 <li>
 <p><a href="https://staging.d2bmwdo27gmnoc.amplifyapp.com/files/aof/aofm-a5-brochure-2-17012017.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>English and Chinese exhibition brochure (1.32mb)</u></a>
 </p>
+<p></p>
 </li>
 </ul>
+<h3></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
 <h3><strong>Compassion: Tan Swie Hian’s Literary Creations – Roving Exhibition</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>1 November 2016 – 28 February 2017 (CLOSED)</p>
@@ -84,6 +92,9 @@ creations and notebooks!</p>
 2017</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+</div>
 <p>Singapore Cultural Medallion recipient Tan Swie Hian is the top grossing
 living artist in Southeast Asia who has received numerous accolades both
 locally and abroad. Although he exhibited impressive artistic talents at
@@ -103,7 +114,15 @@ in various genres – poetry, prose, novels, fables, translated works as
 well as publications edited by him. Visit the above libraries during the
 specified periods to learn more about Tan Swie Hian’s written works that
 took the literary world by storm.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
 <h3><strong>《悲悯人生：陈瑞献的文艺创作》巡回展</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>2016年11月1日 – 2016年12月29日 (CLOSED)</p>
@@ -115,10 +134,14 @@ took the literary world by storm.</p>
 <p><strong>中央公共图书馆</strong> | 2016年12月30日–2017年2月28日</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+</div>
 <p>新加坡文化奖得主陈瑞献是东南亚作品拍卖价最高的在世艺术家，他荣获多项本地及国际的奖项与殊荣，享有极高名声。他在年少时便展露非凡的艺术天分，但他刚开始涉足艺术领域时，却是先以文艺创作引起注意的。</p>
 <p>1960年代，陈瑞献以笔名 “牧羚奴”发表大量作品，不久后便成了在本地华文文坛提倡现代主义文学的代表人物。他曾经说自己的文学作品 “多反映现实的阴暗面，以及人类悲苦的命运”
 ，因此对芸芸众生怀抱悲悯是他写作的一个主调。至今，他已出版了将近40部文艺著作。</p>
 <p>为了配合在国家图书馆大厦举办的“解析自由心：陈瑞献稿本与创作”特展（2016年11月22日至2017年4月23日），本巡回展将着重介绍陈瑞献的多种文艺作品，如诗作、散文、小说、寓言、译作以及他所编辑的刊物。欲一览陈瑞献当年在文坛备受瞩目的作品，请于举办期间到上述图书馆参观展览。</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="616" width="1000" alt="A photo of the roving exhibition. An information wall in the middle is surrounded by showcases and a wall with books." src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/aof/aofm06_400w.jpg">
 </div>
