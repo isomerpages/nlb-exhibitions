@@ -40,8 +40,15 @@ at Singaporium (Level 4) of the Punggol Regional Library.</p>
 <p>Download the exhibition brochure <a href="https://go.gov.sg/punggolstories-guide" rel="noopener noreferrer nofollow" target="_blank"><u>here.</u></a>
 </p>
 <p></p>
-<p><strong>Do you have a Punggol story to tell? Post them on social media using the hashtag #PunggolStories<br>You can also volunteer as a library guide to lead tours of the Punggol Stories trail. Sign up at <a href="https://go.gov.sg/punggolstories-guide" rel="noopener noreferrer nofollow" target="_blank"><u>www.nlb.gov.sg/volunteers/</u></a> (choose 'Punggol Regional Library' as the venue)</strong>
-</p>
+<p></p>
+<p></p>
+<blockquote>
+<p>Do you have a Punggol story to tell? Post them on social media using the
+hashtag #PunggolStories
+<br>You can also volunteer as a library guide to lead tours of the Punggol
+Stories trail. Sign up at <a href="https://www.nlb.gov.sg/volunteers" rel="noopener noreferrer nofollow" target="_blank"><u>www.nlb.gov.sg/volunteers/</u></a> (choose
+'Punggol Regional Library' as the venue)</p>
+</blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
