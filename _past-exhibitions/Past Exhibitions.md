@@ -176,7 +176,7 @@ and publications produced for the occasion.</p>
 Sejarah Melayu continues to enchant writers and readers everywhere. Discover
 these timeless stories and how one man managed to bring this ancient manuscript
 to the masses, thereby ensuring that its legacy live on through the ages.</p>
-<h5><a href="/thefirstprint/about" rel="noopener noreferrer nofollow" target="_blank">EXHIBITION INFORMATION »</a></h5>
+<h5><a href="/thefirstprint/about/" rel="noopener noreferrer nofollow" target="_blank">EXHIBITION INFORMATION »</a></h5>
 <hr>
 <h3><strong>Selling Dreams: Early Advertising in Singapore</strong></h3>
 <div class="isomer-image-wrapper">
@@ -198,7 +198,7 @@ reflect people’s desires and ideals. This exhibition features advertising
 materials from the 1830s to 1960s in the National Library collection, and
 explores the hopes, dreams, aspirations and insecurities of society over
 the years.</p>
-<h5><a href="/sellingdreams/about" rel="noopener noreferrer nofollow" target="_blank">EXHIBITION INFORMATION »</a></h5>
+<h5><a href="/sellingdreams/about/" rel="noopener noreferrer nofollow" target="_blank">EXHIBITION INFORMATION »</a></h5>
 <hr>
 <h3><strong>Tales of the Malay World: Manuscripts and Early Books</strong></h3>
 <div class="isomer-image-wrapper">
@@ -219,7 +219,7 @@ the years.</p>
 and literature for maritime Southeast Asia. This exhibition explores traditional
 Malay literature captured in ink on paper – from handwritten manuscripts
 to early lithographed books.</p>
-<h5><a href="/exhibitions/past-exhibitions/talesofthemalayworld/" rel="noopener noreferrer nofollow" target="_blank">EXHIBITION INFORMATION »</a></h5>
+<h5><a href="/talesofthemalayworld/about/" rel="noopener noreferrer nofollow" target="_blank">EXHIBITION INFORMATION »</a></h5>
 <hr>
 <h3><strong>Shakespeare in Print: The First Folio</strong></h3>
 <div class="isomer-image-wrapper">
@@ -241,7 +241,7 @@ first printed in 1623, on special loan from The University of Oxford’s
 Bodleian Libraries for six weeks only. Shakespeare’s plays are among the
 most significant pieces of literature in the English language and have
 influenced art and media all over the world for centuries.</p>
-<h5><a href="/exhibitions/past-exhibitions/shakespearesfirstfolio/" rel="noopener noreferrer nofollow" target="_blank">EXHIBITION INFORMATION »</a></h5>
+<h5><a href="/shakespearesfirstfolio/about/" rel="noopener noreferrer nofollow" target="_blank">EXHIBITION INFORMATION »</a></h5>
 <hr>
 <h3><strong>Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations</strong></h3>
 <div class="isomer-image-wrapper">
@@ -262,7 +262,7 @@ influenced art and media all over the world for centuries.</p>
 a breakthrough in his spirituality and creative capacity. Now, more than
 40 years later, Tan’s works are presented again at the National Library
 in this exhibition featuring over 100 creations in a wide range of media.</p>
-<h5><a href="/exhibitions/past-exhibitions/anatomyofafreemind/about/" rel="noopener noreferrer nofollow" target="_blank">EXHIBITION INFORMATION »</a></h5>
+<h5><a href="/anatomyofafreemind/about/" rel="noopener noreferrer nofollow" target="_blank">EXHIBITION INFORMATION »</a></h5>
 <hr>
 <h3><strong>Script &amp; Stage: Theatre in Singapore from the 50s to 80s</strong></h3>
 <div class="isomer-image-wrapper">
@@ -283,7 +283,7 @@ in this exhibition featuring over 100 creations in a wide range of media.</p>
 and theatre production, highlighting significant performances, playwrights
 and prominent theatre companies that have shaped the foundation of contemporary
 theatre in Singapore.</p>
-<h5><a href="/exhibitions/past-exhibitions/scriptandstage/" rel="noopener noreferrer nofollow" target="_blank">EXHIBITION INFORMATION »</a></h5>
+<h5><a href="/scriptandstage/about" rel="noopener noreferrer nofollow" target="_blank">EXHIBITION INFORMATION »</a></h5>
 <hr>
 <h3><strong>From The Stacks: Highlights of the National Library</strong></h3>
 <div class="isomer-image-wrapper">
@@ -305,7 +305,7 @@ fascinating insights into our history and culture. Discover early Singapore
 from a fresh perspective through over 100 highlights from the National
 Library’s collection of rare publications, manuscripts, documents, maps,
 photographs and more.</p>
-<h5><a href="/exhibitions/past-exhibitions/fromthestacks/" rel="noopener noreferrer nofollow" target="_blank">EXHIBITION INFORMATION »</a></h5>
+<h5><a href="/fromthestacks/about" rel="noopener noreferrer nofollow" target="_blank">EXHIBITION INFORMATION »</a></h5>
 <hr>
 <h3><strong>Poetry on Platforms: Poems on Singapore</strong></h3>
 <div class="isomer-image-wrapper">
@@ -323,7 +323,7 @@ photographs and more.</p>
 the City Hall MRT platforms. Commuters and passer-by can look forward to
 humorous, moving and thought-provoking poems on life, people, and places
 in Singapore that will strike a chord with them.</p>
-<h5><a href="/exhibitions/past-exhibitions/poetryonplatforms/" rel="noopener noreferrer nofollow" target="_blank">EXHIBITION INFORMATION »</a></h5>
+<h5><a href="/poetryonplatforms/about/" rel="noopener noreferrer nofollow" target="_blank">EXHIBITION INFORMATION »</a></h5>
 <hr>
 <h3><strong>Geo|Graphic: Celebrating maps and their stories</strong></h3>
 <div class="isomer-image-wrapper">
@@ -345,7 +345,7 @@ depict but also how their makers saw the world around them. For Singapore
 in particular, maps are a window to our early history – before the arrival
 of the British in 1819. The National Library is pleased to present Geo|Graphic,
 an offering of exhibitions and programmes that explore maps and mapping.</p>
-<h5><a href="/exhibitions/past-exhibitions/geographic/" rel="noopener noreferrer nofollow" target="_blank">EXHIBITION INFORMATION »</a></h5>
+<h5><a href="/geographic/about/" rel="noopener noreferrer nofollow" target="_blank">EXHIBITION INFORMATION »</a></h5>
 <hr>
 <h3><strong>Singapore Literary Pioneers</strong></h3>
 <div class="isomer-image-wrapper">
@@ -367,6 +367,6 @@ photographs and portraits of Singapore’s literary pioneers. Some prominent
 writers have also donated their pens, typewriters and literary awards.
 In addition, visitors can appreciate audio and video recordings of the
 writers in two multimedia screens.</p>
-<h5><a href="/exhibitions/past-exhibitions/singaporeliterarypioneers/" rel="noopener noreferrer nofollow" target="_blank">EXHIBITION INFORMATION »</a></h5>
+<h5><a href="/singaporeliterarypioneers/about/" rel="noopener noreferrer nofollow" target="_blank">EXHIBITION INFORMATION »</a></h5>
 <hr>
 <p></p>
