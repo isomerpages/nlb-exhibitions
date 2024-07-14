@@ -4,31 +4,6 @@ permalink: /sgalcove/credits/
 variant: tiptap
 description: ""
 ---
-<h3>Index</h3>
-<p>Click the links below for the respective image credits.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="#Somewhere-in-Time" rel="noopener noreferrer nofollow" target="_blank">Somewhere In Time</a>
-</p>
-</li>
-<li>
-<p><a href="#Happy-Heartlands" rel="noopener noreferrer nofollow" target="_blank">Happy Heartlands</a>
-</p>
-</li>
-<li>
-<p><a href="#Retail Therapy" rel="noopener noreferrer nofollow" target="_blank">Retail Therapy</a>
-</p>
-</li>
-<li>
-<p><a href="#Fun in the Sun" rel="noopener noreferrer nofollow" target="_blank">Fun in the Sun</a>
-</p>
-</li>
-<li>
-<p><a href="#Video Projections" rel="noopener noreferrer nofollow" target="_blank">Video Projections</a>
-</p>
-</li>
-</ul>
-<hr>
 <h3>Somewhere In Time</h3>
 <h5>Image credits</h5>
 <div class="isomer-image-wrapper">
