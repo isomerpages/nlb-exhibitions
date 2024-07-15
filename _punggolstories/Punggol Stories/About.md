@@ -52,7 +52,7 @@ at Singaporium (Level 4) of the Punggol Regional Library.</p>
 hashtag #PunggolStories
 <br>
 <br>You can also volunteer as a library guide to lead tours of the Punggol
-Stories trail. Sign up at <a href="https://go.gov.sg/punggolstories-guide" rel="noopener noreferrer nofollow" target="_blank"><u>www.nlb.gov.sg/volunteers/</u></a> (choose
+Stories trail. Sign up at <a href="https://www.nlb.gov.sg/volunteers/" rel="noopener noreferrer nofollow" target="_blank"><u>www.nlb.gov.sg/volunteers/</u></a> (choose
 'Punggol Regional Library' as the venue)</p>
 </td>
 </tr>
