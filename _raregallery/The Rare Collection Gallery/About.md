@@ -19,11 +19,6 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The gallery is open for organised public tours only.</p>
@@ -32,6 +27,9 @@ description: ""
 <p>Level 13, Rare Gallery, National Library Building</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+</div>
 <p>The Rare Collection Gallery showcases treasures from the National Library's
 Rare Materials Collection of valuable research materials on Singapore and
 Southeast Asia. Comprising over 15,000 books, journals, manuscripts, maps,
