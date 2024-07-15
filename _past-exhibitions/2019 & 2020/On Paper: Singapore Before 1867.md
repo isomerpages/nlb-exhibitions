@@ -31,7 +31,6 @@ description: ""
 <p>Level 10, Gallery, National Library Building</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
@@ -151,5 +150,6 @@ the National Library.</p>
 more details on private tours. Book early to secure a tour slot!</p>
 <blockquote>
 <p>The event is over, registration is closed.</p>
+<p></p>
 </blockquote>
 <p></p>
