@@ -43,6 +43,10 @@ Britain on 1 April 1867.</p>
 <p>Through carefully preserved records from the collections of the National
 Library, National Archives of Singapore and overseas institutions, <em>On Paper</em> presents
 a rare treat to all who are interested in our nation’s past.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+</div>
 <h4>Brochures, Exhibition Guides and e-publication</h4>
 <p>Download them below:</p>
 <ul data-tight="true" class="tight">
@@ -71,8 +75,12 @@ a rare treat to all who are interested in our nation’s past.</p>
 <li>
 <p><a href="/files/onpaper/nlb-on-paper-exhibition-guide_ta.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil exhibition guide (834kb)</a>
 </p>
+<p></p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
 <h4>Publication</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -80,9 +88,15 @@ a rare treat to all who are interested in our nation’s past.</p>
 </p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="700" width="1000" alt="A title card labelled: Curiocity" src="/images/event-images/onpaper/curiocity_1000x700_400w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/onpaper/curiocity_1000x700_1000w.jpg">
+</div>
+<p></p>
 <h3><strong>Curiocity: Raffles Place</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
