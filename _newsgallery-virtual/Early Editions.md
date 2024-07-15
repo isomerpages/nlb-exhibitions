@@ -71,11 +71,9 @@ shortened to Lianhe Zaobao) and its evening edition, <em>Lianhe Wanbao</em> (联
 </div>
 <p></p>
 <h2>Tamil Murasu தமிழ் முரசு</h2>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/newsgallery-virtual/ee_tm_400w.jpg">
@@ -87,7 +85,6 @@ due to financial losses and sold it to G. Sarangapany, who became its editor
 and sole proprietor until his death in 1974. In 1995, the paper became
 part of the Singapore Press Holdings (SPH) group, and continues as a daily
 today.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
 </div>
