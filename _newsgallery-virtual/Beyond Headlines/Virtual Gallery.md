@@ -37,7 +37,6 @@ about how the media works.</p>
 <p><a href="https://exhibitions.nlb.gov.sg/newsgallery/virtual-gallery/behind-every-story/" rel="noopener noreferrer nofollow" target="_blank"><u>Click here to visit Behind Every Story</u></a>
 </p>
 <h2>Fact or Fake?</h2>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
 </div>
