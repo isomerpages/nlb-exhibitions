@@ -167,8 +167,9 @@ centre.</p>
 <p></p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
 </div>
 <p>The earliest records of Singapore’s existence can be found in maps and
 charts that help us understand how Singapore was known to the outside world
@@ -178,6 +179,11 @@ in much confusion as to where Singapore island was and what it was called!</p>
 <p><strong><em>An island by any other name…</em></strong> explores the various
 incarnations and names of Singapore on early maps from the collection of
 the National Library.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
 <h3>Private Tours</h3>
 <p>Interested schools or organisations can email visitnls@nlb.gov.sg for
 more details on private tours. Book early to secure a tour slot!</p>
