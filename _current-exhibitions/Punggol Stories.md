@@ -40,8 +40,6 @@ at Singaporium (Level 4) of the Punggol Regional Library.</p>
 <p>Download the exhibition brochure <a href="https://go.gov.sg/punggolstories-guide" rel="noopener noreferrer nofollow" target="_blank"><u>here.</u></a>
 </p>
 <p></p>
-<p></p>
-<p></p>
 <blockquote>
 <p>Do you have a Punggol story to tell? Post them on social media using the
 hashtag #PunggolStories
