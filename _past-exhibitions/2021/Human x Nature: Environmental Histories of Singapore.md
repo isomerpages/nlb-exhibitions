@@ -116,8 +116,9 @@ and migrant communities lived within and transformed the natural landscape.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/v4O0iFON03A?si=Sb1F5q2iOYeBgeEt"></iframe>
 </div>
+<h3></h3>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="563" width="1000" alt="A photo of the Library of Life exhibition. A small tilted caption stand is placed in the middle. Three multimedia screens line the back wall. The left and right walls are lightboxes featuring various biodiversity illustrations, along with a showcase and multimedia screen." src="https://exhibitions.nlb.gov.sg/images/event-images/humanxnature/hxn_photo_11_400w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/humanxnature/hxn_photo_09.jpg">
 </div>
 <h3><strong>Library Of Life</strong></h3>
 <div class="isomer-image-wrapper">
