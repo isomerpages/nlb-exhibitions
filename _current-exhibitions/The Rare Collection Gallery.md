@@ -5,3 +5,4 @@ breadcrumb: The Rare Collection Gallery
 variant: markdown
 description: ""
 ---
+![](/images/event-images/rarecollection/the-rare-collection-gallery-tab-banner_v2.jpg)
