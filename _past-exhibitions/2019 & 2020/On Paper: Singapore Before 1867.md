@@ -96,8 +96,10 @@ a rare treat to all who are interested in our nation’s past.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/onpaper/curiocity_1000x700_1000w.jpg">
 </div>
-<p></p>
 <h3><strong>Curiocity: Raffles Place</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>28 September 2019 – 10 June 2020</p>
@@ -109,6 +111,9 @@ a rare treat to all who are interested in our nation’s past.</p>
 <p>Level 1, Lobby, National Library Building</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
 <p><strong><em>Curiocity</em></strong> explores one of Singapore’s most iconic
 and historical districts – Raffles Place. <em>CurioCity</em> presents photographs,
 books, building plans, archival footage as well as oral history records
