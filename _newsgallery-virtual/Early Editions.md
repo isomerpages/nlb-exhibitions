@@ -56,7 +56,7 @@ one of the newspaper’s prime movers.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/newsgallery-virtual/ee_nysp_400w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/newsgallery-virtual/ee_nysp_1000w.jpg">
 </div>
 <p>First published on 6 September 1923, <em>Nanyang Siang Pau</em> was established
 by businessman and philanthropist Tan Kah Kee to promote commerce and education.
@@ -76,7 +76,7 @@ shortened to Lianhe Zaobao) and its evening edition, <em>Lianhe Wanbao</em> (联
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/newsgallery-virtual/ee_tm_400w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/newsgallery-virtual/ee_tm_1000w.jpg">
 </div>
 <p><em>Tamil Murasu</em> was first published on 6 July 1935 to propagate socio-economic
 reforms carried out by the Tamil Reform Association, one of the earliest
