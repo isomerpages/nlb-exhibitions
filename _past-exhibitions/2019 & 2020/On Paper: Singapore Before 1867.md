@@ -119,9 +119,13 @@ and historical districts – Raffles Place. <em>CurioCity</em> presents photogra
 books, building plans, archival footage as well as oral history records
 exploring the evolution of and memories associated with the city’s commercial
 centre.</p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="550" width="1000" alt="A title card labelled: An Island By Any Other Name" src="/images/event-images/onpaper/An-Island-by-Any-Other-Name_1000x550_400w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
 </div>
+<p></p>
+<p></p>
 <h3><strong>An island by any other name…</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
