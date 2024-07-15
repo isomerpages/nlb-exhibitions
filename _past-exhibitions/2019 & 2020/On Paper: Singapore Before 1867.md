@@ -125,8 +125,11 @@ centre.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
 </div>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/onpaper/on-paper_gallery_9_1000w.jpg">
+</div>
 <h3><strong>An island by any other name…</strong></h3>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>21 August 2019 – 24 March 2020 (CLOSED)</p>
