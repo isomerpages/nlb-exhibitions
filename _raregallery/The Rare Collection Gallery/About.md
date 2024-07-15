@@ -13,6 +13,16 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/rarecollection/the-rare-collection-gallery_gallery_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
@@ -32,3 +42,4 @@ is also further enhanced by recent donations from institutions and individuals.
 The items on display are regularly refreshed to highlight the various interesting
 artefacts from the Rare Materials Collection, and is open for viewing during
 organised public tours.</p>
+<p></p>
