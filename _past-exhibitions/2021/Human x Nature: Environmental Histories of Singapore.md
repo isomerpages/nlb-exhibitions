@@ -53,7 +53,7 @@ and Urban Redevelopment Authority. Visitors will learn about various understandi
 of the natural world, and how they shaped the different ways local, colonial,
 and migrant communities lived within and transformed the natural landscape.</p>
 <div class="iframe-wrapper">
-<iframe style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; padding: 0px; border: 0px; position: absolute; top: 0px; left: 0px; width: 845.328px; height: 475.484px;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/TZDunrYVwGM"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/TZDunrYVwGM?si=HC-RohWuxq4psQnD"></iframe>
 </div>
 <h4>Brochure and Exhibition Guide</h4>
 <p>Download the brochure and exhibition guide below:</p>
@@ -114,7 +114,7 @@ and migrant communities lived within and transformed the natural landscape.</p>
 </ul>
 <h4>Digital Curators' tour video</h4>
 <div class="iframe-wrapper">
-<iframe style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; padding: 0px; border: 0px; position: absolute; top: 0px; left: 0px; width: 845.328px; height: 475.484px;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/v4O0iFON03A"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/v4O0iFON03A?si=Sb1F5q2iOYeBgeEt"></iframe>
 </div>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="563" width="1000" alt="A photo of the Library of Life exhibition. A small tilted caption stand is placed in the middle. Three multimedia screens line the back wall. The left and right walls are lightboxes featuring various biodiversity illustrations, along with a showcase and multimedia screen." src="https://exhibitions.nlb.gov.sg/images/event-images/humanxnature/hxn_photo_11_400w.jpg">
