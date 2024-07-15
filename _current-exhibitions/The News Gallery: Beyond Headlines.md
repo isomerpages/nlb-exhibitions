@@ -40,7 +40,8 @@ dating from the 1820s and learn about significant episodes from Singapore’s
 history through the perspectives of different media. Gain insights into
 fake news, and learn how you can be more discerning about information and
 media, through our rich resources on newspapers.</p>
-<h5><a href="https://exhibitions.nlb.gov.sg/newsgallery/virtual-gallery/" rel="noopener noreferrer nofollow" target="_blank"><u>VIRTUAL GALLERY »</u></a></h5>
+<p><a href="https://exhibitions.nlb.gov.sg/newsgallery/virtual-gallery/" rel="noopener noreferrer nofollow" target="_blank"><u>VIRTUAL GALLERY »</u></a>
+</p>
 <h4>Brochures</h4>
 <p>Download the exhibition brochure and guides below:</p>
 <ul data-tight="true" class="tight">
