@@ -21,7 +21,7 @@ news.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/newsgallery-virtual/fof_wha_400w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/newsgallery-virtual/fof_wha_1000w.jpg">
 </div>
 <p>India is home to the highest number of WhatsApp users globally, with 200
 million accounts and more than 13 billion messages sent daily on the Facebook-owned
@@ -60,7 +60,7 @@ news, as well as curtail it.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/newsgallery-virtual/fof_punggol_400w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/newsgallery-virtual/fof_punggol_1000w.jpg">
 </div>
 <p>Visual cues appeal more strongly to the mind than text, so misrepresented
 images can be a powerful medium for falsehoods.</p>
@@ -98,7 +98,7 @@ such as reverse image search</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/newsgallery-virtual/fof_deepfake_400w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/newsgallery-virtual/fof_deepfake_1000w.jpg">
 </div>
 <h6><em>Highly realistic AI-generated human faces</em></h6>
 <p>In April 2018, a YouTube video became the talk of the town – it purportedly
@@ -131,13 +131,14 @@ by artificial intelligence.</p>
 </div>
 <p></p>
 <h2>Fake Health Advisory</h2>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 684.594px;" height="551" width="1000" alt="A close-up photo of a woman drinking a glass of water." src="https://exhibitions.nlb.gov.sg/images/event-images/newsgallery-virtual/fof_water_400w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/newsgallery-virtual/fof_water_1000w.jpg">
 </div>
+<p></p>
 <p>Health-related falsehoods are increasingly rampant, preying on the public’s
 fears. In January 2020, people in Singapore began receiving a text message
 purportedly from the Ministry of Health (MOH), which warned, “the influenza
@@ -161,5 +162,7 @@ messages from authoritative sources appear polished, professional and would
 not contain such flaws.</p>
 </li>
 </ul>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
 <p></p>
