@@ -11,11 +11,9 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/rarecollection/raregallery2024.jpg">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/rarecollection/raregallery_2.jpg">
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/rarecollection/raregallery2024_1.jpg">
