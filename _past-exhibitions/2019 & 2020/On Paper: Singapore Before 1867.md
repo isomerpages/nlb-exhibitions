@@ -130,6 +130,9 @@ centre.</p>
 </div>
 <h3><strong>An island by any other name…</strong></h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>21 August 2019 – 24 March 2020 (CLOSED)</p>
@@ -161,8 +164,12 @@ centre.</p>
 <li>
 <p><strong>Jurong Regional Library</strong> | 31 January 2020 to 24 March
 2020</p>
+<p></p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
 <p>The earliest records of Singapore’s existence can be found in maps and
 charts that help us understand how Singapore was known to the outside world
 from as early as the 1400s. However, as early map makers were often unfamiliar
