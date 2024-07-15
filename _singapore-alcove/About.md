@@ -79,5 +79,5 @@ from the rich resources of the National Library and National Archives of
 Singapore, curated <strong>artefact displays, book recommendations</strong> and
 a <strong>quiz to discover your <em>lepak</em> personality!</strong>
 </p>
-<p><a href="/exhibitions/current-exhibitions/sgalcove/credits/" rel="noopener noreferrer nofollow" target="_blank">Link to image credits</a>
+<p><a href="/sgalcove/credits/" rel="noopener noreferrer nofollow" target="_blank">Link to image credits</a>
 </p>
