@@ -18,7 +18,7 @@ description: ""
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="563" width="1000" alt="A photo showing the introduction wall of the On Paper exhibition." src="/images/event-images/onpaper/On-Paper_gallery_1_400w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
@@ -31,6 +31,10 @@ description: ""
 <p>Level 10, Gallery, National Library Building</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
 <p><strong><em>On Paper: Singapore Before 1867</em></strong> features over
 150 paper-based artefacts that tell the story of Singapore’s early history
 – from a 17th-century Portuguese navigational chart that points to the
