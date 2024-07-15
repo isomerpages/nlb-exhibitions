@@ -60,7 +60,7 @@ news, as well as curtail it.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 684.594px;" height="551" width="1000" alt="A photo of a Punggol HDB in the distance. The photo angle makes it look like it's collapsed." src="https://exhibitions.nlb.gov.sg/images/event-images/newsgallery-virtual/fof_punggol_400w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/newsgallery-virtual/fof_punggol_400w.jpg">
 </div>
 <p>Visual cues appeal more strongly to the mind than text, so misrepresented
 images can be a powerful medium for falsehoods.</p>
@@ -87,4 +87,79 @@ everything you see. Always verify suspicious images by using online tools
 such as reverse image search</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
+<p></p>
+<h2>Deepfakes</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/newsgallery-virtual/fof_deepfake_400w.jpg">
+</div>
+<h6><em>Highly realistic AI-generated human faces</em></h6>
+<p>In April 2018, a YouTube video became the talk of the town – it purportedly
+showed former American President Barack Obama disparaging his successor
+Donald Trump and warning the audience not to believe everything on the
+Internet. It turned out that American writer, director and comedian Jordan
+Peele had used deepfake technology to create that supposed video of Obama,
+mouthing words actually spoken by Peele. The video showed that it was possible
+to distort reality using image-capturing and voice conversion technology.</p>
+<p>Deepfake technology enables computers to superimpose a person’s image
+onto another’s face, manipulate general appearances and alter voices. Deepfake
+videos can be so well-made that they fool viewers into believing that a
+simulated image is the genuine article. As the technology cannot yet replicate
+a person’s unique gestures and expressions, there are ways to tell a deepfake
+apart from what is real.</p>
+<h5>Lessons learnt:</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>Some tell-tale signs of deepfake videos are stilted facial expressions
+such as maintaining unbroken eye contact, blurring around the face, changes
+in skin tone at its edges and unnatural double chins or outlines.</p>
+</li>
+<li>
+<p>Scientists are now fighting deepfakes with facial recognition tools enabled
+by artificial intelligence.</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
+<p></p>
+<h2>Fake Health Advisory</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 684.594px;" height="551" width="1000" alt="A close-up photo of a woman drinking a glass of water." src="https://exhibitions.nlb.gov.sg/images/event-images/newsgallery-virtual/fof_water_400w.jpg">
+</div>
+<p>Health-related falsehoods are increasingly rampant, preying on the public’s
+fears. In January 2020, people in Singapore began receiving a text message
+purportedly from the Ministry of Health (MOH), which warned, “the influenza
+this time is serious” and urged the public to keep their throats moist
+by frequently sipping water to ward off the virus.</p>
+<p>The poorly written advice, which did not cite any authoritative sources,
+came with other cautions, such as avoiding crowded places and spicy food,
+and to wear masks when using public transportation and increase one’s intake
+of vitamin C. In fact, MOH never issued this advisory. In a statement published
+in <em>The Straits Times</em>, MOH debunked the idea that keeping one’s
+throat moist could protect against the flu.</p>
+<h5>Lessons learnt:</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>The best way to verify questionable health advisories is to check with
+trusted sources, including MOH and medical doctors.</p>
+</li>
+<li>
+<p>Scrutinise any message for misspellings and grammatical errors. In general,
+messages from authoritative sources appear polished, professional and would
+not contain such flaws.</p>
+</li>
+</ul>
+<p></p>
 <p></p>
