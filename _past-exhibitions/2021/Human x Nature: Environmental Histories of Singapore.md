@@ -6,19 +6,18 @@ third_nav_title: "2021"
 variant: tiptap
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 836.859px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/humanxnature/hxn_1200px_355_1000w.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/thick_redline.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 836.859px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/humanxnature/hxn_photo_01_1000w.jpg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/event-images/humanxnature/hxn_1200px_355_1000w.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/event-images/humanxnature/hxn_photo_01_1000w.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/thick_redline.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
@@ -37,7 +36,7 @@ for your understanding and cooperation. <a href="https://www.nlb.gov.sg/" rel="n
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/red_thinline.png">
 </div>
 <p>Singapore’s natural environment, as we know and experience today, is the
 result of a long history of knowledge gathering, plantation agriculture
@@ -53,7 +52,7 @@ and Urban Redevelopment Authority. Visitors will learn about various understandi
 of the natural world, and how they shaped the different ways local, colonial,
 and migrant communities lived within and transformed the natural landscape.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/TZDunrYVwGM?si=HC-RohWuxq4psQnD"></iframe>
+<iframe style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; padding: 0px; border: 0px;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/TZDunrYVwGM?si=HC-RohWuxq4psQnD"></iframe>
 </div>
 <h4>Brochure and Exhibition Guide</h4>
 <p>Download the brochure and exhibition guide below:</p>
@@ -85,7 +84,7 @@ and migrant communities lived within and transformed the natural landscape.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/grey_line.png">
 </div>
 <h4>Publications</h4>
 <p><strong>BiblioAsia:</strong>
@@ -114,15 +113,15 @@ and migrant communities lived within and transformed the natural landscape.</p>
 </ul>
 <h4>Digital Curators' tour video</h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/v4O0iFON03A?si=Sb1F5q2iOYeBgeEt"></iframe>
+<iframe style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; padding: 0px; border: 0px;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/v4O0iFON03A?si=Sb1F5q2iOYeBgeEt"></iframe>
 </div>
 <h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/humanxnature/hxn_photo_09.jpg">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/humanxnature/hxn_photo_09.jpg">
 </div>
 <h3><strong>Library Of Life</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/thick_redline.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
@@ -136,7 +135,7 @@ and migrant communities lived within and transformed the natural landscape.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/red_thinline.png">
 </div>
 <p><strong><em>Library of Life</em></strong> features four themed collections:
 Field Books, Fossil Stories, The Insect World, and Curious Creatures. Browse
@@ -144,15 +143,15 @@ curated highlights from overseas institutions and the National Library,
 Singapore. Take part in a fun multimedia interactive display that showcases
 natural history illustrations and facts about our native biodiversity.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/grey_line.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/humanxnature/hxn_photo_13_1000w.jpg">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/humanxnature/hxn_photo_13_1000w.jpg">
 </div>
 <h3><strong>Animal Friends</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/thick_redline.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
@@ -171,7 +170,7 @@ natural history illustrations and facts about our native biodiversity.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/red_thinline.png">
 </div>
 <p>Did you know that tigers once roamed the forests of Singapore? More than
 a hundred years ago, tigers habitually swam across the Johor Strait to
@@ -182,7 +181,7 @@ Follow Rimau as she meets four animals and learn about their relationships
 with people and the natural world.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/grey_line.png">
 </div>
 <h3>Private Tours</h3>
-<p>For enquiries on exhibition tours, please email <a href="https://www.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">visitnls@nlb.gov.sg</a>.</p>
+<p>For enquiries on exhibition tours, please email <a href="https://www.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>visitnls@nlb.gov.sg</u></a>.</p>
