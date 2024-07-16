@@ -16,8 +16,6 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/aof/anatomy-of-a-free-mind_gallery_3.jpg">
 </div>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
@@ -33,7 +31,7 @@ description: ""
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
 <p>1973 was a milestone year in Tan Swie Hian’s life during which he experienced
 a breakthrough in his spirituality and creative capacity. Henceforth, his
@@ -48,6 +46,10 @@ process, as documented in his notebooks through writings and sketches,
 has been featured with his artworks.</p>
 <p>Discover the extraordinary world of a free mind through Tan Swie Hian’s
 creations and notebooks!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
 <p></p>
 <h4>《解析自由心 – 陈瑞献稿本与创作》</h4>
 <div class="isomer-image-wrapper">
@@ -70,12 +72,10 @@ creations and notebooks!</p>
 <p></p>
 </li>
 </ul>
-<h3></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
 </div>
 <h3><strong>Compassion: Tan Swie Hian’s Literary Creations – Roving Exhibition</strong></h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
@@ -157,6 +157,9 @@ took the literary world by storm.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/aof/aofm08.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
 <h3><strong>About Tan Swie Hian 陈瑞献简介</strong></h3>
 <p>Tan Swie Hian was born in Indonesia in 1943. He was educated in Singapore
 and graduated from the Department of Modern Languages and Literature of
