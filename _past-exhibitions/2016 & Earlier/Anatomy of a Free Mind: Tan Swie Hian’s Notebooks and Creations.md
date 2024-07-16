@@ -176,3 +176,7 @@ and internationally.</p>
 他的创作跨越多元媒材、类型、语文及题材，2003年美国《时代周刊》称他为“新加坡的文艺复兴人”。</p>
 <p>迄今，这位蜚声国际的艺术家已出版了58部文学与艺术作品集；在世界各地举办过23次个展；并荣获29项国家级与国际级的奖勋。</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
+<p></p>
