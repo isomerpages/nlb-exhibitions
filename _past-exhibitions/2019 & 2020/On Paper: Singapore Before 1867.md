@@ -16,7 +16,7 @@ description: ""
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/onpaper/on-paper_gallery_1_1000w.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/thick_redline.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
@@ -30,7 +30,7 @@ description: ""
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/thick_redline.png">
 </div>
 <p><strong><em>On Paper: Singapore Before 1867</em></strong> features over
 150 paper-based artefacts that tell the story of Singapore’s early history
@@ -42,9 +42,8 @@ Britain on 1 April 1867.</p>
 Library, National Archives of Singapore and overseas institutions, <em>On Paper</em> presents
 a rare treat to all who are interested in our nation’s past.</p>
 <p></p>
-<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
 </div>
 <h4>Brochures, Exhibition Guides and e-publication</h4>
 <p>Download them below:</p>
@@ -109,19 +108,16 @@ a rare treat to all who are interested in our nation’s past.</p>
 <li>
 <p>Level 1, Lobby, National Library Building</p>
 </li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/thick_redline.png">
-</div>
+<li>
 <p><strong><em>Curiocity</em></strong> explores one of Singapore’s most iconic
 and historical districts – Raffles Place. <em>CurioCity</em> presents photographs,
 books, building plans, archival footage as well as oral history records
 exploring the evolution of and memories associated with the city’s commercial
 centre.</p>
-<p></p>
-<p></p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/grey_line.png">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/red_thinline.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -162,10 +158,8 @@ centre.</p>
 <li>
 <p><strong>Jurong Regional Library</strong> | 31 January 2020 to 24 March
 2020</p>
-<p></p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/red_thinline.png">
 </div>
@@ -178,9 +172,8 @@ in much confusion as to where Singapore island was and what it was called!</p>
 incarnations and names of Singapore on early maps from the collection of
 the National Library.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/grey_line.png">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/red_thinline.png">
 </div>
 <h3>Private Tours</h3>
 <p>Interested schools or organisations can email <a href="https://staging.d2bmwdo27gmnoc.amplifyapp.com/files/onpaper/on-paper-ebrochure-sep-dec-2019.pdf" rel="noopener noreferrer nofollow" target="_blank">visitnls@nlb.gov.sg</a> for
@@ -188,7 +181,7 @@ more details on private tours. Book early to secure a tour slot!</p>
 <blockquote>
 <p>The event is over, registration is closed.</p>
 </blockquote>
-<blockquote>
-<p></p>
-</blockquote>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/grey_line.png">
+</div>
 <p></p>
