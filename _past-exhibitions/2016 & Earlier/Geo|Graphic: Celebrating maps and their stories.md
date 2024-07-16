@@ -106,8 +106,9 @@ of loss.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="748" width="1000" alt="A large foam block sculpture sits on the floor, with a drill machine over it." src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/geographic/geographic-main-image-4_400w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/geographic/geographic-main-image-4_1000w.jpg">
 </div>
 <h6>Jeremy Sharma<br>Work in Progress for the Outliers, 2014-2015</h6>
 <div class="isomer-image-wrapper">
@@ -137,6 +138,7 @@ expressions of his painterly and sculptural practice.</p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="666" width="1000" alt="A collage of 4 different images, each featuring a different actor from the video 'Fables of Nusantara'." src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/geographic/geographic-main-image-5_400w.jpg">
 </div>
+<p></p>
 <h6>Sherman Ong<br>Video stills from Fables of Nusantara (2015)</h6>
 <p></p>
 <div class="isomer-image-wrapper">
