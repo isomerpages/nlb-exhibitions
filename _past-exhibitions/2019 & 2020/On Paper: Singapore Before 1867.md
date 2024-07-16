@@ -15,9 +15,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/onpaper/on-paper_gallery_1_1000w.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/thick_redline.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
@@ -31,7 +30,7 @@ description: ""
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/thick_redline.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
 </div>
 <p><strong><em>On Paper: Singapore Before 1867</em></strong> features over
 150 paper-based artefacts that tell the story of Singapore’s early history
@@ -43,8 +42,9 @@ Britain on 1 April 1867.</p>
 Library, National Archives of Singapore and overseas institutions, <em>On Paper</em> presents
 a rare treat to all who are interested in our nation’s past.</p>
 <p></p>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/red_thinline.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
 <h4>Brochures, Exhibition Guides and e-publication</h4>
 <p>Download them below:</p>
@@ -128,7 +128,6 @@ centre.</p>
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/onpaper/on-paper_gallery_9_1000w.jpg">
 </div>
 <h3><strong>An island by any other name…</strong></h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/thick_redline.png">
 </div>
