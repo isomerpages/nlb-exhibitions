@@ -10,6 +10,9 @@ description: ""
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="345" width="1000" alt="A title card labelled Geo|Graphic: Celebrating maps and their stories. Sacks of spices are in the background." src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/geographic/geographic-main-image_400w.jpg">
 </div>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="430" width="1000" alt="A section of the exhibition, with purple wall showcases and a silver table-top showcase in the middle. Maps are on display." src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/geographic/geographic_gallery_2_400w.jpg">
 </div>
 <p></p>
