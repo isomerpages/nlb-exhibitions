@@ -15,7 +15,6 @@ third_nav_title: 2016 & Earlier
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/frombooks/from-books-to-bytes-main-image.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
@@ -31,7 +30,7 @@ third_nav_title: 2016 & Earlier
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
 <p><strong>From Books to Bytes: The Story of the National Library</strong> tells
 the story of the National Library, Singapore. Throughout our history, the
