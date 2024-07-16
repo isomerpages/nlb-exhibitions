@@ -150,6 +150,10 @@ expressions of his painterly and sculptural practice.</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
 </div>
 <p>In this video installation, Sherman Ong uses the documentary/ethnographic
@@ -159,10 +163,20 @@ stories of the region are explored through the nine individuals featured
 in the video vignettes.</p>
 <p>Sherman Ong is a filmmaker, photographer and visual artist whose practice
 centres on the relationship between place and the human condition.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="719" width="1000" alt="An illustrated map with the title: 'Land of Gold and Spices'." src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/geographic/geographic-main-image-6_400w.jpg">
 </div>
+<p></p>
 <h3>Land of Gold and Spices: Early Maps of Southeast Asia and Singapore</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Level 10, Gallery, National Library Building</p>
