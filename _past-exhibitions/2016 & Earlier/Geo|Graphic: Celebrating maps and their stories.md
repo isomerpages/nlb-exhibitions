@@ -57,7 +57,6 @@ an offering of exhibitions and programmes that explore maps and mapping.</p>
 <p>Level 1, Lobby, National Library Building</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
 </div>
@@ -71,8 +70,6 @@ the six-sheet 1954 map of the city centre.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
 </div>
 <h3>Mind the Gap: Mapping the Other</h3>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
 </div>
@@ -89,6 +86,9 @@ mapping to investigate what lies beneath the surface of contemporary life.</p>
 <p>Level 7, Promenade, National Library Building</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+</div>
 <p>In this work titled Bibliotopia, Michael Lee uses the device of the mind
 map to uncover the “secret bookscape” of Singapore’s book culture. Focusing
 on the genres of short fiction, horror and the teen novel through the literary
@@ -98,6 +98,8 @@ adolescence, and the ghostly in Singapore.</p>
 <p>Michael Lee is an artist, curator and publisher, whose works focus on
 urban memory and fiction, with an emphasis on their contexts and issues
 of loss.</p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="748" width="1000" alt="A large foam block sculpture sits on the floor, with a drill machine over it." src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/geographic/geographic-main-image-4_400w.jpg">
 </div>
