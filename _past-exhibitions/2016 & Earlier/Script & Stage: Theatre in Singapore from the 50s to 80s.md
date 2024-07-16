@@ -6,12 +6,18 @@ third_nav_title: 2016 & Earlier
 variant: tiptap
 description: ""
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="323" width="940" alt="A title card labelled: Script &amp; Stage." src="https://exhibitions.nlb.gov.sg/images/event-images/script-and-stage-onsite/script-and-stage-main-image_400w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/script-and-stage-onsite/script-and-stage-main-image.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="563" width="1000" alt="A photo showing the entrance of the Script &amp; Stage exhibition." src="https://exhibitions.nlb.gov.sg/images/event-images/script-and-stage-onsite/script-and-stage_gallery_1_400w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/script-and-stage-onsite/script-and-stage_gallery_1.jpg">
+</div>
+<p></p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>28 October 2016 – 26 March 2017 (CLOSED)</p>
@@ -23,6 +29,10 @@ description: ""
 <p>Levels 7 &amp; 8, Promenade, National Library Building</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
 <p>Script &amp; Stage explores the fascinating roots of local playwriting
 and theatre production, highlighting significant performances, playwrights
 and prominent theatre companies that have shaped the foundation of contemporary
@@ -35,6 +45,11 @@ like Kuo Pao Kun and Robert Yeo.</p>
 <p>Not to be missed are showcases of notable local musicals, such as Beauty
 World (TheatreWorks) and Chang and Eng (Action! Theatre), at the lobby
 of the National Library Building.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
 <h4>Brochure</h4>
 <p>Download the brochure below:</p>
 <ul data-tight="true" class="tight">
@@ -44,6 +59,10 @@ of the National Library Building.</p>
 </li>
 </ul>
 <h3><strong>Theatre Tales!</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>31 October 2016 – 27 March 2017 (CLOSED)</p>
