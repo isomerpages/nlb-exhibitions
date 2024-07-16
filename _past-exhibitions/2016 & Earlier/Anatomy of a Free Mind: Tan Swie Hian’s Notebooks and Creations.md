@@ -141,15 +141,18 @@ took the literary world by storm.</p>
 <p>1960年代，陈瑞献以笔名 “牧羚奴”发表大量作品，不久后便成了在本地华文文坛提倡现代主义文学的代表人物。他曾经说自己的文学作品 “多反映现实的阴暗面，以及人类悲苦的命运”
 ，因此对芸芸众生怀抱悲悯是他写作的一个主调。至今，他已出版了将近40部文艺著作。</p>
 <p>为了配合在国家图书馆大厦举办的“解析自由心：陈瑞献稿本与创作”特展（2016年11月22日至2017年4月23日），本巡回展将着重介绍陈瑞献的多种文艺作品，如诗作、散文、小说、寓言、译作以及他所编辑的刊物。欲一览陈瑞献当年在文坛备受瞩目的作品，请于举办期间到上述图书馆参观展览。</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="616" width="1000" alt="A photo of the roving exhibition. An information wall in the middle is surrounded by showcases and a wall with books." src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/aof/aofm06_400w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/aof/aofm06.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="602" width="1000" alt="A photo of the roving exhibition. An information wall in the middle is surrounded by showcases and a wall with books." src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/aof/aofm07_400w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/aof/aofm07.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="614" width="1000" alt="A photo of the roving exhibition. An information wall in the middle is surrounded by showcases and a wall with books." src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/aof/aofm08_400w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/aof/aofm08.jpg">
 </div>
 <h3><strong>About Tan Swie Hian 陈瑞献简介</strong></h3>
 <p>Tan Swie Hian was born in Indonesia in 1943. He was educated in Singapore
