@@ -184,3 +184,8 @@ with people and the natural world.</p>
 </div>
 <h3>Private Tours</h3>
 <p>For enquiries on exhibition tours, please email <a href="https://www.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>visitnls@nlb.gov.sg</u></a>.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
+<p></p>
