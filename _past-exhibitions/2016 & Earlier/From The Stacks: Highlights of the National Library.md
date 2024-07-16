@@ -6,14 +6,19 @@ third_nav_title: 2016 & Earlier
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/from-the-stacks-onsite/from-the-stacks-main-image.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="667" width="1000" alt="Books in a showcase featuring illustrations of birds." src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/from-the-stacks-onsite/from-the-stacks_gallery_7_400w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/from-the-stacks-onsite/from-the-stacks_gallery_7_1000w.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>30 January 2016 – 25 September 2016 (CLOSED)</p>
@@ -25,6 +30,10 @@ description: ""
 <p>Level 10, Gallery, National Library Building</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
 <p>Documents, publications and photographs from Singapore’s early days reveal
 fascinating insights into our history and culture. For instance, an 1819
 document on the establishment of Malay College reveals how Raffles envisioned
@@ -41,6 +50,11 @@ and 1950s poetry.</p>
 <p>Discover early Singapore from a fresh perspective through over 100 highlights
 from the National Library’s collection of rare publications, manuscripts,
 documents, maps, photographs and more.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
 <h4>Brochure, Exhibition Guides and Activity Booklet</h4>
 <p>Download the items below:</p>
 <ul data-tight="true" class="tight">
