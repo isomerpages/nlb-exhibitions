@@ -34,7 +34,6 @@ in particular, maps are a window to our early history – before the arrival
 of the British in 1819. The National Library is pleased to present Geo|Graphic,
 an offering of exhibitions and programmes that explore maps and mapping.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
 </div>
@@ -99,17 +98,26 @@ adolescence, and the ghostly in Singapore.</p>
 urban memory and fiction, with an emphasis on their contexts and issues
 of loss.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="748" width="1000" alt="A large foam block sculpture sits on the floor, with a drill machine over it." src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/geographic/geographic-main-image-4_400w.jpg">
 </div>
 <h6>Jeremy Sharma<br>Work in Progress for the Outliers, 2014-2015</h6>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+</div>
 <h3><strong>Outliers</strong> | by Jeremy Sharma</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Level 8, Promenade, National Library Building</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+</div>
 <p>In the installation Outliers by Jeremy Sharma, are four white polystyrene
 blocks with undulating surfaces that capture the signals of dying stars
 (pulsars) in material form. Sharma, with the help of a pulsar scientist,
@@ -119,9 +127,17 @@ of dying stars travel to communicate their death throes.</p>
 <p>Jeremy Sharma instigates investigative processes to inform the formal
 expressions of his painterly and sculptural practice.</p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="666" width="1000" alt="A collage of 4 different images, each featuring a different actor from the video 'Fables of Nusantara'." src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/geographic/geographic-main-image-5_400w.jpg">
 </div>
 <h6>Sherman Ong<br>Video stills from Fables of Nusantara (2015)</h6>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
 <h3><strong>Islands in Between… The seas will sing and the wind will carry us… (Fables of Nusantara)</strong> | by Sherman Ong</h3>
 <ul data-tight="true" class="tight">
 <li>
