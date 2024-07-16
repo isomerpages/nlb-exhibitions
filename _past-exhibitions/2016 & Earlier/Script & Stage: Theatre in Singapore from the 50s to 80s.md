@@ -79,12 +79,21 @@ of the National Library Building.</p>
 <p><strong>Jurong Regional Library</strong> | 1 February 2017 – 27 March 2017</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+</div>
 <p>Delve into stories from traditional theatre found in Southeast Asia! Get
 up-close and personal with characters from the epic tales of the <em>Ramayana</em>, <em>Mahabharataand</em> and
 Chinese legends. Learn about the theatre traditions of <em>wayang kulit</em> (shadow
 puppetry), Chinese street opera and <em>therukoothu</em> (Tamil street theatre)
 through interactive displays at selected libraries around Singapore.</p>
 <p>This exhibition is a roving component of <em>Script &amp; Stage: Theatre in Singapore from the 50s to 80s</em>.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
 <h3>School Tours</h3>
 <p>Through guided tours specifically tailored for schools, students will
 discover facets of local theatre through the manuscripts, photos, posters
@@ -98,11 +107,13 @@ more details. Book early to secure a tour slot!</p>
 <blockquote>
 <p>Programme has ended, registration is closed.</p>
 </blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="711" width="1000" alt="A photo of a tour. A librarian is giving a talk next to a table showcase, while students crowd around." src="https://exhibitions.nlb.gov.sg/images/event-images/script-and-stage-onsite/SS10_400w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/script-and-stage-onsite/ss10_1000w.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="710" width="1000" alt="A photo of a tour. Students are looking down into a table showcase." src="https://exhibitions.nlb.gov.sg/images/event-images/script-and-stage-onsite/SS11_400w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/script-and-stage-onsite/ss11.jpg">
 </div>
 <p><a href="https://exhibitions.nlb.gov.sg/exhibitions/past-exhibitions/scriptandstage/gallery/" class="is-full is-right" rel="noopener noreferrer nofollow" target="_blank"><br></a>
 </p>
