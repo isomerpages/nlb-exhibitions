@@ -37,6 +37,7 @@ in Singapore that will strike a chord with them</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="An illustration of a typewriter." src="https://exhibitions.nlb.gov.sg/images/event-images/poetry-on-platforms/POP02_400w.jpg">
 </div>
+<h3></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
 </div>
