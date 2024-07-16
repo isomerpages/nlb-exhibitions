@@ -49,8 +49,9 @@ an offering of exhibitions and programmes that explore maps and mapping.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
 </div>
 <h2>Geo|Graphic exhibitions</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="833" width="1000" alt="A brown map of several islands." src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/geographic/geographic-main-image-2_400w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/geographic/geographic-main-image-2_1000w.jpg">
 </div>
 <h6>Sheet 14 showing islands like Pulau Bukom and Semakau off the west coast of mainland Singapore 1924<br>Source: Singapore Land Authority, Courtesy of National Archives of Singapore</h6>
 <h3><strong>Singapore’s First Topographical and City Map</strong></h3>
