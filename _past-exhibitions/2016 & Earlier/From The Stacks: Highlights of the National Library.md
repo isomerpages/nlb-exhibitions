@@ -6,12 +6,14 @@ third_nav_title: 2016 & Earlier
 variant: tiptap
 description: ""
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="323" width="940" alt="A title card labelled From The Stacks: Highlights of the National Library." src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/from-the-stacks-onsite/from-the-stacks-main-image_400w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/from-the-stacks-onsite/from-the-stacks-main-image.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="667" width="1000" alt="Books in a showcase featuring illustrations of birds." src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/from-the-stacks-onsite/from-the-stacks_gallery_7_400w.jpg">
 </div>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>30 January 2016 – 25 September 2016 (CLOSED)</p>
