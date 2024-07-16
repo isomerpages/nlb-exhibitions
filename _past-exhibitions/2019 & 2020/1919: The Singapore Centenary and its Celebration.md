@@ -15,9 +15,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/centenary/1919-centenary-gallery_2_1000w.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/thick_redline.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
@@ -30,9 +29,8 @@ description: ""
 <p>Level 11, Lee Kong Chian Reference Library, National Library Building</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/thick_redline.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
 </div>
 <p>Centenary Day took place on 6 February 1919 and marked Singapore’s hundredth
 year as a colonial port-settlement. It was celebrated as a public holiday
@@ -40,3 +38,8 @@ filled with official festivities and fanfare. This display features photographs
 and publications produced for the occasion. These materials not only capture
 the day’s events, but also reveal how people in Singapore took part in
 the commemoration and spectacle of empire.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
+<p></p>
