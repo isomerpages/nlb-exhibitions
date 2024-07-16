@@ -136,7 +136,7 @@ expressions of his painterly and sculptural practice.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="666" width="1000" alt="A collage of 4 different images, each featuring a different actor from the video 'Fables of Nusantara'." src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/geographic/geographic-main-image-5_400w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/geographic/geographic-main-image-5_1000w.jpg">
 </div>
 <p></p>
 <h6>Sherman Ong<br>Video stills from Fables of Nusantara (2015)</h6>
@@ -175,7 +175,7 @@ centres on the relationship between place and the human condition.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="719" width="1000" alt="An illustrated map with the title: 'Land of Gold and Spices'." src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/geographic/geographic-main-image-6_400w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/geographic/geographic-main-image-6.png">
 </div>
 <p></p>
 <h3>Land of Gold and Spices: Early Maps of Southeast Asia and Singapore</h3>
@@ -207,6 +207,7 @@ first time in Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="668" width="1000" alt="An illustrated map of Singapore with the title: 'Island of Stories'." src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/geographic/geographic-main-image-7_400w.jpg">
 </div>
+<p></p>
 <h3>Island of Stories: Singapore Maps</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
@@ -387,4 +388,5 @@ exhibitions and programmes, please visit <a href="https://staging.d2bmwdo27gmnoc
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
 </div>
+<p></p>
 <p></p>
