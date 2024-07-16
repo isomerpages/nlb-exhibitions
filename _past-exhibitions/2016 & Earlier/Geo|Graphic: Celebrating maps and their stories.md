@@ -139,11 +139,19 @@ expressions of his painterly and sculptural practice.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
 </div>
 <h3><strong>Islands in Between… The seas will sing and the wind will carry us… (Fables of Nusantara)</strong> | by Sherman Ong</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Level 9, Promenade, National Library Building</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
 <p>In this video installation, Sherman Ong uses the documentary/ethnographic
 film genre to tell stories of migration, trans-border identities, myths
 and memories in the islands of Southeast Asia. The histories and contemporary
