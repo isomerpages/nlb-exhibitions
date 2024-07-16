@@ -115,5 +115,4 @@ more details. Book early to secure a tour slot!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/script-and-stage-onsite/ss11.jpg">
 </div>
-<p><a href="https://exhibitions.nlb.gov.sg/exhibitions/past-exhibitions/scriptandstage/gallery/" class="is-full is-right" rel="noopener noreferrer nofollow" target="_blank"><br></a>
-</p>
+<p></p>
