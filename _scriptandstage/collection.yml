@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Theatre in Singapore from the 50s to 80s/.keep
-      - Theatre in Singapore from the 50s to 80s/about.md
+      - Theatre in Singapore from the 50s to 80s/About.md
       - Theatre in Singapore from the 50s to 80s/gallery.md
       - Theatre in Singapore from the 50s to 80s/exhibition-highlights.md
       - Theatre in Singapore from the 50s to 80s/programmes.md
