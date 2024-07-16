@@ -80,7 +80,7 @@ the six-sheet 1954 map of the city centre.</p>
 contemporary artists who harness the strategies of data collection and
 mapping to investigate what lies beneath the surface of contemporary life.</p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="360" width="640" alt="A mind-map structure with many branching paths. In the center, the title is 'not here, not there'." src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/geographic/geographic-main-image-3_400w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/geographic/geographic-main-image-3_640w.jpg">
 </div>
 <h6>Michael Lee<br>Work in progress for not here, not there (after Russell Lee) from the Bibliotopia series (2015)</h6>
 <h3><strong>Bibliotopia</strong> | by Michael Lee</h3>
