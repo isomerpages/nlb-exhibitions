@@ -15,7 +15,6 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 99%;" height="auto" width="100%" alt="" src="/images/event-images/qupl50/qupl50_gallery_07_1000w.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
 </div>
