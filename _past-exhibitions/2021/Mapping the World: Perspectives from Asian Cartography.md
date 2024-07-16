@@ -16,7 +16,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/mappingtheworld/001_1000w.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
@@ -30,7 +30,7 @@ description: ""
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
 <p>Showcasing rare historical maps, <strong><em>Mapping the World: Perspectives from Asian Cartography</em></strong> brings
 together different mapping traditions and worldviews, political and cultural
