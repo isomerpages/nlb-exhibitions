@@ -6,19 +6,18 @@ third_nav_title: 2017 & 2018
 variant: tiptap
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/sellingdreams/selling-dreams-tab-banner.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/thick_redline.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/sellingdreamsonsite/selling-dreams_gallery_7_1000w.jpg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/sellingdreams/selling-dreams-tab-banner.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/sellingdreamsonsite/selling-dreams_gallery_7_1000w.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/thick_redline.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
@@ -33,7 +32,7 @@ description: ""
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/red_thinline.png">
 </div>
 <p></p>
 <p>Advertisements are fascinating cultural documents that both shape and
@@ -49,7 +48,7 @@ you will gain a deeper understanding of advertising and its impact on society,
 while learning more about Singapore’s past.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/grey_line.png">
 </div>
 <h4>Brochures and Exhibition Guides</h4>
 <p>Download the brochures and exhibition guides below:</p>
@@ -85,7 +84,7 @@ while learning more about Singapore’s past.</p>
 <h3><strong>The Art of Persuasion</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/thick_redline.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
@@ -131,20 +130,20 @@ Public Libraries:</p>
 from the National Library’s rich collection.</p>
 <h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/grey_line.png">
 </div>
 <h3>School Tours</h3>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/grey_line.png">
 </div>
 <p>Set in a shopping scene in the early 20th century, students and teachers
 will experience a taste of life in Singapore from the colonial era to the
 1960s. Singapore’s social history and businesses, in particular, will be
 featured through a selection of advertisements from newspapers and other
 publications. Worksheets for students will also be provided.</p>
-<p>Interested schools can email <a href="https://exhibitions.nlb.gov.sg/files/sellingdreamsonsite/sead_dl-brochure-a_small.pdf" rel="noopener noreferrer nofollow" target="_blank">visitnls@nlb.gov.sg</a> for
+<p>Interested schools can email <a href="https://exhibitions.nlb.gov.sg/files/sellingdreamsonsite/sead_dl-brochure-a_small.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>visitnls@nlb.gov.sg</u></a> for
 more details. Book early to secure a tour slot!</p>
 <blockquote>
 <p>The event is over, registration is closed.</p>
