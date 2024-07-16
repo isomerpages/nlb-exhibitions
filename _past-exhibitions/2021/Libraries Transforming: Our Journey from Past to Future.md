@@ -16,7 +16,7 @@ description: ""
 <img style="width: 99%;" height="auto" width="100%" alt="" src="/images/event-images/qupl50/qupl50_gallery_07_1000w.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
@@ -30,7 +30,7 @@ description: ""
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
 <p>First opened on 30 April 1970, Queenstown Public Library (then Queenstown
 Branch Library) was the first of several full-fledged public libraries
@@ -42,3 +42,8 @@ which have evolved greatly from what they were decades ago.</p>
 <p>Journey with us from the past to present in this interactive exhibition.
 Discover how much our public libraries have transformed and will continue
 to grow in the future!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
+<p></p>
