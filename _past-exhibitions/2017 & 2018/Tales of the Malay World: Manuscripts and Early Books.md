@@ -15,8 +15,6 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/tmw/tales-of-the-malay-world_gallery_2.jpg">
 </div>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/thick_redline.png">
 </div>
@@ -32,7 +30,7 @@ description: ""
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/red_thinline.png">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/thick_redline.png">
 </div>
 <p><em>Step into the world of Malay stories – fantastical adventure tales of kings and heroes, founding myths of sultanates, and romantic poetry.</em>
 </p>
@@ -128,6 +126,9 @@ Archive.</p>
 2018</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/red_thinline.png">
+</div>
 <p>In Malay folklore, the wily mousedeer is the king of the forest. Stories
 of how the mousedeer outsmarts animals bigger than itself have entertained
 adults and children alike for centuries. The earliest manuscript containing
@@ -135,6 +136,10 @@ the mousedeer story was written over 350 years ago! Learn more about the
 mousedeer in this travelling mini-exhibition.</p>
 <p>The National Library would like to thank Inch Chua for allowing her music
 video, Mousedeer, to be featured in the showcase.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/grey_line.png">
+</div>
 <p></p>
 <p></p>
 <p>
