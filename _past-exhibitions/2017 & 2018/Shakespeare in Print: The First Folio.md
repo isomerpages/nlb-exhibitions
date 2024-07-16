@@ -16,7 +16,6 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/shakespeare/shakespeare-in-print_gallery_1.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
@@ -32,7 +31,7 @@ description: ""
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
 <p>Join us at the National Library as we showcase Shakespeare’s First Folio,
 first printed in 1623, on special loan from The University of Oxford’s
@@ -68,6 +67,9 @@ English language.</p>
 <p><strong>Marine Parade Library</strong> | 16 March 2017 – 25 April 2017</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+</div>
 <p>Alongside the main showcase the National Library, three public libraries
 will host “#Shakespeare”, a display that turns stories from Shakespeare’s
 plays into tweets by key characters from plays such as <em>Romeo and Juliet, Julius Caesar, A Midsummer Night’s Dream</em>,
@@ -76,4 +78,5 @@ and <em>Hamlet</em>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
 </div>
+<p></p>
 <p></p>
