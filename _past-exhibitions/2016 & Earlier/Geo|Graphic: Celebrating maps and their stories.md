@@ -6,16 +6,10 @@ third_nav_title: 2016 & Earlier
 variant: tiptap
 description: ""
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="430" width="1000" alt="A section of the exhibition, with purple wall showcases and a silver table-top showcase in the middle. Maps are on display." src="/images/event-images/geographic/geographic_gallery_2_400w.jpg">
-</div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/geographic/geographic-main-image_1000w.jpg">
 </div>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
@@ -23,11 +17,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/geographic/geographic-tab-banner_1000w.jpg">
 </div>
 <p></p>
-<p></p>
 <ul data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
 <li>
 <p>16 January 2015 – 19 July 2015 (CLOSED)</p>
 </li>
@@ -38,6 +28,7 @@ description: ""
 <p>National Library Building</p>
 </li>
 </ul>
+<p></p>
 <p>Maps are fascinating objects; they not only tell us about the places they
 depict but also how their makers saw the world around them. For Singapore
 in particular, maps are a window to our early history – before the arrival
@@ -155,10 +146,9 @@ of forgotten mileage points to the island’s farmland and soil composition,
 as well as stories of the former detached mole at Marina Bay, the Orchard
 Road “circus” and the election fever of 1955 – these maps weave a quirky,
 multifaceted story of Singapore’s past.</p><pre><code>    &lt;p&gt;Among other various audiovisual elements, visitors can overlay 19th-century maps over a contemporary map of the island in an interactive display developed with the Urban Redevelopment Authority, to see how the island has changed over the years.&lt;/p&gt;
-
-    &lt;p&gt;Jointly organised by the National Archives of Singapore and the National Library, Singapore.&lt;/p&gt;
-    &lt;/div&gt;
-&lt;/div&gt;</code></pre>
+&amp;lt;p&amp;gt;Jointly organised by the National Archives of Singapore and the National Library, Singapore.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&lt;/div&gt;</code></pre>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="623" width="1000" alt="An illustrated map of Singapore, laid out like a jigsaw puzzle. The outside edges are filled in, leaving a blank gap in the middle of Singapore." src="/images/event-images/geographic/geographic-main-image-8_400w.jpg">
 </div>
@@ -178,10 +168,9 @@ the project attempts to highlight the range of primary resources available
 on the sea from the colonial and post-colonial periods. In effect, SEABOOK
 aspires to be the most extensive cultural study of Singapore’s troubled
 relationship with the sea.</p><pre><code>    &lt;p&gt;Charles Lim will represent Singapore in the 2015 Venice Biennale. He has a close relationship with the sea, being a former national sailor and having represented Singapore in the 1996 Olympics.&lt;/p&gt;
-
-    &lt;p&gt;Jointly organised by the National Library, Singapore and NUS Museum.&lt;/p&gt;
-    &lt;/div&gt;
-&lt;/div&gt;</code></pre>
+&amp;lt;p&amp;gt;Jointly organised by the National Library, Singapore and NUS Museum.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&lt;/div&gt;</code></pre>
+<p></p>
 <h3><strong>MAPS! At the Public Libraries</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -209,10 +198,9 @@ maps and navigation through history at the following libraries near you!</p>
 <h3>School Self-guided Tour</h3>
 <p><strong>Gallery, Level 10 and 11</strong>
 </p><pre><code>        &lt;p&gt;Schools are able to organise a self-guided tour facilitated by their teachers. A handy educator’s guide/teaching aid for teachers as well as activity sheets for students are available. Interested schools can email visitnls@nlb.gov.sg for more details.&lt;/p&gt;
-        
-        &lt;blockquote style="color: #E21216; font-size: 150%;"&gt;Programme has ended, registration is closed.&lt;/blockquote&gt;
-    &lt;/div&gt;
-&lt;/div&gt;</code></pre>
+    &amp;lt;blockquote style="color: #E21216; font-size: 150%;"&amp;gt;Programme has ended, registration is closed.&amp;lt;/blockquote&amp;gt;
+&amp;lt;/div&amp;gt;&lt;/div&gt;</code></pre>
+<p></p>
 <h3><strong>Book Display: Maps that Shaped Singapore</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -258,8 +246,7 @@ exhibitions and programmes, please visit <a href="https://eresources.nlb.gov.sg/
                 &lt;li&gt;irememberParks by Singapore Furniture Industries Council&lt;/li&gt;
                 &lt;li&gt;Building Memories by Achates 360 &amp;amp; Koh Hong Teng&lt;/li&gt;
             &lt;/ul&gt;
-
-        &lt;p&gt;Supported by the Singapore Memory Project.&lt;/p&gt;
-    &lt;/div&gt;
-&lt;/div&gt;</code></pre>
+    &amp;lt;p&amp;gt;Supported by the Singapore Memory Project.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&lt;/div&gt;</code></pre>
+<p></p>
 <p></p>
