@@ -45,6 +45,9 @@ an offering of exhibitions and programmes that explore maps and mapping.</p>
 </p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
 <h2>Geo|Graphic exhibitions</h2>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="833" width="1000" alt="A brown map of several islands." src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/geographic/geographic-main-image-2_400w.jpg">
@@ -195,9 +198,16 @@ of the British in 1819. On special loan from European libraries are rare
 maps, such as indigenous Southeast Asian maps, on display for the very
 first time in Singapore.</p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="668" width="1000" alt="An illustrated map of Singapore with the title: 'Island of Stories'." src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/geographic/geographic-main-image-7_400w.jpg">
 </div>
 <h3>Island of Stories: Singapore Maps</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Level 11, Lee Kong Chian Reference Library, National Library Building</p>
@@ -217,10 +227,17 @@ over the years.</p>
 <p>Jointly organised by the National Archives of Singapore and the National
 Library, Singapore.</p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="623" width="1000" alt="An illustrated map of Singapore, laid out like a jigsaw puzzle. The outside edges are filled in, leaving a blank gap in the middle of Singapore." src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/geographic/geographic-main-image-8_400w.jpg">
 </div>
 <h6>Charles Lim<br>Sea Safe (2014)</h6>
 <h3><strong>SEA STATE 8 SEABOOK</strong> | An Art Project by Charles Lim</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Level 11, Lee Kong Chian Reference Library, National Library Building</p>
@@ -239,7 +256,14 @@ relationship with the sea.</p>
 a close relationship with the sea, being a former national sailor and having
 represented Singapore in the 1996 Olympics.</p>
 <p>Jointly organised by the National Library, Singapore and NUS Museum.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
+<p></p>
 <h3><strong>MAPS! At the Public Libraries</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>21 January 2015 – 29 July 2015 (CLOSED)</p>
@@ -263,6 +287,10 @@ July 2015</p>
 </ul>
 <p>Check out our interactive exhibition <strong>MAPS!</strong> which explores
 maps and navigation through history at the following libraries near you!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
 <h3>School Self-guided Tour</h3>
 <p><strong>Gallery, Level 10 and 11</strong>
 </p>
@@ -273,7 +301,14 @@ more details.</p>
 <blockquote>
 <p>Programme has ended, registration is closed.</p>
 </blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
 <h3><strong>Book Display: Maps that Shaped Singapore</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>12 Dec 2014 – 28 Feb 2015 (CLOSED)</p>
@@ -290,7 +325,14 @@ more details.</p>
 these Concept Plans and publications related to land use in Singapore,
 this book display examines the background and impact of Concept Plans in
 shaping the country’s urban environment.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
 <h3><strong>The Past is a Foreign Country: A special presentation by the Singapore Memory Project</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>April to August 2015 (CLOSED)</p>
@@ -338,4 +380,8 @@ exhibitions and programmes, please visit <a href="https://staging.d2bmwdo27gmnoc
 </li>
 </ul>
 <p>Supported by the Singapore Memory Project.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
 <p></p>
