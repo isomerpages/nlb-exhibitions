@@ -205,9 +205,8 @@ first time in Singapore.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="668" width="1000" alt="An illustrated map of Singapore with the title: 'Island of Stories'." src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/geographic/geographic-main-image-7_400w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/geographic/geographic-main-image-7_1000w.jpg">
 </div>
-<p></p>
 <h3>Island of Stories: Singapore Maps</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
@@ -234,8 +233,9 @@ Library, Singapore.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="623" width="1000" alt="An illustrated map of Singapore, laid out like a jigsaw puzzle. The outside edges are filled in, leaving a blank gap in the middle of Singapore." src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/geographic/geographic-main-image-8_400w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/geographic/geographic-main-image-8_1000w.jpg">
 </div>
 <h6>Charles Lim<br>Sea Safe (2014)</h6>
 <h3><strong>SEA STATE 8 SEABOOK</strong> | An Art Project by Charles Lim</h3>
