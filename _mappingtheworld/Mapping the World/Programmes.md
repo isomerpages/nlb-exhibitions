@@ -6,8 +6,9 @@ third_nav_title: Mapping the World
 variant: tiptap
 description: ""
 ---
-## Past programmes
-
-<blockquote style="color: #E21216; font-size: 150%;">All events are over.</blockquote>
-
-For information on past Mapping the World programmes, please visit the [Eventbrite page](https://www.go.gov.sg/mtwprogs/).
+<h2>Past programmes</h2>
+<blockquote>
+<p>All events are over.</p>
+</blockquote>
+<p>For information on past Mapping the World programmes, please visit the
+<a href="https://www.go.gov.sg/mtwprogs/" rel="noopener noreferrer nofollow" target="_blank">Eventbrite page</a>.</p>
