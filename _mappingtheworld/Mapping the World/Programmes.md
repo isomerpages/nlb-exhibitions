@@ -10,5 +10,4 @@ description: ""
 <blockquote>
 <p>All events are over.</p>
 </blockquote>
-<p>For information on past Mapping the World programmes, please visit the
-<a href="https://www.go.gov.sg/mtwprogs/" rel="noopener noreferrer nofollow" target="_blank">Eventbrite page</a>.</p>
+<p></p>
