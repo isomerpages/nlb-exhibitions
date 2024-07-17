@@ -24,8 +24,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Tour | Human X Nature Public Tours</p>
-<p><a href="/programmes/humanxnature/publictours-en/" rel="noopener noreferrer nofollow" target="_blank">The event is over.</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -36,8 +34,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Tour | Human X Nature 周末导览</p>
-<p><a href="/programmes/humanxnature/publictours-zh/" rel="noopener noreferrer nofollow" target="_blank">The event is over.</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -48,8 +45,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Tour | Human X Nature Curators' Tour</p>
-<p><a href="/programmes/humanxnature/curatorstours/" rel="noopener noreferrer nofollow" target="_blank">The event is over.</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -60,8 +56,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Talk | (Online) Histories: Tracking Otters in Singapore</p>
-<p><a href="/programmes/humanxnature/20210317-talk/" rel="noopener noreferrer nofollow" target="_blank">The event is over.</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -72,8 +67,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Talk | (Online) Histories: Investigating Land Use History</p>
-<p><a href="/programmes/humanxnature/20210416-talk/" rel="noopener noreferrer nofollow" target="_blank">The event is over.</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -84,8 +78,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Talk | (Online) Notes from Nature: The Biodiversity Heritage Collections</p>
-<p><a href="/programmes/humanxnature/20210416-talk-2/" rel="noopener noreferrer nofollow" target="_blank">The event is over.</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -96,8 +89,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Talk | (Online) Nature, Biodiversity and Our Role | WWF Explains</p>
-<p><a href="/programmes/humanxnature/20210515-talk/" rel="noopener noreferrer nofollow" target="_blank">The event is over.</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -108,8 +100,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Workshop | (Online) Human x Nature: Unnatural Stories</p>
-<p><a href="/programmes/humanxnature/20210522-workshop/" rel="noopener noreferrer nofollow" target="_blank">The event is over.</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -121,8 +112,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>Talk | (Online) Histories: Biodiversity and Conservation in Singapore’s
 Fresh Waters</p>
-<p><a href="/programmes/humanxnature/20210524-talk/" rel="noopener noreferrer nofollow" target="_blank">The event is over.</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -133,8 +123,7 @@ Fresh Waters</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Talk | (Online) Behind-The-Scenes: A Curator's Perspective</p>
-<p><a href="/programmes/humanxnature/20210527-talk/" rel="noopener noreferrer nofollow" target="_blank">The event is over.</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -145,8 +134,7 @@ Fresh Waters</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Talk | (Online) Human x Nature: Curators' Sharing</p>
-<p><a href="/programmes/humanxnature/20210617-talk/" rel="noopener noreferrer nofollow" target="_blank">The event is over.</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -157,8 +145,7 @@ Fresh Waters</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Talk | (Online) Understanding Nature Through Math</p>
-<p><a href="/programmes/humanxnature/20210617-talk-2/" rel="noopener noreferrer nofollow" target="_blank">The event is over.</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -170,8 +157,7 @@ Fresh Waters</p>
 <td rowspan="1" colspan="1">
 <p>Talk | (Online) Histories: Singapore’s Climate in the Past, Present and
 Future</p>
-<p><a href="/programmes/humanxnature/20210713-talk/" rel="noopener noreferrer nofollow" target="_blank">The event is over.</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -182,8 +168,7 @@ Future</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Talk | (Online) Histories: Blue Secrets of the Little Red Dot</p>
-<p><a href="/programmes/humanxnature/20210817-talk/" rel="noopener noreferrer nofollow" target="_blank">The event is over.</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -194,8 +179,7 @@ Future</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Talk | (Online) Human x Nature: Curators' Sharing</p>
-<p><a href="/programmes/humanxnature/20210820-talk/" rel="noopener noreferrer nofollow" target="_blank">The event is over.</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -206,8 +190,7 @@ Future</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tour | (Online) Virtual Tour for Children and Teens</p>
-<p><a href="/programmes/humanxnature/20210908-tour/" rel="noopener noreferrer nofollow" target="_blank">The event is over.</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -219,8 +202,7 @@ Future</p>
 <td rowspan="1" colspan="1">
 <p>Talk | (Online) Histories: Beyond the City in Nature – Stories from the
 Orang Seletar</p>
-<p><a href="/programmes/humanxnature/20210911-talk/" rel="noopener noreferrer nofollow" target="_blank">The event is over.</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -231,8 +213,7 @@ Orang Seletar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Talk | (Online) Crustacean Diversity | Human x Nature</p>
-<p><a href="/programmes/humanxnature/20210923-talk/" rel="noopener noreferrer nofollow" target="_blank">The event is over.</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -244,8 +225,7 @@ Orang Seletar</p>
 <td rowspan="1" colspan="1">
 <p>Talk | (Online) Histories: Empire, Experiments and Reports of the Fisheries
 Department</p>
-<p><a href="/programmes/humanxnature/20211014-talk/" rel="noopener noreferrer nofollow" target="_blank">The event is over.</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
