@@ -2,5 +2,5 @@ collections:
   bookhavensofbrasbasah:
     output: true
     order:
-      - Gallery.md
       - About.md
+      - Gallery.md
