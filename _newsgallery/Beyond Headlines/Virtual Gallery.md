@@ -8,8 +8,6 @@ description: ""
 ---
 <p>Welcome to the Virtual News Gallery, which features highlights from the
 <a href="/newsgallery/about/" rel="noopener noreferrer nofollow" target="_blank">main exhibition at the National Library</a>.</p>
-<p></p>
-<p></p>
 <h2>Early Editions</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
@@ -21,7 +19,7 @@ description: ""
 <p>The stories of Singapore newspapers reflect our country’s rich socio-cultural
 tapestry. Learn how the early newspapers in Singapore addressed their respective
 communities’ concerns, interests and championed causes important to them.</p>
-<p><a href="https://exhibitions.nlb.gov.sg/virtual-gallery/early-editions/" rel="noopener noreferrer nofollow" target="_blank"><u>Click here to visit Early Editions</u></a>
+<p><a href="https://exhibitions.nlb.gov.sg/newsgallery/virtual-gallery/early-editions/" rel="noopener noreferrer nofollow" target="_blank"><u>Click here to visit Early Editions</u></a>
 </p>
 <h2>Behind Every Story</h2>
 <div class="isomer-image-wrapper">
