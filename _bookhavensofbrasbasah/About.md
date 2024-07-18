@@ -9,6 +9,12 @@ description: ""
 <img style="width: 100%" height="250" width="1000" alt="A title card labelled: BHBB." src="/images/event-images/BookHavensofBrasBasah/BHBB_Banner.jpg">
 </div>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/BookHavensofBrasBasah/BHBB_7.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
 </div>
 <ul data-tight="true" class="tight">
