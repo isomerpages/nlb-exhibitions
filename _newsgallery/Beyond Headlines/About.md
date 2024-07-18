@@ -46,7 +46,7 @@ media, through our rich resources on newspapers.</p>
 <p>Download the exhibition brochure and guides below:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/newsgallery/the%20news%20gallery_dl%20brochure_en.pdf" rel="noopener noreferrer nofollow" target="_blank">English brochure (1.7mb) </a>
+<p><a href="/files/newsgallery/the%20news%20gallery_dl%20brochure_en.pdf" rel="noopener noreferrer nofollow" target="_blank">English brochure (1.7mb)</a>
 </p>
 </li>
 <li>
@@ -63,7 +63,7 @@ media, through our rich resources on newspapers.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/newsgallery/nlb_exhibition_guide_tamil_r202303.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil guide (4.6mb) </a>
+<p><a href="/files/newsgallery/nlb_exhibition_guide_tamil_r202303.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil guide (4.6mb)</a>
 </p>
 </li>
 </ul>
