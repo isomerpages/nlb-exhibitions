@@ -46,25 +46,24 @@ media, through our rich resources on newspapers.</p>
 <p>Download the exhibition brochure and guides below:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/newsgallery/the%20news%20gallery_dl%20brochure_en.pdf" rel="noopener noreferrer nofollow" target="_blank">English broc</a>
-<a href="/files/newsgallery/the news gallery_dl brochure_en.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a><a href="/files/newsgallery/the%20news%20gallery_dl%20brochure_en.pdf" rel="noopener noreferrer nofollow" target="_blank">hure (1.7mb)</a>
+<p><a href="/files/newsgallery/the%20news%20gallery_dl%20brochure_en.pdf" rel="noopener noreferrer nofollow" target="_blank">English brochure (1.7mb) </a>
 </p>
 </li>
 <li>
-<p><a href="/files/newsgallery/nlb_exhibition_guide_english_r202303.pdf" rel="noopener noreferrer nofollow" target="_blank">Englfileish guide (4.4mb)</a>
+<p><a href="/files/newsgallery/nlb_exhibition_guide_english_r202303.pdf" rel="noopener noreferrer nofollow" target="_blank">English guide (4.4mb)</a>
 </p>
 </li>
 <li>
 <p><a href="/files/newsgallery/nlb_exhibition_guide_chinese_r202303.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese guide (4</a>
-<a href="/files/newsgallery/nlb_exhibition_guide_chinese.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a><a href="/files/newsgallery/nlb_exhibition_guide_chinese_r202303.pdf" rel="noopener noreferrer nofollow" target="_blank">.4mb)</a>
+<a href="/files/newsgallery/nlb_exhibition_guide_chinese.pdf" rel="noopener noreferrer nofollow" target="_blank">.4mb)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/newsgallery/nlb_exhibition_guide_malay_r202303.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay gufileide (4.5mb)</a>
+<p><a href="/files/newsgallery/nlb_exhibition_guide_malay_r202303.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay guide (4.5mb)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/newsgallery/nlb_exhibition_guide_tamil_r202303.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil gfileuide (4.6mb)</a>
+<p><a href="/files/newsgallery/nlb_exhibition_guide_tamil_r202303.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil guide (4.6mb) </a>
 </p>
 </li>
 </ul>
