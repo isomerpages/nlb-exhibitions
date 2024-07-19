@@ -20,7 +20,7 @@ third_nav_title: 2016 & Earlier
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>12 November 2005 - 27 February 2024 (CLOSED)</p>
+<p>12 November 2005 - 27 February 2024</p>
 </li>
 <li>
 <p>10:00am – 9:00pm</p>
