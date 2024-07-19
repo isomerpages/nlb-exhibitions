@@ -11,7 +11,7 @@ description: ""
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>28 November 2023 - 15 June 2024 (URA), 16 June 2024 (NLB) [CLOSED]</p>
+<p>28 November 2023 - 15 June 2024 (URA), 16 June 2024 (NLB)</p>
 </li>
 <li>
 <p>9:00am - 5:00pm (URA), 10:00am - 9:00pm (NLB)</p>
@@ -34,7 +34,7 @@ showcase of the collection presents two exhibitions, <em>To Draw an Idea: Retrac
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>12 November 2005 - 27 February 2024 [CLOSED]</p>
+<p>12 November 2005 - 27 February 2024</p>
 </li>
 <li>
 <p>10:00am – 9:00pm</p>
@@ -55,7 +55,7 @@ from 1823 till present.</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>10 April 2021 – 5 March 2023 [CLOSED]</p>
+<p>10 April 2021 – 5 March 2023</p>
 </li>
 <li>
 <p>10:00am – 9:00pm</p>
@@ -77,7 +77,7 @@ the future!</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>11 December 2021 – 8 May 2022 [CLOSED]</p>
+<p>11 December 2021 – 8 May 2022</p>
 </li>
 <li>
 <p>10:00am – 9:00pm</p>
@@ -98,7 +98,7 @@ civilisations across the world.</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>9 April – 26 September 2021 [CLOSED]</p>
+<p>9 April – 26 September 2021 </p>
 </li>
 <li>
 <p>10:00am – 9:00pm</p>
@@ -120,7 +120,7 @@ to commercial and urban land use, as well as conservation and restoration.</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>28 September 2019 – 22 March 2020 [CLOSED]</p>
+<p>28 September 2019 – 22 March 2020</p>
 </li>
 <li>
 <p>10:00am – 9:00pm</p>
@@ -142,7 +142,7 @@ the Straits Settlements as a Crown Colony of Britain on 1 April 1867.</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>12 November 2019 – 12 March 2020 [CLOSED]</p>
+<p>12 November 2019 – 12 March 2020</p>
 </li>
 <li>
 <p>10:00am – 9:00pm</p>
@@ -163,7 +163,7 @@ and publications produced for the occasion.</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>23 January – 1 April 2019 [CLOSED]</p>
+<p>23 January – 1 April 2019</p>
 </li>
 <li>
 <p>10:00am – 9:00pm</p>
@@ -184,7 +184,7 @@ to the masses, thereby ensuring that its legacy live on through the ages.</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>20 July 2018 – 24 February 2019 [CLOSED]</p>
+<p>20 July 2018 – 24 February 2019</p>
 </li>
 <li>
 <p>10:00am – 9:00pm</p>
@@ -206,7 +206,7 @@ the years.</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>18 August 2017 – 25 February 2018 [CLOSED]</p>
+<p>18 August 2017 – 25 February 2018</p>
 </li>
 <li>
 <p>10:00am – 9:00pm</p>
@@ -227,7 +227,7 @@ to early lithographed books.</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>11 March 2017 – 23 April 2017 [CLOSED]</p>
+<p>11 March 2017 – 23 April 2017</p>
 </li>
 <li>
 <p>10:00am – 9:00pm</p>
@@ -249,7 +249,7 @@ influenced art and media all over the world for centuries.</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>22 November 2016 – 23 April 2017 [CLOSED]</p>
+<p>22 November 2016 – 23 April 2017</p>
 </li>
 <li>
 <p>10:00am – 9:00pm</p>
@@ -270,7 +270,7 @@ in this exhibition featuring over 100 creations in a wide range of media.</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>28 October 2016 – 26 March 2017 [CLOSED]</p>
+<p>28 October 2016 – 26 March 2017</p>
 </li>
 <li>
 <p>10:00am – 9:00pm</p>
