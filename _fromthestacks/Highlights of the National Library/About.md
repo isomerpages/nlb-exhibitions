@@ -20,7 +20,7 @@ description: ""
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>30 January 2016 – 25 September 2016 (CLOSED)</p>
+<p>30 January 2016 – 25 September 2016</p>
 </li>
 <li>
 <p>10:00am – 9:00pm</p>
