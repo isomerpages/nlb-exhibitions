@@ -20,7 +20,7 @@ description: ""
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>18 August 2017 – 25 February 2018 (CLOSED)</p>
+<p>18 August 2017 – 25 February 2018</p>
 </li>
 <li>
 <p>10:00am – 9:00pm</p>
@@ -80,7 +80,7 @@ Raffles.</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>18 August 2017 – 25 February 2018 (CLOSED)</p>
+<p>18 August 2017 – 25 February 2018</p>
 </li>
 <li>
 <p>10:00am – 9:00pm</p>
@@ -106,7 +106,7 @@ Archive.</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>11 August 2017 – 25 February 2018 (CLOSED)</p>
+<p>11 August 2017 – 25 February 2018</p>
 </li>
 <li>
 <p><strong>Geylang East Public Library (Level 2)</strong> | 11 August 2017
