@@ -12,7 +12,7 @@ description: ""
 <p>This exhibition explores our relationships with the natural world from
 cultural understandings and scientific study to commercial and urban land
 use, as well as conservation and restoration.</p>
-<h5><a href="https://www.nlb.gov.sg/staticassets/exhibitions/virtual/humanxnature/virtualtour/index.htm" rel="noopener" target="_blank">VISIT THE ONLINE EXHIBITION »</a></h5>
+<h5><a href="https://www.library.gov.sg/staticassets/exhibitions/virtual/humanxnature/virtualtour/index.htm" rel="noopener" target="_blank">VISIT THE ONLINE EXHIBITION »</a></h5>
 <hr>
 <h3><strong>Selling Dreams: Early Advertising in Singapore</strong></h3>
 <div class="isomer-image-wrapper">
