@@ -21,7 +21,7 @@ description: ""
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>16 January 2015 – 19 July 2015 (CLOSED)</p>
+<p>16 January 2015 – 19 July 2015</p>
 </li>
 <li>
 <p>10:00am – 9:00pm</p>
@@ -262,7 +262,7 @@ represented Singapore in the 1996 Olympics.</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>21 January 2015 – 29 July 2015 (CLOSED)</p>
+<p>21 January 2015 – 29 July 2015</p>
 </li>
 <li>
 <p><strong>Jurong Regional Library, Level 1</strong> | 21 January 2015 – 26
@@ -310,7 +310,7 @@ more details.</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>12 Dec 2014 – 28 Feb 2015 (CLOSED)</p>
+<p>12 Dec 2014 – 28 Feb 2015</p>
 </li>
 <li>
 <p>10:00am – 9:00pm</p>
@@ -337,7 +337,7 @@ shaping the country’s urban environment.</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>April to August 2015 (CLOSED)</p>
+<p>April to August 2015</p>
 </li>
 <li>
 <p>10:00am – 9:00pm</p>
