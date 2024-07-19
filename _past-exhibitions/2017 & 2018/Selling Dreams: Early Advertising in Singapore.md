@@ -20,7 +20,7 @@ description: ""
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>20 July 2018 – 24 February 2019 (CLOSED)</p>
+<p>20 July 2018 – 24 February 2019</p>
 </li>
 <li>
 <p>10:00am – 9:00pm</p>
@@ -84,7 +84,7 @@ while learning more about Singapore’s past.</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>20 July 2018 – 24 February 2019 (CLOSED)</p>
+<p>20 July 2018 – 24 February 2019</p>
 </li>
 <li>
 <p>10:00am – 9:00pm</p>
@@ -107,7 +107,7 @@ audiences.</p>
 Public Libraries:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>9 July 2018 – 24 March 2019 (CLOSED)</p>
+<p>9 July 2018 – 24 March 2019</p>
 </li>
 <li>
 <p><strong>Ang Mo Kio Public Library</strong> | 9 Jul – 26 Aug 2018</p>
