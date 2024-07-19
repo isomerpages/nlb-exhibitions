@@ -73,5 +73,3 @@ to the masses, thereby ensuring that its legacy live on through the ages.</p>
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/red_thinline.png">
 </div>
 <p></p>
-<p><a href="https://staging.d2bmwdo27gmnoc.amplifyapp.com/past/onpaper/about/" class="is-half is-left is-full-height" rel="noopener noreferrer nofollow" target="_blank"><br></a>
-</p>
