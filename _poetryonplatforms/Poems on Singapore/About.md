@@ -35,8 +35,9 @@ humorous, moving and thought-provoking poems on life, people, and places
 in Singapore that will strike a chord with them</p>
 <p><em>Commuters are required to pay applicable fare upon entry and exit from fare gates at SMRT stations.</em>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="An illustration of a typewriter." src="https://exhibitions.nlb.gov.sg/images/event-images/poetry-on-platforms/POP02_400w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/poetry-on-platforms/pop02_1000w.jpg">
 </div>
 <h3></h3>
 <div class="isomer-image-wrapper">
