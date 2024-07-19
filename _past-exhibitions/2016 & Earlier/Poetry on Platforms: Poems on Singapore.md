@@ -16,7 +16,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/poetry-on-platforms/poetry-on-platforms-main-image.png">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
 <ul>
 <li>
 <p>16 July 2015 – 13 August 2015 (CLOSED)</p>
@@ -42,11 +44,15 @@ in Singapore that will strike a chord with them</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
 </div>
 <h3><strong>Be a Poetry on Platforms Star Poet Contest</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>16 July 2015 – 13 August 2015 (CLOSED)</p>
 </li>
 </ul>
+<p></p>
 <p>Anyone can be a poet. Pen an original poem and submit to POP@nlb.gov.sg
 to receive a commemorative EZ- Link card.</p>
 <p>*Limited to the first 150 original poems received during the stated period.
@@ -55,4 +61,8 @@ Limited to one EZ-Link per individual</p>
 <blockquote>
 <p>Programme has ended, registration is closed.</p>
 </blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
 <p></p>
