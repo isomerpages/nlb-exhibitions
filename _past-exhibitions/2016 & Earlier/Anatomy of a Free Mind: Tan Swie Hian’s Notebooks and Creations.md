@@ -21,7 +21,7 @@ description: ""
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>22 November 2016 – 23 April 2017 (CLOSED)</p>
+<p>22 November 2016 – 23 April 2017</p>
 </li>
 <li>
 <p>10:00am – 9:00pm</p>
@@ -81,7 +81,7 @@ creations and notebooks!</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>1 November 2016 – 28 February 2017 (CLOSED)</p>
+<p>1 November 2016 – 28 February 2017</p>
 </li>
 <li>
 <p><strong>Jurong Regional Library</strong> | 1 November 2016 – 29 December
@@ -125,7 +125,7 @@ took the literary world by storm.</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>2016年11月1日 – 2016年12月29日 (CLOSED)</p>
+<p>2016年11月1日 – 2016年12月29日</p>
 </li>
 <li>
 <p><strong>裕廊区域图书馆</strong> | 2016年11月1日–2016年12月29日</p>
