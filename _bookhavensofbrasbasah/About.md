@@ -15,7 +15,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/BookHavensofBrasBasah/BHBB_7.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
