@@ -20,7 +20,7 @@ description: ""
 </div>
 <ul>
 <li>
-<p>23 January – 1 April 2019 (Closed)</p>
+<p>23 January – 1 April 2019</p>
 </li>
 <li>
 <p>10:00am – 9:00pm</p>
