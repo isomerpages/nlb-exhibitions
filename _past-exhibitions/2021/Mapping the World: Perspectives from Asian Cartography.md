@@ -75,13 +75,6 @@ across time and space.</p>
 <li>
 <p><a href="https://exhibitions.nlb.gov.sg/files/mappingtheworld/nlb_mapping%20the%20world_exhibition%20guide_tamil_web.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil exhibition guide (2.12mb)</u></a>
 </p>
-</li>
-</ul>
-<h4>Publication</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://eresources.nlb.gov.sg/printheritage/detail/90d85fba-f1a9-4456-b675-37335ddf7865.aspx?s=Mapping%20the%20world" rel="noopener noreferrer nofollow" target="_blank"><u>Mapping the world : perspectives from Asian cartography e-publication</u></a>
-</p>
 <p></p>
 </li>
 </ul>
