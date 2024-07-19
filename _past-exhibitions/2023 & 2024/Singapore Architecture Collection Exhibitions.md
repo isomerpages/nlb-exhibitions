@@ -17,9 +17,6 @@ third_nav_title: 2023 & 2024
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
 </div>
 <h3><strong><em>To Draw an Idea: Retracing the Designs of William Lim Associates – W Architects</em></strong></h3>
