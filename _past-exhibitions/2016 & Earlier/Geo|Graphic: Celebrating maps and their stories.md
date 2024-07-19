@@ -15,7 +15,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 869.328px;" height="430" width="1000" alt="A section of the exhibition, with purple wall showcases and a silver table-top showcase in the middle. Maps are on display." src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/geographic/geographic_gallery_2_400w.jpg">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>16 January 2015 – 19 July 2015 (CLOSED)</p>
@@ -27,7 +29,6 @@ description: ""
 <p>National Library Building</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
@@ -58,26 +59,25 @@ an offering of exhibitions and programmes that explore maps and mapping.</p>
 </div>
 <h6>Sheet 14 showing islands like Pulau Bukom and Semakau off the west coast of mainland Singapore 1924<br>Source: Singapore Land Authority, Courtesy of National Archives of Singapore</h6>
 <h3><strong>Singapore’s First Topographical and City Map</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Level 1, Lobby, National Library Building</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
-</div>
 <p>Topographic maps give a three-dimensional sense of the area being mapped,
 depicting the contours and relief of the terrain. On display are Singapore’s
 first complete set of topographical maps that were produced in 1924, and
 the six-sheet 1954 map of the city centre.</p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
 </div>
 <h3>Mind the Gap: Mapping the Other</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
 <p><strong>Mind the Gap</strong> presents the works of three Singapore-based
 contemporary artists who harness the strategies of data collection and
@@ -86,15 +86,18 @@ mapping to investigate what lies beneath the surface of contemporary life.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/geographic/geographic-main-image-3_640w.jpg">
 </div>
 <h6>Michael Lee<br>Work in progress for not here, not there (after Russell Lee) from the Bibliotopia series (2015)</h6>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
 <h3><strong>Bibliotopia</strong> | by Michael Lee</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Level 7, Promenade, National Library Building</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
-</div>
 <p>In this work titled Bibliotopia, Michael Lee uses the device of the mind
 map to uncover the “secret bookscape” of Singapore’s book culture. Focusing
 on the genres of short fiction, horror and the teen novel through the literary
@@ -109,23 +112,19 @@ of loss.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/geographic/geographic-main-image-4_1000w.jpg">
 </div>
 <h6>Jeremy Sharma<br>Work in Progress for the Outliers, 2014-2015</h6>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
-</div>
 <h3><strong>Outliers</strong> | by Jeremy Sharma</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Level 8, Promenade, National Library Building</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
-</div>
 <p>In the installation Outliers by Jeremy Sharma, are four white polystyrene
 blocks with undulating surfaces that capture the signals of dying stars
 (pulsars) in material form. Sharma, with the help of a pulsar scientist,
@@ -148,7 +147,6 @@ expressions of his painterly and sculptural practice.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
 </div>
 <h3><strong>Islands in Between… The seas will sing and the wind will carry us… (Fables of Nusantara)</strong> | by Sherman Ong</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
@@ -157,14 +155,6 @@ expressions of his painterly and sculptural practice.</p>
 <p>Level 9, Promenade, National Library Building</p>
 </li>
 </ul>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
-</div>
 <p>In this video installation, Sherman Ong uses the documentary/ethnographic
 film genre to tell stories of migration, trans-border identities, myths
 and memories in the islands of Southeast Asia. The histories and contemporary
@@ -174,15 +164,13 @@ in the video vignettes.</p>
 centres on the relationship between place and the human condition.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/geographic/geographic-main-image-6.png">
 </div>
-<p></p>
 <h3>Land of Gold and Spices: Early Maps of Southeast Asia and Singapore</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
@@ -292,6 +280,9 @@ June 2015</p>
 July 2015</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+</div>
 <p>Check out our interactive exhibition <strong>MAPS!</strong> which explores
 maps and navigation through history at the following libraries near you!</p>
 <p></p>
@@ -327,6 +318,9 @@ more details.</p>
 <p>Lee Kong Chian Reference Library, Level 8</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+</div>
 <p>Singapore’s urban landscape has been shaped by its various Concept Plans
 – the country’s strategic land use and transportation plans. By showcasing
 these Concept Plans and publications related to land use in Singapore,
@@ -351,6 +345,9 @@ shaping the country’s urban environment.</p>
 <p>Promenade, Level 10, National Library Building</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+</div>
 <p>The Past is a Foreign Country is a selection of projects funded by the
 irememberSG fund that explore issues of territoriality, space and environment
 through the trope of memory in Singapore. For more information of the specific
