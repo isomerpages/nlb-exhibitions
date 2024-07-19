@@ -15,7 +15,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/poetry-on-platforms/poetry-on-platforms-main-image.png">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/thick_redline.png">
+</div>
 <ul>
 <li>
 <p>16 July 2015 – 13 August 2015 (CLOSED)</p>
@@ -41,17 +43,27 @@ in Singapore that will strike a chord with them</p>
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/grey_line.png">
 </div>
 <h3><strong>Be a Poetry on Platforms Star Poet Contest</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/thick_redline.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>16 July 2015 – 13 August 2015 (CLOSED)</p>
 </li>
 </ul>
-<p>Anyone can be a poet. Pen an original poem and submit to <a href="mailto:POP@nlb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">POP@nlb.gov.sg</a> to
+<p></p>
+<p>Anyone can be a poet. Pen an original poem and submit to <a href="mailto:?Subject=Poetry%20on%20Platforms%3A%20Poems%20on%20Singapore&amp;amp;Body=https%3A%2F%2Fstaging.d2bmwdo27gmnoc.amplifyapp.com%2Fpast%2Fpoetryonplatforms%2Fabout%2F" rel="noopener noreferrer nofollow" target="_blank">POP@nlb.gov.sg</a> to
 receive a commemorative EZ- Link card.</p>
 <p>*Limited to the first 150 original poems received during the stated period.
 Limited to one EZ-Link per individual</p>
-<p>Terms and conditions apply. For more information, please visit <a href="http://www.nlb.gov.sg/readsingapore" rel="noopener noreferrer nofollow" target="_blank">www.nlb.gov.sg/readsingapore</a>.</p>
+<p>Terms and conditions apply. For more information, please visit <a href="mailto:?Subject=Poetry%20on%20Platforms%3A%20Poems%20on%20Singapore&amp;amp;Body=https%3A%2F%2Fstaging.d2bmwdo27gmnoc.amplifyapp.com%2Fpast%2Fpoetryonplatforms%2Fabout%2F" rel="noopener noreferrer nofollow" target="_blank">www.nlb.gov.sg/readsingapore</a>.</p>
 <blockquote>
 <p>Programme has ended, registration is closed.</p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/grey_line.png">
+</div>
+<p></p>
+<p><a href="https://staging.d2bmwdo27gmnoc.amplifyapp.com/past/fromthestacks/about/" class="is-half is-left is-full-height" rel="noopener noreferrer nofollow" target="_blank"><br></a>
+</p>
