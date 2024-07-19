@@ -139,9 +139,6 @@ video, Mousedeer, to be featured in the showcase.</p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/grey_line.png">
 </div>
-<p></p>
-<p></p>
-<p></p>
-<p><a href="https://staging.d2bmwdo27gmnoc.amplifyapp.com/past/sellingdreams/about/" class="is-half is-left is-full-height" rel="noopener noreferrer nofollow" target="_blank"><br></a>
+<p>
 <br>
 </p>
