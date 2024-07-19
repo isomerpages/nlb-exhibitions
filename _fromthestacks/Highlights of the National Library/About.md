@@ -15,7 +15,6 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/from-the-stacks-onsite/from-the-stacks_gallery_7_1000w.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/thick_redline.png">
 </div>
@@ -30,7 +29,6 @@ description: ""
 <p>Level 10, Gallery, National Library Building</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/thick_redline.png">
 </div>
@@ -83,4 +81,9 @@ documents, maps, photographs and more.</p>
 </p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/grey_line.png">
+</div>
 <p></p>
+<p><a href="https://staging.d2bmwdo27gmnoc.amplifyapp.com/past/anatomyofafreemind/about/" class="is-half is-left is-full-height" rel="noopener noreferrer nofollow" target="_blank"><br></a>
+</p>
