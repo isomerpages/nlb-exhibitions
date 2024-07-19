@@ -15,6 +15,7 @@ third_nav_title: SAC Exhibitions
 </div>
 <p><strong>The Singapore Architecture Collection documents and preserves archival materials about our modern and contemporary architecture. This inaugural showcase of the collection presents two exhibitions,&nbsp;<em>To Draw an Idea: Retracing the Designs of William Lim Associates – W Architects</em>&nbsp;and&nbsp;<em>Dare to Design: Singapore Architecture 1960s-2000s.</em></strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
 </div>
@@ -90,7 +91,7 @@ and witness a boldness and flexibility that keeps people at the heart of
 design!</p>
 <h4><strong>Roving Displays:</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
 <ul>
 <li>
@@ -117,5 +118,4 @@ design!</p>
 </p>
 </li>
 </ul>
-<p></p>
 <p></p>
