@@ -20,7 +20,7 @@ description: ""
 </div>
 <ul>
 <li>
-<p>16 July 2015 – 13 August 2015 (CLOSED)</p>
+<p>16 July 2015 – 13 August 2015</p>
 </li>
 <li>
 <p>City Hall MRT Platforms</p>
@@ -49,7 +49,7 @@ in Singapore that will strike a chord with them</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>16 July 2015 – 13 August 2015 (CLOSED)</p>
+<p>16 July 2015 – 13 August 2015</p>
 </li>
 </ul>
 <p></p>
