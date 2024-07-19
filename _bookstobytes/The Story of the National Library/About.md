@@ -37,9 +37,12 @@ the story of the National Library, Singapore. Throughout our history, the
 library has been an integral part of Singapore’s cultural and social fabric
 as well as its residents. The exhibition traces the founding, development
 and growth of the National Library, Singapore from 1823 till present. Learn
-interesting snippets of</p>
+interesting snippets of the library’s rich history and how its function
+has evolved with the learning needs of the nation.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/grey_line.png">
 </div>
 <p></p>
+<p><a href="https://staging.d2bmwdo27gmnoc.amplifyapp.com/past/shakespearesfirstfolio/about/" class="is-half is-left is-full-height" rel="noopener noreferrer nofollow" target="_blank"><br></a>
+</p>
