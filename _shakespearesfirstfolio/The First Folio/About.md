@@ -20,7 +20,7 @@ description: ""
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>11 March 2017 – 23 April 2017 (CLOSED)</p>
+<p>11 March 2017 – 23 April 2017</p>
 </li>
 <li>
 <p>10:00am – 9:00pm</p>
@@ -54,7 +54,7 @@ English language.</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>14 March 2017 – 25 April 2017 (CLOSED)</p>
+<p>14 March 2017 – 25 April 2017</p>
 </li>
 <li>
 <p><strong>Esplanade Public Library</strong> | 14 March 2017 – 23 April 2017</p>
