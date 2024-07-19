@@ -15,8 +15,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/script-and-stage-onsite/script-and-stage_gallery_1.jpg">
 </div>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/thick_redline.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>28 October 2016 – 26 March 2017 (CLOSED)</p>
@@ -28,7 +29,6 @@ description: ""
 <p>Levels 7 &amp; 8, Promenade, National Library Building</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/thick_redline.png">
 </div>
@@ -45,7 +45,6 @@ like Kuo Pao Kun and Robert Yeo.</p>
 World (TheatreWorks) and Chang and Eng (Action! Theatre), at the lobby
 of the National Library Building.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/grey_line.png">
 </div>
@@ -58,7 +57,6 @@ of the National Library Building.</p>
 </li>
 </ul>
 <h3><strong>Theatre Tales!</strong></h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/thick_redline.png">
 </div>
@@ -78,7 +76,6 @@ of the National Library Building.</p>
 <p><strong>Jurong Regional Library</strong> | 1 February 2017 – 27 March 2017</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/red_thinline.png">
 </div>
@@ -88,8 +85,6 @@ Chinese legends. Learn about the theatre traditions of <em>wayang kulit</em> (sh
 puppetry), Chinese street opera and <em>therukoothu</em> (Tamil street theatre)
 through interactive displays at selected libraries around Singapore.</p>
 <p>This exhibition is a roving component of <em>Script &amp; Stage: Theatre in Singapore from the 50s to 80s</em>.</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/grey_line.png">
 </div>
@@ -113,5 +108,9 @@ more details. Book early to secure a tour slot!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/script-and-stage-onsite/ss11.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/grey_line.png">
 </div>
 <p></p>
