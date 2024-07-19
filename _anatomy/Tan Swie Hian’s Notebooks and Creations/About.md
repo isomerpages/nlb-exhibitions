@@ -15,8 +15,6 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/aof/anatomy-of-a-free-mind_gallery_3.jpg">
 </div>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/thick_redline.png">
 </div>
@@ -32,7 +30,7 @@ description: ""
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/red_thinline.png">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/thick_redline.png">
 </div>
 <p>1973 was a milestone year in Tan Swie Hian’s life during which he experienced
 a breakthrough in his spirituality and creative capacity. Henceforth, his
@@ -47,6 +45,10 @@ process, as documented in his notebooks through writings and sketches,
 has been featured with his artworks.</p>
 <p>Discover the extraordinary world of a free mind through Tan Swie Hian’s
 creations and notebooks!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/grey_line.png">
+</div>
 <p></p>
 <h4>《解析自由心 – 陈瑞献稿本与创作》</h4>
 <div class="isomer-image-wrapper">
@@ -69,12 +71,10 @@ creations and notebooks!</p>
 <p></p>
 </li>
 </ul>
-<h3></h3>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/grey_line.png">
 </div>
 <h3><strong>Compassion: Tan Swie Hian’s Literary Creations – Roving Exhibition</strong></h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/thick_redline.png">
 </div>
@@ -156,6 +156,9 @@ took the literary world by storm.</p>
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/aof/aofm08.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/grey_line.png">
+</div>
 <h3><strong>About Tan Swie Hian 陈瑞献简介</strong></h3>
 <p>Tan Swie Hian was born in Indonesia in 1943. He was educated in Singapore
 and graduated from the Department of Modern Languages and Literature of
@@ -175,6 +178,10 @@ and internationally.</p>
 他的创作跨越多元媒材、类型、语文及题材，2003年美国《时代周刊》称他为“新加坡的文艺复兴人”。</p>
 <p>迄今，这位蜚声国际的艺术家已出版了58部文学与艺术作品集；在世界各地举办过23次个展；并荣获29项国家级与国际级的奖勋。</p>
 <p></p>
-<p>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/grey_line.png">
+</div>
+<p></p>
+<p><a href="https://staging.d2bmwdo27gmnoc.amplifyapp.com/past/bookstobytes/about/" class="is-half is-left is-full-height" rel="noopener noreferrer nofollow" target="_blank"><br></a>
 <br>
 </p>
