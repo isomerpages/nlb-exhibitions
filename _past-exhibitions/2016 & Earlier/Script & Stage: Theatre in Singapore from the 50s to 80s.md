@@ -21,7 +21,7 @@ description: ""
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>28 October 2016 – 26 March 2017 (CLOSED)</p>
+<p>28 October 2016 – 26 March 2017</p>
 </li>
 <li>
 <p>10:00am – 9:00pm</p>
@@ -63,7 +63,7 @@ of the National Library Building.</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>31 October 2016 – 27 March 2017 (CLOSED)</p>
+<p>31 October 2016 – 27 March 2017</p>
 </li>
 <li>
 <p><strong>Central Public Library</strong> | 31 October 2016 – 19 December
