@@ -28,11 +28,6 @@ description: ""
 <li>
 <p>Level 10, Gallery, National Library Building</p>
 </li>
-<li>
-<p>The exhibitions at the National Library building have re-opened. We have
-implemented enhanced measures for the safety of our visitors. Thank you
-for your understanding and cooperation. <a href="https://www.nlb.gov.sg/" rel="noopener" target="_blank"><u>VIEW CURRENT MEASURES AT NLB</u></a>.</p>
-</li>
 </ul>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/thick_redline.png">
