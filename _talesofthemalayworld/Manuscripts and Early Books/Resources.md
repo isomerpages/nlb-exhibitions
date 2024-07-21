@@ -11,7 +11,7 @@ description: ""
 explore these collections, please click on the links below.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="http://eresources.nlb.gov.sg/printheritage/browse/British_Library.aspx" rel="noopener noreferrer nofollow" target="_blank">Malay Manuscripts from the British Library</a>
+<p><a href="https://bll01.primo.exlibrisgroup.com/discovery/search?query=any,contains,malay%20manuscripts&amp;tab=LibraryCatalog&amp;search_scope=Not_BL_Suppress&amp;vid=44BL_INST:BLL01&amp;facet=rtype,include,manuscripts&amp;lang=en&amp;offset=0" rel="noopener noreferrer nofollow" target="_blank">Malay Manuscripts from the British Library</a>
 </p>
 </li>
 <li>
