@@ -41,7 +41,7 @@ sections:
         Gain insights into fake news, and learn how you can be more discerning
         about information and media, through our rich resources on
         newspapers.</p>"
-      url: /exhibitions/current-exhibitions/newsgallery
+      url: /newsgallery/about/
       image: /images/event-images/newsgallery/homepage_exh-highlight_ng.jpg
       alt: A photo of the News Gallery
       button: News Gallery Exhibition Information
@@ -52,7 +52,7 @@ sections:
         closed. <p>&nbsp;</p> <p>In the meantime, please explore this Virtual
         News Gallery which features key contents and highlights of the
         exhibition.</p>
-      url: /exhibitions/current-exhibitions/newsgallery/virtual-gallery/
+      url: /newsgallery/virtual-gallery/
       image: /images/event-images/newsgallery-virtual/frontpage.jpg
       alt: A photo of a video wall from the News Gallery
       button: Enter the Virtual News Gallery
