@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Our Journey from Past to Future/.keep
-      - Our Journey from Past to Future/about.md
-      - Our Journey from Past to Future/gallery.md
+      - Our Journey from Past to Future/About.md
+      - Our Journey from Past to Future/Gallery.md

@@ -1,6 +1,6 @@
 ---
 title: Gallery
-permalink: /sac-exhibitions/sac-exhibitions/permalink/
+permalink: /sac-exhibitions/gallery/
 variant: tiptap
 description: ""
 third_nav_title: SAC Exhibitions

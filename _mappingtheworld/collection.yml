@@ -4,5 +4,5 @@ collections:
     order:
       - Mapping the World/.keep
       - Mapping the World/About.md
-      - Mapping the World/gallery.md
-      - Mapping the World/programmes.md
+      - Mapping the World/Gallery.md
+      - Mapping the World/Programmes.md

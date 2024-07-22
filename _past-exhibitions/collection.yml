@@ -2,25 +2,29 @@ collections:
   past-exhibitions:
     output: true
     order:
-      - past-exhibitions.md
+      - Past Exhibitions.md
+      - 2023 & 2024/.keep
+      - 2023 & 2024/Singapore Architecture Collection Exhibitions.md
       - 2021/.keep
-      - 2021/our-journey-from-past-to-future.md
-      - 2021/perspectives-from-asian-cartography.md
+      - "2021/Libraries Transforming: Our Journey from Past to Future.md"
+      - "2021/Mapping the World: Perspectives from Asian Cartography.md"
       - "2021/Human x Nature: Environmental Histories of Singapore.md"
-      - 2019 - 2020/.keep
-      - 2019 - 2020/the-singapore-centenary-and-its-celebration.md
-      - 2019 - 2020/singapore-before-1867.md
-      - 2019 - 2020/stories-and-legends-of-early-singapore.md
-      - 2017   2018/.keep
-      - 2017   2018/early-advertising-in-singapore.md
-      - 2017   2018/manuscripts-and-early-books.md
-      - 2017   2018/the-first-folio.md
+      - 2019 & 2020/.keep
+      - "2019 & 2020/1919: The Singapore Centenary and its Celebration.md"
+      - "2019 & 2020/On Paper: Singapore Before 1867.md"
+      - "2019 & 2020/The First Print: Stories and Legends of Early Singapore.md"
+      - 2017 & 2018/.keep
+      - "2017 & 2018/Selling Dreams: Early Advertising in Singapore.md"
+      - "2017 & 2018/Tales of the Malay World: Manuscripts and Early Books.md"
+      - "2017 & 2018/Shakespeare in Print: The First Folio.md"
+      - 2016 & Earlier/.keep
       - "2016 & Earlier/From Books to Bytes: The Story of the National
         Library.md"
-      - 2016 & Earlier/.keep
-      - 2016 & Earlier/tan-swie-hian-s-notebooks-and-creations.md
-      - 2016 & Earlier/highlights-of-the-national-library.md
-      - 2016 & Earlier/poems-on-singapore.md
-      - 2016 & Earlier/celebrating-maps-and-their-stories.md
-      - 2016 & Earlier/theatre-in-singapore-from-the-50s-to-80s.md
-      - 2016 & Earlier/singapore-literary-pioneers.md
+      - "2016 & Earlier/Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and
+        Creations.md"
+      - "2016 & Earlier/From The Stacks: Highlights of the National Library.md"
+      - "2016 & Earlier/Poetry on Platforms: Poems on Singapore.md"
+      - "2016 & Earlier/Geo|Graphic: Celebrating maps and their stories.md"
+      - "2016 & Earlier/Script & Stage: Theatre in Singapore from the 50s to
+        80s.md"
+      - 2016 & Earlier/Singapore Literary Pioneers.md

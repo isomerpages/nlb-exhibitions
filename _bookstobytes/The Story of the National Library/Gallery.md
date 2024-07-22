@@ -1,6 +1,6 @@
 ---
 title: Gallery
-permalink: /exhibitions/past-exhibitions/bookstobytes/gallery/
+permalink: /bookstobytes/gallery/
 breadcrumb: Gallery
 third_nav_title: The Story of the National Library
 variant: tiptap

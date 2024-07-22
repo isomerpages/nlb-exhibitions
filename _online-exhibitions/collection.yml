@@ -2,4 +2,4 @@ collections:
   online-exhibitions:
     output: true
     order:
-      - online-exhibitions.md
+      - Online Exhibitions.md

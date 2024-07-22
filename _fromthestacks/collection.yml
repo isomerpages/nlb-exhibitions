@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Highlights of the National Library/.keep
-      - Highlights of the National Library/about.md
-      - Highlights of the National Library/gallery.md
-      - Highlights of the National Library/exhibition-highlights.md
-      - Highlights of the National Library/resources.md
-      - Highlights of the National Library/programmes.md
+      - Highlights of the National Library/About.md
+      - Highlights of the National Library/Gallery.md
+      - Highlights of the National Library/Exhibition Highlights.md
+      - Highlights of the National Library/Resources.md
+      - Highlights of the National Library/Programmes.md

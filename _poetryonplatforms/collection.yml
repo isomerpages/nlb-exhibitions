@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Poems on Singapore/.keep
-      - Poems on Singapore/about.md
-      - Poems on Singapore/gallery.md
-      - Poems on Singapore/resources.md
-      - Poems on Singapore/programmes.md
+      - Poems on Singapore/About.md
+      - Poems on Singapore/Gallery.md
+      - Poems on Singapore/Resources.md
+      - Poems on Singapore/Programmes.md
