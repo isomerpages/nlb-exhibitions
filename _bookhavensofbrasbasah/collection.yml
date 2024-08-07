@@ -1,0 +1,6 @@
+collections:
+  bookhavensofbrasbasah:
+    output: true
+    order:
+      - About.md
+      - Gallery.md
