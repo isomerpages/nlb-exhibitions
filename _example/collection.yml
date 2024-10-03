@@ -1,4 +1,5 @@
 collections:
   example:
     output: true
-    order: []
+    order:
+      - About.md
