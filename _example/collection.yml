@@ -1,5 +1,0 @@
-collections:
-  example:
-    output: true
-    order:
-      - About.md
