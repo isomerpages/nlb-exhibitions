@@ -2,4 +2,5 @@ collections:
   untold-stories:
     output: true
     order:
-      - Example Title.md
+      - "Untold Stories: Four Singapore Artists’ Quest for Inspiration in Bali
+        1952.md"
