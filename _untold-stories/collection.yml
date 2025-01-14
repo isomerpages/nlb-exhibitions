@@ -1,4 +1,5 @@
 collections:
   untold-stories:
     output: true
-    order: []
+    order:
+      - About.md
