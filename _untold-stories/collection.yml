@@ -1,5 +1,4 @@
 collections:
   untold-stories:
     output: true
-    order:
-      - Untold Stories/.keep
+    order: []
