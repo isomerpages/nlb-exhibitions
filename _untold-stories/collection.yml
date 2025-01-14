@@ -2,4 +2,5 @@ collections:
   untold-stories:
     output: true
     order:
+      - Gallery.md
       - About.md
