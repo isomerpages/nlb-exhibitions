@@ -2,6 +2,6 @@ collections:
   untold-stories:
     output: true
     order:
-      - Programmes.md
-      - Gallery.md
       - About.md
+      - Gallery.md
+      - Programmes.md
