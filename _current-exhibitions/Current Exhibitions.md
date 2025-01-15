@@ -7,8 +7,10 @@ description: ""
 image: /images/event-images/Sacexhibitions/banner_exh_Nov.png
 ---
 <h5><strong>Untold Stories: Four Singapore Artists’ Quest for Inspiration in Bali 1952</strong></h5>
-<p><strong>&lt;Image&gt;</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Untold Stories/untold stories_thumbnail.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Permanent Exhibition</p>
@@ -20,7 +22,9 @@ image: /images/event-images/Sacexhibitions/banner_exh_Nov.png
 <p>Level 10, National Library Building, Gallery</p>
 </li>
 </ul>
-<p>&lt;Synopsis&gt;</p>
+<p>Discover the remarkable journey of four Singapore artists—Liu Kang, Chen
+Chong Swee, Chen Wen Hsi, and Cheong Soo Pieng—who travelled to Java and
+Bali in 1952 in search of new artistic perspectives.&nbsp;</p>
 <h5><a href="/untoldstories/about/" rel="noopener noreferrer nofollow" target="_blank"><u>EXHIBITION INFORMATION »</u></a></h5>
 <hr>
 <h3></h3>
