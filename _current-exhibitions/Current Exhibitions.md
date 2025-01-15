@@ -12,7 +12,7 @@ image: /images/event-images/Sacexhibitions/banner_exh_Nov.png
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>Permanent Exhibition</p>
+<p>Special Exhibition</p>
 </li>
 <li>
 <p>10:00am - 9:00pm</p>
