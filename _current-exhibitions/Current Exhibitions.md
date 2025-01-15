@@ -6,7 +6,25 @@ variant: tiptap
 description: ""
 image: /images/event-images/Sacexhibitions/banner_exh_Nov.png
 ---
-<h3><strong>Book Havens of Bras Basah: Curiocity</strong></h3>
+<h5><strong>Untold Stories: Four Singapore Artists’ Quest for Inspiration in Bali 1952</strong></h5>
+<p><strong>&lt;Image&gt;</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Permanent Exhibition</p>
+</li>
+<li>
+<p>10:00am - 9:00pm</p>
+</li>
+<li>
+<p>Level 10, National Library Building, Gallery</p>
+</li>
+</ul>
+<p>&lt;Synopsis&gt;</p>
+<h5><a href="/untoldstories/about/" rel="noopener noreferrer nofollow" target="_blank"><u>EXHIBITION INFORMATION »</u></a></h5>
+<hr>
+<h3></h3>
+<h5><strong>Book Havens of Bras Basah: Curiocity</strong></h5>
 <div class="isomer-image-wrapper">
 <img style="border-radius: 10%; box-shadow: 7px 0 #FF5733;" height="500" width="500" alt="BHBB  thumbnail" src="/images/event-images/BookHavensofBrasBasah/BHBB_Thumbnail.jpg">
 </div>
