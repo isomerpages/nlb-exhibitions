@@ -8,6 +8,10 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
+<p>&lt;Photo of exhibition&gt;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Special Exhibition</p>
