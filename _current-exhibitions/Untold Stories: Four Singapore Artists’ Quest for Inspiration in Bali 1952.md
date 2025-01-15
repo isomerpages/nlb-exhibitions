@@ -24,11 +24,12 @@ description: ""
 </div>
 <p>Discover the remarkable journey of four Singapore artists—Liu Kang, Chen
 Chong Swee, Chen Wen Hsi, and Cheong Soo Pieng—who travelled to Java and
-Bali in 1952 in search of new artistic perspectives.&nbsp;</p>
+Bali in 1952 in search of new artistic perspectives.</p>
 <p><strong><em>Untold Stories</em></strong> brings to life the seven-week
 adventure that culminated in their iconic 1953 exhibition and left an enduring
 legacy in Singapore’s art history. See how they captured the essence of
-local life in works that continue to inspire today.&nbsp;</p>
-<p><em>This exhibition includes mature content. Visitor discretion is advised.</em>&nbsp;</p>
+local life in works that continue to inspire today.</p>
+<p><em>This exhibition includes mature content. Visitor discretion is advised.</em>
+</p>
 <hr>
 <p></p>
