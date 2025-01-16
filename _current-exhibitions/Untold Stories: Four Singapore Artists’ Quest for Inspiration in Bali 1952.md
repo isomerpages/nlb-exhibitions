@@ -60,7 +60,6 @@ local life in works that continue to inspire today.</p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/grey_line.png">
 </div>
-<p>&lt;Header Image&gt;</p>
 <h3><strong>Behind Every Painting</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/thick_redline.png">
@@ -78,13 +77,12 @@ local life in works that continue to inspire today.</p>
 </div>
 <p>Four Singapore artists journeyed to Java and Bali in 1952, in search of
 new expressions for their art. Explore the stories and inspirations behind
-their paintings.&nbsp;&nbsp;</p>
+their paintings.</p>
 <p>Visitors can also pose against a backdrop of Mount Agung in Bali at our
-photo booth and see themselves transform into works of art!&nbsp;</p>
+photo booth and see themselves transform into works of art!</p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/grey_line.png">
 </div>
-<p>&lt;Header Image&gt;</p>
 <h3><strong>Painting the Everyday</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/thick_redline.png">
@@ -113,12 +111,12 @@ photo booth and see themselves transform into works of art!&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/red_thinline.png">
 </div>
-<p>Step into a world where the ordinary becomes a work of art!&nbsp;</p>
+<p>Step into a world where the ordinary becomes a work of art!</p>
 <p>From bustling markets to feathered friends, discover how four Singapore
 artists transformed everyday experiences into vibrant masterpieces as inspired
-by their 1952 trip to Java and Bali.&nbsp;&nbsp;</p>
+by their 1952 trip to Java and Bali.</p>
 <p>Try piecing together their experiences with our jigsaw puzzles and bring
-Bali to life with our colouring activity.&nbsp;</p>
+Bali to life with our colouring activity.</p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/grey_line.png">
 </div>
