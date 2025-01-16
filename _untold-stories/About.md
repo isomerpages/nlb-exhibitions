@@ -4,7 +4,9 @@ permalink: /untoldstories/about/
 variant: tiptap
 description: ""
 ---
-<p>&lt;Banner&gt;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Untold Stories/Untold_Stories_Banner.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
