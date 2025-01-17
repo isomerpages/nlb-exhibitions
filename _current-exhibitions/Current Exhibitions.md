@@ -8,22 +8,23 @@ image: /images/event-images/Sacexhibitions/banner_exh_Nov.png
 ---
 <h3><strong>Untold Stories: Four Singapore Artists’ Quest for Inspiration in Bali 1952</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Untold Stories/Untold_Stories_Thumbnail.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Untold Stories/Key_Visual.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>Special Exhibition</p>
+<p>Special Exhibition – 14 February to 3 August 2025</p>
 </li>
 <li>
 <p>10:00am - 9:00pm</p>
 </li>
 <li>
-<p>Level 10, National Library Building, Gallery</p>
+<p>Level 10, Gallery, National Library Building
+<br>100 Victoria Street, Singapore 188064</p>
 </li>
 </ul>
 <p>Discover the remarkable journey of four Singapore artists—Liu Kang, Chen
-Chong Swee, Chen Wen Hsi, and Cheong Soo Pieng—who travelled to Java and
-Bali in 1952 in search of new artistic perspectives.&nbsp;</p>
+Chong Swee, Chen Wen Hsi, and Cheong Soo Pieng — to Java and Bali in 1952
+in search of new artistic perspectives.&nbsp;</p>
 <h5><a href="/untoldstories/about/" rel="noopener noreferrer nofollow" target="_blank"><u>EXHIBITION INFORMATION »</u></a></h5>
 <hr>
 <h3><strong>Book Havens of Bras Basah: Curiocity</strong></h3>
