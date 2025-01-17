@@ -16,7 +16,7 @@ description: ""
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>Special Exhibition</p>
+<p>Special Exhibition&nbsp;– 14 February to 3 August 2025</p>
 </li>
 <li>
 <p>10:00am – 9:00pm</p>
@@ -72,7 +72,7 @@ local life in works that continue to inspire today.</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>09:00am – 9:00pm</p>
+<p>9:00am – 9:00pm</p>
 </li>
 <li>
 <p>Level 1, Lobby, National Library Building</p>
@@ -99,20 +99,19 @@ photo booth and see themselves transform into works of art!&nbsp;</p>
 <p>10:00am - 9:00pm</p>
 </li>
 <li>
-<p><strong>Level 2, Main Entrance Exhibition Area, Tampines Regional Library</strong> |
-14 February&nbsp;- 6 April 2025&nbsp;</p>
+<p><strong>Level 2, Tampines Regional Library</strong> | 14 February&nbsp;-
+6 April 2025&nbsp;</p>
 </li>
 </ul>
 <ul>
 <li>
-<p><strong>Level 1, Exhibition Area, Woodlands Regional Library</strong> |
-7 April - 1 June 2025&nbsp;</p>
+<p><strong>Level 1, Woodlands Regional Library</strong> | 7 April - 1 June
+2025&nbsp;</p>
 </li>
 </ul>
 <ul>
 <li>
-<p><strong>Level 1, Exhibition Area 1C, Jurong Regional Library</strong> |
-2 June - 20 July 2025&nbsp;&nbsp;</p>
+<p><strong>Level 1, Jurong Regional Library</strong> | 2 June - 20 July 2025&nbsp;&nbsp;</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
