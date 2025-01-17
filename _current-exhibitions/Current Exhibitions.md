@@ -8,6 +8,9 @@ image: /images/event-images/Sacexhibitions/banner_exh_Nov.png
 ---
 <h3><strong>Untold Stories: Four Singapore Artists’ Quest for Inspiration in Bali 1952</strong></h3>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Untold Stories/untold stories_thumbnail.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Untold Stories/Key_Visual.png">
 </div>
 <ul data-tight="true" class="tight">
