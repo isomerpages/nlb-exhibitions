@@ -22,7 +22,7 @@ description: ""
 <p>10:00am – 9:00pm</p>
 </li>
 <li>
-<p>Level 10, National Library Building, Gallery</p>
+<p>Level 10, Gallery, National Library Building</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
