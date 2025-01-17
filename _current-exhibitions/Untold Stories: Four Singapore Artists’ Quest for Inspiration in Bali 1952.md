@@ -22,7 +22,7 @@ description: ""
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/red_thinline.png">
 </div>
 <p>Discover the remarkable journey of four Singapore artists—Liu Kang, Chen
 Chong Swee, Chen Wen Hsi, and Cheong Soo Pieng—who travelled to Java and
