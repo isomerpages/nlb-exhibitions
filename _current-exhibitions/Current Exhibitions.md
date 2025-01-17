@@ -23,7 +23,7 @@ image: /images/event-images/Sacexhibitions/banner_exh_Nov.png
 </li>
 </ul>
 <p>Discover the remarkable journey of four Singapore artists—Liu Kang, Chen
-Chong Swee, Chen Wen Hsi, and Cheong Soo Pieng — to Java and Bali in 1952
+Chong Swee, Chen Wen Hsi, and Cheong Soo Pieng—to Java and Bali in 1952
 in search of new artistic perspectives.&nbsp;</p>
 <h5><a href="/untoldstories/about/" rel="noopener noreferrer nofollow" target="_blank"><u>EXHIBITION INFORMATION »</u></a></h5>
 <hr>
