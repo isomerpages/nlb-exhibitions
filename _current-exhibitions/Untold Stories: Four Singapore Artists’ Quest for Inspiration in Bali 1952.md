@@ -69,7 +69,7 @@ local life in works that continue to inspire today.</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>9:00am – 9:00pm</p>
+<p>10:00am – 9:00pm</p>
 </li>
 <li>
 <p>Level 1, Lobby, National Library Building</p>
