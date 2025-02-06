@@ -45,6 +45,22 @@ local life in works that continue to inspire today.</p>
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/grey_line.png">
 </div>
 <h4>Publications</h4>
+<p><strong>Exhibition Publication:</strong>
+</p>
+<p>In 1953, four China-born artists who had made their home in Singapore
+held an exhibition titled <em>Bali</em>. It was a sensation. The works were
+inspired by their sketching trip to Java and Bali in June and July the
+previous year. While the exhibition is recognised as a major milestone
+in Singapore’s art history, few details of the trip have ever been revealed.
+Thanks to the discovery of over 1,000 photographs taken by Liu Kang during
+the seven-week adventure, the chronicle of their travels can now be told.
+With over 250 black-and-white photographs, fleshed out by Liu Kang’s private
+diary, letters to his wife and other archival sources, this book tells
+the story of an inspiring journey that left a lasting legacy on Singapore’s
+art history. With an artist’s eye, Liu Kang focused his lens on landscapes,
+architecture and scenes of daily life that preserve a moment in time, and
+captured the dignity of individuals in portraits. The painterly photographs
+are a time capsule of Indonesian history.</p>
 <p><strong>BiblioAsia:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -78,9 +94,11 @@ local life in works that continue to inspire today.</p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/red_thinline.png">
 </div>
-<p>Four Singapore artists journeyed to Java and Bali in 1952, in search of
-new expressions for their art. Explore the stories and inspirations behind
-their paintings.</p>
+<p>When you admire a painting, do you wonder about the subjects—who they
+were, where they were painted, and why the artist chose them?</p>
+<p>Uncover the hidden stories behind four paintings by Singapore's pioneering
+artists, who journeyed to Java and Bali in 1952, in search of new expressions
+for their art.</p>
 <p>Visitors can also pose against a backdrop of Mount Agung in Bali at our
 photo booth and see themselves transform into works of art!</p>
 <div class="isomer-image-wrapper">
