@@ -64,7 +64,8 @@ of Singapore. These are:</p>
 <p>Forgotten Photographs of the 1952 Trip to Bali</p>
 </li>
 <li>
-<p>The Liu Kang Collection: A Portrait of the Artist as a Young Man</p>
+<p><a href="https://biblioasia.nlb.gov.sg/vol-21/issue-1/apr-jun-2025/liu-kang-collection/" rel="noopener nofollow" target="_blank">The Liu Kang Collection: A Portrait of the Artist as a Young Man</a>
+</p>
 </li>
 <li>
 <p>The Construction of Bali’s Mystique</p>
@@ -75,7 +76,7 @@ of Singapore. These are:</p>
 </ol>
 <p>Print copies of <em>BiblioAsia</em> are available at the National Library,
 National Archives of Singapore and all public libraries. The magazine can
-also be accessed online at</p>
+also be accessed online at <a rel="noopener noreferrer nofollow" target="_blank">https://biblioasia.nlb.gov.sg/</a>.</p>
 <p><strong>Blog Posts:</strong>
 </p>
 <ul data-tight="true" class="tight">
