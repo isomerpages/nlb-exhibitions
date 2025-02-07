@@ -15,7 +15,7 @@ description: ""
 <p>Special Exhibition&nbsp;– 14 February - 3 August 2025</p>
 </li>
 <li>
-<p>10:00am – 9:00pm</p>
+<p>10:00am - 9:00pm</p>
 </li>
 <li>
 <p>Level 10, Gallery, National Library Building</p>
