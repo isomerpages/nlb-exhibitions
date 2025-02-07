@@ -12,7 +12,7 @@ description: ""
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>Special Exhibition&nbsp;– 14 February to 3 August 2025</p>
+<p>Special Exhibition&nbsp;– 14 February - 3 August 2025</p>
 </li>
 <li>
 <p>10:00am – 9:00pm</p>
