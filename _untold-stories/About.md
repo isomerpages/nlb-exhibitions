@@ -92,7 +92,7 @@ photographs are a time capsule of Indonesian history.</p>
 <p>When you admire a painting, do you wonder about the subjects—who they
 were, where they were painted, and why the artist chose them?</p>
 <p>Uncover the hidden stories behind four paintings by Singapore's pioneering
-artists,who journeyed to Java and Bali in 1952, in search of new expressions
+artists, who journeyed to Java and Bali in 1952, in search of new expressions
 for their art.</p>
 <p>Visitors can also pose against a backdrop of Mount Agung in Bali at our
 photo booth and see themselves transform into works of art!</p>
