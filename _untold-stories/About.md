@@ -49,21 +49,13 @@ local life in works that continue to inspire today.</p>
 </div>
 <h4>Publications</h4>
 <p><strong>Exhibition Publication:</strong>
-</p>
-<p>In 1953, four China-born artists who had made their home in Singapore
-held an exhibition titled <em>Bali</em>. It was a sensation. The works were
-inspired by their sketching trip to Java and Bali in June and July the
-previous year. While the exhibition is recognised as a major milestone
-in Singapore’s art history, few details of the trip have ever been revealed.
-Thanks to the discovery of over 1,000 photographs taken by Liu Kang during
-the seven-week adventure, the chronicle of their travels can now be told.
-With over 250 black-and-white photographs, fleshed out by Liu Kang’s private
-diary, letters to his wife and other archival sources, this book tells
-the story of an inspiring journey that left a lasting legacy on Singapore’s
-art history. With an artist’s eye, Liu Kang focused his lens on landscapes,
-architecture and scenes of daily life that preserve a moment in time, and
-captured the dignity of individuals in portraits. The painterly photographs
-are a time capsule of Indonesian history.</p>
+<br>With over 250 black-and-white photographs, fleshed out by Liu Kang’s private
+diary and letters, Bali 1952: Through the Lens of Liu Kang tells the story
+of an inspiring journey to Java and Bali that left a lasting legacy on
+Singapore’s art history. With an artist’s eye, Liu Kang focused his lens
+on landscapes, architecture and scenes of daily life that preserve a moment
+in time, and captured the dignity of individuals in portraits. The painterly
+photographs are a time capsule of Indonesian history.</p>
 <p><strong>BiblioAsia:</strong>
 </p>
 <ul data-tight="true" class="tight">
