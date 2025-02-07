@@ -55,11 +55,27 @@ in time, and captured the dignity of individuals in portraits. The painterly
 photographs are a time capsule of Indonesian history.</p>
 <p><strong>BiblioAsia:</strong>
 </p>
-<ul data-tight="true" class="tight">
+<p>In conjunction with the exhibition, articles about the four artists and
+their Bali trip will be published in the Oct-Dec 2025 issue of <em>BiblioAsia</em>,
+the National Library’s quarterly magazine on the history, culture and heritage
+of Singapore. These are:</p>
+<ol data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Forgotten Photographs of the 1952 Trip to Bali</p>
 </li>
-</ul>
+<li>
+<p>The Liu Kang Collection: A Portrait of the Artist as a Young Man</p>
+</li>
+<li>
+<p>The Construction of Bali’s Mystique</p>
+</li>
+<li>
+<p>A Bridge Between East and West</p>
+</li>
+</ol>
+<p>Print copies of <em>BiblioAsia</em> are available at the National Library,
+National Archives of Singapore and all public libraries. The magazine can
+also be accessed online at</p>
 <p><strong>Blog Posts:</strong>
 </p>
 <ul data-tight="true" class="tight">
