@@ -18,7 +18,7 @@ image: /images/event-images/Sacexhibitions/banner_exh_Nov.png
 <p>10:00am - 9:00pm</p>
 </li>
 <li>
-<p>Level 10, Gallery, National Library Building
+<p>Gallery, Level 10, National Library Building
 <br>100 Victoria Street, Singapore 188064</p>
 </li>
 </ul>
