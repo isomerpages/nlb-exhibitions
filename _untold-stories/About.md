@@ -74,7 +74,8 @@ of Singapore. These are:</p>
 <p>The Construction of Bali’s Mystique</p>
 </li>
 <li>
-<p>A Bridge Between East and West</p>
+<p><a href="https://biblioasia.nlb.gov.sg/vol-21/issue-1/apr-jun-2025/liu-kang-bridge-east-west/" rel="noopener nofollow" target="_blank">A Bridge Between East and West</a>
+</p>
 </li>
 </ol>
 <p>Print copies of <em>BiblioAsia</em> are available at the National Library,
