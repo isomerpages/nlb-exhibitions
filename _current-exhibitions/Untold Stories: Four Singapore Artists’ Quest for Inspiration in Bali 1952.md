@@ -38,6 +38,7 @@ local life in works that continue to inspire today.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Untold Stories/Untold_Stories_Brochure_En.pdf" rel="noopener nofollow" target="_blank">English brochure</a>
+<a href="/files/UntoldStories/untoldstories_brochure_en.pdf" rel="noopener nofollow" target="_blank">file</a>
 </p>
 <p></p>
 </li>
