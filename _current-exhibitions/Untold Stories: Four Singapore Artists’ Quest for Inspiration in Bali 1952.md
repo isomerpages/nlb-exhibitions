@@ -37,7 +37,8 @@ local life in works that continue to inspire today.</p>
 <p>Download the brochure and exhibition guide below:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p><a href="" rel="noopener nofollow" target="_blank">English Brochure</a>
+</p>
 <p></p>
 </li>
 </ul>
