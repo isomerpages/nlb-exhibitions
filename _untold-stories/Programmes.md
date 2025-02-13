@@ -97,7 +97,4 @@ visit <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/un
 <p><strong>Venue: </strong>Possibility Room, Level 5, National Library Building</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
-</div>
 <p></p>
