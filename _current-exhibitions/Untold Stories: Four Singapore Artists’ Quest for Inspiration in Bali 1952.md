@@ -83,7 +83,10 @@ also be accessed online at <a rel="noopener noreferrer nofollow" target="_blank"
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>What is it about Bali that so inspired four pioneering artists? Librarians
+Yu Mei and Nadia <a href="https://medium.com/the-national-library-blog/fitting-in-the-pieces-conducting-research-for-untold-stories-four-singapore-artists-quest-for-82ee1053fdcc" rel="noopener nofollow" target="_blank">uncover</a> materials
+in the National Library’s collection that enrich the research done by curator
+Gretchen Liu.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
