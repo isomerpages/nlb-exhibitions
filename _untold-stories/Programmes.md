@@ -4,9 +4,11 @@ permalink: /untoldstories/programmes/
 variant: tiptap
 description: ""
 ---
+<blockquote>
 <p>Admission to programmes is free. To register or for full programmes listing,
 visit <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/untoldstories-progs</a>
 </p>
+</blockquote>
 <h4>Curator's Tours</h4>
 <ul data-tight="true" class="tight">
 <li>
