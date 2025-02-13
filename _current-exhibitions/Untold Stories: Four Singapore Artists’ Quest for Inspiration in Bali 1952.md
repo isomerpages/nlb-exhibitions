@@ -79,16 +79,12 @@ of Singapore. These are:</p>
 <p>Print copies of <em>BiblioAsia</em> are available at the National Library,
 National Archives of Singapore and all public libraries. The magazine can
 also be accessed online at <a rel="noopener noreferrer nofollow" target="_blank">https://biblioasia.nlb.gov.sg/</a>.</p>
-<p><strong>Blog Posts:</strong>
+<p><strong>Blog Post:</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
 <p>What is it about Bali that so inspired four pioneering artists? Librarians
 Yu Mei and Nadia <a href="https://medium.com/the-national-library-blog/fitting-in-the-pieces-conducting-research-for-untold-stories-four-singapore-artists-quest-for-82ee1053fdcc" rel="noopener nofollow" target="_blank">uncover</a> materials
 in the National Library’s collection that enrich the research done by curator
 Gretchen Liu.</p>
-</li>
-</ul>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/grey_line.png">
 </div>
