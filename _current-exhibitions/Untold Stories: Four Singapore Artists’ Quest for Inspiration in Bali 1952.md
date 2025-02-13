@@ -37,7 +37,7 @@ local life in works that continue to inspire today.</p>
 <p>Download the brochure and exhibition guide below:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/UntoldStories/untoldstories_brochure_en.pdf" rel="noopener nofollow" target="_blank">English Brochure (1.4mb)</a>
+<p><a href="/files/UntoldStories/untoldstories_brochure_en.pdf" rel="noopener nofollow" target="_blank">English brochure (1.4mb)</a>
 </p>
 <p></p>
 </li>
