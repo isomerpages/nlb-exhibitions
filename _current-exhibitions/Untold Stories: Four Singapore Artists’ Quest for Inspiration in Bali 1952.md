@@ -47,8 +47,9 @@ local life in works that continue to inspire today.</p>
 </div>
 <p></p>
 <h4>Publications</h4>
-<p><strong><em>Bali 1952: Through the Lens of Liu Kang:</em></strong>
-<br>With over 250 black-and-white photographs, fleshed out by Liu Kang’s private
+<p><strong>Bali 1952: Through the Lens of Liu Kang:</strong>
+</p>
+<p>With over 250 black-and-white photographs, fleshed out by Liu Kang’s private
 diary and letters, <strong><em>Bali 1952: Through the Lens of Liu Kang</em></strong> tells
 the story of an inspiring journey to Java and Bali that left a lasting
 legacy on Singapore’s art history. With an artist’s eye, Liu Kang focused
@@ -59,7 +60,7 @@ history.</p>
 <p><strong>BiblioAsia:</strong>
 </p>
 <p>In conjunction with the exhibition, articles about the four artists and
-their Bali trip will be published in the Oct-Dec 2025 issue of <em>BiblioAsia</em>,
+their Bali trip will be published in the Apr-Jun 2025 issue of <em>BiblioAsia</em>,
 the National Library’s quarterly magazine on the history, culture and heritage
 of Singapore. These are:</p>
 <ol data-tight="true" class="tight">
