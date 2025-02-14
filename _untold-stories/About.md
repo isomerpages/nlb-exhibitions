@@ -51,10 +51,10 @@ local life in works that continue to inspire today.</p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/grey_line.png">
 </div>
-<p></p>
 <h4>Publications</h4>
-<p><strong><em>Bali 1952: Through the Lens of Liu Kang:</em></strong>
-<br>With over 250 black-and-white photographs, fleshed out by Liu Kang’s private
+<p><strong>Bali 1952: Through the Lens of Liu Kang:</strong>
+</p>
+<p>With over 250 black-and-white photographs, fleshed out by Liu Kang’s private
 diary and letters, <strong><em>Bali 1952: Through the Lens of Liu Kang</em></strong> tells
 the story of an inspiring journey to Java and Bali that left a lasting
 legacy on Singapore’s art history. With an artist’s eye, Liu Kang focused
@@ -70,7 +70,7 @@ the National Library’s quarterly magazine on the history, culture and heritage
 of Singapore. These are:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Forgotten Photographs of the 1952 Trip to Bali<em> (Forthcoming)</em>
+<p><a href="https://biblioasia.nlb.gov.sg/vol-21/issue-1/apr-jun-2025/liu-kang-forgotten-photographs-bali/" rel="noopener nofollow" target="_blank">Forgotten Photographs of the 1952 Trip to Bali</a>
 </p>
 </li>
 <li>
@@ -88,13 +88,16 @@ of Singapore. These are:</p>
 </ol>
 <p>Print copies of <em>BiblioAsia</em> are available at the National Library,
 National Archives of Singapore and all public libraries. The magazine can
-also be accessed online at <a rel="noopener noreferrer nofollow" target="_blank">https://biblioasia.nlb.gov.sg/</a>.</p>
+also be accessed online at <a href="https://biblioasia.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://biblioasia.nlb.gov.sg/</a>.</p>
 <p><strong>Blog Post:</strong>
 </p>
 <p>What is it about Bali that so inspired four pioneering artists? Exhibition
 curators Yu Mei and Nadia <a href="https://medium.com/the-national-library-blog/fitting-in-the-pieces-conducting-research-for-untold-stories-four-singapore-artists-quest-for-82ee1053fdcc" rel="noopener nofollow" target="_blank">uncover materials</a> in
 the National Library’s collection that enrich the research done by co-curator
 Gretchen Liu.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
 <h4>Satellite Exhibition</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Untold Stories/untoldstories_satelliteheader.jpg">
