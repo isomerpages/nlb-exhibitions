@@ -15,7 +15,37 @@ description: ""
 <p><strong>Time:</strong> 7:00pm - 8:00pm</p>
 </li>
 <li>
-<p><strong>Venue: </strong>The Gallery, Level 10, National Library Building</p>
+<p><strong>Venue: </strong>Gallery, Level 10, National Library Building</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
+<h4>Meet the Author – Gretchen Liu | Bali 1952: Through the Lens of Liu Kang – Forgotten Photographs: Untold Stories</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Date:</strong> Monday, 3 Mar 2025</p>
+</li>
+<li>
+<p><strong>Time:</strong> 7:00pm - 8:00pm</p>
+</li>
+<li>
+<p><strong>Venue: </strong>The Pod, Level 16, National Library Building</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
+<h4>Cinema Bali 1928 – Visions from the Past</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Date:</strong> Wednesday, 5 Mar 2025</p>
+</li>
+<li>
+<p><strong>Time:</strong> 7:00pm – 8:00pm</p>
+</li>
+<li>
+<p><strong>Venue: </strong>Online (Zoom)</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
@@ -32,22 +62,22 @@ description: ""
 <p><strong>Time:</strong> 10:00am - 11:00am (English) | 3:00pm - 4:00pm (Chinese)</p>
 </li>
 <li>
-<p><strong>Venue: </strong>The Gallery, Level 10, National Library Building</p>
+<p><strong>Venue: </strong>Gallery, Level 10, National Library Building</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
 </div>
-<h4>Meet the Author: <em>Bali 1952: Through the Lens of Liu Kang</em> – Forgotten Photographs: Untold Stories</h4>
+<h4>Travel and the Circulations of Photography: The Life and Work of K. F. Wong</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Date:</strong> Monday, 3 Mar 2025</p>
+<p><strong>Date:</strong> Wednesday, 12 Mar 2025</p>
 </li>
 <li>
 <p><strong>Time:</strong> 7:00pm - 8:00pm</p>
 </li>
 <li>
-<p><strong>Venue: </strong>The Pod, Level 16, National Library Building</p>
+<p><strong>Venue: </strong>Possibility Room, Level 5, National Library Building</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
@@ -62,7 +92,7 @@ description: ""
 <p><strong>Time:</strong> 11:00am - 12:00pm</p>
 </li>
 <li>
-<p><strong>Venue: </strong>Learning Space, Level 10, National Library Building</p>
+<p><strong>Venue:</strong> Imagination Room, Level 5, National Library Building</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
@@ -77,7 +107,8 @@ description: ""
 <p><strong>Time:</strong> 11:00 am – 12:15 pm / 1:00 pm – 2:15 pm</p>
 </li>
 <li>
-<p><strong>Venue: </strong>Learning Space, Level 10, National Library Building</p>
+<p><strong>Venue: </strong>Launch Programme Room, Level 7, National Library
+Building</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
