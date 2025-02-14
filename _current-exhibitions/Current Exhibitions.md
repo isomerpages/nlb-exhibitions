@@ -12,14 +12,13 @@ image: /images/event-images/Sacexhibitions/banner_exh_Nov.png
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>Special Exhibition – 14 February - 3 August 2025</p>
+<p>Special Exhibition: 14 February - 3 August 2025</p>
 </li>
 <li>
-<p>10:00am - 9:00pm</p>
+<p>Open daily, 10am - 9pm</p>
 </li>
 <li>
-<p>Level 10, Gallery, National Library Building
-<br>100 Victoria Street, Singapore 188064</p>
+<p>Level 10, Gallery, National Library Building</p>
 </li>
 </ul>
 <p>Discover the remarkable journey of four Singapore artists—Liu Kang, Chen
