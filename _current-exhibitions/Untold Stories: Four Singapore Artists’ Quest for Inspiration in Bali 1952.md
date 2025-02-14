@@ -45,7 +45,6 @@ local life in works that continue to inspire today.</p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/grey_line.png">
 </div>
-<p></p>
 <h4>Publications</h4>
 <p><strong>Bali 1952: Through the Lens of Liu Kang:</strong>
 </p>
