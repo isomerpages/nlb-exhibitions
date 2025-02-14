@@ -88,7 +88,7 @@ of Singapore. These are:</p>
 </ol>
 <p>Print copies of <em>BiblioAsia</em> are available at the National Library,
 National Archives of Singapore and all public libraries. The magazine can
-also be accessed online at <a rel="noopener noreferrer nofollow" target="_blank">https://biblioasia.nlb.gov.sg/</a>.</p>
+also be accessed online at <a href="https://biblioasia.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://biblioasia.nlb.gov.sg/</a>.</p>
 <p><strong>Blog Post:</strong>
 </p>
 <p>What is it about Bali that so inspired four pioneering artists? Exhibition
