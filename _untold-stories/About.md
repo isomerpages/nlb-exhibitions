@@ -95,6 +95,9 @@ also be accessed online at <a href="https://biblioasia.nlb.gov.sg/" rel="noopene
 curators Yu Mei and Nadia <a href="https://medium.com/the-national-library-blog/fitting-in-the-pieces-conducting-research-for-untold-stories-four-singapore-artists-quest-for-82ee1053fdcc" rel="noopener nofollow" target="_blank">uncover materials</a> in
 the National Library’s collection that enrich the research done by co-curator
 Gretchen Liu.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
 <h4>Satellite Exhibition</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Untold Stories/untoldstories_satelliteheader.jpg">
