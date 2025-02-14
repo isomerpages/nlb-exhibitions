@@ -65,7 +65,7 @@ history.</p>
 <p><strong>BiblioAsia:</strong>
 </p>
 <p>In conjunction with the exhibition, articles about the four artists and
-their Bali trip will be published in the Oct-Dec 2025 issue of <em>BiblioAsia</em>,
+their Bali trip will be published in the Apr-Jun 2025 issue of <em>BiblioAsia</em>,
 the National Library’s quarterly magazine on the history, culture and heritage
 of Singapore. These are:</p>
 <ol data-tight="true" class="tight">
@@ -96,9 +96,6 @@ curators Yu Mei and Nadia <a href="https://medium.com/the-national-library-blog/
 the National Library’s collection that enrich the research done by co-curator
 Gretchen Liu.</p>
 <h4>Satellite Exhibition</h4>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/grey_line.png">
-</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Untold Stories/untoldstories_satelliteheader.jpg">
 </div>
