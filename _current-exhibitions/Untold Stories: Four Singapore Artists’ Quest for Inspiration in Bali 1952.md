@@ -45,15 +45,16 @@ local life in works that continue to inspire today.</p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/grey_line.png">
 </div>
+<p></p>
 <h4>Publications</h4>
 <p><strong>Exhibition Publication:</strong>
 <br>With over 250 black-and-white photographs, fleshed out by Liu Kang’s private
-diary and letters, Bali 1952: Through the Lens of Liu Kang tells the story
-of an inspiring journey to Java and Bali that left a lasting legacy on
-Singapore’s art history. With an artist’s eye, Liu Kang focused his lens
-on landscapes, architecture and scenes of daily life that preserve a moment
-in time, and captured the dignity of individuals in portraits. The painterly
-photographs are a time capsule of Indonesian history.</p>
+diary and letters, <strong><em>Bali 1952: Through the Lens of Liu Kang</em></strong> tells
+the story of an inspiring journey to Java and Bali that left a lasting
+legacy on Singapore’s art history. With an artist’s eye, Liu Kang focused
+his lens on landscapes, architecture and scenes of daily life that preserve
+a moment in time, and captured the dignity of individuals in portraits.
+The painterly photographs are a time capsule of Indonesian history.</p>
 <p><strong>BiblioAsia:</strong>
 </p>
 <p>In conjunction with the exhibition, articles about the four artists and
