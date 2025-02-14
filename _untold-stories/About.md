@@ -53,7 +53,7 @@ local life in works that continue to inspire today.</p>
 </div>
 <p></p>
 <h4>Publications</h4>
-<p><strong><em>Bali 1952: Through the Lens of Liu Kang:</em></strong>
+<p><strong>Bali 1952: Through the Lens of Liu Kang:</strong>
 <br>With over 250 black-and-white photographs, fleshed out by Liu Kang’s private
 diary and letters, <strong><em>Bali 1952: Through the Lens of Liu Kang</em></strong> tells
 the story of an inspiring journey to Java and Bali that left a lasting
