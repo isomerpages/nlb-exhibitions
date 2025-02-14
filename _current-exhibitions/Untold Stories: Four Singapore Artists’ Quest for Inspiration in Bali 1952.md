@@ -64,7 +64,7 @@ the National Library’s quarterly magazine on the history, culture and heritage
 of Singapore. These are:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Forgotten Photographs of the 1952 Trip to Bali<em> (Forthcoming)</em>
+<p><a href="https://biblioasia.nlb.gov.sg/vol-21/issue-1/apr-jun-2025/liu-kang-forgotten-photographs-bali/" rel="noopener nofollow" target="_blank">Forgotten Photographs of the 1952 Trip to Bali</a>
 </p>
 </li>
 <li>
