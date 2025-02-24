@@ -114,7 +114,7 @@ design!</p>
 <p>Download the brochure below:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://github.com/isomerpages/nlb-exhibitions/blob/d877b01cc95cbee77c88cb40c4d8abe2e24a31be/files/Sacexhibitions/exhibition_brochure.pdf" rel="noopener noreferrer nofollow" target="_blank">English exhibition brochure (3.27mb)</a>
+<p><a href="/files/Sacexhibitions/exhibition_brochure.pdf" rel="noopener nofollow" target="_blank">English exhibition brochure (3.27mb)</a>
 </p>
 </li>
 </ul>
