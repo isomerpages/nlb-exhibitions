@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4>Free admission to all programmes. For details and to register, visit <a href="https://go.gov.sg/untoldstories-progs" rel="noopener nofollow" target="_blank">https://go.gov.sg/untoldstories-progs</a></h4>
-<h4>Curator's Tours</h4>
+<h4>Curator's Tour</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Date:</strong> Thursday, 27 Feb, 27 Mar, 24 Apr, 29 May, 26 Jun,
