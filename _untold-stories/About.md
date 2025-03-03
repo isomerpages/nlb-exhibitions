@@ -78,7 +78,7 @@ of Singapore. These are:</p>
 </p>
 </li>
 <li>
-<p>The Construction of Bali’s Mystique<em> (Forthcoming)</em>
+<p><a href="https://biblioasia.nlb.gov.sg/vol-21/issue-1/apr-jun-2025/mystique-bali-travel-paradise/" rel="noopener nofollow" target="_blank">The Construction of Bali’s Mystique</a>
 </p>
 </li>
 <li>
