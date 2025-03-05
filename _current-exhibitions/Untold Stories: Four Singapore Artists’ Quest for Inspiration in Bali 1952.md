@@ -49,7 +49,7 @@ local life in works that continue to inspire today.</p>
 <p><strong>Bali 1952: Through the Lens of Liu Kang:</strong>
 </p>
 <p>With over 250 black-and-white photographs, fleshed out by Liu Kang’s private
-diary and letters, <strong><em>Bali 1952: Through the Lens of Liu Kang</em></strong> tells
+diary and letters, <strong><em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=300094843" rel="noopener nofollow" target="_blank">Bali 1952: Through the Lens of Liu Kang</a></em></strong> tells
 the story of an inspiring journey to Java and Bali that left a lasting
 legacy on Singapore’s art history. With an artist’s eye, Liu Kang focused
 his lens on landscapes, architecture and scenes of daily life that preserve
