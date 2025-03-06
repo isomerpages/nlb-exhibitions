@@ -52,9 +52,8 @@ spaces associated with it.</p>
 <h3><strong>Lepak Landscapes: Life and Leisure in Singapore</strong></h3>
 <blockquote>
 <p><em>Lepak Landscapes</em> just got better!</p>
-<p>​</p>
-<p>Refreshed personality quiz. More digital&nbsp;storybooks. New book recommendations.
-All waiting for you at the Central Public Library!</p>
+<p><strong>Refreshed personality quiz. More digital&nbsp;storybooks. New book recommendations.</strong> All
+waiting for you at the Central Public Library!</p>
 </blockquote>
 <p>What comes to mind when you hear<em> Lepak?</em>
 </p>
