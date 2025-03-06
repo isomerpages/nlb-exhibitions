@@ -49,6 +49,7 @@ spaces associated with it.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
 <h3><strong>Lepak Landscapes: Life and Leisure in Singapore</strong></h3>
+<p></p>
 <blockquote>
 <p><em>Lepak Landscapes</em> just got better!</p>
 <p>Refreshed personality quiz. More digital&nbsp;storybooks. New book recommendations.
