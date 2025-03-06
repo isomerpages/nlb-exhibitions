@@ -50,6 +50,12 @@ spaces associated with it.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
 <h3><strong>Lepak Landscapes: Life and Leisure in Singapore</strong></h3>
+<blockquote>
+<p><em>Lepak Landscapes</em> just got better!</p>
+<p>​</p>
+<p>Refreshed personality quiz. More digital&nbsp;storybooks. New book recommendations.
+All waiting for you at the Central Public Library!</p>
+</blockquote>
 <p>What comes to mind when you hear<em> Lepak?</em>
 </p>
 <p>Explore <em>Lepak Landscapes: Life and Leisure in Singapore</em>, a digital
