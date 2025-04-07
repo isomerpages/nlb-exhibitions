@@ -45,12 +45,19 @@ local life in works that continue to inspire today.</p>
 <li>
 <p><a href="/files/UntoldStories/untoldstories_brochure_en.pdf" rel="noopener nofollow" target="_blank">English brochure (1.4mb)</a>
 </p>
-<p></p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/grey_line.png">
-</div>
+<h4>Contest</h4>
+<p>As part of the exhibition, we're inviting visitors to participate in our
+contest. Go to <a href="http://go.gov.sg/untoldstoriescontest" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/untoldstoriescontest</a> and
+answer three questions about the exhibition for a chance to win a copy
+of "Bali 1952 Through the Lens of Liu Kang" by Gretchen Liu (worth $98).
+Five lucky winners will be randomly selected. Contest runs from 7 April
+2025, 10:00 AM to 30 April 2025, 11:59 PM (SGT).</p>
+<p><em>Note: All entries must be in English. For full contest terms and conditions, visit </em>
+<a href="https://go.gov.sg/untoldstoriescontest-tc." rel="noopener nofollow" target="_blank">https://go.gov.sg/untoldstoriescontest-tc.s</a>
+</p>
+<p></p>
 <h4>Publications</h4>
 <p><strong>Bali 1952: Through the Lens of Liu Kang:</strong>
 </p>
