@@ -48,7 +48,7 @@ local life in works that continue to inspire today.</p>
 </li>
 </ul>
 <h4><em>Untold Stories</em> Contest</h4>
-<p>Visit the exhibition and join the contest! Go to <a href="http://go.gov.sg/untoldstoriescontest" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/untoldstoriescontest</a> and
+<p>Visit the exhibition and join this contest! Go to <a href="http://go.gov.sg/untoldstoriescontest" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/untoldstoriescontest</a> and
 answer three questions about the exhibition for a chance to win a copy
 of "Bali 1952: Through the Lens of Liu Kang" by Gretchen Liu (worth $98).
 Five lucky winners will be randomly selected. Contest runs from 7 Apr 2025,
