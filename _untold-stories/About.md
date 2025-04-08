@@ -55,8 +55,7 @@ stand to win a copy of the book <em>Bali 1952: Through the Lens of Liu Kang</em>
 Gretchen Liu (worth $98).</p>
 <p>Five lucky winners will be randomly selected from the correct entries.</p>
 <p>The contest runs from 10am on 7 April till 11.59pm on 30 April 2025. Terms
-and conditions apply: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/untoldstoriescontest-tc</a>
-<a href="https://go.gov.sg/untoldstoriescontest-tc." rel="noopener noreferrer nofollow" target="_blank">.</a>
+and conditions apply: <a href="https://go.gov.sg/untoldstoriescontest-tc." rel="noopener nofollow" target="_blank">https://go.gov.sg/untoldstoriescontest-tc.</a>
 </p>
 </blockquote>
 <div class="isomer-image-wrapper">
