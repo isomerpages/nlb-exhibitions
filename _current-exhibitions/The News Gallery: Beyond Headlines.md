@@ -54,7 +54,7 @@ media, through our rich resources on newspapers.</p>
 </p>
 </li>
 <li>
-<p><a href="https://exhibitions.nlb.gov.sg/files/newsgallery/nlb_exhibition_guide_chinese_r202303.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese guide (4.4mb)</u></a>
+<p><a href="https://exhibitions.nlb.gov.sg/files/newsgallery/nlb_exhibition_guide_chinese_r202303.pdf" rel="noopener nofollow" target="_blank">Chinese guide (4.4mb)</a>
 </p>
 </li>
 <li>
