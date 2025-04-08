@@ -47,15 +47,18 @@ local life in works that continue to inspire today.</p>
 </p>
 </li>
 </ul>
-<h4><em>Untold Stories</em> Contest</h4>
-<p>Visit the exhibition and join this contest! Go to <a href="http://go.gov.sg/untoldstoriescontest" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/untoldstoriescontest</a> and
-answer three questions about the exhibition for a chance to win a copy
-of "Bali 1952: Through the Lens of Liu Kang" by Gretchen Liu (worth $98).
-Five lucky winners will be randomly selected. Contest runs from 7 Apr 2025,
-10:00am to 30 Apr 2025, 11:59pm.</p>
-<p><em>All entries must be in English. Terms &amp; conditions apply: </em>
-<a href="https://go.gov.sg/untoldstoriescontest-tc." rel="noopener nofollow" target="_blank">https://go.gov.sg/untoldstoriescontest-tc.</a>
+<blockquote>
+<p><u>Exhibition Contest</u>
 </p>
+<p>Explore the exhibition then put your knowledge to the test! <a href="http:/go.gov.sg/untoldstoriescontest" rel="noopener noreferrer nofollow" target="_blank">Answer three questions here</a> and
+stand to win a copy of the book <em>Bali 1952: Through the Lens of Liu Kang</em> by
+Gretchen Liu (worth $98).</p>
+<p>Five lucky winners will be randomly selected from the correct entries.</p>
+<p>The contest runs from 10am on 7 April till 11.59pm on 30 April 2025. Terms
+and conditions apply: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/untoldstoriescontest-tc</a>
+<a href="https://go.gov.sg/untoldstoriescontest-tc." rel="noopener noreferrer nofollow" target="_blank">.</a>
+</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/grey_line.png">
 </div>
