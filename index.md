@@ -2,7 +2,7 @@
 layout: homepage
 title: National Library Exhibitions
 permalink: /
-description: Exhibitions by National Library Singapore
+description: Exhibitions organised by National Library Singapore
 sections:
   - hero:
       background: /images/event-images/Untold Stories/UntoldStories_Homepagebanner.jpg
@@ -56,4 +56,5 @@ sections:
       image: /images/event-images/newsgallery-virtual/frontpage.jpg
       alt: A photo of a video wall from the News Gallery
       button: Enter the Virtual News Gallery
+image: /images/isomer-logo.svg
 ---
