@@ -39,6 +39,15 @@ legacy in Singapore’s art history. See how they captured the essence of
 local life in works that continue to inspire today.</p>
 <p><em>This exhibition includes mature content. Visitor discretion is advised.</em>
 </p>
+<blockquote>
+<p>Explore the exhibition then put your knowledge to the test! <a href="http:/go.gov.sg/untoldstoriescontest" rel="noopener noreferrer nofollow" target="_blank">Answer three questions here</a> and
+stand to win a copy of the book <em>Bali 1952: Through the Lens of Liu Kang</em> by
+Gretchen Liu (worth $98)</p>
+<p>Five lucky winners will be randomly selected from the correct entries.</p>
+<p>The contest runs from 10am on 7 April till 11.59pm on 30 April 2025. Terms
+and conditions apply: <a href="https://go.gov.sg/untoldstoriescontest-tc." rel="noopener nofollow" target="_blank">https://go.gov.sg/untoldstoriescontest-tc.</a>
+</p>
+</blockquote>
 <h4>Brochure and Exhibition Guide</h4>
 <p>Download the brochure and exhibition guide below:</p>
 <ul data-tight="true" class="tight">
@@ -47,16 +56,6 @@ local life in works that continue to inspire today.</p>
 </p>
 </li>
 </ul>
-<blockquote>
-<p><u>Exhibition Contest</u>
-<br>Explore the exhibition then put your knowledge to the test! <a href="http:/go.gov.sg/untoldstoriescontest" rel="noopener noreferrer nofollow" target="_blank">Answer three questions here</a> and
-stand to win a copy of the book <em>Bali 1952: Through the Lens of Liu Kang</em> by
-Gretchen Liu (worth $98).
-<br>Five lucky winners will be randomly selected from the correct entries.
-<br>The contest runs from 10am on 7 April till 11.59pm on 30 April 2025. Terms
-and conditions apply: <a href="https://go.gov.sg/untoldstoriescontest-tc." rel="noopener nofollow" target="_blank">https://go.gov.sg/untoldstoriescontest-tc.</a>
-</p>
-</blockquote>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/grey_line.png">
 </div>
