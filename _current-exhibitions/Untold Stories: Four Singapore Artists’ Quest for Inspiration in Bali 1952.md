@@ -42,6 +42,7 @@ Gretchen Liu (worth $98)</p>
 and conditions apply: <a href="https://go.gov.sg/untoldstoriescontest-tc." rel="noopener nofollow" target="_blank">https://go.gov.sg/untoldstoriescontest-tc.</a>
 </p>
 </blockquote>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VCRwzCIUY7o?si=9DOZDwHxwGFQfQDb"></iframe>
 </div>
