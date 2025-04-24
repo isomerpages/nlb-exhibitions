@@ -33,16 +33,16 @@ legacy in Singapore’s art history. See how they captured the essence of
 local life in works that continue to inspire today.</p>
 <p><em>This exhibition includes mature content. Visitor discretion is advised.</em>
 </p>
-<blockquote>
-<p>Explore the exhibition then put your knowledge to the test! <a href="http:/go.gov.sg/untoldstoriescontest" rel="noopener noreferrer nofollow" target="_blank">Answer three questions here</a> and
-stand to win a copy of the book <em>Bali 1952: Through the Lens of Liu Kang</em> by
-Gretchen Liu (worth $98)</p>
-<p>Five lucky winners will be randomly selected from the correct entries.</p>
-<p>The contest runs from 10am on 7 April till 11.59pm on 30 April 2025. Terms
-and conditions apply: <a href="https://go.gov.sg/untoldstoriescontest-tc." rel="noopener nofollow" target="_blank">https://go.gov.sg/untoldstoriescontest-tc.</a>
+<h4>Contest Alert (Now until 30 Apr)</h4>
+<p>Join this <a href="http://go.gov.sg/untoldstoriescontest" rel="noopener noreferrer nofollow" target="_blank">contest</a> by
+answering three questions about the exhibition! Stand to win a hardcover
+book – <em>Bali 1952: Through the Lens of Liu Kang</em>&nbsp;by Gretchen
+Liu (worth $98). Five winners will be selected randomly from the correct
+entries.</p>
+<p>Contest ends 30 Apr 2025, 2359 hrs.
+<br><a href="https://go.gov.sg/untoldstoriescontest-tc" rel="noopener noreferrer nofollow" target="_blank">Terms and conditions apply</a>
 </p>
-</blockquote>
-<p></p>
+<h4>Watch These Videos</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VCRwzCIUY7o?si=9DOZDwHxwGFQfQDb"></iframe>
 </div>
