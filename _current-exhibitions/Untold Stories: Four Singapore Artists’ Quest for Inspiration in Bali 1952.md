@@ -39,7 +39,7 @@ answering three questions about the exhibition! Stand to win a hardcover
 book – <em>Bali 1952: Through the Lens of Liu Kang</em>&nbsp;by Gretchen
 Liu (worth $98). Five winners will be selected randomly from the correct
 entries.</p>
-<p>Contest ends 30 Apr 2025, 259 hrs.
+<p>Contest ends 30 Apr 2025, 2359 hrs.
 <br><a href="https://go.gov.sg/untoldstoriescontest-tc" rel="noopener noreferrer nofollow" target="_blank">Terms and conditions apply</a>
 </p>
 <h4>Watch These Videos</h4>
