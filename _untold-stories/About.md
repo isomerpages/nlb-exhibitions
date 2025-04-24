@@ -11,7 +11,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Untold Stories/untoldstories_mainheader.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Untold Stories/20250211_NLB_8.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
@@ -48,6 +48,17 @@ Gretchen Liu (worth $98)</p>
 and conditions apply: <a href="https://go.gov.sg/untoldstoriescontest-tc." rel="noopener nofollow" target="_blank">https://go.gov.sg/untoldstoriescontest-tc.</a>
 </p>
 </blockquote>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VCRwzCIUY7o?si=9DOZDwHxwGFQfQDb"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/N6-mH2P16B8?si=y8t0PmAh-mTd_Xmz"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/guBP6Y6258g?si=FlAmR1Em5EZoRz7x"></iframe>
+</div>
 <h4>Brochure and Exhibition Guide</h4>
 <p>Download the brochure and exhibition guide below:</p>
 <ul data-tight="true" class="tight">
