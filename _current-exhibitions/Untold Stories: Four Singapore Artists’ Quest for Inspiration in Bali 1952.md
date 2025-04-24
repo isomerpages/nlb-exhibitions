@@ -159,7 +159,7 @@ photo booth and see themselves transform into works of art!</p>
 2025&nbsp;</p>
 </li>
 <li>
-<p><strong>Level 1, Jurong Regional Library</strong> | 2 June - 20 July 2025&nbsp;&nbsp;</p>
+<p><strong>Level 1, Jurong Regional Library</strong> | 2 June - 31 July 2025&nbsp;&nbsp;</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
