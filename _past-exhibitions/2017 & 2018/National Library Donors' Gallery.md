@@ -4,6 +4,7 @@ permalink: /current/nldonorsgallery/about/
 breadcrumb: National Library Donors' Gallery
 variant: tiptap
 description: ""
+third_nav_title: 2017 & 2018
 ---
 <p></p>
 <div class="isomer-image-wrapper">
@@ -20,10 +21,10 @@ description: ""
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>Permanent exhibition</p>
+<p>2 May 2018 - 16 Apr 2025</p>
 </li>
 <li>
-<p>10:00am – 9:00pm</p>
+<p>10:00am - 9:00pm</p>
 </li>
 <li>
 <p>Level 10, Donors' Gallery, National Library Building</p>

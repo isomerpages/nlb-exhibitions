@@ -15,10 +15,10 @@ description: ""
 <p>Permanent Exhibition</p>
 </li>
 <li>
-<p>10:00am – 2:00pm, 5:00pm - 9:00pm</p>
+<p>10:00am - 9:00pm</p>
 </li>
 <li>
-<p>Basement 1, Central Public Library, Immersive Room</p>
+<p>Immersive Room, Central Public Library</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">

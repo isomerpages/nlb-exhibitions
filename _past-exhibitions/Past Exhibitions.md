@@ -2,9 +2,34 @@
 title: Past Exhibitions
 permalink: /past-exhibitions/
 breadcrumb: Past Exhibitions
-variant: markdown
+variant: tiptap
 description: ""
 ---
+<h3><strong>National Library Donors' Gallery</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="border-radius: 10%; box-shadow: 7px 0 #FF5733;" height="500" width="500" alt="National Library Donors' Gallery thumbnail" src="/images/event-images/donors/donors-gallery-thumbnail.jpg">
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p>2 May 2018 - 16 April 2025</p>
+</li>
+<li>
+<p>10:00am - 9:00pm</p>
+</li>
+<li>
+<p>Level 10, Gallery, National Library Building</p>
+</li>
+</ul>
+<p>Donations of library materials to the National Library play a significant
+role in adding diversity and depth to our collection and are instrumental
+in assisting the library to obtain notable National Collection items. This
+Donors’ Gallery was set up to acknowledge our donors and showcase their
+donations. On display is a small selection of materials which provides
+a glimpse of the variety of materials that have been gifted to the National
+Library over the years.</p>
+<h5><a href="/nldonorsgallery/about/" rel="noopener noreferrer nofollow" target="_blank">EXHIBITION INFORMATION »</a></h5>
+<p></p>
+<hr>
 <h3><strong>Singapore Architecture Collection Exhibitions</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Sacexhibitions/exh_thumbnail.png">
@@ -25,9 +50,7 @@ materials about our modern and contemporary architecture. This inaugural
 showcase of the collection presents two exhibitions, <em>To Draw an Idea: Retracing the Designs of William Lim Associates – W Architects</em> and <em>Dare to Design: Singapore Architecture 1960s-2000s</em>.</p>
 <h5><a href="/sacexhibitions/about/" rel="noopener noreferrer nofollow" target="_blank">EXHIBITION INFORMATION »</a></h5>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
-</div>
+<hr>
 <h3><strong>From Books to Bytes: The Story of the National Library</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="border-radius: 10%; box-shadow: 7px 0 #FF5733;" height="500" width="500" alt="From Books to Bytes: The Story of the National Library thumbnail" src="/images/event-images/frombooks/from-books-to-bytes-thumbnail.jpg">
@@ -48,6 +71,7 @@ cultural and social fabric as well as its residents. The exhibition traces
 the founding, development and growth of the National Library, Singapore
 from 1823 till present.</p>
 <h5><a href="/bookstobytes/about/" rel="noopener noreferrer nofollow" target="_blank">EXHIBITION INFORMATION »</a></h5>
+<p></p>
 <hr>
 <h3><strong>Libraries Transforming: Our Journey from Past to Future</strong></h3>
 <div class="isomer-image-wrapper">
@@ -70,6 +94,9 @@ with us from the past to present in this exciting exhibition. Discover
 how much our public libraries have evolved and will continue to grow in
 the future!</p>
 <h5><a href="/qupl50/about" rel="noopener noreferrer nofollow" target="_blank">EXHIBITION INFORMATION »</a></h5>
+<p></p>
+<p></p>
+<p></p>
 <hr>
 <h3><strong>Mapping the World: Perspectives from Asian Cartography</strong></h3>
 <div class="isomer-image-wrapper">
@@ -98,7 +125,7 @@ civilisations across the world.</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>9 April – 26 September 2021 </p>
+<p>9 April – 26 September 2021</p>
 </li>
 <li>
 <p>10:00am – 9:00pm</p>
@@ -113,6 +140,7 @@ and attempts at rehabilitation. This exhibition explores our relationships
 with the natural world from cultural understandings and scientific study
 to commercial and urban land use, as well as conservation and restoration.</p>
 <h5><a href="/humanxnature/about/" rel="noopener noreferrer nofollow" target="_blank">EXHIBITION INFORMATION »</a></h5>
+<p></p>
 <hr>
 <h3><strong>On Paper: Singapore Before 1867</strong></h3>
 <div class="isomer-image-wrapper">
@@ -135,6 +163,7 @@ Portuguese navigational chart that points to the existence of a Shahbandar
 (harbour master) on Singapore island to the key document that established
 the Straits Settlements as a Crown Colony of Britain on 1 April 1867.</p>
 <h5><a href="/onpaper/about/" rel="noopener noreferrer nofollow" target="_blank">EXHIBITION INFORMATION »</a></h5>
+<p></p>
 <hr>
 <h3><strong>1919: The Singapore Centenary and its Celebration</strong></h3>
 <div class="isomer-image-wrapper">
@@ -156,6 +185,7 @@ year as a colonial port-settlement. It was celebrated as a public holiday
 filled with official festivities and fanfare. This display features photographs
 and publications produced for the occasion.</p>
 <h5><a href="/centenary/about/" rel="noopener noreferrer nofollow" target="_blank">EXHIBITION INFORMATION »</a></h5>
+<p></p>
 <hr>
 <h3><strong>The First Print: Stories and Legends of Early Singapore</strong></h3>
 <div class="isomer-image-wrapper">
@@ -177,6 +207,7 @@ Sejarah Melayu continues to enchant writers and readers everywhere. Discover
 these timeless stories and how one man managed to bring this ancient manuscript
 to the masses, thereby ensuring that its legacy live on through the ages.</p>
 <h5><a href="/thefirstprint/about/" rel="noopener noreferrer nofollow" target="_blank">EXHIBITION INFORMATION »</a></h5>
+<p></p>
 <hr>
 <h3><strong>Selling Dreams: Early Advertising in Singapore</strong></h3>
 <div class="isomer-image-wrapper">
@@ -199,6 +230,7 @@ materials from the 1830s to 1960s in the National Library collection, and
 explores the hopes, dreams, aspirations and insecurities of society over
 the years.</p>
 <h5><a href="/sellingdreams/about/" rel="noopener noreferrer nofollow" target="_blank">EXHIBITION INFORMATION »</a></h5>
+<p></p>
 <hr>
 <h3><strong>Tales of the Malay World: Manuscripts and Early Books</strong></h3>
 <div class="isomer-image-wrapper">
@@ -220,6 +252,7 @@ and literature for maritime Southeast Asia. This exhibition explores traditional
 Malay literature captured in ink on paper – from handwritten manuscripts
 to early lithographed books.</p>
 <h5><a href="/talesofthemalayworld/about/" rel="noopener noreferrer nofollow" target="_blank">EXHIBITION INFORMATION »</a></h5>
+<p></p>
 <hr>
 <h3><strong>Shakespeare in Print: The First Folio</strong></h3>
 <div class="isomer-image-wrapper">
@@ -242,6 +275,7 @@ Bodleian Libraries for six weeks only. Shakespeare’s plays are among the
 most significant pieces of literature in the English language and have
 influenced art and media all over the world for centuries.</p>
 <h5><a href="/shakespearesfirstfolio/about/" rel="noopener noreferrer nofollow" target="_blank">EXHIBITION INFORMATION »</a></h5>
+<p></p>
 <hr>
 <h3><strong>Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations</strong></h3>
 <div class="isomer-image-wrapper">
@@ -263,6 +297,7 @@ a breakthrough in his spirituality and creative capacity. Now, more than
 40 years later, Tan’s works are presented again at the National Library
 in this exhibition featuring over 100 creations in a wide range of media.</p>
 <h5><a href="/anatomyofafreemind/about/" rel="noopener noreferrer nofollow" target="_blank">EXHIBITION INFORMATION »</a></h5>
+<p></p>
 <hr>
 <h3><strong>Script &amp; Stage: Theatre in Singapore from the 50s to 80s</strong></h3>
 <div class="isomer-image-wrapper">
@@ -284,6 +319,7 @@ and theatre production, highlighting significant performances, playwrights
 and prominent theatre companies that have shaped the foundation of contemporary
 theatre in Singapore.</p>
 <h5><a href="/scriptandstage/about" rel="noopener noreferrer nofollow" target="_blank">EXHIBITION INFORMATION »</a></h5>
+<p></p>
 <hr>
 <h3><strong>From The Stacks: Highlights of the National Library</strong></h3>
 <div class="isomer-image-wrapper">
@@ -306,6 +342,7 @@ from a fresh perspective through over 100 highlights from the National
 Library’s collection of rare publications, manuscripts, documents, maps,
 photographs and more.</p>
 <h5><a href="/fromthestacks/about" rel="noopener noreferrer nofollow" target="_blank">EXHIBITION INFORMATION »</a></h5>
+<p></p>
 <hr>
 <h3><strong>Poetry on Platforms: Poems on Singapore</strong></h3>
 <div class="isomer-image-wrapper">
@@ -324,6 +361,7 @@ the City Hall MRT platforms. Commuters and passer-by can look forward to
 humorous, moving and thought-provoking poems on life, people, and places
 in Singapore that will strike a chord with them.</p>
 <h5><a href="/poetryonplatforms/about/" rel="noopener noreferrer nofollow" target="_blank">EXHIBITION INFORMATION »</a></h5>
+<p></p>
 <hr>
 <h3><strong>Geo|Graphic: Celebrating maps and their stories</strong></h3>
 <div class="isomer-image-wrapper">
@@ -346,6 +384,7 @@ in particular, maps are a window to our early history – before the arrival
 of the British in 1819. The National Library is pleased to present Geo|Graphic,
 an offering of exhibitions and programmes that explore maps and mapping.</p>
 <h5><a href="/geographic/about/" rel="noopener noreferrer nofollow" target="_blank">EXHIBITION INFORMATION »</a></h5>
+<p></p>
 <hr>
 <h3><strong>Singapore Literary Pioneers</strong></h3>
 <div class="isomer-image-wrapper">
@@ -368,5 +407,4 @@ writers have also donated their pens, typewriters and literary awards.
 In addition, visitors can appreciate audio and video recordings of the
 writers in two multimedia screens.</p>
 <h5><a href="/singaporeliterarypioneers/about/" rel="noopener noreferrer nofollow" target="_blank">EXHIBITION INFORMATION »</a></h5>
-<hr>
 <p></p>
