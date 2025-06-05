@@ -11,10 +11,10 @@ description: ""
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>7 November 2007 - 16 April 2025</p>
+<p>2 May 2018 - 16 April 2025</p>
 </li>
 <li>
-<p>10:00am – 9:00pm</p>
+<p>10:00am - 9:00pm</p>
 </li>
 <li>
 <p>Level 10, Gallery, National Library Building</p>
