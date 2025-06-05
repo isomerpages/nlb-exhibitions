@@ -24,7 +24,7 @@ description: ""
 <p>2 May 2018 - 16 Apr 2025</p>
 </li>
 <li>
-<p>10:00am – 9:00pm</p>
+<p>10:00am - 9:00pm</p>
 </li>
 <li>
 <p>Level 10, Donors' Gallery, National Library Building</p>
