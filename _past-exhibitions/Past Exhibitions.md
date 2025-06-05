@@ -2,9 +2,33 @@
 title: Past Exhibitions
 permalink: /past-exhibitions/
 breadcrumb: Past Exhibitions
-variant: markdown
+variant: tiptap
 description: ""
 ---
+<h3><strong>National Library Donors' Gallery</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="border-radius: 10%; box-shadow: 7px 0 #FF5733;" height="500" width="500" alt="National Library Donors' Gallery thumbnail" src="/images/event-images/donors/donors-gallery-thumbnail.jpg">
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p>7 November 2007 - 16 April 2025</p>
+</li>
+<li>
+<p>10:00am – 9:00pm</p>
+</li>
+<li>
+<p>Level 10, Gallery, National Library Building</p>
+</li>
+</ul>
+<p>Donations of library materials to the National Library play a significant
+role in adding diversity and depth to our collection and are instrumental
+in assisting the library to obtain notable National Collection items. This
+Donors’ Gallery was set up to acknowledge our donors and showcase their
+donations. On display is a small selection of materials which provides
+a glimpse of the variety of materials that have been gifted to the National
+Library over the years.</p>
+<h5><a href="/nldonorsgallery/about/" rel="noopener noreferrer nofollow" target="_blank">EXHIBITION INFORMATION »</a></h5>
+<hr>
 <h3><strong>Singapore Architecture Collection Exhibitions</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Sacexhibitions/exh_thumbnail.png">
@@ -24,7 +48,6 @@ description: ""
 materials about our modern and contemporary architecture. This inaugural
 showcase of the collection presents two exhibitions, <em>To Draw an Idea: Retracing the Designs of William Lim Associates – W Architects</em> and <em>Dare to Design: Singapore Architecture 1960s-2000s</em>.</p>
 <h5><a href="/sacexhibitions/about/" rel="noopener noreferrer nofollow" target="_blank">EXHIBITION INFORMATION »</a></h5>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
 </div>
@@ -98,7 +121,7 @@ civilisations across the world.</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>9 April – 26 September 2021 </p>
+<p>9 April – 26 September 2021</p>
 </li>
 <li>
 <p>10:00am – 9:00pm</p>
