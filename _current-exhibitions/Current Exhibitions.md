@@ -38,7 +38,7 @@ in search of new artistic perspectives.&nbsp;</p>
 <p>10:00am - 2:00pm, 5:00pm - 9:00pm</p>
 </li>
 <li>
-<p>Basement 1, Central Public Library, Immersive Room</p>
+<p>Immersive Room, Central Public Library</p>
 </li>
 </ul>
 <p>Nestled in one of Singapore's oldest districts, the Bras Basah Bugis precinct
@@ -59,7 +59,7 @@ through an immersive projection with Augmented Reality.</p>
 <p>10:00am - 9:00pm</p>
 </li>
 <li>
-<p>Basement 1, Central Public Library</p>
+<p>Central Public Library</p>
 </li>
 </ul>
 <p>Step into Singapore Alcove, where the Singapore Collection is seamlessly
