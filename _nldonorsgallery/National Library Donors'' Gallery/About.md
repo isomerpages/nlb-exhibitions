@@ -21,7 +21,7 @@ description: ""
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>Permanent exhibition</p>
+<p>2 May 2018 - 16 Apr 2025</p>
 </li>
 <li>
 <p>10:00am – 9:00pm</p>
