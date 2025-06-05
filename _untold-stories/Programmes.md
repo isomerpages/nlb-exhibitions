@@ -8,7 +8,7 @@ description: ""
 <h4>Curator's Tours</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Date:</strong> Thursday, 29 May, 26 Jun &amp; 24 Jul 2025</p>
+<p><strong>Date:</strong> Thursday, 26 Jun &amp; 24 Jul 2025</p>
 </li>
 <li>
 <p><strong>Time:</strong> 7:00pm - 8:00pm</p>
@@ -23,8 +23,8 @@ description: ""
 <h4>Public Tours</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Date:</strong> Saturday, 24 &amp; 31 May, 14, 21 &amp; 28 Jun,
-5, 12, 19 &amp; 26 Jul, 2 Aug 2025</p>
+<p><strong>Date:</strong> Saturday, 14, 21 &amp; 28 Jun, 5, 12, 19 &amp; 26
+Jul, 2 Aug 2025</p>
 </li>
 <li>
 <p><strong>Time:</strong> 10:00am - 11:00am (English) | 3:00pm - 4:00pm (Chinese)</p>
@@ -39,7 +39,7 @@ description: ""
 <h4>Children's Workshop: Indonesia's Timeless Tales – an Interactive Storytelling Workshop</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Date:</strong> Wednesday, 14 &amp; 15 Jun 2025</p>
+<p><strong>Date:</strong> Saturday &amp; Sunday, 14 &amp; 15 Jun 2025</p>
 </li>
 <li>
 <p><strong>Time:</strong> 11:00am - 12:15pm &amp; 1:00pm - 2:15pm</p>
