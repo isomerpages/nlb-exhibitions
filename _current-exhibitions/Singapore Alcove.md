@@ -22,7 +22,7 @@ description: ""
 <p>Permanent Exhibition</p>
 </li>
 <li>
-<p>10:00am – 9:00pm</p>
+<p>10:00am - 9:00pm</p>
 </li>
 <li>
 <p>Central Public Library</p>
