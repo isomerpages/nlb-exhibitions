@@ -115,30 +115,6 @@ media, through our rich resources on newspapers.</p>
 <h5><a href="/newsgallery/about/" rel="noopener noreferrer nofollow" target="_blank">EXHIBITION INFORMATION »</a></h5>
 <h5><a href="/newsgallery/virtual-gallery/" rel="noopener noreferrer nofollow" target="_blank">VIRTUAL NEWS GALLERY »</a></h5>
 <hr>
-<h3><strong>National Library Donors' Gallery</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="border-radius: 10%; box-shadow: 7px 0 #FF5733;" height="500" width="500" alt="National Library Donors' Gallery thumbnail" src="/images/event-images/donors/donors-gallery-thumbnail.jpg">
-</div>
-<ul data-tight="true" class="tight">
-<li>
-<p>Permanent exhibition</p>
-</li>
-<li>
-<p>10:00am – 9:00pm</p>
-</li>
-<li>
-<p>Level 10, Gallery, National Library Building</p>
-</li>
-</ul>
-<p>Donations of library materials to the National Library play a significant
-role in adding diversity and depth to our collection and are instrumental
-in assisting the library to obtain notable National Collection items. This
-Donors’ Gallery was set up to acknowledge our donors and showcase their
-donations. On display is a small selection of materials which provides
-a glimpse of the variety of materials that have been gifted to the National
-Library over the years.</p>
-<h5><a href="/nldonorsgallery/about/" rel="noopener noreferrer nofollow" target="_blank">EXHIBITION INFORMATION »</a></h5>
-<hr>
 <h3><strong>The Rare Collection Gallery</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="border-radius: 10%; box-shadow: 7px 0 #FF5733;" height="500" width="500" alt="The News Gallery: Beyond Headlines thumbnail" src="/images/event-images/rarecollection/the-rare-collection-gallery-thumbnail.jpg">
