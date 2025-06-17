@@ -56,6 +56,18 @@ local life in works that continue to inspire today.</p>
 <p><a href="/files/UntoldStories/untoldstories_guide_en.pdf" rel="noopener nofollow" target="_blank">English guide (1.2mb)</a>
 </p>
 </li>
+<li>
+<p><a href="https://safe.menlosecurity.com/https://cms.isomer.gov.sg/files/UntoldStories/untoldstories_guide_cn.pdf" rel="noopener nofollow" target="_blank"><u>Chinese guide (1.4mb)</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://safe.menlosecurity.com/https://cms.isomer.gov.sg/files/UntoldStories/untoldstories_guide_ml.pdf" rel="noopener nofollow" target="_blank"><u>Malay guide (1.0mb)</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://safe.menlosecurity.com/https://cms.isomer.gov.sg/files/UntoldStories/untoldstories_guide_tm.pdf" rel="noopener nofollow" target="_blank"><u>Tamil guide (1.1mb)</u></a>
+</p>
+</li>
 </ul>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/grey_line.png">
