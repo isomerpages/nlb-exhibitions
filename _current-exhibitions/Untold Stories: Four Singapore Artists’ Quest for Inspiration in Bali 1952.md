@@ -57,15 +57,15 @@ local life in works that continue to inspire today.</p>
 </p>
 </li>
 <li>
-<p><a href="https://safe.menlosecurity.com/https://cms.isomer.gov.sg/files/UntoldStories/untoldstories_guide_cn.pdf" rel="noopener nofollow" target="_blank"><u>Chinese guide (1.4mb)</u></a>
+<p><a href="https://exhibitions.nlb.gov.sg/files/UntoldStories/untoldstories_guide_cn.pdf" rel="noopener nofollow" target="_blank"><u>Chinese guide (1.4mb)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://safe.menlosecurity.com/https://cms.isomer.gov.sg/files/UntoldStories/untoldstories_guide_ml.pdf" rel="noopener nofollow" target="_blank"><u>Malay guide (1.0mb)</u></a>
+<p><a href="https://exhibitions.nlb.gov.sg/files/UntoldStories/untoldstories_guide_ml.pdf" rel="noopener nofollow" target="_blank"><u>Malay guide (1.0mb)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://safe.menlosecurity.com/https://cms.isomer.gov.sg/files/UntoldStories/untoldstories_guide_tm.pdf" rel="noopener nofollow" target="_blank"><u>Tamil guide (1.1mb)</u></a>
+<p><a href="https://exhibitions.nlb.gov.sg/files/UntoldStories/untoldstories_guide_tm.pdf" rel="noopener nofollow" target="_blank"><u>Tamil guide (1.1mb)</u></a>
 </p>
 </li>
 </ul>
