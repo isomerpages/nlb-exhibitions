@@ -62,6 +62,18 @@ local life in works that continue to inspire today.</p>
 <p><a href="/files/UntoldStories/untoldstories_guide_en.pdf" rel="noopener nofollow" target="_blank">English guide (1.2mb)</a>
 </p>
 </li>
+<li>
+<p><a href="/files/UntoldStories/untoldstories_guide_cn.pdf" rel="noopener nofollow" target="_blank">Chinese guide (1.4mb)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/UntoldStories/untoldstories_guide_ml.pdf" rel="noopener nofollow" target="_blank">Malay guide (1.0mb)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/UntoldStories/untoldstories_guide_tm.pdf" rel="noopener nofollow" target="_blank">Tamil guide (1.1mb)</a>
+</p>
+</li>
 </ul>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/grey_line.png">
