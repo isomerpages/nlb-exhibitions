@@ -3,6 +3,7 @@ title: "Untold Stories: Four Singapore Artists’ Quest for Inspiration in Bali 
 permalink: /current/untoldstories/about/
 variant: tiptap
 description: ""
+third_nav_title: "2025"
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Untold Stories/UntoldStories_Banner.png">

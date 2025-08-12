@@ -6,26 +6,6 @@ variant: tiptap
 description: ""
 image: /images/event-images/Sacexhibitions/banner_exh_Nov.png
 ---
-<h3><strong>Untold Stories: Four Singapore Artists’ Quest for Inspiration in Bali 1952</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Untold Stories/UntoldStories_Thumbnail.png">
-</div>
-<ul data-tight="true" class="tight">
-<li>
-<p>Special Exhibition: 14 February - 3 August 2025</p>
-</li>
-<li>
-<p>Open daily, 10am - 9pm</p>
-</li>
-<li>
-<p>Level 10, Gallery, National Library Building</p>
-</li>
-</ul>
-<p>Discover the remarkable journey of four Singapore artists—Liu Kang, Chen
-Chong Swee, Chen Wen Hsi, and Cheong Soo Pieng—to Java and Bali in 1952
-in search of new artistic perspectives.&nbsp;</p>
-<h5><a href="/untoldstories/about/" rel="noopener noreferrer nofollow" target="_blank"><u>EXHIBITION INFORMATION »</u></a></h5>
-<hr>
 <h3><strong>Book Havens of Bras Basah: Curiocity</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="border-radius: 10%; box-shadow: 7px 0 #FF5733;" height="500" width="500" alt="BHBB  thumbnail" src="/images/event-images/BookHavensofBrasBasah/BHBB_Thumbnail.jpg">
