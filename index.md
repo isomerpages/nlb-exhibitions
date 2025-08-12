@@ -5,7 +5,7 @@ permalink: /
 description: Exhibitions organised by National Library Singapore
 sections:
   - hero:
-      background: /images/event-images/Untold Stories/UntoldStories_Homepagebanner.jpg
+      background: /images/event-images/BookHavensofBrasBasah/BHBB_Banner.jpg
       key_highlights:
         - title: Current exhibitions
           description: ""
