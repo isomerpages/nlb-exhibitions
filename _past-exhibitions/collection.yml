@@ -2,7 +2,6 @@ collections:
   past-exhibitions:
     output: true
     order:
-      - 2025.md
       - Past Exhibitions.md
       - 2023 & 2024/.keep
       - 2023 & 2024/Singapore Architecture Collection Exhibitions.md
