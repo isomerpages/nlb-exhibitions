@@ -5,5 +5,5 @@ breadcrumb: Programmes
 variant: tiptap
 description: ""
 ---
-<h4>There are currently no programmes ongoing.</h4>
+<h4>There are currently no ongoing programmes.</h4>
 <p></p>
