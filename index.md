@@ -5,7 +5,8 @@ permalink: /
 description: Exhibitions organised by National Library Singapore
 sections:
   - hero:
-      background: /images/event-images/BookHavensofBrasBasah/BHBB_Banner.jpg
+      background: /images/event-images/The Albatross
+        Files/MDDI_Website_Banner_4000pxX1184px.jpg
       key_highlights:
         - title: Current exhibitions
           description: ""
