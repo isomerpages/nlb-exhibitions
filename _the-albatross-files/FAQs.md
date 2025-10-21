@@ -4,10 +4,7 @@ permalink: /thealbatrossfiles/faqs/
 variant: tiptap
 description: ""
 ---
-<h4><strong>[Pre-launch] <em>The Albatross File</em> Exhibition Website FAQs</strong></h4>
-<p><em>Excludes information on ticketing and visit preparation, which will be released alongside the ticketing platform in mid-Nov.</em>
-</p>
-<p></p>
+<h4><strong>Frequently Asked Questions (FAQs) about <em>The Albatross File: Singapore’s Separation Declassified</em></strong></h4>
 <p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What is the Albatross File, and what is this exhibition?</strong>
 <br>The Albatross File was kept by Dr Goh Keng Swee in the run-up to Singapore’s
 separation from Malaysia. It contains Cabinet papers, memorandums, as well
@@ -53,3 +50,7 @@ and Mr Lee Kuan Yew, Cabinet papers which discuss the policy deliberations
 behind separation, as well as extracts of oral histories of Dr Goh Keng
 Swee, Mr Ong Pang Boon, Mr Lee Kuan Yew, and Mrs Lee Kuan Yew, which have
 not been made public until now.</p>
+<p></p>
+<p><em>Last updated 21 Oct 2025</em>
+</p>
+<p></p>
