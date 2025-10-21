@@ -7,8 +7,7 @@ description: ""
 <h4><strong>[Pre-launch] The Albatross File Exhibition Website FAQs</strong></h4>
 <p><em>Excludes information on ticketing and visit preparation, which will be released alongside the ticketing platform in mid-Nov.</em>
 </p>
-<p><em>&nbsp;</em>
-</p>
+<p></p>
 <p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What is the Albatross File, and what is this exhibition?</strong>
 </p>
 <p>The Albatross File was kept by Dr Goh Keng Swee in the run-up to Singapore’s
