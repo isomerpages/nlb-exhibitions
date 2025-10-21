@@ -24,7 +24,8 @@ description: ""
 <p>Level 10, National Library Building</p>
 </li>
 <li>
-<p>For updates, please sign up at this mailing list: &lt;TBC link&gt;</p>
+<p>For updates, please sign up at this <a href="https://go.gov.sg/albatrossmailinglist" rel="noopener nofollow" target="_blank">mailing list</a>
+</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
