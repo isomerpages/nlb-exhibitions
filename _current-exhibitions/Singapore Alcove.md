@@ -54,7 +54,7 @@ spaces associated with it.</p>
 <blockquote>
 <p><em>Lepak Landscapes</em> just got better!</p>
 <p>Refreshed personality quiz. More digital&nbsp;storybooks. New book recommendations.
-All waiting for you at the Central Public Library!</p>
+All waiting for you at the Central Library!</p>
 </blockquote>
 <p>What comes to mind when you hear<em> Lepak?</em>
 </p>
