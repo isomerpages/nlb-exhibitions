@@ -187,14 +187,14 @@ changes to come.</p>
 <p>5:00pm - 7:00pm</p>
 </li>
 <li>
-<p>Level 1, Stories Come Alive Room, Punggol Regional Library</p>
+<p>Level 1, Stories Come Alive Room, Punggol Library</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
 </div>
 <p>Words That Move brings Sing Lit poems to life through beautiful animation
-and fun interactivity. It is a new feature unique to Punggol Regional Library's
+and fun interactivity. It is a new feature unique to Punggol Library's
 Stories Come Alive Room.</p>
 <p>Poems in English, Chinese, Malay and Tamil are projected onto the walls
 with animation, light and sound effects to create an immersive experience.
