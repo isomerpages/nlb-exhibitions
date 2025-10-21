@@ -37,7 +37,7 @@ to explore Singapore’s formative years together.</p>
 <br>The exhibition is in English. Exhibition guides will be made digitally
 available in Singapore’s four official languages: Malay, Chinese, Tamil
 and English.</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>How different is the Albatross File book and exhibition to CNA's earlier documentary on the same topic?</strong>
+<p><strong>5</strong>.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>How different is the Albatross File book and exhibition to CNA's earlier documentary on the same topic?</strong>
 <br>CNA’s documentary relied, for the most part, on British and Australian
 documents declassified up to 35 or more years ago. These documents were
 also relied upon by Mr Lee Kuan Yew in his autobiography <em>The Singapore Story</em> as
