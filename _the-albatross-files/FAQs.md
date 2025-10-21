@@ -31,8 +31,8 @@ building our nation together.</p>
 a permanent exhibition held at Level 10 of the National Library Building.
 Admission is free, but will require tickets. Visitors will be able to book
 free tickets to the exhibition later this year.</p>
-<p>Interested individuals may sign up for our mailing list (<em><u>TBC</u> <u>link here</u></em>)
-to receive updates on when the tickets are available.</p>
+<p>Interested individuals may sign up for our <a href="https://go.gov.sg/albatrossmailinglist" rel="noopener nofollow" target="_blank">mailing list</a> to receive
+updates on when the tickets are available.</p>
 <p><strong>3.&nbsp;&nbsp;&nbsp; Is this exhibition suitable for families?</strong>
 </p>
 <p>While open to all, for an optimal experience, this exhibition is recommended
