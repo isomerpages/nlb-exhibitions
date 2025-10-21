@@ -101,7 +101,7 @@ seafood scene at <em>Punggol Stories</em>. Discover the rich tapestry of
 Punggol's history from the National Library Board's collections.</p>
 <p>The <em>Punggol Stories</em> trail comprises Words That Move (Level 1 Stories
 Come Alive Room), The Lens of Literature (Level 3 Sing Lit) and an exhibition
-at Singaporium (Level 4) of the Punggol Regional Library.</p>
+at Singaporium (Level 4) of the Punggol Library.</p>
 <h5><a href="/punggolstories/about/" rel="noopener noreferrer nofollow" target="_blank"><u>EXHIBITION INFORMATION »</u></a></h5>
 <hr>
 <h3><strong>The News Gallery: Beyond Headlines</strong></h3>
