@@ -4,7 +4,6 @@ permalink: /about/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/The Albatross Files/MDDI_Website_Banner_1000pxX296px.jpg">
 </div>
