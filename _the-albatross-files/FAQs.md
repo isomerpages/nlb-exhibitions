@@ -9,8 +9,7 @@ description: ""
 </p>
 <p></p>
 <p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What is the Albatross File, and what is this exhibition?</strong>
-</p>
-<p>The Albatross File was kept by Dr Goh Keng Swee in the run-up to Singapore’s
+<br>The Albatross File was kept by Dr Goh Keng Swee in the run-up to Singapore’s
 separation from Malaysia. It contains Cabinet papers, memorandums, as well
 as Dr Goh’s handwritten notes of his discussions with Malaysian leaders
 in the days, weeks, and months leading to 9 August 1965.</p>
@@ -26,27 +25,23 @@ of Singapore’s separation from Malaysia, deepening our collective appreciation
 of Singapore’s shared identity and inspiring future generations to continue
 building our nation together.</p>
 <p><strong>2.&nbsp;&nbsp;&nbsp; How do we visit the Albatross File exhibition?&nbsp;</strong>
-</p>
-<p>Open to the public from 8 December 2025, <em>The Albatross File: Singapore’s Separation Declassified</em> is
+<br>Open to the public from 8 December 2025, <em>The Albatross File: Singapore’s Separation Declassified</em> is
 a permanent exhibition held at Level 10 of the National Library Building.
 Admission is free, but will require tickets. Visitors will be able to book
 free tickets to the exhibition later this year.</p>
 <p>Interested individuals may sign up for our <a href="https://go.gov.sg/albatrossmailinglist" rel="noopener nofollow" target="_blank">mailing list</a> to receive
 updates on when the tickets are available.</p>
 <p><strong>3.&nbsp;&nbsp;&nbsp; Is this exhibition suitable for families?</strong>
-</p>
-<p>While open to all, for an optimal experience, this exhibition is recommended
+<br>While open to all, for an optimal experience, this exhibition is recommended
 for individuals aged 10 years old and above. The exhibition provides a
 unique opportunity for families – children, parents, and grandparents –
 to explore Singapore’s formative years together.</p>
 <p><strong>4.&nbsp;&nbsp;&nbsp; Will the exhibition be in four languages?</strong>
-</p>
-<p>The exhibition is in English. Exhibition guides will be made digitally
+<br>The exhibition is in English. Exhibition guides will be made digitally
 available in Singapore’s four official languages: Malay, Chinese, Tamil
 and English.</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>How different is the Albatross File book and exhibition to CNA's earlier documentary on the same topic?</strong>
-</p>
-<p>CNA’s documentary relied, for the most part, on British and Australian
+<br>CNA’s documentary relied, for the most part, on British and Australian
 documents declassified up to 35 or more years ago. These documents were
 also relied upon by Mr Lee Kuan Yew in his autobiography <em>The Singapore Story</em> as
 well as Professor Albert Lau’s definitive account of Separation, <em>The Moment of Anguish</em>.
