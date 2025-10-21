@@ -24,16 +24,17 @@ description: ""
 <p>Level 10, National Library Building</p>
 </li>
 <li>
-<p>For updates, please sign up at this mailing list: &lt;TBC link&gt;</p>
+<p>For updates, please sign up at this <a href="https://go.gov.sg/albatrossmailinglist" rel="noopener nofollow" target="_blank">mailing list</a>
+</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/red_thinline.png">
 </div>
 <p>Revisit the moments that led to Singapore's separation from Malaysia –
-in the footsteps of our founding leaders. The Albatross File: Singapore's
-Independence Declassified exhibition takes you behind closed doors, into
-the complex journey from merger to separation.</p>
+in the footsteps of our founding leaders. <strong><em>The Albatross File: Singapore's Independence Declassified</em></strong> exhibition
+takes you behind closed doors, into the complex journey from merger to
+separation.</p>
 <p>Based on the book <em>The Albatross File: Inside Separation</em> and supplemented
 by newly declassified documents and oral history accounts, explore the
 uncertainty, conviction, and tensions that defined 1963 to 1965, leading
