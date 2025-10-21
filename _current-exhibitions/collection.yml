@@ -2,8 +2,8 @@ collections:
   current-exhibitions:
     output: true
     order:
-      - "The Albatross File: Singapore’s Independence Declassified.md"
       - Current Exhibitions.md
+      - "The Albatross File: Singapore’s Independence Declassified.md"
       - "Book Havens of Bras Basah: Curiocity.md"
       - Singapore Alcove.md
       - Punggol Stories.md
