@@ -35,9 +35,9 @@ sections:
   - infopic:
       title: "The Albatross File: Singapore’s Independence Declassified"
       id: infopic
-      description: SG60 Capstone Event, open from 8 Dec 2025. <p>&nbsp;</p> <p>Delve
-        into our separation story in this introspective and immersive
-        exhibition.</p>
+      description: <em>SG60 Capstone Event, open from 8 Dec 2025.<em> <p>&nbsp;</p>
+        <p>Delve into our separation story in this introspective and immersive
+        exhibition.</p></em></em>
       button: The Albatross File Information
       url: /thealbatrossfiles/about/
       alt: Image alt text
