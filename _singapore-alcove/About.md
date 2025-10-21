@@ -22,7 +22,7 @@ description: ""
 </li>
 <li>
 <p>10:00am - 9:00pm</p>
-<p>Central Public Library</p>
+<p>Central Library</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
