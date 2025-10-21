@@ -34,7 +34,6 @@ sections:
       alt: Photos of exhibitions
   - infopic:
       title: "The Albatross File: Singapore’s Independence Declassified"
-      subtitle: Add an image and text
       id: infopic
       description: Listen in on our founding leaders, take a glimpse at the Albatross
         File documents, and feel the weight of the decisions made behind closed
