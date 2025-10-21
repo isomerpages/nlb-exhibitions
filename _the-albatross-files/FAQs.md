@@ -4,7 +4,7 @@ permalink: /thealbatrossfiles/faqs/
 variant: tiptap
 description: ""
 ---
-<h4><strong>[Pre-launch] The Albatross File Exhibition Website FAQs</strong></h4>
+<h4><strong>[Pre-launch] <em>The Albatross File</em> Exhibition Website FAQs</strong></h4>
 <p><em>Excludes information on ticketing and visit preparation, which will be released alongside the ticketing platform in mid-Nov.</em>
 </p>
 <p></p>
@@ -14,7 +14,7 @@ separation from Malaysia. It contains Cabinet papers, memorandums, as well
 as Dr Goh’s handwritten notes of his discussions with Malaysian leaders
 in the days, weeks, and months leading to 9 August 1965.</p>
 <p>A book on the Albatross File will be launched alongside this SG60 Capstone
-event, the introspective exhibition, called <em>The Albatross File: Singapore’s Separation Declassified</em>,
+event, the introspective exhibition, called <strong><em>The Albatross File: Singapore’s Separation Declassified</em></strong>,
 on 7 December 2025 at the National Library. Jointly organised by the National
 Library Board and the Ministry of Digital Development and Information,
 this permanent exhibition will deepen visitors’ understanding of Singapore’s
@@ -25,7 +25,7 @@ of Singapore’s separation from Malaysia, deepening our collective appreciation
 of Singapore’s shared identity and inspiring future generations to continue
 building our nation together.</p>
 <p><strong>2.&nbsp;&nbsp;&nbsp; How do we visit the Albatross File exhibition?&nbsp;</strong>
-<br>Open to the public from 8 December 2025, <em>The Albatross File: Singapore’s Separation Declassified</em> is
+<br>Open to the public from 8 December 2025, <strong><em>The Albatross File: Singapore’s Separation Declassified</em></strong> is
 a permanent exhibition held at Level 10 of the National Library Building.
 Admission is free, but will require tickets. Visitors will be able to book
 free tickets to the exhibition later this year.</p>
