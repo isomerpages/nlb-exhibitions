@@ -32,6 +32,16 @@ sections:
       image: /images/homepage_nl_highlight.png
       alt: Photos of exhibitions
   - infopic:
+      title: "The Albatross File: Singapore’s Independence Declassified"
+      subtitle: Add an image and text
+      id: infopic
+      description: Listen in on our founding leaders, take a glimpse at the Albatross
+        File documents, and feel the weight of the decisions made behind closed
+        doors.
+      button: The Albatross File Information
+      url: /thealbatrossfiles/about/
+      alt: Image alt text
+  - infopic:
       title: "The News Gallery: Beyond Headlines"
       description: "Explore the fascinating yet bewildering world of news media at our
         permanent exhibition The News Gallery: Beyond Headlines. <p>&nbsp;</p>
