@@ -22,6 +22,8 @@ description: ""
 </li>
 <li>
 <p>10:00am - 9:00pm</p>
+</li>
+<li>
 <p>Central Library</p>
 </li>
 </ul>
