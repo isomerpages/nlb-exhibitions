@@ -1,4 +1,5 @@
 collections:
   the-albatross-files:
     output: true
-    order: []
+    order:
+      - About.md
