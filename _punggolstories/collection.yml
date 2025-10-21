@@ -2,6 +2,6 @@ collections:
   punggolstories:
     output: true
     order:
-      - Credits.md
-      - Gallery.md
       - About.md
+      - Gallery.md
+      - Credits.md
