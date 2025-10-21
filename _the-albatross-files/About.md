@@ -32,7 +32,7 @@ description: ""
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/red_thinline.png">
 </div>
 <p>Revisit the moments that led to Singapore's separation from Malaysia –
-in the footsteps of our founding leaders. <strong><em>The Albatross File: Singapore's Independence Declassified</em></strong> exhibition
+in the footsteps of our founding leaders. <em>The Albatross File: Singapore's Independence Declassified</em> exhibition
 takes you behind closed doors, into the complex journey from merger to
 separation.</p>
 <p>Based on the book <em>The Albatross File: Inside Separation</em> and supplemented
