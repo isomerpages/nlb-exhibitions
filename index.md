@@ -42,6 +42,7 @@ sections:
       url: thealbatrossfile/about/
       image: /images/event-images/The Albatross
         File/MDDI_Website_Banner_1000pxX1000px.jpg
+      alt: Banner of The Albatross File
   - infopic:
       title: "The News Gallery: Beyond Headlines"
       description: "Explore the fascinating yet bewildering world of news media at our
