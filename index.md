@@ -39,9 +39,9 @@ sections:
         <p>Delve into our separation story in this introspective and immersive
         exhibition.</p>
       button: The Albatross File Information
-      url: thealbatrossfiles/about/
+      url: thealbatrossfile/about/
       image: /images/event-images/The Albatross
-        File/MDDI_Website_Banner_500pxX500px.jpg
+        File/MDDI_Website_Banner_1000pxX1000px.jpg
   - infopic:
       title: "The News Gallery: Beyond Headlines"
       description: "Explore the fascinating yet bewildering world of news media at our
