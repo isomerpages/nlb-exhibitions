@@ -36,7 +36,7 @@ separation.</p>
 by newly declassified documents and oral history accounts, explore the
 uncertainty, conviction, and tensions that defined 1963 to 1965, leading
 to the birth of an independent Singapore.</p>
-<h5><a href="/thealbatrossfiles/about/" rel="noopener noreferrer nofollow" target="_blank"><u>EXHIBITION INFORMATION »</u></a></h5>
+<h5><a href="/thealbatrossfile/about/" rel="noopener noreferrer nofollow" target="_blank"><u>EXHIBITION INFORMATION »</u></a></h5>
 <hr>
 <h3><strong>Book Havens of Bras Basah: Curiocity</strong></h3>
 <div class="isomer-image-wrapper">
