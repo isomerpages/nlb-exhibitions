@@ -8,7 +8,7 @@ image: /images/event-images/Sacexhibitions/banner_exh_Nov.png
 ---
 <h3><strong>The Albatross File: Singapore’s Independence Declassified</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/The Albatross Files/Abba_Thumbnail.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/The Albatross File/Abba_Thumbnail.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
