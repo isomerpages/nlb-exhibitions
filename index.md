@@ -5,7 +5,8 @@ permalink: /
 description: Exhibitions organised by National Library Singapore
 sections:
   - hero:
-      background: /images/event-images/BookHavensofBrasBasah/BHBB_Banner.jpg
+      background: /images/event-images/The Albatross
+        File/MDDI_Website_Banner_4000pxX1184px_1.jpg
       key_highlights:
         - title: Current exhibitions
           description: ""
@@ -31,6 +32,17 @@ sections:
         curated digital content.</p>
       image: /images/homepage_nl_highlight.png
       alt: Photos of exhibitions
+  - infopic:
+      title: "The Albatross File: Singapore’s Independence Declassified"
+      id: infopic
+      description: <em>SG60 Capstone Event, open from 8 Dec 2025.</em> <p>&nbsp;</p>
+        <p>Delve into Singapore's separation story in this introspective and
+        immersive exhibition.</p>
+      button: The Albatross File Information
+      url: thealbatrossfile/about/
+      image: /images/event-images/The Albatross
+        File/MDDI_Website_Banner_1000pxX1000px.jpg
+      alt: Banner of The Albatross File
   - infopic:
       title: "The News Gallery: Beyond Headlines"
       description: "Explore the fascinating yet bewildering world of news media at our

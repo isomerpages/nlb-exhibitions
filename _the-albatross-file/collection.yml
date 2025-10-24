@@ -1,0 +1,7 @@
+collections:
+  the-albatross-file:
+    output: true
+    order:
+      - About.md
+      - Gallery.md
+      - FAQs.md

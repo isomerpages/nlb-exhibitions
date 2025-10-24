@@ -22,7 +22,9 @@ description: ""
 </li>
 <li>
 <p>10:00am - 9:00pm</p>
-<p>Central Public Library</p>
+</li>
+<li>
+<p>Central Library</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
@@ -51,7 +53,7 @@ spaces associated with it.</p>
 <blockquote>
 <p><em>Lepak Landscapes</em> just got better!</p>
 <p>Refreshed personality quiz. More digital&nbsp;storybooks. New book recommendations.
-All waiting for you at the Central Public Library!</p>
+All waiting for you at the Central Library!</p>
 </blockquote>
 <p>What comes to mind when you hear<em> Lepak?</em>
 </p>

@@ -6,6 +6,38 @@ variant: tiptap
 description: ""
 image: /images/event-images/Sacexhibitions/banner_exh_Nov.png
 ---
+<h3><strong>The Albatross File: Singapore’s Independence Declassified</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/The Albatross File/Abba_Thumbnail.png">
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p>Open to the public from 8 Dec 2025</p>
+</li>
+<li>
+<p>Permanent exhibition</p>
+</li>
+<li>
+<p>10:00am - 9:00pm</p>
+</li>
+<li>
+<p>Level 10, National Library Building</p>
+</li>
+<li>
+<p>For updates, please sign up at this <a href="https://go.gov.sg/albatrossmailinglist" rel="noopener nofollow" target="_blank">mailing list</a>
+</p>
+</li>
+</ul>
+<p>Revisit the moments that led to Singapore's separation from Malaysia –
+in the footsteps of our founding leaders. <em>The Albatross File: Singapore's Independence Declassified</em> exhibition
+takes you behind closed doors, into the complex journey from merger to
+separation.</p>
+<p>Based on the book <em>The Albatross File: Inside Separation</em> and supplemented
+by newly declassified documents and oral history accounts, explore the
+uncertainty, conviction, and tensions that defined 1963 to 1965, leading
+to the birth of an independent Singapore.</p>
+<h5><a href="/thealbatrossfile/about/" rel="noopener noreferrer nofollow" target="_blank"><u>EXHIBITION INFORMATION »</u></a></h5>
+<hr>
 <h3><strong>Book Havens of Bras Basah: Curiocity</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="border-radius: 10%; box-shadow: 7px 0 #FF5733;" height="500" width="500" alt="BHBB  thumbnail" src="/images/event-images/BookHavensofBrasBasah/BHBB_Thumbnail.jpg">
@@ -15,10 +47,10 @@ image: /images/event-images/Sacexhibitions/banner_exh_Nov.png
 <p>Permanent Exhibition</p>
 </li>
 <li>
-<p>10:00am - 2:00pm, 5:00pm - 9:00pm</p>
+<p>10:00am - 9:00pm</p>
 </li>
 <li>
-<p>Immersive Room, Central Public Library</p>
+<p>Immersive Room, Central Library</p>
 </li>
 </ul>
 <p>Nestled in one of Singapore's oldest districts, the Bras Basah Bugis precinct
@@ -39,7 +71,7 @@ through an immersive projection with Augmented Reality.</p>
 <p>10:00am - 9:00pm</p>
 </li>
 <li>
-<p>Central Public Library</p>
+<p>Central Library</p>
 </li>
 </ul>
 <p>Step into Singapore Alcove, where the Singapore Collection is seamlessly
@@ -61,7 +93,7 @@ spaces associated with it.</p>
 <p>10:00am - 9:00pm</p>
 </li>
 <li>
-<p>Level 1, 3, 4, Punggol Regional Library</p>
+<p>Level 1, 3, 4, Punggol Library</p>
 </li>
 </ul>
 <p>Imagine Punggol when it was home to many kampongs, pig farms and a thriving
@@ -69,7 +101,7 @@ seafood scene at <em>Punggol Stories</em>. Discover the rich tapestry of
 Punggol's history from the National Library Board's collections.</p>
 <p>The <em>Punggol Stories</em> trail comprises Words That Move (Level 1 Stories
 Come Alive Room), The Lens of Literature (Level 3 Sing Lit) and an exhibition
-at Singaporium (Level 4) of the Punggol Regional Library.</p>
+at Singaporium (Level 4) of the Punggol Library.</p>
 <h5><a href="/punggolstories/about/" rel="noopener noreferrer nofollow" target="_blank"><u>EXHIBITION INFORMATION »</u></a></h5>
 <hr>
 <h3><strong>The News Gallery: Beyond Headlines</strong></h3>

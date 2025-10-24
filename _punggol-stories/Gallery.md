@@ -2,7 +2,6 @@
 title: Gallery
 permalink: /punggolstories/gallery/
 breadcrumb: Gallery
-third_nav_title: Punggol Stories
 variant: tiptap
 description: ""
 ---

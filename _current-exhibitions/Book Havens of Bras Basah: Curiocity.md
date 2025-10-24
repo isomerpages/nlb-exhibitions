@@ -18,7 +18,7 @@ description: ""
 <p>10:00am - 9:00pm</p>
 </li>
 <li>
-<p>Immersive Room, Central Public Library</p>
+<p>Immersive Room, Central Library</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">

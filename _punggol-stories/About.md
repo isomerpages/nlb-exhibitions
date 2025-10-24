@@ -2,7 +2,6 @@
 title: About
 permalink: /punggolstories/about/
 breadcrumb: About
-third_nav_title: Punggol Stories
 variant: tiptap
 description: ""
 ---
@@ -26,7 +25,7 @@ description: ""
 <p>10:00am - 9:00pm</p>
 </li>
 <li>
-<p>Level 1, 3, 4, Punggol Regional Library</p>
+<p>Level 1, 3, 4, Punggol Library</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
@@ -37,7 +36,7 @@ seafood scene at <em>Punggol Stories</em>. Discover the rich tapestry of
 Punggol's history from the National Library Board's collections.</p>
 <p>The <em>Punggol Stories</em> trail comprises Words That Move (Level 1 Stories
 Come Alive Room), The Lens of Literature (Level 3 Sing Lit) and an exhibition
-at Singaporium (Level 4) of the Punggol Regional Library.</p>
+at Singaporium (Level 4) of the Punggol Library.</p>
 <p>Download the exhibition brochure <a href="https://go.gov.sg/punggolstories-guide" rel="noopener noreferrer nofollow" target="_blank"><u>here.</u></a>
 </p>
 <blockquote>
@@ -53,7 +52,7 @@ hashtag #PunggolStories
 <br>
 <br>You can also volunteer as a library guide to lead tours of the Punggol
 Stories trail. Sign up at <a href="https://www.nlb.gov.sg/volunteers/" rel="noopener noreferrer nofollow" target="_blank"><u>www.nlb.gov.sg/volunteers/</u></a> (choose
-'Punggol Regional Library' as the venue)</p>
+'Punggol Library' as the venue)</p>
 </td>
 </tr>
 </tbody>
@@ -78,7 +77,7 @@ Stories trail. Sign up at <a href="https://www.nlb.gov.sg/volunteers/" rel="noop
 <p>10:00 - 9:00pm</p>
 </li>
 <li>
-<p>Level 4, Singaporium, Punggol Regional Library</p>
+<p>Level 4, Singaporium, Punggol Library</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
@@ -135,7 +134,7 @@ installation that features memories of historical Punggol.</p>
 <p>10:00 - 9:00pm</p>
 </li>
 <li>
-<p>Level 3, Sing Lit, Punggol Regional Library</p>
+<p>Level 3, Sing Lit, Punggol Library</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
@@ -187,14 +186,14 @@ changes to come.</p>
 <p>5:00pm - 7:00pm</p>
 </li>
 <li>
-<p>Level 1, Stories Come Alive Room, Punggol Regional Library</p>
+<p>Level 1, Stories Come Alive Room, Punggol Library</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
 </div>
 <p>Words That Move brings Sing Lit poems to life through beautiful animation
-and fun interactivity. It is a new feature unique to Punggol Regional Library's
+and fun interactivity. It is a new feature unique to Punggol Library's
 Stories Come Alive Room.</p>
 <p>Poems in English, Chinese, Malay and Tamil are projected onto the walls
 with animation, light and sound effects to create an immersive experience.
