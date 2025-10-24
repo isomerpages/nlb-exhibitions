@@ -6,7 +6,7 @@ description: Exhibitions organised by National Library Singapore
 sections:
   - hero:
       background: /images/event-images/The Albatross
-        File/MDDI_Website_Banner_4000pxX1184px.jpg
+        File/MDDI_Website_Banner_4000pxX1184px_1.jpg
       key_highlights:
         - title: Current exhibitions
           description: ""
