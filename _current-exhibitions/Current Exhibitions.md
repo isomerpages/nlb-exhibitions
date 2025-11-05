@@ -133,7 +133,7 @@ media, through our rich resources on newspapers.</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>The gallery is open for organised public tours only.</p>
+<p>The gallery is temporarily closed</p>
 </li>
 <li>
 <p>Level 13, Rare Gallery, National Library Building</p>
