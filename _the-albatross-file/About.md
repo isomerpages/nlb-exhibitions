@@ -4,9 +4,7 @@ permalink: /thealbatrossfile/about/
 variant: tiptap
 description: ""
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/The Albatross File/MDDI_Website_Banner_1000pxX296px.jpg">
-</div>
+<a class="isomer-image-wrapper" href="https://exhibitions.nlb.gov.sg/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/The Albatross File/MDDI_Website_Banner_1000pxX296px.jpg"></a>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/red_thinline.png">
 </div>
