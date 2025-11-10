@@ -20,6 +20,8 @@ sections:
         - title: Programmes
           description: ""
           url: /programmes/
+      button: Book Now
+      url: https://exhibitions.nlb.gov.sg/
   - infopic:
       title: National Library Exhibitions
       description: The National Library hosts permanent, special and online
