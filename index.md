@@ -5,8 +5,7 @@ permalink: /
 description: Exhibitions organised by National Library Singapore
 sections:
   - hero:
-      background: /images/event-images/The Albatross
-        File/MDDI_Website_Banner_4000pxX1184px_1.jpg
+      background: /images/event-images/The Albatross File/1__Homepage_banner.png
       key_highlights:
         - title: Current exhibitions
           description: ""
@@ -21,7 +20,7 @@ sections:
           description: ""
           url: /programmes/
       button: Book Now
-      url: https://exhibitions.nlb.gov.sg/
+      url: https://go.gov.sg/albatrosstickets
   - infopic:
       title: National Library Exhibitions
       description: The National Library hosts permanent, special and online
