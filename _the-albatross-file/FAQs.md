@@ -42,7 +42,9 @@ at the entrance information booth and via the exhibition website.</p>
 Each ticket can cover a group of up to 12 visitors.</p>
 <p>For company, school or larger group (of more than 24 visitors) bookings,
 please book your visit as an “organised group”, per the screenshot below.</p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/The Albatross File/Ticket_Booking_Screenshot.png">
+</div>
 <p><strong>6.&nbsp;&nbsp;&nbsp; Must I book tickets for the exhibition?</strong>
 <br>Visitors are highly encouraged to book free tickets to the exhibition
 to ensure that your preferred slot is reserved. Walk-in visitors are also
