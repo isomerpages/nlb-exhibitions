@@ -57,8 +57,8 @@ also harnesses technology to create interactive, dynamic experiences, presenting
 new ways to understand our separation story.</p>
 <p><strong>8.&nbsp;&nbsp;&nbsp; I’m interested in making a corporate or organisational booking for this exhibition. How do I book a session for my group?</strong>
 <br>For company, school or larger group (of more than 24 visitors) bookings,
-please book your visit as an “organised group” on the booking website (
-<a href="https://go.gov.sg/albatrosstickets" rel="noopener nofollow" target="_blank">https://go.gov.sg/albatrosstickets</a>).</p>
+please book your visit as an “organised group” on the booking website</p>
+<p>(<a href="https://go.gov.sg/albatrosstickets" rel="noopener nofollow" target="_blank">https://go.gov.sg/albatrosstickets</a>).</p>
 <p><strong>&nbsp;</strong><em>Last updated 13 November 2025</em>
 </p>
 <p></p>
