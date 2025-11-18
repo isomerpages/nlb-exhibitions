@@ -12,7 +12,7 @@ image: /images/event-images/Sacexhibitions/banner_exh_Nov.png
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>Open to the public from 8 Dec 2025</p>
+<p>Open to the public from 8 Dec 2025 – <a href="https://go.gov.sg/albatrosstickets" rel="noopener nofollow" target="_blank">book your tickets now</a>!</p>
 </li>
 <li>
 <p>Permanent exhibition</p>
@@ -22,10 +22,6 @@ image: /images/event-images/Sacexhibitions/banner_exh_Nov.png
 </li>
 <li>
 <p>Level 10, National Library Building</p>
-</li>
-<li>
-<p>For updates, please sign up at this <a href="https://go.gov.sg/albatrossmailinglist" rel="noopener nofollow" target="_blank">mailing list</a>
-</p>
 </li>
 </ul>
 <p>Revisit the moments that led to Singapore's separation from Malaysia –

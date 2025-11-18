@@ -2,6 +2,6 @@ collections:
   the-albatross-file:
     output: true
     order:
-      - About.md
+      - The Albatross File Exhibition.md
       - Gallery.md
       - FAQs.md

@@ -4,15 +4,13 @@ permalink: /current/thealbatrossfile/about/
 variant: tiptap
 description: ""
 ---
+<a class="isomer-image-wrapper" href="https://go.gov.sg/albatrosstickets"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/The Albatross File/2__MDDI_Website_Banner_1000pxX296px_Book_Now.png"></a>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/The Albatross File/MDDI_Website_Banner_1000pxX296px.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/red_thinline.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>Open to the public from 8 Dec 2025</p>
+<p>Open to the public from 8 Dec 2025 – <a href="https://go.gov.sg/albatrosstickets" rel="noopener nofollow" target="_blank">book your tickets now</a>!</p>
 </li>
 <li>
 <p>Permanent exhibition</p>
@@ -22,10 +20,6 @@ description: ""
 </li>
 <li>
 <p>Level 10, National Library Building</p>
-</li>
-<li>
-<p>For updates, please sign up at this <a href="https://go.gov.sg/albatrossmailinglist" rel="noopener nofollow" target="_blank">mailing list</a>
-</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
