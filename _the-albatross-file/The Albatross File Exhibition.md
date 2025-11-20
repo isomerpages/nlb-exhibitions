@@ -4,13 +4,13 @@ permalink: /thealbatrossfile/about/
 variant: tiptap
 description: ""
 ---
-<a class="isomer-image-wrapper" href="https://go.gov.sg/albatrosstickets"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/The Albatross File/2__MDDI_Website_Banner_1000pxX296px_Book_Now.png"></a>
+<a class="isomer-image-wrapper" href="https://thealbatrossfile.nlb.gov.sg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/The Albatross File/2__MDDI_Website_Banner_1000pxX296px_Book_Now.png"></a>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>Open to the public from 8 Dec 2025 – <a href="https://go.gov.sg/albatrosstickets" rel="noopener nofollow" target="_blank">book your tickets now</a>!</p>
+<p>Open to the public from 8 Dec 2025 – <a href="https://thealbatrossfile.nlb.gov.sg" rel="noopener nofollow" target="_blank">book your tickets now</a>!</p>
 </li>
 <li>
 <p>Permanent exhibition</p>
