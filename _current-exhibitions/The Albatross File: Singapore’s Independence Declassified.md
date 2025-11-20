@@ -4,7 +4,7 @@ permalink: /current/thealbatrossfile/about/
 variant: tiptap
 description: ""
 ---
-<a class="isomer-image-wrapper" href="https://go.gov.sg/albatrosstickets"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/The Albatross File/2__MDDI_Website_Banner_1000pxX296px_Book_Now.png"></a>
+<a class="isomer-image-wrapper" href="https://thealbatrossfile.nlb.gov.sg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/The Albatross File/2__MDDI_Website_Banner_1000pxX296px_Book_Now.png"></a>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
