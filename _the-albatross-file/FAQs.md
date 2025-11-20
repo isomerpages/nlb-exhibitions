@@ -26,7 +26,7 @@ together.</p>
 <br>Open to the public from 8 December 2025, <em>The Albatross File: Singapore’s Separation Declassified</em> is
 a permanent exhibition held at the National Library Gallery (Level 10),
 National Library Building. While admission is free, tickets will be required.</p>
-<p>To book your free tickets, please visit <a href="https://go.gov.sg/albatrosstickets" rel="noopener nofollow" target="_blank">https://go.gov.sg/albatrosstickets</a>.</p>
+<p>To book your free tickets, please visit <a href="https://thealbatrossfile.nlb.gov.sg" rel="noopener nofollow" target="_blank">https://thealbatrossfile.nlb.gov.sg</a>.</p>
 <p><strong>3.&nbsp;&nbsp;&nbsp; Is this exhibition suitable for families?</strong>
 <br>While open to all, for an optimal experience, this exhibition is recommended
 for individuals aged 10 years old and above. The exhibition provides a
@@ -38,7 +38,7 @@ available in Singapore’s four official languages: Malay, Chinese, Tamil
 and English. These digital exhibition guides can be accessed via a QR code
 at the entrance information booth and via the exhibition website.</p>
 <p><strong>5.&nbsp;&nbsp;&nbsp; How can I book tickets for the exhibition?</strong>
-<br>Visitors can book their free tickets at the following link: <a href="https://go.gov.sg/albatrosstickets" rel="noopener nofollow" target="_blank">https://go.gov.sg/albatrosstickets</a>.
+<br>Visitors can book their free tickets at the following link: <a href="https://thealbatrossfile.nlb.gov.sg" rel="noopener nofollow" target="_blank">https://thealbatrossfile.nlb.gov.sg</a>.
 Each ticket can cover a group of up to 12 visitors.</p>
 <p>For company, school or larger group (of more than 24 visitors) bookings,
 please book your visit as an “organised group”, per the screenshot below.</p>
@@ -57,7 +57,7 @@ also harnesses technology to create interactive, dynamic experiences, presenting
 new ways to understand our separation story.</p>
 <p><strong>8.&nbsp;&nbsp;&nbsp; I’m interested in making a corporate or organisational booking for this exhibition. How do I book a session for my group?</strong>
 <br>For company, school or larger group (of more than 24 visitors) bookings,
-please book your visit as an “organised group” on the <a href="https://go.gov.sg/albatrosstickets" rel="noopener nofollow" target="_blank">booking website</a>.</p>
+please book your visit as an “organised group” on the <a href="https://thealbatrossfile.nlb.gov.sg" rel="noopener nofollow" target="_blank">booking website</a>.</p>
 <p><strong>&nbsp;</strong><em>Last updated 13 November 2025</em>
 </p>
 <p></p>

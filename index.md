@@ -21,7 +21,7 @@ sections:
           description: ""
           url: /programmes/
       button: Book Now
-      url: https://go.gov.sg/albatrosstickets
+      url: https://thealbatrossfile.nlb.gov.sg
   - infopic:
       title: National Library Exhibitions
       description: The National Library hosts permanent, special and online
