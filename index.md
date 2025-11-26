@@ -58,7 +58,7 @@ sections:
       url: /newsgallery/about/
       image: /images/event-images/newsgallery/homepage_exh-highlight_ng.jpg
       alt: A photo of the News Gallery
-      button: News Gallery Exhibition Information
+      button: The News Gallery Information
   - infopic:
       title: The Virtual News Gallery
       description: Due to the COVID-19 situation, we have not been able to open The
