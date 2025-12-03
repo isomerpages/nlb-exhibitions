@@ -2,8 +2,8 @@ collections:
   the-albatross-file:
     output: true
     order:
-      - "Timeline (from The Albatross File: Inside Separation book).md"
       - The Albatross File Exhibition.md
       - Highlights.md
       - Media Gallery.md
+      - "Timeline (from The Albatross File: Inside Separation book).md"
       - FAQs.md
