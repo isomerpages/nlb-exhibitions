@@ -16,7 +16,8 @@ description: ""
 <p>Permanent exhibition</p>
 </li>
 <li>
-<p>10:00am - 9:00pm</p>
+<p>10:00am - 9:00pm. Closed on Public Holidays. Close at 5.00pm on eves of
+Christmas, New Year and Chinese New Year.</p>
 </li>
 <li>
 <p>Level 10, National Library Building</p>
