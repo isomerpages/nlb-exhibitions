@@ -57,6 +57,10 @@ screens, and uncover layers of context that add new meaning to our story.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/The Albatross File/ABBA_Highlights4.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/The Albatross File/ABBA_Gallery6.jpg">
+</div>
 <p>Your personal research station, powered by Gen AI. Drawing from rich sources
 spanning publications to NLB’s own repository of images, videos, oral histories
 and articles, ChatBook offers new insights to the separation story.</p>
