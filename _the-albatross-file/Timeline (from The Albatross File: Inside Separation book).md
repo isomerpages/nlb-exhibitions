@@ -22,5 +22,5 @@ Susan Sim</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/The Albatross File/ABBA_Timeline4.png">
 </div>
-<p><em>Sim, Susan, editor. “Chronology of Key Events Leading to Separation.” The Albatross File: Inside Separation, Straits Times Press, 2025, pp 98-108.</em>
-</p>
+<p>Sim, Susan, editor. “Chronology of Key Events Leading to Separation.” <em>The Albatross File: Inside Separation</em>,
+Straits Times Press, 2025, pp 98-108.</p>
