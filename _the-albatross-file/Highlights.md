@@ -15,6 +15,10 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/The Albatross File/ABBA_Highlights1.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/The Albatross File/ABBA_Gallery2.jpg">
+</div>
 <p>Watch the Singapore story unfold across space and time with the Spacetime
 Clock, which offers a bird's-eye view of the events leading to separation
 through immersive projections.</p>
