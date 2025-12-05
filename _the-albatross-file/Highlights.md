@@ -41,6 +41,10 @@ recordings, seen, heard and felt through a sweeping panoramic screen.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/The Albatross File/ABBA_Highlights3.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/The Albatross File/ABBA_Gallery4.jpg">
+</div>
 <p>Listen to Singapore’s founding leaders reflect on the pressures and choices
 of this turbulent period, and feel the weight of the decisions that led
 to independence.</p>
