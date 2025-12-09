@@ -11,15 +11,15 @@ description: ""
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/albatrossguide-malay" rel="noopener nofollow" target="_blank">Malay</a>
+<p><a href="https://go.gov.sg/albatrossguide-malay" rel="noopener nofollow" target="_blank">Bahasa Melayu</a>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/albatrossguide-chinese" rel="noopener nofollow" target="_blank">Chinese</a>
+<p><a href="https://go.gov.sg/albatrossguide-chinese" rel="noopener nofollow" target="_blank">华文</a>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/albatrossguide-tamil" rel="noopener nofollow" target="_blank">Tamil</a>
+<p><a href="https://go.gov.sg/albatrossguide-tamil" rel="noopener nofollow" target="_blank">தமிழ்</a>
 </p>
 </li>
 </ul>
