@@ -45,6 +45,11 @@ sections:
       image: /images/event-images/The Albatross
         File/MDDI_Website_Banner_1000pxX1000px.jpg
       alt: Banner of The Albatross File
+  - infobar:
+      id: infobar
+      button: Watch SM Lee's speech at the launch of the Albatross File Book and
+        Exhibition
+      url: https://www.youtube.com/watch?v=2KO3u77Sfk4
   - infopic:
       title: "The News Gallery: Beyond Headlines"
       description: "Explore the fascinating yet bewildering world of news media at our
