@@ -22,8 +22,11 @@ Christmas, New Year and Chinese New Year)</p>
 <li>
 <p>Level 10, National Library Building</p>
 </li>
-<li>
-<p>Exhibition Guides</p>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/red_thinline.png">
+</div>
+<h4>Exhibition Guides</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://go.gov.sg/albatrossguide-english" rel="noopener nofollow" target="_blank">English</a>
@@ -40,8 +43,6 @@ Christmas, New Year and Chinese New Year)</p>
 <li>
 <p><a href="https://go.gov.sg/albatrossguide-tamil" rel="noopener nofollow" target="_blank">தமிழ்</a>
 </p>
-</li>
-</ul>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
