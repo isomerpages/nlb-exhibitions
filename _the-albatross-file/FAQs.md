@@ -33,8 +33,10 @@ National Library Building. While admission is free, tickets will be required.</p
 journey to independence, featuring photographs, oral history interviews,
 and videos drawn from the National Archives of Singapore. The exhibition
 also harnesses technology to create interactive, dynamic experiences, presenting
-new ways to understand our separation story. For more information on the
-different parts of the exhibition, please visit our Highlights page.</p>
+new ways to understand our separation story. To book your free tickets,
+please visit <a href="https://go.gov.sg/albatrosstickets" rel="noopener nofollow" target="_blank">https://go.gov.sg/albatrosstickets</a>.
+Please refer to the <a href="https://go.gov.sg/albatross-admissions" rel="noopener nofollow" target="_blank">Admissions Guidelines</a> for
+more information.</p>
 <h4>Booking Tickets for the Exhibition</h4>
 <p><strong>4.&nbsp;&nbsp;&nbsp; Can I book for my friends and/or family members?</strong>
 </p>
@@ -55,7 +57,7 @@ persons aged 10 years old and above for an optimal experience.</p>
 <p><strong>7.&nbsp;&nbsp;&nbsp; Can I reschedule or add/remove participant(s) from my existing booking?</strong>
 </p>
 <p>Yes. To make changes to, reschedule or to cancel your booking, please
-visit <a href="https://albatrossfile.nlb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://albatrossfile.nlb.gov.sg</a> and
+visit <a href="https://thealbatrossfile.nlb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://thealbatrossfile.nlb.gov.sg</a> and
 select “Retrieve Booking”. Input the Booking Reference number that is included
 in your Booking Confirmation e-mail.</p>
 <p>You may adjust your group size up to the maximum of 12 pax per booking,

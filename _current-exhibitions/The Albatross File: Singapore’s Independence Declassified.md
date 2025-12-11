@@ -39,4 +39,23 @@ to the birth of an independent Singapore.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2KO3u77Sfk4?si=mDbmL-7avTK4kzAc"></iframe>
 </div>
+<h4>Exhibition Guides</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/albatrossguide-english" rel="noopener nofollow" target="_blank">English</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/albatrossguide-malay" rel="noopener nofollow" target="_blank">Bahasa Melayu</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/albatrossguide-chinese" rel="noopener nofollow" target="_blank">华文</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/albatrossguide-tamil" rel="noopener nofollow" target="_blank">தமிழ்</a>
+</p>
+</li>
+</ul>
 <p></p>
