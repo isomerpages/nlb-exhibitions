@@ -26,6 +26,19 @@ Christmas, New Year and Chinese New Year)</p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/red_thinline.png">
 </div>
+<p>Revisit the moments that led to Singapore's separation from Malaysia –
+in the footsteps of our founding leaders. <em>The Albatross File: Singapore's Independence Declassified</em> exhibition
+takes you behind closed doors, into the complex journey from merger to
+separation.</p>
+<p>Based on the book <em>The Albatross File: Inside Separation</em> and supplemented
+by newly declassified documents and oral history accounts, explore the
+uncertainty, conviction, and tensions that defined 1963 to 1965, leading
+to the birth of an independent Singapore.</p>
+<h4>Watch SM Lee's speech at the launch of the <br>Albatross File Book and Exhibition:</h4>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2KO3u77Sfk4?si=mDbmL-7avTK4kzAc"></iframe>
+</div>
 <h4>Exhibition Guides</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -45,20 +58,4 @@ Christmas, New Year and Chinese New Year)</p>
 </p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/red_thinline.png">
-</div>
-<p>Revisit the moments that led to Singapore's separation from Malaysia –
-in the footsteps of our founding leaders. <em>The Albatross File: Singapore's Independence Declassified</em> exhibition
-takes you behind closed doors, into the complex journey from merger to
-separation.</p>
-<p>Based on the book <em>The Albatross File: Inside Separation</em> and supplemented
-by newly declassified documents and oral history accounts, explore the
-uncertainty, conviction, and tensions that defined 1963 to 1965, leading
-to the birth of an independent Singapore.</p>
-<h4>Watch SM Lee's speech at the launch of the <br>Albatross File Book and Exhibition:</h4>
-<p></p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2KO3u77Sfk4?si=mDbmL-7avTK4kzAc"></iframe>
-</div>
 <p></p>
