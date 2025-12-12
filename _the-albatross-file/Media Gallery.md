@@ -13,18 +13,6 @@ description: ""
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rd--CWXb_2k?si=YFzy_iD5mhpGKwU-"></iframe>
 </div>
 <p></p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LVbONpYm5sY?si=7BZF9F7EsXBJMqDt"></iframe>
-</div>
-<p></p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1JfMyvTlxw0?si=gfnIofxne4rXGqKl"></iframe>
-</div>
-<p></p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4wSKSWueUkA?si=mBSQzLSEYoWOiexs"></iframe>
-</div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
 </div>
