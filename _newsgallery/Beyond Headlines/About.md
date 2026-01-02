@@ -8,13 +8,13 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/newsgallery/tng_1200x355_1000w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Banner of News Gallery" src="/images/event-images/newsgallery/tng_1200x355_1000w.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/newsgallery/tng_about_1000w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Image of News Gallery" src="/images/event-images/newsgallery/tng_about_1000w.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
