@@ -57,7 +57,7 @@ sections:
         newspapers.</p>"
       url: /newsgallery/about/
       image: /images/event-images/newsgallery/homepage_exh-highlight_ng.jpg
-      alt: A photo of the News Gallery
+      alt: Infographic of News Gallery
       button: The News Gallery Information
   - infopic:
       title: The Virtual News Gallery
