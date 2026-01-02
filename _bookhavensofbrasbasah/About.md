@@ -6,13 +6,13 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="250" width="1000" alt="A title card labelled: BHBB." src="/images/event-images/BookHavensofBrasBasah/BHBB_Banner.jpg">
+<img style="width: 100%" height="250" width="1000" alt="Book Havens of Bras Basah: Curiocity AR display featuring a screen showing traditional Bras Basah shophouses and buildings with smartphone demonstrating augmented reality interface" src="/images/event-images/BookHavensofBrasBasah/BHBB_Banner.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/BookHavensofBrasBasah/BHBB_7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Book Havens of Bras Basah: Curiocity promotional banner featuring illustrated map of the Bras Basah area with historic buildings, modern skyscrapers, and cultural landmarks" src="/images/event-images/BookHavensofBrasBasah/BHBB_7.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
