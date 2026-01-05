@@ -33,7 +33,7 @@ sections:
         Exhibitions to enjoy virtual tours of past shows and access specially
         curated digital content.</p>
       image: /images/homepage_nl_highlight.png
-      alt: Photos of exhibitions
+      alt: Photos of NL exhibitions
   - infopic:
       title: "The Albatross File: Singapore’s Independence Declassified"
       id: infopic
@@ -57,7 +57,7 @@ sections:
         newspapers.</p>"
       url: /newsgallery/about/
       image: /images/event-images/newsgallery/homepage_exh-highlight_ng.jpg
-      alt: A photo of the News Gallery
+      alt: Infographic of News Gallery
       button: The News Gallery Information
   - infopic:
       title: The Virtual News Gallery

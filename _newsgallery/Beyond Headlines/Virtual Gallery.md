@@ -14,7 +14,7 @@ description: ""
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 544.875px;" height="563" width="1000" alt="A close-up of the Nanyang Siang Pau masthead." src="https://exhibitions.nlb.gov.sg/images/event-images/newsgallery-virtual/homepage_ee_400w.jpg">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 544.875px;" height="563" width="1000" alt="Close-up of The Nanyang Siang Pau historical newspaper showing Chinese text and traditional layout" src="https://exhibitions.nlb.gov.sg/images/event-images/newsgallery-virtual/homepage_ee_400w.jpg">
 </div>
 <p>The stories of Singapore newspapers reflect our country’s rich socio-cultural
 tapestry. Learn how the early newspapers in Singapore addressed their respective
@@ -27,7 +27,7 @@ communities’ concerns, interests and championed causes important to them.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 544.875px;" height="563" width="1000" alt="A newspaper mockup with the title: Maria Hertogh Custody Battle. Three portrait photographs of 2 women and a young girl are below the title." src="https://exhibitions.nlb.gov.sg/images/event-images/newsgallery-virtual/homepage_bes_400w.jpg">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 544.875px;" height="563" width="1000" alt="Newspaper mockup showing 'Maria Hertogh Custody Battle' dated 11 December 1950, with photographs of key figures from the historical event" src="https://exhibitions.nlb.gov.sg/images/event-images/newsgallery-virtual/homepage_bes_400w.jpg">
 </div>
 <p><em>Behind Every Story</em> presents events from Singapore’s history and
 how they were reported in newspapers and other media. By comparing the
@@ -43,7 +43,7 @@ about how the media works.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 544.875px;" height="563" width="1000" alt="A game show mockup, with bright lights and a big screen in the middle. The screen shows the title: Real of Fake?" src="https://exhibitions.nlb.gov.sg/images/event-images/newsgallery-virtual/homepage_fof_400w.jpg">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 544.875px;" height="563" width="1000" alt="Game show mockup with bright studio lights and large central screen displaying 'Real or Fake?' title" src="https://exhibitions.nlb.gov.sg/images/event-images/newsgallery-virtual/homepage_fof_400w.jpg">
 </div>
 <p>Are you able to distinguish between real and fake news?</p>
 <p>Take part in the “Real or Fake?” game show, and learn how fake news caused
