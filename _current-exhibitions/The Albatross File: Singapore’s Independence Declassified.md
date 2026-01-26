@@ -37,7 +37,7 @@ to the birth of an independent Singapore.</p>
 <h4>Watch SM Lee's speech at the launch of the <br>Albatross File Book and Exhibition:</h4>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2KO3u77Sfk4?si=mDbmL-7avTK4kzAc"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2KO3u77Sfk4?si=mDbmL-7avTK4kzAc"></iframe>
 </div>
 <h4>Exhibition Guides</h4>
 <ul data-tight="true" class="tight">
