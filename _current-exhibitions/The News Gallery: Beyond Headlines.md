@@ -7,13 +7,13 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/newsgallery/tng_1200x355_1000w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="The News Gallery: Beyond Headlines exhibition banner featuring vintage newspaper clippings including The Singapore Free Press and mother tongue language newspapers" src="/images/event-images/newsgallery/tng_1200x355_1000w.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/newsgallery/tng_about_1000w.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Interior view of The News Gallery: Beyond Headlines exhibition at National Library Building Level 11 Promenade, showing orange display panels, interactive screens, and newspaper-themed wall graphics" src="/images/event-images/newsgallery/tng_about_1000w.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
