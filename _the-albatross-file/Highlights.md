@@ -6,18 +6,18 @@ description: ""
 ---
 <p>Explore the space:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/The Albatross File/Highlights___Albatross_File_Layout_Map_only.png">
+<img style="width: 100%" height="auto" width="100%" alt="Floor plan of The Albatross File exhibition showing layout with Room (circular seating area), Atlas (central display), Records section, and Chatbook area, with entrance marked and 'You Are Here' indicator" src="/images/event-images/The Albatross File/Highlights___Albatross_File_Layout_Map_only.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/grey_line.png">
 </div>
 <h4><strong>Atlas: Time-travel across the moments that led to Separation.</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/The Albatross File/ABBA_Highlights1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Circular projection display showing world map with 'From Merger to Separation' text as part of the Spacetime Clock, surrounded by the Atlas Wall with historical timeline panels and information displays, featuring blue LED lighting around the ceiling fixture" src="/images/event-images/The Albatross File/ABBA_Highlights1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/The Albatross File/ABBA_Gallery2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Wide view of The Albatross File exhibition's Atlas section showing visitors exploring the Atlas Wall timeline displays and examining historical panels, with the central Spacetime Clock projection area providing a bird's-eye view of events leading to Singapore's separation" src="/images/event-images/The Albatross File/ABBA_Gallery2.jpg">
 </div>
 <p>Watch the Singapore story unfold across space and time with the Spacetime
 Clock, which offers a bird's-eye view of the events leading to separation
@@ -29,7 +29,7 @@ key moments unfold along a timeline you can explore at your own pace.</p>
 </div>
 <h4><strong>Room: Be right there as it happened.</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/The Albatross File/ABBA_Highlights2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Take a seat at the heart of the story, as Singapore’s Separation comes to life – through reenactments, archival clips, and never-before-released recordings, seen, heard and felt through a sweeping panoramic screen." src="/images/event-images/The Albatross File/ABBA_Highlights2.jpg">
 </div>
 <p>Take a seat at the heart of the story, as Singapore’s Separation comes
 to life – through reenactments, archival clips, and never-before-released
