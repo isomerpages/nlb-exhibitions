@@ -6,13 +6,13 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Lepak Landscapes/Sg_Alcove_Banner.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Singapore Alcove exhibition banner with white lettering on a warm terracotta background decorated with colourful geometric shapes including green, blue, yellow and coral squares" src="/images/event-images/Lepak Landscapes/Sg_Alcove_Banner.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Lepak Landscapes/G1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Singapore Alcove exhibition space featuring curved wooden architectural elements and bookshelves, with 'Lepak Landscapes' signage displayed on a blue cloud-shaped banner above the central 'SG ALCOVE' logo, surrounded by visitors exploring the integrated heritage and literature displays" src="/images/event-images/Lepak Landscapes/G1.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
@@ -38,13 +38,13 @@ into the dynamic evolution of leisure in Singapore through time and the
 spaces associated with it.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Lepak Landscapes/Lepak_Landscapes_Banner.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="Lepak Landscapes exhibition banner with flowing colourful ribbons in rainbow colours framing historical and contemporary images of Singapore leisure spaces, including colonial-era scenes, heartland activities, and modern recreational areas, with the subtitle 'Life and Leisure in Singapore" src="/images/event-images/Lepak Landscapes/Lepak_Landscapes_Banner.JPG">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Lepak Landscapes/G2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Lepak Landscapes exhibition space within Singapore Alcove featuring interactive green kiosks with digital displays, visitors exploring book collections and multimedia content, with 'Time to Lepak' projection and thematic wall displays showing Singapore's leisure evolution, including 'Retail Therapy' section visible in the background" src="/images/event-images/Lepak Landscapes/G2.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
