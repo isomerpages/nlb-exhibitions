@@ -39,11 +39,11 @@ recordings, seen, heard and felt through a sweeping panoramic screen.</p>
 </div>
 <h4><strong>Records: Stories, voices and documents from a defining era</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/The Albatross File/ABBA_Highlights3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Exhibition gallery in the Records section with red accent wall, display cases containing declassified historical documents, and multiple screens showing archival footage and photographs from Singapore's independence period, with 'Toh Chin Chye's letters' visible on one display case" src="/images/event-images/The Albatross File/ABBA_Highlights3.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/The Albatross File/ABBA_Gallery4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Interactive digital display in the Records section showing portraits of Singapore's founding leaders including Lee Kuan Yew, Goh Keng Swee, and Toh Chin Chye with reel-to-reel tape recorder interface, as visitors explore declassified audio recordings and reflect on the pressures and choices of Singapore's turbulent independence period" src="/images/event-images/The Albatross File/ABBA_Gallery4.jpg">
 </div>
 <p>Listen to Singapore’s founding leaders reflect on the pressures and choices
 of this turbulent period, and feel the weight of the decisions that led
@@ -55,11 +55,11 @@ screens, and uncover layers of context that add new meaning to our story.</p>
 </div>
 <h4><strong>ChatBook: Got questions on our separation? Ask away.</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/The Albatross File/ABBA_Highlights4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Visitors engaging with ChatBook's Gen AI-powered research stations, using interactive touchscreen interfaces to access NLB's repository of images, videos, oral histories and articles about Singapore's separation story, with timeline displays visible on the walls" src="/images/event-images/The Albatross File/ABBA_Highlights4.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/The Albatross File/ABBA_Gallery6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Your personal research station, powered by Gen AI. Drawing from rich sources spanning publications to NLB’s own repository of images, videos, oral histories and articles, ChatBook offers new insights to the separation story." src="/images/event-images/The Albatross File/ABBA_Gallery6.jpg">
 </div>
 <p>Your personal research station, powered by Gen AI. Drawing from rich sources
 spanning publications to NLB’s own repository of images, videos, oral histories
