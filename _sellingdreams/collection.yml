@@ -1,0 +1,9 @@
+collections:
+  sellingdreams:
+    output: true
+    order:
+      - Early Advertising in Singapore/.keep
+      - Early Advertising in Singapore/About.md
+      - Early Advertising in Singapore/Gallery.md
+      - Early Advertising in Singapore/Exhibition Highlights.md
+      - Early Advertising in Singapore/Programmes.md

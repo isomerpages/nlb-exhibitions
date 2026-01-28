@@ -1,0 +1,61 @@
+---
+title: "The Albatross File: Singapore’s Independence Declassified"
+permalink: /current/thealbatrossfile/about/
+variant: tiptap
+description: ""
+---
+<a class="isomer-image-wrapper" href="https://thealbatrossfile.nlb.gov.sg"><img style="width: 100%" height="auto" width="100%" alt="The Albatross File exhibition banner featuring declassified documents background with text 'Feel History. From 3 Dec 2025 National Library Building' and 'Singapore's Independence Declassified' with red 'Book Now' button" src="/images/event-images/The Albatross File/2__MDDI_Website_Banner_1000pxX296px_Book_Now.png"></a>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p>Open to the public from 8 Dec 2025 – <a href="https://thealbatrossfile.nlb.gov.sg" rel="noopener nofollow" target="_blank">book your tickets now</a>!</p>
+</li>
+<li>
+<p>Permanent exhibition</p>
+</li>
+<li>
+<p>10:00am - 9:00pm (Closed on Public Holidays; Closes at 5.00pm on eve of
+Christmas, New Year and Chinese New Year)</p>
+</li>
+<li>
+<p>Level 10, National Library Building</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="" src="https://staging.d2bmwdo27gmnoc.amplifyapp.com/images/event-images/Misc/red_thinline.png">
+</div>
+<p>Revisit the moments that led to Singapore's separation from Malaysia –
+in the footsteps of our founding leaders. <em>The Albatross File: Singapore's Independence Declassified</em> exhibition
+takes you behind closed doors, into the complex journey from merger to
+separation.</p>
+<p>Based on the book <em>The Albatross File: Inside Separation</em> and supplemented
+by newly declassified documents and oral history accounts, explore the
+uncertainty, conviction, and tensions that defined 1963 to 1965, leading
+to the birth of an independent Singapore.</p>
+<h4>Watch SM Lee's speech at the launch of the <br>Albatross File Book and Exhibition:</h4>
+<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2KO3u77Sfk4?si=mDbmL-7avTK4kzAc"></iframe>
+</div>
+<h4>Exhibition Guides</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/albatrossguide-english" rel="noopener nofollow" target="_blank">English</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/albatrossguide-malay" rel="noopener nofollow" target="_blank">Bahasa Melayu</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/albatrossguide-chinese" rel="noopener nofollow" target="_blank">华文</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/albatrossguide-tamil" rel="noopener nofollow" target="_blank">தமிழ்</a>
+</p>
+</li>
+</ul>
+<p></p>

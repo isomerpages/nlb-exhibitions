@@ -1,0 +1,89 @@
+---
+title: About
+permalink: /sgalcove/about/
+variant: tiptap
+description: ""
+---
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="250" width="1000" alt="Singapore Alcove exhibition banner with white lettering on a warm terracotta background decorated with colourful geometric shapes including green, blue, yellow and coral squares" src="/images/event-images/Lepak Landscapes/Sg_Alcove_Banner.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="682" width="950" alt="A photo of the Singapore Alcove space." src="/images/event-images/Lepak Landscapes/G1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p>Permanent Exhibition</p>
+</li>
+<li>
+<p>10:00am - 9:00pm</p>
+</li>
+<li>
+<p>Central Library</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/red_thinline.png">
+</div>
+<p>Step into Singapore Alcove, where the Singapore Collection is seamlessly
+integrated within thematic exhibits on our heritage and literature.</p>
+<p>The inaugural exhibition, <em>Lepak Landscapes: Life and Leisure in Singapore, </em>delves
+into the dynamic evolution of leisure in Singapore through time and the
+spaces associated with it.</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="250" width="1000" alt="Lepak Landscapes exhibition banner with flowing colourful ribbons in rainbow colours framing historical and contemporary images of Singapore leisure spaces, including colonial-era scenes, heartland activities, and modern recreational areas, with the subtitle 'Life and Leisure in Singapore" src="/images/event-images/Lepak Landscapes/Lepak_Landscapes_Banner.JPG">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="682" width="950" alt="Lepak Landscapes exhibition space within Singapore Alcove featuring interactive green kiosks with digital displays, visitors exploring book collections and multimedia content, with 'Time to Lepak' projection and thematic wall displays showing Singapore's leisure evolution, including 'Retail Therapy' section visible in the background" src="/images/event-images/Lepak Landscapes/G2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/thick_redline.png">
+</div>
+<h3><strong>Lepak Landscapes: Life and Leisure in Singapore</strong></h3>
+<p></p>
+<blockquote>
+<p><em>Lepak Landscapes</em> just got better!</p>
+<p>Refreshed personality quiz. More digital&nbsp;storybooks. New book recommendations.
+All waiting for you at the Central Library!</p>
+</blockquote>
+<p>What comes to mind when you hear<em> Lepak?</em>
+</p>
+<p>Explore <em>Lepak Landscapes: Life and Leisure in Singapore</em>, a digital
+interactive exhibition, and reimagine leisure in Singapore! Uncover the
+stories behind iconic leisure spaces and activities in four vibrant sections:</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Dive into<strong> 'Somewhere in Time'</strong> to explore the leisure tales
+of colonial Singapore, from elite clubs to public recreating hubs.</p>
+</li>
+<li>
+<p>Capture the essence of everyday joy in <strong>'Happy Heartlands'</strong> where
+life and leisure intertwine within housing estates.</p>
+</li>
+<li>
+<p>Trace the evolution of shopping in <strong>'Retail Therapy'</strong> where
+transactions blossom into a rich cultural experience.</p>
+</li>
+<li>
+<p>Soak up the sun-drenched tales of Singapore's outdoor recreation in <strong>'Fun in the Sun'.</strong>
+</p>
+</li>
+</ul>
+<p></p>
+<p>In each section, visitors can interact with a <strong>digital storybook</strong> crafted
+from the rich resources of the National Library and National Archives of
+Singapore, curated <strong>artefact displays, book recommendations</strong> and
+a <strong>quiz to discover your <em>lepak</em> personality!</strong>
+</p>
+<p><a href="/sgalcove/credits/" rel="noopener noreferrer nofollow" target="_blank">Link to image credits</a>
+</p>

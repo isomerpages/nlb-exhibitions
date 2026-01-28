@@ -1,0 +1,9 @@
+collections:
+  nldonorsgallery:
+    output: true
+    order:
+      - National Library Donors'' Gallery/.keep
+      - National Library Donors'' Gallery/About.md
+      - National Library Donors'' Gallery/Gallery.md
+      - National Library Donors'' Gallery/Featured Highlight.md
+      - National Library Donors'' Gallery/Be a Donor.md
