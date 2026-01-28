@@ -14,7 +14,6 @@ locations:
             - days: 'Mon - Sun'
               time: '10.00am - 9.00pm'
               description: 'Closed on Public Holidays.<br>Closed at 5.00pm on eves of Christmas, New Year and Chinese New Year.'
-image-url: null
 contacts:
     - title: 'General Enquiries & Feedback'
       content:
