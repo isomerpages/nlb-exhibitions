@@ -26,6 +26,20 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
 </div>
+<h4><strong>Educator Resources</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/albatross-activitysheet" rel="noopener nofollow" target="_blank">Student Activity Sheet</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/albatross-educatorsguide" rel="noopener nofollow" target="_blank">Educators’ Guide</a>
+</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
+</div>
 <h4><strong>Essays from <em>The Albatross File: Inside Separation</em></strong></h4>
 <ul data-tight="true" class="tight">
 <li>
