@@ -95,11 +95,8 @@ your organisation has any specific requirements.</p>
 <p>No, the exhibition is fully self-guided and exploratory. However, our
 friendly staff will be present throughout the experience should any assistance
 or emergencies arise.</p>
-<p><strong>13.&nbsp;&nbsp;&nbsp; How far in advance should schools make a booking if bus coordination is required?</strong>
-</p>
-<p>A minimum of 5 working days’ advance notice is required for bus coordination.</p>
 <h4>Visiting the Exhibition</h4>
-<p><strong>14.&nbsp;&nbsp;&nbsp; How do we get to the exhibition by public transport?</strong>
+<p><strong>13.&nbsp;&nbsp;&nbsp; How do we get to the exhibition by public transport?</strong>
 </p>
 <p><u>By MRT:</u>
 </p>
@@ -128,43 +125,43 @@ or emergencies arise.</p>
 <p>Services: 130, 133, 145, 197, 851, 851e, 960, 960e</p>
 </li>
 </ul>
-<p><strong>15.&nbsp;&nbsp;&nbsp; Is parking available at the exhibition?</strong>
+<p><strong>14.&nbsp;&nbsp;&nbsp; Is parking available at the exhibition?</strong>
 </p>
 <p>Paid parking is available at the National Library building.</p>
-<p><strong>16.&nbsp;&nbsp;&nbsp; What should I bring on the day of my visit?</strong>
+<p><strong>15.&nbsp;&nbsp;&nbsp; What should I bring on the day of my visit?</strong>
 </p>
 <p>Please bring along your ticket with the QR code, either digitally on your
 mobile device or as a printed copy.</p>
-<p><strong>17.&nbsp;&nbsp;&nbsp; How early should we arrive at the venue?</strong>
+<p><strong>16.&nbsp;&nbsp;&nbsp; How early should we arrive at the venue?</strong>
 </p>
 <p>Please arrive 5 minutes before the time stated on your ticket to allow
 for registration and smooth entry. If you arrive after your ticket time
 and miss your allocated slot, we may only be able to accommodate you at
 the next available slot (which may not be on the same date).</p>
-<p><strong>18.&nbsp;&nbsp;&nbsp; Is photography or videography allowed at the exhibition?</strong>
+<p><strong>17.&nbsp;&nbsp;&nbsp; Is photography or videography allowed at the exhibition?</strong>
 </p>
 <p>You may take photographs and videos for private, non-commercial purposes
 only. Please note that flash photography, selfie sticks and tripods are
 not permitted, as these might obstruct other visitors or damage the artefacts.</p>
-<p><strong>19.&nbsp;&nbsp;&nbsp; Will there be photographs or recordings taken of me at the exhibition?</strong>
+<p><strong>18.&nbsp;&nbsp;&nbsp; Will there be photographs or recordings taken of me at the exhibition?</strong>
 </p>
 <p>Photographs, audio, video and other recordings may be taken of the exhibition
 and exhibition participants. These may be used for security or publicity/promotional
 purposes (both for the exhibition and otherwise).</p>
-<p><strong>20.&nbsp;&nbsp;&nbsp; Are there restroom facilities available?</strong>
+<p><strong>19.&nbsp;&nbsp;&nbsp; Are there restroom facilities available?</strong>
 </p>
 <p>Restrooms are available near the Level 10 lift lobby of the National Library
 building.</p>
-<p><strong>21.&nbsp;&nbsp;&nbsp; Are there food and beverage facilities within the premises?</strong>
+<p><strong>20.&nbsp;&nbsp;&nbsp; Are there food and beverage facilities within the premises?</strong>
 </p>
 <p>Yes, there are food outlets at the National Library building. However,
 food and beverages are not permitted within the exhibition.</p>
-<p><strong>22.&nbsp;&nbsp;&nbsp; Are there storage facilities for personal belongings?</strong>
+<p><strong>21.&nbsp;&nbsp;&nbsp; Are there storage facilities for personal belongings?</strong>
 </p>
 <p>There are a limited number of lockers available at the entrance of the
 exhibition. We recommend that visitors refrain from bringing large or bulky
 items to the exhibition.</p>
-<p><strong>23.&nbsp;&nbsp;&nbsp; Is there a dress code?</strong>
+<p><strong>22.&nbsp;&nbsp;&nbsp; Is there a dress code?</strong>
 </p>
 <p>Visitors are recommended to bring a jacket, as the exhibition’s temperature
 is set to meet the conservation requirements of some artefacts.</p>
