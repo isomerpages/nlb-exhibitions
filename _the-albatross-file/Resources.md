@@ -36,6 +36,14 @@ description: ""
 <p><a href="https://go.gov.sg/albatross-educatorsguide" rel="noopener nofollow" target="_blank">Educators’ Guide</a>
 </p>
 </li>
+<li>
+<p><a href="https://go.gov.sg/zbcomma-article" rel="noopener noreferrer nofollow" target="_blank">zbCOMMA《逗号》article on the Albatross File</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/thumbsup-article" rel="noopener noreferrer nofollow" target="_blank">Thumbs Up 《大拇指》article on the Albatross File</a>
+</p>
+</li>
 </ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/event-images/Misc/grey_line.png">
