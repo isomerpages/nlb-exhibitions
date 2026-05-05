@@ -13,20 +13,19 @@ as Dr Goh’s handwritten notes of his discussions with Malaysian leaders
 in the days, weeks, and months leading to Singapore’s independence on 9
 August 1965.</p>
 <p><em>The Albatross File: Inside Separation</em> book and <em>The Albatross File: Singapore’s Independence Declassified</em> exhibition
-will be launched on 7 December 2025 at the National Library Building.</p>
+were launched on 7 December 2025 at the National Library Building.</p>
 <p>Jointly organised by the National Library Board and the Ministry of Digital
 Development and Information, this permanent exhibition, as the SG60 capstone
-event, will deepen visitors’ understanding of Singapore’s journey to independence
+event, deepens visitors’ understanding of Singapore’s journey to independence
 through interactive storytelling, historical replays, and first-person
-narratives of Singapore’s founding fathers. As Singapore celebrates SG60,
-the book and exhibition offer an introspective recount of Singapore’s separation
-from Malaysia, deepening our collective appreciation of Singapore’s shared
-identity and inspiring future generations to continue building our nation
-together.</p>
+narratives of Singapore’s founding fathers. The book and exhibition offer
+an introspective recount of Singapore’s separation from Malaysia, deepening
+our collective appreciation of Singapore’s shared identity and inspiring
+future generations to continue building our nation together.</p>
 <p><strong>2.&nbsp;&nbsp;&nbsp; How do we visit the Albatross File exhibition?&nbsp;</strong>
-<br>Open to the public from 8 December 2025, <em>The Albatross File: Singapore’s Separation Declassified</em> is
-a permanent exhibition held at the National Library Gallery (Level 10),
-National Library Building. While admission is free, tickets will be required.</p>
+<br><em>The Albatross File: Singapore’s Separation Declassified</em> is a permanent
+exhibition held at Level 10 of the National Library Building. While admission
+is free, tickets will be required.</p>
 <p>To book your free tickets, please visit <a href="https://go.gov.sg/albatrosstickets" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/albatrosstickets</a>.</p>
 <p><strong>3.&nbsp;&nbsp;&nbsp;What can I expect at the exhibition?</strong>
 <br>Visitors can expect an immersive, multi-modal exploration of Singapore’s

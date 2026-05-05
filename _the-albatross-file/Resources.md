@@ -1,6 +1,6 @@
 ---
 title: Resources
-permalink: /resources/
+permalink: /thealbatrossfile/resources/
 variant: tiptap
 description: ""
 ---
@@ -34,6 +34,14 @@ description: ""
 </li>
 <li>
 <p><a href="https://go.gov.sg/albatross-educatorsguide" rel="noopener nofollow" target="_blank">Educators’ Guide</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/zbcomma-article" rel="noopener noreferrer nofollow" target="_blank">zbCOMMA《逗号》article on the Albatross File</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/thumbsup-article" rel="noopener noreferrer nofollow" target="_blank">Thumbs Up 《大拇指》article on the Albatross File</a>
 </p>
 </li>
 </ul>
