@@ -141,7 +141,9 @@ the next available slot (which may not be on the same date).</p>
 </p>
 <p>You may take photographs and videos for private, non-commercial purposes
 only. Please note that flash photography, selfie sticks and tripods are
-not permitted, as these might obstruct other visitors or damage the artefacts.</p>
+not permitted, as these might affect the experiences of other visitors.
+To help preserve our artefacts, we kindly ask that lights should not be
+directed at or shone on them at any time.</p>
 <p><strong>18.&nbsp;&nbsp;&nbsp; Will there be photographs or recordings taken of me at the exhibition?</strong>
 </p>
 <p>Photographs, audio, video and other recordings may be taken of the exhibition
