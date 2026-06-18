@@ -173,7 +173,10 @@ changes to come.</p>
 <p>Permanent Exhibition</p>
 </li>
 <li>
-<p>5:00pm - 7:00pm</p>
+<p>Weekdays: 12:00pm - 2:00pm &amp; 5:00pm - 7:00pm</p>
+</li>
+<li>
+<p>Weekends: 5:00pm - 7:00pm</p>
 </li>
 <li>
 <p>Level 1, Stories Come Alive Room, Punggol Library</p>
