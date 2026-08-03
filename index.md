@@ -71,4 +71,5 @@ sections:
       alt: A photo of a video wall from the News Gallery
       button: Enter the Virtual News Gallery
 image: /images/isomer-logo.svg
+notification: THE ALBATROSS FILE EXHIBITION IS OPEN ON SUN 9 AUG 2026
 ---
