@@ -22,7 +22,6 @@ sections:
           url: /programmes/
       button: Book Now
       url: https://thealbatrossfile.nlb.gov.sg
-      subtitle: EXHIBITION IS OPEN ON SUN 9 AUG 2026
   - infopic:
       title: National Library Exhibitions
       description: The National Library hosts permanent, special and online
@@ -72,5 +71,5 @@ sections:
       alt: A photo of a video wall from the News Gallery
       button: Enter the Virtual News Gallery
 image: /images/isomer-logo.svg
-notification: The Albatross File Exhibition is open on Sun 9 Aug 2026
+notification: THE ALBATROSS FILE EXHIBITION IS OPEN ON SUN 9 AUG 2026
 ---
